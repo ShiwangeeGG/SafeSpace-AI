@@ -1,0 +1,62 @@
+system_id: SYS-006
+
+system_name: Fire Lift
+
+category: Fire Fighting Support
+
+criticality_level: High
+
+system_purpose: >
+  Provide dedicated firefighter access
+  to upper floors during fire emergencies.
+
+why_it_is_important:
+  - Supports rescue operations
+  - Improves firefighter response time
+  - Enables equipment transport
+
+affected_occupancies:
+  - High Rise Buildings
+
+common_failure_modes:
+  - Lift malfunction
+  - Power failure
+  - Water ingress
+  - Improper maintenance
+
+related_compliance_gaps:
+  - GAP-007-no_fire_lift
+
+immediate_actions:
+  - Verify lift operational status
+  - Confirm emergency power availability
+
+short_term_actions:
+  - Test firefighter controls
+  - Inspect lift shaft protection
+
+long_term_actions:
+  - Upgrade lift systems
+  - Implement periodic testing
+
+inspection_focus:
+  - Firefighter Controls
+  - Lift Car
+  - Emergency Power Supply
+  - Lift Shaft Protection
+
+related_case_studies:
+  - Crystal Tower Fire
+  - Times Tower Fire
+
+ai_reasoning_hints:
+  - Fire lifts support rescue, not occupant evacuation
+  - Critical in high-rise emergencies
+
+retrieval_keywords:
+  - fire lift
+  - fireman's lift
+  - firefighter lift
+
+source:
+  document: NBC Part 4 Fire and Life Safety

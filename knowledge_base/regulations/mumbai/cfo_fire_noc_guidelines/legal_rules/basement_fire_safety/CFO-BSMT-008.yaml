@@ -1,0 +1,24 @@
+rule_id: CFO-BSMT-008
+
+title: Basement Compartmentation Requirement
+
+category: Fire Compartmentation
+
+applies_to:
+  - Basements
+
+requirement:
+  Basement areas shall be compartmentalized to restrict fire and smoke spread.
+
+compliance_check:
+  Verify compartment walls and fire barriers.
+
+evidence_required:
+  - Fire compartment drawings
+  - Site inspection
+
+risk_if_non_compliant:
+  Rapid fire spread throughout basement areas.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

@@ -1,0 +1,56 @@
+occupancy_name: Mixed
+
+occupancy_category: Mixed Occupancy
+
+description: >
+  Buildings containing two or more occupancy
+  groups that operate within the same structure
+  and share common infrastructure.
+
+examples:
+  - Residential + Retail Buildings
+  - Mall + Multiplex Developments
+  - Office + Retail Towers
+  - Hotel + Commercial Complexes
+
+occupancy_characteristics:
+  - Multiple occupancy groups
+  - Shared infrastructure
+  - Complex occupant behaviour
+  - Variable occupancy schedules
+
+primary_fire_safety_concerns:
+  - Occupancy separation
+  - Smoke spread
+  - Shared evacuation routes
+  - Conflicting safety requirements
+
+common_fire_risks:
+  - Occupancy overload
+  - Smoke spread
+  - Compartmentation failures
+  - Maintenance deficiencies
+
+evacuation_complexity: Very High
+
+risk_level: High
+
+related_risk_patterns:
+  - smoke_spread_risks
+  - occupancy_overload_risks
+  - evacuation_failures
+  - maintenance_failures
+
+recommended_focus_areas:
+  - Occupancy separation
+  - Fire compartmentation
+  - Shared evacuation planning
+  - Fire protection coordination
+
+retrieval_keywords:
+  - mixed occupancy
+  - mixed use building
+  - multi occupancy
+
+source:
+  document: NBC Part 4 Fire and Life Safety

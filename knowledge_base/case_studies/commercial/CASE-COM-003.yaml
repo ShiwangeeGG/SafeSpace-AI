@@ -1,0 +1,103 @@
+case_id: CASE-COM-003
+
+incident_name: Rajkot TRP Gaming Zone Fire
+
+incident_date: 2024-05-25
+
+location:
+city: Rajkot
+state: Gujarat
+country: India
+
+occupancy_type: Assembly
+
+building_type:
+
+- Gaming Zone
+- Entertainment Facility
+
+incident_type:
+
+- Fire
+
+severity: Catastrophic
+
+fatalities: 27
+
+injuries: 20
+
+summary: >
+A major fire occurred at the TRP Gaming Zone in Rajkot.
+The fire spread rapidly through temporary structures,
+combustible materials, and enclosed recreational areas.
+The incident highlighted severe compliance failures and
+lack of fire safety approvals.
+
+root_causes:
+
+- Welding or electrical ignition source
+- Combustible construction materials
+- Temporary structures
+- Rapid fire spread
+
+fire_safety_failures:
+
+- Lack of Fire NOC
+- Inadequate fire protection systems
+- Insufficient emergency exits
+- Poor occupancy management
+- Lack of emergency preparedness
+
+affected_systems:
+
+- Fire Protection Systems
+- Escape Routes
+- Operational Fire Safety
+- Emergency Communication
+
+risk_patterns:
+
+- Unauthorized operations
+- Occupancy overload
+- Combustible construction
+- Absence of fire approvals
+
+occupancy_risks:
+
+- Children
+- Families
+- Entertainment venue crowding
+
+fatality_mechanism:
+
+- Smoke Inhalation
+- Thermal Burns
+- Entrapment
+
+related_cfo_domains:
+
+- Escape Routes
+- Fire Protection Systems
+- Operational Fire Safety
+
+related_nbc_domains:
+
+- Assembly Occupancy
+- Means of Escape
+- Fire Prevention
+- Fire Protection
+
+lessons_learned:
+
+- Enforce Fire NOC requirements
+- Prevent unauthorized construction
+- Maintain adequate exits
+- Conduct regular inspections
+
+prevention_recommendations:
+
+- Occupancy controls
+- Fire alarms
+- Automatic sprinklers
+- Exit audits
+- Regulatory inspections

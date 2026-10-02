@@ -1,0 +1,24 @@
+rule_id: NBC-PR-009
+
+title: Fire Pump Requirement
+
+category: Fire Pumps
+
+applies_to:
+  - Buildings with firefighting systems
+
+requirement:
+  Dedicated fire pumps shall be provided to maintain required firefighting water pressure.
+
+compliance_check:
+  Verify pump capacity and operation.
+
+evidence_required:
+  - Pump specifications
+  - Testing records
+
+risk_if_non_compliant:
+  Inadequate firefighting water supply.
+
+source_document:
+  National Building Code of India 2016 Part 4

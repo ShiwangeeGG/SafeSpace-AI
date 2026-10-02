@@ -1,0 +1,51 @@
+source_id: OCC-BUS-SRC-001
+
+source_name: Business Occupancy Knowledge Base
+
+occupancy_group: Business
+
+regulatory_source:
+
+- NBC 2016 Part 4 Fire and Life Safety
+
+purpose: >
+Define business occupancies including offices,
+administrative facilities, and professional
+service buildings. Supports office-related
+fire safety and compliance analysis.
+
+applies_to:
+
+- Corporate Offices
+- IT Offices
+- Banks
+- Government Offices
+- Business Centres
+- Administrative Buildings
+
+primary_fire_safety_focus:
+
+- Electrical Safety
+- Smoke Management
+- Fire Detection
+- Office Evacuation
+
+related_risk_patterns:
+
+- electrical_risks
+- smoke_spread_risks
+- maintenance_failures
+- high_rise_risks
+
+related_case_studies:
+
+- Times Tower Fire
+
+retrieval_priority: High
+
+intended_ai_usage:
+
+- Occupancy Classification
+- Fire Risk Assessment
+- Compliance Evaluation
+- Building Safety Review

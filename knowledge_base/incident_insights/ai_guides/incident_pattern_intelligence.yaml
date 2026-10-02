@@ -1,0 +1,21 @@
+domain: Incident Pattern Intelligence
+
+critical_patterns:
+  - smoke_inhalation
+  - blocked_exits
+  - delayed_detection
+
+high_frequency_failures:
+  - maintenance_failures
+  - occupancy_overload
+  - smoke_spread
+
+most_common_root_causes:
+  - electrical_failures
+  - combustible_materials
+  - poor_maintenance
+
+ai_goal: >
+  Use historical incident patterns
+  to improve risk assessment and
+  recommendation generation.

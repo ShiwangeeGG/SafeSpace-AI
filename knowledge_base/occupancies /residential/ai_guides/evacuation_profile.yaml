@@ -1,0 +1,52 @@
+occupancy_name: Residential
+
+occupancy_category: Residential Occupancy
+
+description: >
+  Residential occupancies present evacuation
+  challenges because occupants may be asleep,
+  unfamiliar with emergency procedures,
+  or delayed in recognizing fire conditions.
+
+examples:
+  - Apartments
+  - Housing Societies
+  - Residential Towers
+
+occupancy_characteristics:
+  - Sleeping occupants
+  - Family groups
+  - Variable emergency awareness
+
+primary_fire_safety_concerns:
+  - Delayed detection
+  - Smoke exposure
+  - Staircase congestion
+
+common_fire_risks:
+  - Blocked exits
+  - Smoke spread
+  - Communication delays
+
+evacuation_complexity: High
+
+risk_level: Medium
+
+related_risk_patterns:
+  - smoke_spread_risks
+  - blocked_exits_risks
+  - evacuation_failures
+
+recommended_focus_areas:
+  - Emergency communication
+  - Exit maintenance
+  - Occupant awareness
+  - Fire drills
+
+retrieval_keywords:
+  - apartment evacuation
+  - residential evacuation
+  - staircase safety
+
+source:
+  document: NBC Part 4 Fire and Life Safety

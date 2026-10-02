@@ -1,0 +1,26 @@
+rule_id: MFS-RULE-010
+
+title: Licensed Agency Must Meet Qualification Requirements
+
+category: Licensing
+
+applies_to:
+  - Licensed Agencies
+
+requirement:
+  Licensed Agencies shall employ qualified personnel with prescribed fire engineering or equivalent qualifications and experience.
+
+compliance_check:
+  Verify technical qualifications of agency personnel.
+
+evidence_required:
+  - Qualification certificates
+  - Employment records
+
+risk_if_non_compliant:
+  Licence denial or cancellation.
+
+source_document:
+  Maharashtra Fire Prevention and Life Safety Measures Rules, 2009
+
+page: 6-7

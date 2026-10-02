@@ -1,0 +1,54 @@
+domain: Industrial Fire Incidents
+
+common_causes:
+
+- Chemical reactions
+- Equipment failures
+- Electrical faults
+- Flammable liquid ignition
+- Process safety failures
+
+common_failures:
+
+- Hazardous material mismanagement
+- Inadequate compartmentation
+- Poor maintenance
+- Delayed detection
+- Missing suppression systems
+
+common_occupancies:
+
+- Factories
+- Chemical Plants
+- Warehouses
+- Manufacturing Facilities
+
+high_risk_indicators:
+
+- Chemical storage
+- Flammable liquids
+- High-temperature processes
+- Dust accumulation
+- Electrical equipment
+
+most_affected_systems:
+
+- Hazardous Material Control
+- Fire Protection Systems
+- Fire Prevention
+- Operational Fire Safety
+
+recommended_controls:
+
+- Process safety audits
+- Hazardous material management
+- Fire detection systems
+- Automatic suppression systems
+- Emergency response planning
+
+common_regulatory_domains:
+
+- Industrial Occupancy
+- Hazardous Occupancy
+- Fire Prevention
+- Fire Protection

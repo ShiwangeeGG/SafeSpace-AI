@@ -1,0 +1,26 @@
+rule_id: MFS-RULE-015
+
+title: Licensed Agency Records Must Be Available For Inspection
+
+category: Audit
+
+applies_to:
+  - Licensed Agencies
+
+requirement:
+  Work records shall be maintained and kept open for inspection by authorized fire authorities.
+
+compliance_check:
+  Verify records are available and complete.
+
+evidence_required:
+  - Project records
+  - Inspection logs
+
+risk_if_non_compliant:
+  Enforcement action and licence suspension.
+
+source_document:
+  Maharashtra Fire Prevention and Life Safety Measures Rules, 2009
+
+page: 9

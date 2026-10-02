@@ -1,0 +1,83 @@
+case_id: CASE-IND-002
+
+incident_name: Ankleshwar Chemical Plant Fire
+
+incident_date: 2022
+
+location:
+city: Ankleshwar
+state: Gujarat
+country: India
+
+occupancy_type: Industrial
+
+building_type:
+
+- Chemical Processing Plant
+
+incident_type:
+
+- Fire
+
+severity: High
+
+fatalities: Multiple
+
+injuries: Multiple
+
+summary: >
+A fire occurred within a chemical processing facility,
+highlighting the dangers of flammable chemical storage,
+process equipment failures, and hazardous industrial
+environments.
+
+root_causes:
+
+- Equipment malfunction
+- Chemical ignition
+- Process area fire
+
+fire_safety_failures:
+
+- Insufficient fire separation
+- Hazardous storage risks
+- Delayed suppression
+
+affected_systems:
+
+- Hazardous Material Control
+- Fire Protection Systems
+
+risk_patterns:
+
+- Flammable liquid fires
+- Chemical storage hazards
+- Equipment failures
+
+occupancy_risks:
+
+- Chemical operators
+- Maintenance personnel
+
+fatality_mechanism:
+
+- Burns
+- Toxic Exposure
+
+related_nbc_domains:
+
+- Industrial Occupancy
+- Hazardous Occupancy
+- Fire Prevention
+
+lessons_learned:
+
+- Improve storage practices
+- Strengthen maintenance programs
+- Enhance fire detection
+
+prevention_recommendations:
+
+- Fire-resistant storage
+- Automatic suppression systems
+- Hazard audits

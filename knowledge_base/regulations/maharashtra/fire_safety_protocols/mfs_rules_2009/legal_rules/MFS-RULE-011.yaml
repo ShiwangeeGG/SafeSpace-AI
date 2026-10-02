@@ -1,0 +1,26 @@
+rule_id: MFS-RULE-011
+
+title: Licensed Agencies Must Maintain Technical Resources
+
+category: Licensing
+
+applies_to:
+  - Licensed Agencies
+
+requirement:
+  Licensed Agencies shall maintain adequate machinery, tools, and equipment necessary for fire prevention and fire protection work.
+
+compliance_check:
+  Verify availability of required equipment.
+
+evidence_required:
+  - Equipment inventory
+  - Inspection records
+
+risk_if_non_compliant:
+  Licence denial or suspension.
+
+source_document:
+  Maharashtra Fire Prevention and Life Safety Measures Rules, 2009
+
+page: 7

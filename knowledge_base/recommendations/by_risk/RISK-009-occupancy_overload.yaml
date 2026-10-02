@@ -1,0 +1,55 @@
+risk_id: RISK-009
+
+risk_name: Occupancy Overload
+
+category: Occupant Safety
+
+risk_level: High
+
+risk_description: >
+  Occupant numbers exceed safe design
+  capacity, increasing evacuation difficulty.
+
+why_it_is_dangerous:
+  - Crowd congestion
+  - Delayed evacuation
+  - Panic situations
+
+affected_occupancies:
+  - Assembly
+  - Mercantile
+  - Educational
+
+related_compliance_gaps:
+  - Inadequate exits
+  - Inadequate staircases
+
+immediate_actions:
+  - Reduce occupancy levels
+  - Monitor crowd density
+
+short_term_actions:
+  - Review occupancy calculations
+  - Improve crowd management procedures
+
+long_term_actions:
+  - Increase evacuation capacity
+  - Redesign occupancy layouts
+
+high_priority_systems:
+  - Means of Escape
+  - Emergency Communication
+
+related_case_studies:
+  - Rajkot Gaming Zone Fire
+  - Kamala Mills Fire
+
+ai_reasoning_hints:
+  - Occupancy load directly impacts evacuation success
+
+retrieval_keywords:
+  - overcrowding
+  - occupancy overload
+
+source:
+  document: Risk Patterns Layer

@@ -1,0 +1,25 @@
+domain: Fire Incident Case Studies
+
+major_occupancies:
+  - Commercial
+  - Educational
+  - Institutional
+  - Industrial
+  - Residential
+  - Transportation
+
+primary_learning_areas:
+  - Root Cause Analysis
+  - Compliance Failures
+  - Risk Patterns
+  - Evacuation Challenges
+  - Fire Protection Deficiencies
+
+key_fire_risk_patterns:
+  - Blocked Exits
+  - Smoke Inhalation
+  - Electrical Faults
+  - Occupancy Overload
+  - Combustible Materials
+  - Poor Maintenance
+  - Delayed Evacuation

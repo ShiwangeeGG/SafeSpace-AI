@@ -1,0 +1,24 @@
+rule_id: CFO-REF-002
+
+title: Refuge Area Accessibility Requirement
+
+category: Accessibility
+
+applies_to:
+  - Refuge Areas
+
+requirement:
+  Refuge areas shall remain accessible from designated evacuation routes.
+
+compliance_check:
+  Verify access routes remain available and unobstructed.
+
+evidence_required:
+  - Floor plans
+  - Site inspection
+
+risk_if_non_compliant:
+  Occupants may be unable to reach refuge areas safely.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

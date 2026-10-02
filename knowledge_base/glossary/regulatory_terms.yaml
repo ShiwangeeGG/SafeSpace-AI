@@ -1,0 +1,29 @@
+terms:
+
+  - term_id: REG-001
+    term_name: NOC
+    definition: No Objection Certificate issued by fire authorities.
+
+  - term_id: REG-002
+    term_name: Fire Safety Audit
+    definition: Formal assessment of fire safety compliance.
+
+  - term_id: REG-003
+    term_name: Compliance Gap
+    definition: Difference between required and existing fire safety provisions.
+
+  - term_id: REG-004
+    term_name: CFO
+    definition: Chief Fire Officer responsible for fire safety enforcement.
+
+  - term_id: REG-005
+    term_name: Occupancy Certificate
+    definition: Approval permitting building occupation.
+
+  - term_id: REG-006
+    term_name: Fire NOC
+    definition: Fire department approval certifying fire safety compliance.
+
+  - term_id: REG-007
+    term_name: Fire Drill
+    definition: Planned exercise testing emergency response procedures.

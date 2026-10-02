@@ -1,0 +1,24 @@
+rule_id: CFO-OFS-001
+
+title: Regular Fire Drill Requirement
+
+category: Fire Safety Operations
+
+applies_to:
+  - Occupied Buildings
+
+requirement:
+  Fire drills shall be conducted periodically to ensure occupant preparedness and emergency response readiness.
+
+compliance_check:
+  Verify fire drill schedule and records.
+
+evidence_required:
+  - Fire drill reports
+  - Attendance records
+
+risk_if_non_compliant:
+  Occupants may not respond effectively during emergencies.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

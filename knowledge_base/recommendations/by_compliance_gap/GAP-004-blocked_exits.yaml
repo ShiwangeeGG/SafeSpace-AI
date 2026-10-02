@@ -1,0 +1,47 @@
+gap_id: GAP-004
+
+gap_name: Blocked Exits
+
+category: Means of Escape
+
+affected_occupancies:
+  - All Occupancies
+
+risk_level: Critical
+
+compliance_issue: >
+  Exit routes are obstructed,
+  locked, or unavailable.
+
+why_it_is_dangerous:
+  - Evacuation failure
+  - Crowd crush risk
+  - Smoke exposure
+
+related_regulations:
+  - Means of Escape
+  - Exit Requirements
+
+related_risk_patterns:
+  - blocked_exits_risks
+  - evacuation_failures
+
+immediate_actions:
+  - Remove all obstructions immediately
+  - Unlock exit doors
+
+short_term_actions:
+  - Conduct exit inspections
+
+long_term_actions:
+  - Implement monthly exit audits
+
+priority_level: Critical
+
+retrieval_keywords:
+  - blocked exit
+  - locked exit
+  - obstructed staircase
+
+source:
+  document: NBC Part 4 Fire and Life Safetys

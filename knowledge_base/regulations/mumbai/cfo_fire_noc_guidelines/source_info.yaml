@@ -1,0 +1,103 @@
+source_id: MUMBAI-CFO-NOC
+
+source_name: Mumbai CFO Fire NOC Guidelines
+
+issuing_authority: Mumbai Fire Brigade
+
+jurisdiction:
+  country: India
+  state: Maharashtra
+  city: Mumbai
+
+document_type: Fire NOC Compliance Guidelines
+
+regulatory_level: Municipal
+
+applicability:
+  - Residential Buildings
+  - Commercial Buildings
+  - Mixed Use Buildings
+  - High Rise Buildings
+  - Hospitals
+  - Hotels
+  - Educational Buildings
+  - Industrial Buildings
+  - Mercantile Buildings
+  - Assembly Buildings
+
+primary_purpose:
+  Define fire safety requirements, inspection criteria, and compliance conditions used by Mumbai Fire Brigade during Fire NOC approval, renewal, and enforcement activities.
+
+scope:
+  - Fire Appliance Access
+  - Means of Escape
+  - Staircase Safety
+  - Basement Fire Safety
+  - Fire Alarm Systems
+  - Fire Protection Systems
+  - Fire Control Rooms
+  - Fire Lifts
+  - Refuge Areas
+  - Fire Check Floors
+  - Emergency Communication
+  - Operational Fire Safety
+  - Electrical Fire Safety
+
+key_objectives:
+  - Ensure occupant life safety
+  - Support firefighting operations
+  - Improve emergency evacuation
+  - Reduce fire spread
+  - Maintain operational readiness
+  - Standardize Fire NOC inspections
+
+compliance_focus:
+  - Building Design Compliance
+  - Fire Protection System Compliance
+  - Emergency Access Compliance
+  - Operational Fire Safety Compliance
+  - Fire NOC Inspection Readiness
+
+related_regulations:
+  - National Building Code 2016 Part 4 Fire and Life Safety
+  - Maharashtra Fire Prevention and Life Safety Measures Act 2006
+  - Maharashtra Fire Prevention and Life Safety Measures Amendment Act 2023
+  - Maharashtra Fire Prevention and Life Safety Measures Amendment Act 2025
+
+critical_domains:
+  - Access and Fire Appliance Movement
+  - Basement Fire Safety
+  - Electrical Fire Safety
+  - Emergency Communication
+  - Escape Routes
+  - Staircase Safety
+  - Fire Alarm Systems
+  - Fire Check Floors
+  - Fire Control Room
+  - Fire Lifts
+  - Fire Protection Systems
+  - Operational Fire Safety
+  - Refuge Areas
+
+intended_ai_usage:
+  - Fire NOC Compliance Checking
+  - Fire Safety Audits
+  - Building Compliance Assessment
+  - Regulatory Question Answering
+  - Deficiency Detection
+  - Fire Safety Training
+  - Compliance Report Generation
+  - Inspection Preparation
+
+retrieval_priority: High
+
+document_summary: >
+  The Mumbai CFO Fire NOC Guidelines provide practical fire safety
+  compliance requirements used by Mumbai Fire Brigade officers during
+  Fire NOC approval, inspection, and renewal processes. The guidelines
+  focus on emergency access, life safety systems, fire protection
+  infrastructure, evacuation provisions, high-rise safety features,
+  and ongoing operational compliance requirements. These guidelines
+  complement the National Building Code and Maharashtra Fire Safety
+  legislation by translating regulatory requirements into inspection
+  and enforcement criteria used in real-world building assessments.

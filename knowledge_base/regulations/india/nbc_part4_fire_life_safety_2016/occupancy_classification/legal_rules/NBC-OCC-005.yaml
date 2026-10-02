@@ -1,0 +1,29 @@
+rule_id: NBC-OCC-005
+
+title: Institutional Occupancy Classification
+
+category: Occupancy Classification
+
+applies_to:
+  - Hospitals
+  - Nursing homes
+  - Custodial institutions
+  - Penal institutions
+
+requirement:
+  Buildings occupied by persons receiving medical treatment, care, custody, or detention shall be classified as Institutional Occupancy.
+
+compliance_check:
+  Verify nature of occupancy.
+
+evidence_required:
+  - Registration certificates
+  - Building usage records
+
+risk_if_non_compliant:
+  Life safety provisions may be insufficient for vulnerable occupants.
+
+source_document:
+  National Building Code of India 2016 Part 4
+
+page: Occupancy Classification Chapter

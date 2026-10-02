@@ -1,0 +1,56 @@
+gap_id: GAP-001
+
+gap_name: Missing Sprinkler System
+
+category: Fire Protection
+
+affected_occupancies:
+  - Hospital
+  - Mercantile
+  - Assembly
+  - Industrial
+  - High Rise Residential
+
+risk_level: High
+
+compliance_issue: >
+  Building lacks required automatic
+  sprinkler protection.
+
+why_it_is_dangerous:
+  - Delayed fire suppression
+  - Rapid fire growth
+  - Increased smoke production
+  - Higher casualty potential
+
+related_regulations:
+  - Fire Protection Systems
+  - Sprinkler Systems
+  - High Rise Buildings
+
+related_risk_patterns:
+  - smoke_spread_risks
+  - occupancy_overload
+  - evacuation_failures
+
+immediate_actions:
+  - Conduct fire risk assessment
+  - Increase manual fire watch
+
+short_term_actions:
+  - Prepare sprinkler design
+  - Obtain regulatory approvals
+
+long_term_actions:
+  - Install automatic sprinkler system
+  - Establish inspection schedule
+
+priority_level: High
+
+retrieval_keywords:
+  - missing sprinkler
+  - no sprinkler
+  - sprinkler absent
+
+source:
+  document: NBC Part 4 Fire and Life Safety

@@ -1,0 +1,30 @@
+country: India
+
+primary_regulation:
+  - NBC 2016 Part 4 Fire and Life Safety
+
+common_fire_causes:
+  - Electrical Faults
+  - LPG Leaks
+  - Human Negligence
+  - Poor Maintenance
+
+high_risk_occupancies:
+  - Hospitals
+  - High Rise Buildings
+  - Industrial Occupancies
+  - Assembly Occupancies
+
+common_compliance_gaps:
+  - Blocked Exits
+  - Missing Fire Detection
+  - Poor Maintenance
+
+national_fire_safety_focus:
+  - Life Safety
+  - Early Detection
+  - Evacuation Planning
+
+ai_usage:
+  - National Guidance
+  - Risk Assessment

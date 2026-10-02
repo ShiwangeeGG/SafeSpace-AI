@@ -1,0 +1,24 @@
+rule_id: NBC-CK-005
+
+title: Grease Duct Access Panels Required
+
+category: Maintenance
+
+applies_to:
+  - Commercial Kitchens
+
+requirement:
+  Grease ducts shall be provided with access openings for inspection and cleaning.
+
+compliance_check:
+  Verify access panels exist.
+
+evidence_required:
+  - Mechanical drawings
+  - Site inspection
+
+risk_if_non_compliant:
+  Grease accumulation may remain undetected.
+
+source_document:
+  National Building Code of India 2016 Part 4 Annex G

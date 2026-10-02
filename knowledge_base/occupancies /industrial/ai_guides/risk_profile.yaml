@@ -1,0 +1,70 @@
+occupancy_name: Industrial
+
+occupancy_category: Industrial Occupancy
+
+description: >
+  Industrial occupancies face elevated fire risk
+  due to machinery, electrical systems, production
+  processes, combustible materials, and operational
+  hazards. Risk levels vary depending on the nature
+  of industrial activities.
+
+examples:
+  - Manufacturing Plants
+  - Factories
+  - Assembly Facilities
+  - Production Workshops
+
+occupancy_characteristics:
+  - Heavy equipment usage
+  - High electrical demand
+  - Continuous operations
+  - Process-dependent hazards
+
+primary_fire_safety_concerns:
+  - Machinery ignition
+  - Electrical fires
+  - Process failures
+  - Maintenance deficiencies
+  - Worker safety
+
+common_fire_risks:
+  - Electrical faults
+  - Equipment overheating
+  - Lubricant ignition
+  - Poor housekeeping
+  - Improper storage of materials
+
+evacuation_complexity: High
+
+risk_level: High
+
+related_case_studies:
+  - Maharashtra Chemical Factory Fire
+  - Ankleshwar Chemical Plant Fire
+  - Bhiwandi Warehouse Fire
+
+related_risk_patterns:
+  - electrical_risks
+  - maintenance_failures
+  - combustible_materials
+  - hazardous_material_risks
+  - smoke_spread_risks
+
+recommended_focus_areas:
+  - Preventive maintenance
+  - Fire detection systems
+  - Electrical inspections
+  - Process safety management
+  - Fire protection systems
+
+retrieval_keywords:
+  - industrial fire risk
+  - factory fire
+  - manufacturing hazards
+  - machinery fire
+  - process safety
+
+source:
+  document: NBC Part 4 Fire and Life Safety
+  occupancy_group: Industrial

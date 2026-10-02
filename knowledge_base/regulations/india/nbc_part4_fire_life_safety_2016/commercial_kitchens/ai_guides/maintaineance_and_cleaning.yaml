@@ -1,0 +1,33 @@
+system_component: Maintenance and Cleaning
+
+description:
+  Inspection, cleaning, testing, and maintenance activities performed on kitchen fire safety systems to ensure continuous operational readiness.
+
+purpose:
+  Reduce fire risk caused by grease accumulation and equipment deterioration.
+
+why_it_matters:
+  Even properly designed systems become ineffective when maintenance is neglected.
+
+common_fire_risks:
+  - Grease buildup
+  - Blocked exhaust systems
+  - Inoperative suppression systems
+  - Hidden equipment defects
+
+common_compliance_checks:
+  - Duct cleaning records available
+  - Hood cleaning completed
+  - Suppression system testing completed
+  - Maintenance schedule followed
+  - Inspection reports maintained
+
+related_rules:
+  - NBC-CK-005
+  - NBC-CK-006
+  - NBC-CK-010
+
+related_systems:
+  - Kitchen Exhaust System
+  - Grease Ducts
+  - Kitchen Fire Suppression System

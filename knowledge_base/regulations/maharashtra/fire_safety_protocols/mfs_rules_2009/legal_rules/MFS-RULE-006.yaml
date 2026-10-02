@@ -1,0 +1,27 @@
+rule_id: MFS-RULE-006
+
+title: Fire Safety Deficiencies Must Be Rectified
+
+category: Compliance Enforcement
+
+applies_to:
+  - Building Owners
+  - Occupiers
+
+requirement:
+  Deviations, inadequacies, or non-compliance with fire prevention and life safety measures identified during inspection shall be rectified.
+
+compliance_check:
+  Verify corrective actions completed.
+
+evidence_required:
+  - Rectification records
+  - Follow-up inspection report
+
+risk_if_non_compliant:
+  Enforcement action and sealing.
+
+source_document:
+  Maharashtra Fire Prevention and Life Safety Measures Rules, 2009
+
+page: 5

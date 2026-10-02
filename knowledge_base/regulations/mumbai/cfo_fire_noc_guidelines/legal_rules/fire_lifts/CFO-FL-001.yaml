@@ -1,0 +1,25 @@
+rule_id: CFO-FL-001
+
+title: Fire Lift Requirement
+
+category: Fire Fighting Infrastructure
+
+applies_to:
+  - High Rise Buildings
+
+requirement:
+  Buildings requiring fire lifts shall provide dedicated fire lifts for emergency response operations.
+
+compliance_check:
+  Verify fire lift installation and availability.
+
+evidence_required:
+  - Lift layout drawings
+  - Occupancy certificate
+  - Site inspection
+
+risk_if_non_compliant:
+  Delayed firefighter access to upper floors.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

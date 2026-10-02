@@ -1,0 +1,26 @@
+rule_id: MFS-AUDIT-003
+
+title: Active and Passive Fire Protection Evaluation
+
+category: Fire Audit
+
+applies_to:
+  - Audited buildings
+
+requirement:
+  Auditor shall evaluate hydrants, sprinklers, pumps, alarms, detection systems and passive fire protection measures.
+
+compliance_check:
+  Verify evaluation documented in audit report.
+
+evidence_required:
+  - Inspection records
+  - Audit findings
+
+risk_if_non_compliant:
+  Safety deficiencies may remain unresolved.
+
+source_document:
+  Maharashtra Fire Prevention and Life Safety Measures (Amendment) Rules 2025
+
+page: 5

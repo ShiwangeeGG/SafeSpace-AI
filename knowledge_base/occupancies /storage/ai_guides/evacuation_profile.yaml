@@ -1,0 +1,51 @@
+occupancy_name: Storage
+
+occupancy_category: Storage Occupancy
+
+description: >
+  Storage occupancies generally have lower
+  occupant density but may present evacuation
+  challenges due to large floor areas and
+  obstructed storage layouts.
+
+examples:
+  - Warehouses
+  - Distribution Centres
+  - Storage Depots
+
+occupancy_characteristics:
+  - Low occupant density
+  - Large floor plates
+  - Storage aisles
+
+primary_fire_safety_concerns:
+  - Exit accessibility
+  - Smoke exposure
+  - Operational worker safety
+
+common_fire_risks:
+  - Blocked aisles
+  - Storage obstructions
+  - Delayed detection
+
+evacuation_complexity: Medium
+
+risk_level: Medium
+
+related_risk_patterns:
+  - evacuation_failures
+  - maintenance_failures
+
+recommended_focus_areas:
+  - Exit access
+  - Aisle management
+  - Emergency communication
+  - Worker training
+
+retrieval_keywords:
+  - warehouse evacuation
+  - storage evacuation
+  - logistics safety
+
+source:
+  document: NBC Part 4 Fire and Life Safety

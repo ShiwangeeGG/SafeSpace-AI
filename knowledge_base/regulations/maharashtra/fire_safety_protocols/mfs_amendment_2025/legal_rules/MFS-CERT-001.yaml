@@ -1,0 +1,25 @@
+rule_id: MFS-CERT-001
+
+title: ACMS Installation Certificate Requirement
+
+category: Certification
+
+applies_to:
+  - Buildings installing ACMS
+
+requirement:
+  Licensed Agency shall issue Form A-1 certifying ACMS compliance.
+
+compliance_check:
+  Verify Form A-1 exists and is signed.
+
+evidence_required:
+  - Form A-1
+
+risk_if_non_compliant:
+  No proof of legal ACMS implementation.
+
+source_document:
+  Maharashtra Fire Prevention and Life Safety Measures (Amendment) Rules 2025
+
+page: 1

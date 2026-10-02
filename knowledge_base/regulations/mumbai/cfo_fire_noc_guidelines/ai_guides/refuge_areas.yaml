@@ -1,0 +1,51 @@
+system_component: Refuge Areas
+
+description:
+  Refuge areas are designated protected spaces within high-rise buildings where occupants can temporarily gather and remain safe during fire emergencies while awaiting evacuation or rescue.
+
+purpose:
+  Provide a temporary place of safety for occupants during emergency situations.
+
+why_it_matters:
+  In tall buildings, complete evacuation may require significant time. Refuge areas provide protected locations that improve occupant survival and support rescue operations.
+
+common_fire_risks:
+  - Refuge area obstruction
+  - Inaccessible refuge spaces
+  - Poor occupant awareness
+  - Inadequate lighting
+  - Unauthorized use of refuge areas
+
+common_compliance_checks:
+  - Refuge areas provided
+  - Access routes maintained
+  - Signage installed
+  - Emergency lighting operational
+  - Areas free from encroachment
+  - Maintenance records available
+  - Terrace refuge provisions maintained
+
+critical_safety_features:
+  - Protected Waiting Areas
+  - Emergency Lighting
+  - Refuge Area Signage
+  - Safe Access Routes
+  - Terrace Refuge Facilities
+  - Emergency Rescue Support Areas
+
+related_rules:
+  - CFO-REF-001
+  - CFO-REF-002
+  - CFO-REF-003
+  - CFO-REF-004
+  - CFO-REF-005
+  - CFO-REF-006
+  - CFO-REF-007
+
+related_systems:
+  - Escape Routes
+  - Staircase Safety
+  - Fire Lifts
+  - Fire Check Floors
+  - Emergency Communication
+  - Fire Brigade Operations

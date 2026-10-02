@@ -1,0 +1,31 @@
+system_component: Smoke Management
+
+description:
+  Systems designed to control, remove, or contain smoke during fire emergencies.
+
+purpose:
+  Maintain tenable conditions for evacuation and firefighting operations.
+
+why_it_matters:
+  Smoke is often more dangerous than flames and is a leading cause of fire-related fatalities.
+
+common_fire_risks:
+  - Smoke inhalation
+  - Reduced visibility
+  - Evacuation difficulties
+  - Smoke spread to protected routes
+
+common_compliance_checks:
+  - Smoke extraction systems operational
+  - Staircase pressurization functional
+  - Smoke control zones maintained
+  - Testing records available
+
+related_rules:
+  - NBC-PR-013
+  - NBC-PR-014
+
+related_systems:
+  - Fire Detection
+  - Life Safety Systems
+  - Fire Command Centre

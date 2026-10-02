@@ -1,0 +1,32 @@
+system_component: Fire Pumps
+
+description:
+  Dedicated pumps designed to provide and maintain water pressure for firefighting systems during emergencies.
+
+purpose:
+  Ensure adequate water flow and pressure for hydrants, risers, and sprinkler systems.
+
+why_it_matters:
+  Fire protection systems cannot function effectively without sufficient water pressure.
+
+common_fire_risks:
+  - Insufficient water pressure
+  - Pump failure
+  - System downtime
+  - Fire suppression failure
+
+common_compliance_checks:
+  - Pump capacity verified
+  - Standby pump available
+  - Functional testing completed
+  - Automatic start operation verified
+
+related_rules:
+  - NBC-PR-009
+  - NBC-PR-010
+
+related_systems:
+  - Hydrant Systems
+  - Wet Risers
+  - Sprinkler Systems
+  - Fire Water Storage

@@ -1,0 +1,58 @@
+occupancy_name: Storage
+
+occupancy_category: Storage Occupancy
+
+description: >
+  Storage occupancies face significant fire risk
+  because of concentrated fuel loads, large storage
+  volumes, and the potential for rapid fire spread
+  through inventory and packaging materials.
+
+examples:
+  - Warehouses
+  - Godowns
+  - Distribution Facilities
+  - Storage Depots
+
+occupancy_characteristics:
+  - High fuel loads
+  - Rack storage systems
+  - Large floor areas
+  - Low occupancy levels
+
+primary_fire_safety_concerns:
+  - Fire growth
+  - Smoke spread
+  - Property loss
+  - Firefighter access
+
+common_fire_risks:
+  - Combustible stock
+  - Electrical faults
+  - Poor housekeeping
+  - Maintenance deficiencies
+
+evacuation_complexity: Medium
+
+risk_level: High
+
+related_risk_patterns:
+  - combustible_materials
+  - smoke_spread_risks
+  - maintenance_failures
+  - electrical_risks
+
+recommended_focus_areas:
+  - Sprinkler systems
+  - Fire detection
+  - Housekeeping
+  - Storage separation
+
+retrieval_keywords:
+  - warehouse fire risk
+  - storage fire
+  - fire load
+  - warehouse safety
+
+source:
+  document: NBC Part 4 Fire and Life Safety

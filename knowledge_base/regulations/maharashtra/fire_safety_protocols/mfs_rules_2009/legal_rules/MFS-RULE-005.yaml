@@ -1,0 +1,25 @@
+rule_id: MFS-RULE-005
+
+title: Fire Inspection Reports Must Be Prepared
+
+category: Inspection
+
+applies_to:
+  - Nominated Officers
+
+requirement:
+  Every inspection conducted under the Act shall be documented through a formal inspection report.
+
+compliance_check:
+  Verify inspection report exists.
+
+evidence_required:
+  - Form-I inspection report
+
+risk_if_non_compliant:
+  Lack of enforcement documentation.
+
+source_document:
+  Maharashtra Fire Prevention and Life Safety Measures Rules, 2009
+
+page: 5

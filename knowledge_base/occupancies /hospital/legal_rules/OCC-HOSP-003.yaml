@@ -1,0 +1,44 @@
+rule_id: OCC-HOSP-003
+
+occupancy_group: Hospital
+
+rule_category: Medical Infrastructure Risks
+
+occupancy_definition: >
+Healthcare facilities contain specialized
+equipment, oxygen systems, medical gases,
+and critical infrastructure necessary for
+patient care.
+
+applies_to:
+
+- Oxygen Plants
+- Medical Gas Systems
+- Equipment Rooms
+- Diagnostic Facilities
+
+occupancy_characteristics:
+
+- Oxygen-enriched environments
+- Electrical dependency
+- Critical operational systems
+
+primary_fire_safety_concern:
+Preventing equipment-related fires and
+oxygen-assisted fire growth.
+
+related_nbc_domains:
+
+- Fire Prevention
+- Fire Protection
+- Operational Fire Safety
+
+retrieval_keywords:
+
+- oxygen system
+- medical gases
+- medical equipment
+
+source:
+document: NBC Part 4 Fire and Life Safety
+occupancy_group: Institutional

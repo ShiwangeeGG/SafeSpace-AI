@@ -1,0 +1,27 @@
+rule_id: CFO-ACC-004
+
+title: Fire Appliance Ramp Width Requirement
+
+category: Fire Appliance Access
+
+applies_to:
+  - Buildings with access ramps
+
+requirement:
+  Fire appliance ramps shall provide a minimum clear width of 6 metres.
+
+threshold:
+  minimum_width: 6 m
+
+compliance_check:
+  Verify ramp width.
+
+evidence_required:
+  - Site measurements
+  - Approved plans
+
+risk_if_non_compliant:
+  Fire vehicles may be unable to safely use the ramp.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

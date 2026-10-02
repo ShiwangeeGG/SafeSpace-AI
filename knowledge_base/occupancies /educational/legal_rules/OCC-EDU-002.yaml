@@ -1,0 +1,43 @@
+rule_id: OCC-EDU-002
+
+occupancy_group: Educational
+
+rule_category: School Occupancies
+
+occupancy_definition: >
+Educational buildings used primarily for
+teaching children and adolescents.
+
+applies_to:
+
+- Primary Schools
+- Secondary Schools
+- High Schools
+- Junior Colleges
+
+occupancy_characteristics:
+
+- Young occupants
+- Classroom-based activities
+- Limited emergency awareness
+- Teacher-guided evacuation
+
+primary_fire_safety_concern:
+Rapid and orderly evacuation of children.
+
+related_nbc_domains:
+
+- Means of Escape
+- Life Safety
+- Fire Protection
+
+retrieval_keywords:
+
+- school
+- classroom
+- children
+- student safety
+
+source:
+document: NBC Part 4 Fire and Life Safety
+occupancy_group: Educational

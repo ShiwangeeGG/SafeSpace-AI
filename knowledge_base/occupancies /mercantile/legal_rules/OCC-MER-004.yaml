@@ -1,0 +1,37 @@
+rule_id: OCC-MER-004
+
+occupancy_group: Mercantile
+
+rule_category: Merchandise Storage Risks
+
+occupancy_definition: >
+  Mercantile occupancies often contain
+  combustible merchandise, packaging
+  materials, and storage areas.
+
+applies_to:
+  - Retail Warehouses
+  - Department Stores
+  - Supermarkets
+
+occupancy_characteristics:
+  - Combustible stock
+  - Packaging materials
+  - Storage racks
+
+primary_fire_safety_concern:
+  Prevention of rapid fire spread
+  through stored merchandise.
+
+related_nbc_domains:
+  - Fire Prevention
+  - Fire Protection
+
+retrieval_keywords:
+  - merchandise storage
+  - stock room
+  - retail warehouse
+
+source:
+  document: NBC Part 4 Fire and Life Safety
+  occupancy_group: Mercantile

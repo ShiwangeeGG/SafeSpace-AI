@@ -1,0 +1,28 @@
+rule_id: MFS-SENSOR-004
+
+title: Fire Alarm System Monitoring
+
+category: IoT Monitoring
+
+applies_to:
+  - Buildings with fire alarm systems
+
+requirement:
+  ACMS shall monitor:
+    - Detection operation status
+    - Control panel status
+    - Battery status
+
+compliance_check:
+  Verify live monitoring available.
+
+evidence_required:
+  - Alarm panel logs
+
+risk_if_non_compliant:
+  Alarm failures may remain undetected.
+
+source_document:
+  Maharashtra Fire Prevention and Life Safety Measures (Amendment) Rules 2025
+
+page: 12-13

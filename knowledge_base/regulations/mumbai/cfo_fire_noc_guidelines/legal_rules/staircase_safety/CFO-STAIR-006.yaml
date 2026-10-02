@@ -1,0 +1,24 @@
+rule_id: CFO-STAIR-006
+
+title: Smoke Check Lobby Requirement
+
+category: Smoke Protection
+
+applies_to:
+  - Buildings requiring smoke check lobbies
+
+requirement:
+  Smoke check lobbies shall be provided between occupied areas and protected staircases where required.
+
+compliance_check:
+  Verify smoke lobby installation and condition.
+
+evidence_required:
+  - Floor plans
+  - Site inspection
+
+risk_if_non_compliant:
+  Smoke may enter evacuation routes.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

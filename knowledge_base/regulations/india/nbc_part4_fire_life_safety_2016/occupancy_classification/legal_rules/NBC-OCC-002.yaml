@@ -1,0 +1,28 @@
+rule_id: NBC-OCC-002
+
+title: Lodging and Rooming House Classification
+
+category: Occupancy Classification
+
+applies_to:
+  - Boarding houses
+  - Guest houses
+  - Lodging houses
+
+requirement:
+  Buildings providing lodging accommodation for not more than 20 persons shall be classified under Residential Occupancy.
+
+compliance_check:
+  Verify lodging capacity.
+
+evidence_required:
+  - Occupancy records
+  - Building licence
+
+risk_if_non_compliant:
+  Incorrect occupancy categorization.
+
+source_document:
+  National Building Code of India 2016 Part 4
+
+page: Occupancy Classification Chapter

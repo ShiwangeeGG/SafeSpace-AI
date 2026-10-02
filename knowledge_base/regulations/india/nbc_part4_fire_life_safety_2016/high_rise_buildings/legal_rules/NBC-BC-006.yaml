@@ -1,0 +1,24 @@
+rule_id: NBC-HR-006
+
+title: Refuge Areas Shall Remain Free From Encroachment
+
+category: Life Safety
+
+applies_to:
+  - Buildings with refuge areas
+
+requirement:
+  Refuge areas shall not be used for storage, occupancy, or unauthorized activities.
+
+compliance_check:
+  Verify refuge area remains unobstructed.
+
+evidence_required:
+  - Site inspection
+  - Photographs
+
+risk_if_non_compliant:
+  Reduced evacuation safety.
+
+source_document:
+  National Building Code of India 2016 Part 4 Annex E

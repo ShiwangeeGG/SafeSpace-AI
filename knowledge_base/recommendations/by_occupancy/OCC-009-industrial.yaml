@@ -1,0 +1,66 @@
+occupancy_id: OCC-009
+
+occupancy_name: Industrial
+
+category: Occupancy Recommendations
+
+risk_level: Critical
+
+primary_fire_safety_concerns:
+
+- Machinery fires
+- Process failures
+- Electrical hazards
+- Hazardous materials
+
+common_compliance_gaps:
+
+- Poor maintenance
+- Electrical deficiencies
+- Inadequate fire protection
+
+related_risk_patterns:
+
+- maintenance_failures
+- electrical_risks
+- combustible_materials
+- hazardous_material_risks
+
+immediate_actions:
+
+- Inspect critical machinery
+- Verify fire protection systems
+
+short_term_actions:
+
+- Conduct maintenance audit
+- Review process safety procedures
+
+long_term_actions:
+
+- Implement preventive maintenance
+- Improve process safety management
+
+high_priority_systems:
+
+- Fire Alarm System
+- Sprinkler System
+- Hydrant System
+
+related_case_studies:
+
+- Ankleshwar Chemical Plant Fire
+- Maharashtra Factory Fires
+
+ai_reasoning_hints:
+
+- Prioritize ignition source control
+- Consider operational hazards
+
+retrieval_keywords:
+
+- factory fire safety
+- industrial fire safety
+
+source:
+document: NBC Part 4 Fire and Life Safety

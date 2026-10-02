@@ -1,0 +1,53 @@
+risk_name: Combustible Materials
+
+severity: Critical
+
+description:
+  Presence of flammable construction materials,
+  decorative elements, furnishings, storage items,
+  or temporary structures that accelerate fire growth
+  and smoke generation.
+
+common_causes:
+  - Bamboo structures
+  - Plastic roofing sheets
+  - Decorative fabrics
+  - Wooden partitions
+  - Flammable storage
+
+warning_signs:
+  - Temporary combustible structures
+  - Excess decorative materials
+  - Improper storage practices
+  - Combustible wall or ceiling finishes
+
+potential_consequences:
+  - Rapid fire spread
+  - Toxic smoke generation
+  - Flashover conditions
+  - Increased fatalities
+
+high_risk_occupancies:
+  - Commercial
+  - Assembly
+  - Educational
+  - Residential
+
+related_case_studies:
+  - Kamala Mills Fire
+  - Kumbakonam School Fire
+  - Dabwali School Fire
+
+related_regulatory_domains:
+  - Fire Prevention
+  - Interior Finishes
+  - Fire Resistance
+  - Occupancy Safety
+
+recommended_controls:
+  - Use fire-retardant materials
+  - Limit combustible decorations
+  - Conduct material audits
+  - Maintain separation from ignition sources
+
+risk_score_impact: High

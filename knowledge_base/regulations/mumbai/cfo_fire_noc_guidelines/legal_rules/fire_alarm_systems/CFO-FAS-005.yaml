@@ -1,0 +1,24 @@
+rule_id: CFO-FAS-005
+
+title: Multi Sensor Detector Requirement
+
+category: Fire Detection
+
+applies_to:
+  - Areas requiring enhanced detection reliability
+
+requirement:
+  Multi-sensor detectors shall be provided where specified to improve fire detection performance.
+
+compliance_check:
+  Verify detector type and functionality.
+
+evidence_required:
+  - System specifications
+  - Testing records
+
+risk_if_non_compliant:
+  Increased false alarms or delayed fire detection.
+
+source_document:
+  Mumbai CFO Fire NOC Guideliness

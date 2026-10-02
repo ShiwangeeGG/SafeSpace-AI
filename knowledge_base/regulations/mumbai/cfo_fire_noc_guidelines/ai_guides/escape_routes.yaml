@@ -1,0 +1,52 @@
+system_component: Escape Routes
+
+description:
+  Escape routes are protected pathways that allow occupants to safely travel from any location within a building to a place of safety during emergencies.
+
+purpose:
+  Provide safe, clear, and accessible evacuation paths during fire incidents.
+
+why_it_matters:
+  Effective escape routes are critical for life safety and significantly reduce evacuation time during emergencies.
+
+common_fire_risks:
+  - Blocked evacuation paths
+  - Smoke infiltration
+  - Poor visibility
+  - Occupant confusion
+  - Delayed evacuation
+
+common_compliance_checks:
+  - Escape routes unobstructed
+  - Corridor pressurization operational
+  - Emergency ventilation functional
+  - Exit signage installed
+  - Emergency lighting operational
+  - Floor evacuation maps displayed
+  - Lift lobby protection available
+  - Maintenance records available
+
+critical_safety_features:
+  - Protected Corridors
+  - Exit Signage
+  - Emergency Lighting
+  - Smoke Control Systems
+  - Floor Evacuation Maps
+  - Lift Lobby Protection
+
+related_rules:
+  - CFO-ER-001
+  - CFO-ER-002
+  - CFO-ER-003
+  - CFO-ER-004
+  - CFO-ER-005
+  - CFO-ER-006
+  - CFO-ER-007
+  - CFO-ER-008
+
+related_systems:
+  - Staircase Safety
+  - Emergency Communication
+  - Smoke Management
+  - Refuge Areas
+  - Fire Alarm Systems

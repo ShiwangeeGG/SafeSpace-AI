@@ -1,0 +1,36 @@
+rule_id: OCC-RES-004
+
+occupancy_group: Residential
+
+rule_category: Residential Life Safety
+
+occupancy_definition: >
+  Residential occupancies depend heavily
+  on early fire detection and occupant
+  awareness because incidents frequently
+  occur during sleeping hours.
+
+applies_to:
+  - All Residential Occupancies
+
+occupancy_characteristics:
+  - Sleeping occupants
+  - Delayed fire awareness
+  - Family-based occupancy
+
+primary_fire_safety_concern:
+  Early detection and timely evacuation.
+
+related_nbc_domains:
+  - Fire Detection
+  - Life Safety
+  - Means of Escape
+
+retrieval_keywords:
+  - residential fire safety
+  - smoke alarm
+  - residential evacuation
+
+source:
+  document: NBC Part 4 Fire and Life Safety
+  occupancy_group: Residential

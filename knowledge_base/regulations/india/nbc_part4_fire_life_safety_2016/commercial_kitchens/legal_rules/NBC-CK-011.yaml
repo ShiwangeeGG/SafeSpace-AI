@@ -1,0 +1,24 @@
+rule_id: NBC-CK-011
+
+title: LPG Installation Safety Requirement
+
+category: Fuel Safety
+
+applies_to:
+  - Commercial Kitchens using LPG
+
+requirement:
+  LPG installations shall comply with applicable safety standards and shall be protected from accidental damage.
+
+compliance_check:
+  Verify LPG installation condition.
+
+evidence_required:
+  - Gas installation records
+  - Inspection report
+
+risk_if_non_compliant:
+  Gas leaks and explosion hazards.
+
+source_document:
+  National Building Code of India 2016 Part 4 Annex G

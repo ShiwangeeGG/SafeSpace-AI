@@ -1,0 +1,73 @@
+occupancy_name: Assembly
+
+occupancy_category: Public Gathering Occupancy
+
+description: >
+Assembly occupancies present some of the highest
+evacuation challenges because large numbers of people
+must move simultaneously through limited exit routes.
+
+examples:
+
+- Stadiums
+- Auditoriums
+- Cinemas
+- Banquet Halls
+- Convention Centres
+
+occupancy_characteristics:
+
+- High crowd density
+- Panic potential
+- Limited familiarity with exits
+- Event-driven congestion
+
+primary_fire_safety_concerns:
+
+- Delayed evacuation
+- Crowd crush
+- Exit congestion
+- Smoke exposure
+
+common_fire_risks:
+
+- Blocked exits
+- Occupancy overload
+- Poor emergency communication
+- Inadequate signage
+
+evacuation_complexity: Critical
+
+risk_level: Critical
+
+related_case_studies:
+
+- Kamala Mills Fire
+- Rajkot Gaming Zone Fire
+- Surat Coaching Centre Fire
+
+related_risk_patterns:
+
+- blocked_exits_risks
+- evacuation_failures
+- occupancy_overload_risks
+
+recommended_focus_areas:
+
+- Multiple exits
+- Exit signage
+- Emergency lighting
+- Crowd management
+- Occupancy monitoring
+
+retrieval_keywords:
+
+- evacuation
+- crowd management
+- panic
+- assembly exits
+- occupant load
+
+source:
+document: NBC Part 4 Fire and Life Safety
+occupancy_group: Assembly

@@ -1,0 +1,27 @@
+rule_id: MFS-RULE-003
+
+title: Fire Hazards Must Be Removed Upon Notice
+
+category: Hazard Control
+
+applies_to:
+  - Building Owners
+  - Occupiers
+
+requirement:
+  Objects or goods identified as creating fire risk shall be removed to a place of safety when directed.
+
+compliance_check:
+  Verify identified hazards are removed.
+
+evidence_required:
+  - Inspection report
+  - Compliance record
+
+risk_if_non_compliant:
+  Seizure or removal action by authorities.
+
+source_document:
+  Maharashtra Fire Prevention and Life Safety Measures Rules, 2009
+
+page: 4

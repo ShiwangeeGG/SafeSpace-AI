@@ -1,0 +1,70 @@
+occupancy_name: Business
+
+occupancy_category: Office and Administrative Occupancy
+
+description: >
+Business occupancies generally have predictable
+occupant movement patterns, but evacuation becomes
+increasingly complex in high-rise office buildings.
+
+examples:
+
+- Corporate Offices
+- Business Towers
+- IT Parks
+- Government Buildings
+
+occupancy_characteristics:
+
+- Organized workspaces
+- Familiar occupants
+- Multi-floor occupancy
+- High-rise office environments
+
+primary_fire_safety_concerns:
+
+- Staircase congestion
+- Smoke migration
+- Delayed evacuation from upper floors
+- Fire lift dependency
+
+common_fire_risks:
+
+- Blocked escape routes
+- Electrical failures
+- Smoke spread through service shafts
+- Communication failures
+
+evacuation_complexity: High
+
+risk_level: Medium
+
+related_case_studies:
+
+- Times Tower Fire
+
+related_risk_patterns:
+
+- high_rise_risks
+- smoke_spread_risks
+- evacuation_failures
+
+recommended_focus_areas:
+
+- Staircase safety
+- Fire lifts
+- Emergency communication
+- Exit signage
+- Evacuation drills
+
+retrieval_keywords:
+
+- office evacuation
+- high rise office
+- business tower
+- office staircase
+- office emergency
+
+source:
+document: NBC Part 4 Fire and Life Safety
+occupancy_group: Business

@@ -1,0 +1,52 @@
+occupancy_name: Mercantile
+
+occupancy_category: Mercantile Occupancy
+
+description: >
+  Mercantile occupancies require effective
+  crowd management because occupants are
+  often unfamiliar with the building layout
+  and emergency exits.
+
+examples:
+  - Shopping Malls
+  - Department Stores
+  - Supermarkets
+
+occupancy_characteristics:
+  - Public occupancy
+  - Dynamic movement
+  - Peak-hour crowding
+
+primary_fire_safety_concerns:
+  - Exit congestion
+  - Crowd panic
+  - Smoke exposure
+
+common_fire_risks:
+  - Occupancy overload
+  - Blocked exits
+  - Communication failures
+
+evacuation_complexity: High
+
+risk_level: High
+
+related_risk_patterns:
+  - blocked_exits_risks
+  - occupancy_overload_risks
+  - evacuation_failures
+
+recommended_focus_areas:
+  - Emergency communication
+  - Exit signage
+  - Crowd management
+  - Fire drills
+
+retrieval_keywords:
+  - mall evacuation
+  - retail evacuation
+  - customer evacuation
+
+source:
+  document: NBC Part 4 Fire and Life Safety

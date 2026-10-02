@@ -1,0 +1,56 @@
+occupancy_name: Mixed
+
+occupancy_category: Mixed Occupancy
+
+description: >
+  Mixed occupancies combine fire risks from
+  multiple occupancy groups and therefore
+  require integrated fire safety management.
+
+examples:
+  - Residential + Mercantile
+  - Office + Retail
+  - Hotel + Commercial
+  - Mall + Multiplex
+
+occupancy_characteristics:
+  - Multiple hazard sources
+  - Shared systems
+  - Different occupancy patterns
+
+primary_fire_safety_concerns:
+  - Fire spread between occupancies
+  - Smoke migration
+  - Evacuation conflicts
+  - Coordination failures
+
+common_fire_risks:
+  - Compartmentation failures
+  - Smoke spread
+  - Occupancy overload
+  - Maintenance failures
+
+evacuation_complexity: Very High
+
+risk_level: High
+
+related_risk_patterns:
+  - smoke_spread_risks
+  - evacuation_failures
+  - maintenance_failures
+  - occupancy_overload_risks
+  - blocked_exits_risks
+
+recommended_focus_areas:
+  - Compartmentation
+  - Fire protection systems
+  - Smoke management
+  - Occupancy coordination
+
+retrieval_keywords:
+  - mixed occupancy risk
+  - mixed use fire safety
+  - occupancy interaction
+
+source:
+  document: NBC Part 4 Fire and Life Safety

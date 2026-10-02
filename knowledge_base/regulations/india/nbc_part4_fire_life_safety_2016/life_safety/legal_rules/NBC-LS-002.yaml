@@ -1,0 +1,24 @@
+rule_id: NBC-LS-002
+
+title: Means Of Egress Shall Be Continuous
+
+category: Means of Egress
+
+applies_to:
+  - All buildings
+
+requirement:
+  Means of egress shall provide a continuous unobstructed path to a place of safety.
+
+compliance_check:
+  Verify escape routes are uninterrupted.
+
+evidence_required:
+  - Floor plans
+  - Site inspection
+
+risk_if_non_compliant:
+  Occupants may become trapped during evacuation.
+
+source_document:
+  National Building Code of India 2016 Part 4

@@ -1,0 +1,31 @@
+system_component: Fire Alarm Systems
+
+description:
+  An integrated warning system that alerts occupants and emergency responders when fire conditions are detected.
+
+purpose:
+  Notify building occupants to initiate evacuation and emergency response procedures.
+
+why_it_matters:
+  Occupants must receive immediate warning to evacuate safely.
+
+common_fire_risks:
+  - Delayed occupant notification
+  - Alarm system failure
+  - Missed emergency alerts
+  - Evacuation delays
+
+common_compliance_checks:
+  - Alarm audibility verified
+  - Manual call points installed
+  - Alarm panel operational
+  - Backup power available
+
+related_rules:
+  - NBC-PR-002
+  - NBC-PR-003
+
+related_systems:
+  - Fire Detection
+  - Emergency Communication
+  - Fire Command Centre

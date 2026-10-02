@@ -1,0 +1,27 @@
+rule_id: NBC-OCC-003
+
+title: Hotel Occupancy Classification
+
+category: Occupancy Classification
+
+applies_to:
+  - Hotels
+  - Motels
+
+requirement:
+  Buildings providing sleeping accommodation for guests on a commercial basis shall be classified as Residential Occupancy - Hotels.
+
+compliance_check:
+  Verify commercial lodging operation.
+
+evidence_required:
+  - Hotel licence
+  - Building approval records
+
+risk_if_non_compliant:
+  Application of incorrect fire protection standards.
+
+source_document:
+  National Building Code of India 2016 Part 4
+
+page: Occupancy Classification Chapter

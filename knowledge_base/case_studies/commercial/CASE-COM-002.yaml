@@ -1,0 +1,101 @@
+case_id: CASE-COM-002
+
+incident_name: Dreams Mall Hospital Fire
+
+incident_date: 2021-03-26
+
+location:
+city: Mumbai
+state: Maharashtra
+country: India
+
+occupancy_type: Mixed Use Commercial
+
+building_type:
+
+- Shopping Mall
+- Hospital
+- Commercial Complex
+
+incident_type:
+
+- Fire
+
+severity: Critical
+
+fatalities: 11
+
+injuries: 70
+
+summary: >
+A fire originated in the Dreams Mall commercial
+complex and spread smoke into the Sunrise Hospital
+COVID facility located within the building. Most
+fatalities resulted from smoke inhalation among
+vulnerable patients rather than direct flame exposure.
+
+root_causes:
+
+- Electrical fault
+- Fire originating in commercial premises
+- Smoke spread through building systems
+
+fire_safety_failures:
+
+- Inadequate smoke compartmentation
+- Poor smoke management
+- Delayed evacuation of patients
+- Challenges in emergency response coordination
+
+affected_systems:
+
+- Smoke Management
+- Escape Routes
+- Emergency Communication
+- Operational Fire Safety
+
+risk_patterns:
+
+- Mixed occupancy risk
+- Smoke migration
+- Vulnerable occupant population
+- Complex evacuation requirements-
+
+occupancy_risks:
+
+- Hospital patients
+- Limited mobility occupants
+- Mixed-use building operations
+
+fatality_mechanism:
+
+- Smoke Inhalation
+- Respiratory Distress
+
+related_cfo_domains:
+
+- Escape Routes
+- Emergency Communication
+- Fire Protection Systems
+- Operational Fire Safety
+
+related_nbc_domains:
+
+- Institutional Occupancy
+- Fire Protection
+- Smoke Management
+- Life Safety
+
+lessons_learned:
+
+- Improve smoke compartmentation
+- Protect hospitals from adjacent occupancy hazards
+- Enhance evacuation planning for vulnerable occupants
+- Strengthen emergency coordination procedures
+
+prevention_recommendations:
+
+- Smoke extraction systems
+- Compartmentation audits
+- Hospital evacuation drills
+- Continuous fire system monitoring

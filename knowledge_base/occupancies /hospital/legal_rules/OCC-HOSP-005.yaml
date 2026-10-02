@@ -1,0 +1,41 @@
+rule_id: OCC-HOSP-005
+
+occupancy_group: Hospital
+
+rule_category: Occupancy Risk Characteristics
+
+occupancy_definition: >
+Hospitals are high-priority life-safety
+occupancies because fire incidents can affect
+vulnerable occupants who are dependent on
+staff, equipment, and medical infrastructure.
+
+applies_to:
+
+- All Hospital Occupancies
+
+occupancy_characteristics:
+
+- High life-safety importance
+- Continuous operation
+- Complex evacuation requirements
+
+primary_fire_safety_concern:
+Preventing loss of life among vulnerable
+patients during emergencies.
+
+related_nbc_domains:
+
+- Life Safety
+- Fire Protection
+- Smoke Management
+
+retrieval_keywords:
+
+- hospital risk
+- patient safety
+- healthcare fire safety
+
+source:
+document: NBC Part 4 Fire and Life Safety
+occupancy_group: Institutional

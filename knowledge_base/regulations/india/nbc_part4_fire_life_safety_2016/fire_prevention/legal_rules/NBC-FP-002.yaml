@@ -1,0 +1,24 @@
+rule_id: NBC-FP-002
+
+title: Fire Separation Between Buildings
+
+category: Building Separation
+
+applies_to:
+  - All Buildings
+
+requirement:
+  Adequate separation shall be maintained between buildings to reduce external fire spread.
+
+compliance_check:
+  Verify spacing requirements.
+
+evidence_required:
+  - Site plan
+  - Building layout
+
+risk_if_non_compliant:
+  Fire may spread between adjacent buildings.
+
+source_document:
+  National Building Code of India 2016 Part 4

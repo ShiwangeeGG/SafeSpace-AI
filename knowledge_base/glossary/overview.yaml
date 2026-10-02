@@ -1,0 +1,35 @@
+domain: Fire Safety Glossary
+
+description: >
+  The Glossary Layer provides standardized
+  definitions for fire safety terminology
+  used throughout SafeSpace_AI.
+
+supported_categories:
+  - Fire Safety Terms
+  - Fire Protection Terms
+  - Occupancy Terms
+  - High Rise Terms
+  - Risk Assessment Terms
+  - Regulatory Terms
+
+primary_objectives:
+  - Improve terminology understanding
+  - Support AI retrieval accuracy
+  - Standardize definitions
+  - Assist user education
+
+knowledge_sources:
+  - NBC 2016 Part 4 Fire and Life Safety
+  - Mumbai CFO Fire NOC Guidelines
+  - Fire Protection Layer
+  - Occupancy Layer
+  - Risk Pattern Layer
+
+retrieval_priority: High
+
+intended_ai_usage:
+  - Definition Retrieval
+  - User Education
+  - Context Understanding
+  - Cross-Layer Linking

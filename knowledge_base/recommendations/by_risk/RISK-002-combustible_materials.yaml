@@ -1,0 +1,65 @@
+risk_id: RISK-002
+
+risk_name: Combustible Materials
+
+category: Fire Load
+
+risk_level: High
+
+risk_description: >
+Excessive combustible materials increase
+fire intensity and fire spread potential.
+
+why_it_is_dangerous:
+
+- Rapid fire growth
+- High heat release
+- Increased smoke generation
+
+affected_occupancies:
+
+- Storage
+- Mercantile
+- Industrial
+- Assembly
+
+related_compliance_gaps:
+
+- GAP-001-missing_sprinklers
+
+immediate_actions:
+
+- Remove unnecessary combustible materials
+- Improve housekeeping
+
+short_term_actions:
+
+- Review storage practices
+- Separate ignition sources
+
+long_term_actions:
+
+- Reduce fire load
+- Improve suppression coverage
+
+high_priority_systems:
+
+- Sprinkler Systems
+- Fire Detection Systems
+
+related_case_studies:
+
+- Rajkot Gaming Zone Fire
+- Kamala Mills Fire
+
+ai_reasoning_hints:
+
+- Prioritize fuel reduction
+
+retrieval_keywords:
+
+- combustible storage
+- fire load
+
+source:
+document: Risk Patterns Layer

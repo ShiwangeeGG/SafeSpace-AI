@@ -1,0 +1,74 @@
+occupancy_name: Business
+
+occupancy_category: Office and Administrative Occupancy
+
+description: >
+Business occupancies are generally lower risk than
+industrial or assembly occupancies but face significant
+threats from electrical failures, smoke spread, and
+high-rise evacuation challenges.
+
+examples:
+
+- Corporate Offices
+- IT Offices
+- Financial Institutions
+- Administrative Buildings
+
+occupancy_characteristics:
+
+- Extensive electrical infrastructure
+- Open office layouts
+- Large occupant populations
+- High reliance on technology
+
+primary_fire_safety_concerns:
+
+- Electrical ignition sources
+- Smoke migration
+- High-rise fire incidents
+- Operational continuity
+
+common_fire_risks:
+
+- Electrical faults
+- Server room fires
+- Cable tray fires
+- Maintenance deficiencies
+- HVAC equipment failures
+
+evacuation_complexity: Moderate to High
+
+risk_level: Medium
+
+related_case_studies:
+
+- Times Tower Fire
+- Mumbai High Rise Office Fire Incidents
+
+related_risk_patterns:
+
+- electrical_risks
+- maintenance_failures
+- smoke_spread_risks
+- high_rise_risks
+
+recommended_focus_areas:
+
+- Electrical audits
+- Fire alarm systems
+- Smoke management
+- Fire command centres
+- Preventive maintenance
+
+retrieval_keywords:
+
+- office fire risk
+- server room fire
+- electrical fire
+- office safety
+- business building risk
+
+source:
+document: NBC Part 4 Fire and Life Safety
+occupancy_group: Business

@@ -1,0 +1,36 @@
+risk_name: Smoke Spread
+
+severity: Critical
+
+common_causes:
+  - Poor compartmentation
+  - Open shafts
+  - Unsealed penetrations
+  - Inadequate smoke extraction
+
+warning_signs:
+  - Smoke entering staircases
+  - Open service shafts
+  - Damaged fire doors
+
+potential_consequences:
+  - Smoke inhalation
+  - Loss of visibility
+  - Evacuation failure
+  - Fatalities
+
+high_risk_occupancies:
+  - Hospitals
+  - High Rise Buildings
+  - Residential Towers
+
+related_case_studies:
+  - AMRI Hospital Fire
+  - Sunrise Hospital Fire
+  - Crystal Tower Fire
+
+recommended_controls:
+  - Smoke extraction systems
+  - Fire doors
+  - Shaft sealing
+  - Compartmentation audits

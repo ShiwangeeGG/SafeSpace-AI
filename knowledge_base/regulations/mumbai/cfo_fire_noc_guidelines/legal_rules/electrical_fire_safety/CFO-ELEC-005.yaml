@@ -1,0 +1,24 @@
+rule_id: CFO-ELEC-005
+
+title: Copper Core Cable Requirement
+
+category: Electrical Wiring
+
+applies_to:
+  - Fire Safety Systems
+
+requirement:
+  Copper core cables shall be used for designated fire safety installations.
+
+compliance_check:
+  Verify cable material specifications.
+
+evidence_required:
+  - Material certification
+  - Electrical drawings
+
+risk_if_non_compliant:
+  Reduced reliability of critical fire safety systems.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

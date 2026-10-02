@@ -1,0 +1,25 @@
+rule_id: CFO-STAIR-005
+
+title: Staircase Free From Combustible Storage Requirement
+
+category: Housekeeping
+
+applies_to:
+  - Staircases
+  - Staircase Landings
+
+requirement:
+  Combustible materials, storage items, and obstructions shall not be placed within staircases.
+
+compliance_check:
+  Verify staircase remains free from storage.
+
+evidence_required:
+  - Site inspection
+  - Photographs
+
+risk_if_non_compliant:
+  Increased fire load and blocked evacuation routes.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

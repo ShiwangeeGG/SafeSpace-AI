@@ -1,0 +1,37 @@
+rule_id: OCC-RES-003
+
+occupancy_group: Residential
+
+rule_category: High-Rise Residential Occupancies
+
+occupancy_definition: >
+  Residential buildings where building
+  height introduces additional evacuation,
+  smoke management, and firefighting
+  challenges.
+
+applies_to:
+  - High Rise Residential Towers
+  - Residential Skyscrapers
+
+occupancy_characteristics:
+  - Vertical evacuation challenges
+  - Large occupant populations
+  - Dependence on fire protection systems
+
+primary_fire_safety_concern:
+  Smoke management and high-rise evacuation.
+
+related_nbc_domains:
+  - High Rise Buildings
+  - Fire Protection
+  - Fire Lifts
+
+retrieval_keywords:
+  - high rise residential
+  - residential tower
+  - apartment tower
+
+source:
+  document: NBC Part 4 Fire and Life Safety
+  occupancy_group: Residential

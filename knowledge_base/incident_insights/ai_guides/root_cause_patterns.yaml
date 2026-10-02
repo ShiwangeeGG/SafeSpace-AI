@@ -1,0 +1,22 @@
+root_cause_categories:
+
+  ignition_sources:
+    - Electrical Faults
+    - LPG Leaks
+    - Open Flames
+
+  fuel_sources:
+    - Combustible Decorations
+    - Plastic Materials
+    - Storage Overload
+
+  management_failures:
+    - Poor Maintenance
+    - Poor Supervision
+
+most_common_root_cause:
+  Electrical Faults
+
+ai_reasoning_goal: >
+  Identify the underlying causes
+  behind major fire incidents.

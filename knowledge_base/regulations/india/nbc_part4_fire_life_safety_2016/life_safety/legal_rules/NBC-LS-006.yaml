@@ -1,0 +1,23 @@
+rule_id: NBC-LS-006
+
+title: Exit Doors Shall Not Be Locked During Occupancy
+
+category: Exit Doors
+
+applies_to:
+  - Occupied buildings
+
+requirement:
+  Exit doors required for emergency evacuation shall remain openable without special knowledge or tools.
+
+compliance_check:
+  Verify emergency exit operation.
+
+evidence_required:
+  - Inspection records
+
+risk_if_non_compliant:
+  Occupants may become trapped during emergencies.
+
+source_document:
+  National Building Code of India 2016 Part 4

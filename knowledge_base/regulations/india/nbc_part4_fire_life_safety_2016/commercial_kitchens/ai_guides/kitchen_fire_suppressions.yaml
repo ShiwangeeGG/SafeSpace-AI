@@ -1,0 +1,33 @@
+system_component: Kitchen Fire Suppression System
+
+description:
+  An automatic fire suppression system specifically designed to extinguish cooking oil, grease, and appliance fires within commercial kitchens.
+
+purpose:
+  Detect and suppress fires before they spread beyond cooking equipment.
+
+why_it_matters:
+  Commercial cooking fires develop rapidly and often cannot be effectively controlled using ordinary extinguishers alone.
+
+common_fire_risks:
+  - Deep fryer fires
+  - Cooking oil ignition
+  - Grease fires
+  - Appliance overheating
+
+common_compliance_checks:
+  - Suppression system installed
+  - Appliance coverage verified
+  - Nozzle positioning correct
+  - Automatic activation functional
+  - Fuel shutoff interlock operational
+
+related_rules:
+  - NBC-CK-007
+  - NBC-CK-008
+  - NBC-CK-009
+
+related_systems:
+  - Kitchen Exhaust System
+  - LPG Safety
+  - Portable Fire Extinguishers

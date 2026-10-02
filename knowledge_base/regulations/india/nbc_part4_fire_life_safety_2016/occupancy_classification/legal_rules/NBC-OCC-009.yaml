@@ -1,0 +1,28 @@
+rule_id: NBC-OCC-009
+
+title: Industrial Occupancy Classification
+
+category: Occupancy Classification
+
+applies_to:
+  - Manufacturing facilities
+  - Processing plants
+  - Factories
+
+requirement:
+  Buildings used for fabrication, assembly, manufacturing, or processing operations shall be classified as Industrial Occupancy.
+
+compliance_check:
+  Verify industrial processes are carried out.
+
+evidence_required:
+  - Factory licence
+  - Operational records
+
+risk_if_non_compliant:
+  Fire protection measures may not address industrial hazards.
+
+source_document:
+  National Building Code of India 2016 Part 4
+
+page: Occupancy Classification Chapter

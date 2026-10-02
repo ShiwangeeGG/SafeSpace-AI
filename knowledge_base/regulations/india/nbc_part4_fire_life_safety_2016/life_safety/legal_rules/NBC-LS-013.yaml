@@ -1,0 +1,24 @@
+rule_id: NBC-LS-013
+
+title: Emergency Lighting Shall Be Provided On Escape Routes
+
+category: Emergency Lighting
+
+applies_to:
+  - Buildings requiring emergency evacuation
+
+requirement:
+  Emergency lighting shall illuminate means of egress during power failure.
+
+compliance_check:
+  Verify emergency lighting operation.
+
+evidence_required:
+  - Testing records
+  - Site inspection
+
+risk_if_non_compliant:
+  Occupants may be unable to evacuate safely.
+
+source_document:
+  National Building Code of India 2016 Part 4

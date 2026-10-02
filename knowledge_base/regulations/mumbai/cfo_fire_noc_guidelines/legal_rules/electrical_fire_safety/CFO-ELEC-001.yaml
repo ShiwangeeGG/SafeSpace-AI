@@ -1,0 +1,25 @@
+rule_id: CFO-ELEC-001
+
+title: Dedicated Electrical Shaft Requirement
+
+category: Electrical Infrastructure
+
+applies_to:
+  - Multi-storey Buildings
+  - High Rise Buildings
+
+requirement:
+  Electrical services shall be routed through dedicated electrical shafts.
+
+compliance_check:
+  Verify dedicated electrical shaft availability.
+
+evidence_required:
+  - Electrical drawings
+  - Site inspection
+
+risk_if_non_compliant:
+  Fire may spread through mixed service routes and maintenance access may be compromised.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

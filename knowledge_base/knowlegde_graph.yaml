@@ -1,0 +1,301 @@
+graph_id: KB-GRAPH-001
+
+graph_name: SafeSpace_AI Fire Safety Knowledge Graph
+
+description: >
+  Defines semantic relationships between
+  occupancies, risks, regulations,
+  incidents, fire safety systems,
+  recommendations, and local context.
+  Used to support multi-hop retrieval
+  and AI reasoning.
+
+entity_types:
+
+  - Occupancy
+  - Risk
+  - Regulation
+  - Recommendation
+  - FireSystem
+  - Incident
+  - Location
+  - ComplianceGap
+
+core_relationships:
+
+  occupancy_to_risk:
+
+    hospital:
+      - smoke_spread_risks
+      - evacuation_failures
+      - maintenance_failures
+
+    assembly:
+      - occupancy_overload
+      - blocked_exits_risks
+      - evacuation_failures
+
+    educational:
+      - occupancy_overload
+      - blocked_exits_risks
+
+    mercantile:
+      - occupancy_overload
+      - combustible_materials
+
+    residential:
+      - smoke_spread_risks
+      - staircase_safety
+      - electrical_risks
+
+    industrial:
+      - hazardous_material_risks
+      - electrical_risks
+
+    storage:
+      - combustible_materials
+      - smoke_spread_risks
+
+    hazardous:
+      - hazardous_material_risks
+      - explosion_risks
+
+occupancy_to_system:
+
+  hospital:
+    - fire_alarm_systems
+    - sprinkler_systems
+    - smoke_management_systems
+    - emergency_communication
+
+  assembly:
+    - fire_alarm_systems
+    - emergency_lighting
+    - public_address_system
+
+  residential:
+    - fire_alarm_systems
+    - staircase_safety
+    - refuge_areas
+
+  mercantile:
+    - fire_alarm_systems
+    - sprinkler_systems
+    - smoke_management_systems
+
+  industrial:
+    - hydrant_system
+    - sprinkler_systems
+    - emergency_shutdown_systems
+
+risk_to_system:
+
+  smoke_spread_risks:
+    - smoke_management_systems
+    - compartmentation
+    - fire_doors
+
+  blocked_exits_risks:
+    - means_of_escape
+    - emergency_lighting
+    - exit_signage
+
+  occupancy_overload:
+    - occupant_load_management
+    - emergency_evacuation_planning
+
+  electrical_risks:
+    - electrical_fire_safety
+    - fire_alarm_systems
+
+  maintenance_failures:
+    - preventive_maintenance_program
+
+  hazardous_material_risks:
+    - gas_detection_systems
+    - emergency_shutdown_systems
+
+system_to_regulation:
+
+  fire_alarm_systems:
+    - NBC_2016_Part_4
+    - Mumbai_CFO_Guidelines
+
+  sprinkler_systems:
+    - NBC_2016_Part_4
+    - Maharashtra_Fire_Rules
+
+  fire_lifts:
+    - NBC_2016_Part_4
+    - Mumbai_CFO_Guidelines
+
+  refuge_areas:
+    - NBC_2016_Part_4
+    - Mumbai_CFO_Guidelines
+
+  smoke_management_systems:
+    - NBC_2016_Part_4
+
+  emergency_communication:
+    - NBC_2016_Part_4
+
+compliance_gap_to_recommendation:
+
+  missing_sprinklers:
+    - install_automatic_sprinkler_system
+
+  missing_fire_alarm:
+    - install_addressable_fire_alarm_system
+
+  blocked_exits:
+    - remove_obstructions
+    - improve_exit_management
+
+  inadequate_staircases:
+    - increase_staircase_capacity
+
+  missing_refuge_area:
+    - create_refuge_area
+
+  no_fire_lift:
+    - install_fire_lift
+
+  no_smoke_management:
+    - install_smoke_extraction_system
+
+incident_to_risk:
+
+  kamala_mills_fire:
+    - occupancy_overload
+    - blocked_exits_risks
+    - combustible_materials
+    - evacuation_failures
+
+  rajkot_gaming_zone_fire:
+    - combustible_materials
+    - occupancy_overload
+    - blocked_exits_risks
+
+  dreams_mall_fire:
+    - maintenance_failures
+    - smoke_spread_risks
+    - electrical_risks
+
+  amri_hospital_fire:
+    - smoke_spread_risks
+    - evacuation_failures
+    - maintenance_failures
+
+  kumbakonam_school_fire:
+    - combustible_materials
+    - blocked_exits_risks
+    - evacuation_failures
+
+location_to_incident:
+
+  mumbai:
+    - kamala_mills_fire
+    - dreams_mall_fire
+    - times_tower_fire
+
+  maharashtra:
+    - kamala_mills_fire
+    - rajkot_gaming_zone_fire
+    - dreams_mall_fire
+
+location_to_risk:
+
+  mumbai:
+    - occupancy_overload
+    - blocked_exits_risks
+    - smoke_spread_risks
+    - electrical_risks
+
+  maharashtra:
+    - high_rise_risks
+    - industrial_fire_risks
+
+recommendation_chains:
+
+  blocked_exit_chain:
+
+    risk:
+      blocked_exits_risks
+
+    consequences:
+      - evacuation_failures
+      - fatality_risk
+
+    recommendations:
+      - clear_exit_routes
+      - install_exit_signage
+      - conduct_evacuation_drills
+
+  smoke_spread_chain:
+
+    risk:
+      smoke_spread_risks
+
+    consequences:
+      - occupant_asphyxiation
+      - delayed_evacuation
+
+    recommendations:
+      - install_smoke_management_system
+      - improve_compartmentation
+      - maintain_fire_doors
+
+  electrical_fire_chain:
+
+    risk:
+      electrical_risks
+
+    consequences:
+      - ignition
+      - fire_spread
+
+    recommendations:
+      - electrical_audits
+      - preventive_maintenance
+      - thermal_scanning
+
+retrieval_paths:
+
+  compliance_assessment:
+
+    flow:
+      - occupancy
+      - regulation
+      - compliance_gap
+      - recommendation
+
+  risk_assessment:
+
+    flow:
+      - occupancy
+      - risk
+      - incident_insight
+      - recommendation
+
+  incident_analysis:
+
+    flow:
+      - incident
+      - risk
+      - recommendation
+
+  local_guidance:
+
+    flow:
+      - location
+      - regulation
+      - occupancy
+      - recommendation
+
+ai_reasoning_goal: >
+  Enable SafeSpace_AI to connect
+  occupancies, regulations, incidents,
+  risks, systems, compliance gaps,
+  and recommendations through
+  structured relationships and
+  multi-hop retrieval.

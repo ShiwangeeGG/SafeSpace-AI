@@ -1,0 +1,59 @@
+system_id: SYS-002
+
+system_name: Sprinkler System
+
+category: Fire Suppression
+
+criticality_level: Critical
+
+system_purpose: >
+  Automatically suppress fire during
+  the early growth stage.
+
+why_it_is_important:
+  - Controls fire growth
+  - Reduces smoke production
+  - Protects life and property
+
+affected_occupancies:
+  - High Rise Buildings
+  - Mercantile
+  - Hospital
+  - Industrial
+
+common_failure_modes:
+  - Closed valves
+  - Corroded piping
+  - Inadequate water supply
+
+related_compliance_gaps:
+  - GAP-001-missing_sprinklers
+
+immediate_actions:
+  - Verify valve positions
+  - Check water supply
+
+short_term_actions:
+  - Inspect sprinkler heads
+  - Conduct flow testing
+
+long_term_actions:
+  - Implement maintenance program
+
+inspection_focus:
+  - Sprinkler heads
+  - Valves
+  - Water supply
+
+related_case_studies:
+  - Dreams Mall Fire
+
+ai_reasoning_hints:
+  - One of the highest-value life safety systems
+
+retrieval_keywords:
+  - sprinkler
+  - suppression system
+
+source:
+  document: NBC Part 4 Fire and Life Safety

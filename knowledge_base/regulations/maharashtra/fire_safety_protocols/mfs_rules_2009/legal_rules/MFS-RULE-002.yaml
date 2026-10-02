@@ -1,0 +1,27 @@
+rule_id: MFS-RULE-002
+
+title: Maintenance Certificates Must Be Issued Twice Annually
+
+category: Maintenance
+
+applies_to:
+  - Licensed Agencies
+  - Building Owners
+
+requirement:
+  Maintenance certificates shall be issued twice every year in January and July.
+
+compliance_check:
+  Verify January and July certificates exist.
+
+evidence_required:
+  - Form-B certificate
+  - Maintenance records
+
+risk_if_non_compliant:
+  Failure to demonstrate maintenance compliance.
+
+source_document:
+  Maharashtra Fire Prevention and Life Safety Measures Rules, 2009
+
+page: 4

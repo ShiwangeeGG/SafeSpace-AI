@@ -1,0 +1,32 @@
+system_component: Fire Compartmentation
+
+description:
+  A passive fire protection strategy that divides a building into fire-resistant compartments to limit the spread of fire and smoke.
+
+purpose:
+  Contain fire within a defined area and protect evacuation routes.
+
+why_it_matters:
+  Effective compartmentation can significantly delay fire spread and provide additional evacuation time.
+
+common_fire_risks:
+  - Smoke migration
+  - Fire spread between floors
+  - Compartment breaches
+  - Unprotected openings
+
+common_compliance_checks:
+  - Fire compartment walls installed
+  - Fire-rated barriers maintained
+  - Protected openings provided
+  - Fire stopping completed
+
+related_rules:
+  - NBC-FP-004
+  - NBC-FP-005
+  - NBC-FP-007
+
+related_systems:
+  - Fire Resistance
+  - Shafts and Penetrations
+  - Fire Doors

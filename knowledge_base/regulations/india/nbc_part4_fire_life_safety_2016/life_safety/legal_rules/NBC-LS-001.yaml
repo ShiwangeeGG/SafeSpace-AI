@@ -1,0 +1,26 @@
+rule_id: NBC-LS-001
+
+title: Occupant Load Must Determine Exit Capacity
+
+category: Occupant Load
+
+applies_to:
+  - All buildings
+
+requirement:
+  Occupant load shall be calculated to determine the number and width of exits required.
+
+compliance_check:
+  Verify occupant load calculations are available.
+
+evidence_required:
+  - Occupancy calculations
+  - Approved plans
+
+risk_if_non_compliant:
+  Exits may be undersized during evacuation.
+
+source_document:
+  National Building Code of India 2016 Part 4
+
+section: Life Safety

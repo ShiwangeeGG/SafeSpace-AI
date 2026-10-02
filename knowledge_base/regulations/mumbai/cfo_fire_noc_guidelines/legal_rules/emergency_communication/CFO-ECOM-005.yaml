@@ -1,0 +1,24 @@
+rule_id: CFO-ECOM-005
+
+title: Emergency Messaging Capability Requirement
+
+category: Emergency Communication
+
+applies_to:
+  - Buildings with emergency communication systems
+
+requirement:
+  Emergency communication systems shall support dissemination of emergency instructions and status updates.
+
+compliance_check:
+  Verify emergency messaging functionality.
+
+evidence_required:
+  - System documentation
+  - Testing reports
+
+risk_if_non_compliant:
+  Occupants may not receive critical emergency information.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

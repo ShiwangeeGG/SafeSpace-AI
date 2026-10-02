@@ -1,0 +1,24 @@
+rule_id: NBC-CK-007
+
+title: Kitchen Fire Suppression System Requirement
+
+category: Fire Suppression
+
+applies_to:
+  - Commercial Kitchens
+
+requirement:
+  Commercial cooking operations shall be protected by an automatic fire suppression system.
+
+compliance_check:
+  Verify suppression system installation.
+
+evidence_required:
+  - Fire suppression certificate
+  - Site inspection
+
+risk_if_non_compliant:
+  Uncontrolled cooking fires.
+
+source_document:
+  National Building Code of India 2016 Part 4 Annex G

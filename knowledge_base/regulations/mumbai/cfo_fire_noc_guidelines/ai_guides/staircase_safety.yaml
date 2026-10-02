@@ -1,0 +1,57 @@
+system_component: Staircase Safety
+
+description:
+  Staircase safety consists of fire-resistant construction, smoke protection measures, ventilation systems, and operational controls that ensure staircases remain usable during fire emergencies.
+
+purpose:
+  Provide protected evacuation routes for occupants and emergency access routes for firefighters.
+
+why_it_matters:
+  Staircases are often the primary means of evacuation during fires. If smoke or fire enters staircases, occupants may lose their safest escape route.
+
+common_fire_risks:
+  - Smoke infiltration
+  - Fire spread into staircases
+  - Blocked evacuation routes
+  - Combustible storage in stairwells
+  - Ventilation failure
+  - Inaccessible emergency exits
+
+common_compliance_checks:
+  - Staircases enclosed
+  - Pressurization systems operational
+  - Emergency ventilation available
+  - Ventilation openings functional
+  - No combustible storage present
+  - Smoke check lobbies installed
+  - Fire separation maintained
+  - Terrace access available
+  - Maintenance records available
+
+critical_safety_features:
+  - Enclosed Staircases
+  - Staircase Pressurization
+  - Smoke Check Lobbies
+  - Emergency Ventilation
+  - Fire Rated Doors
+  - Fire Resistant Walls
+  - Terrace Access Routes
+
+related_rules:
+  - CFO-STAIR-001
+  - CFO-STAIR-002
+  - CFO-STAIR-003
+  - CFO-STAIR-004
+  - CFO-STAIR-005
+  - CFO-STAIR-006
+  - CFO-STAIR-007
+  - CFO-STAIR-008
+  - CFO-STAIR-009
+
+related_systems:
+  - Escape Routes
+  - Refuge Areas
+  - Fire Lifts
+  - Smoke Management
+  - Emergency Communication
+  - Fire Brigade Operations 

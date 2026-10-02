@@ -1,0 +1,39 @@
+occupancy_type: Assembly
+
+description:
+  Buildings where large groups gather for social, recreational, religious, cultural, or entertainment purposes.
+
+examples:
+  - Auditoriums
+  - Cinemas
+  - Stadiums
+  - Restaurants
+  - Marriage Halls
+  - Places of Worship
+
+primary_fire_risks:
+  - Overcrowding
+  - Panic during emergencies
+  - Decorative combustible materials
+  - Temporary electrical installations
+
+typical_occupants:
+  - General public
+  - Visitors
+  - Event participants
+
+critical_life_safety_focus:
+  - Occupant load management
+  - Exit capacity
+  - Crowd evacuation
+  - Public announcements
+
+commonly_required_systems:
+  - Fire alarms
+  - Public address systems
+  - Emergency lighting
+  - Fire extinguishers
+  - Sprinklers (where applicable)
+
+related_nbc_rules:
+  - NBC-OCC-006

@@ -1,0 +1,45 @@
+rule_id: OCC-INS-001
+
+occupancy_group: Institutional
+
+rule_category: Occupancy Definition
+
+occupancy_definition: >
+  Buildings used for the care, custody,
+  treatment, supervision, rehabilitation,
+  or housing of persons who may require
+  assistance during emergencies.
+
+applies_to:
+  - Hostels
+  - Dormitories
+  - Old Age Homes
+  - Orphanages
+  - Rehabilitation Centres
+  - Care Facilities
+  - Correctional Facilities
+
+occupancy_characteristics:
+  - Assisted occupants
+  - Sleeping accommodation
+  - Continuous occupancy
+  - Staff supervision
+
+primary_fire_safety_concern:
+  Safe evacuation of occupants requiring
+  assistance during emergencies.
+
+related_nbc_domains:
+  - Institutional Occupancy
+  - Means of Escape
+  - Life Safety
+
+retrieval_keywords:
+  - institutional occupancy
+  - hostel
+  - old age home
+  - dormitory
+
+source:
+  document: NBC Part 4 Fire and Life Safety
+  occupancy_group: Institutional

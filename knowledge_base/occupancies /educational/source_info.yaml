@@ -1,0 +1,53 @@
+source_id: OCC-EDU-SRC-001
+
+source_name: Educational Occupancy Knowledge Base
+
+occupancy_group: Educational
+
+regulatory_source:
+
+- NBC 2016 Part 4 Fire and Life Safety
+
+purpose: >
+Define educational occupancies and provide
+fire safety intelligence for schools, colleges,
+universities, coaching institutes, and
+training facilities.
+
+applies_to:
+
+- Schools
+- Colleges
+- Universities
+- Coaching Centres
+- Training Institutes
+- Research Institutions
+
+primary_fire_safety_focus:
+
+- Student Safety
+- Child Evacuation
+- Occupancy Management
+- Emergency Preparedness
+
+related_risk_patterns:
+
+- evacuation_failures
+- occupancy_overload_risks
+- combustible_materials
+- electrical_risks
+
+related_case_studies:
+
+- Surat Coaching Centre Fire
+- Kumbakonam School Fire
+- Dabwali School Fire
+
+retrieval_priority: High
+
+intended_ai_usage:
+
+- Occupancy Classification
+- Educational Safety Assessment
+- Fire Risk Identification
+- Compliance Support

@@ -1,0 +1,24 @@
+rule_id: CFO-ER-008
+
+title: Escape Route Maintenance Requirement
+
+category: Maintenance
+
+applies_to:
+  - All Escape Routes
+
+requirement:
+  Escape routes and associated life safety systems shall be regularly inspected and maintained.
+
+compliance_check:
+  Verify maintenance records.
+
+evidence_required:
+  - Maintenance logs
+  - Inspection reports
+
+risk_if_non_compliant:
+  Escape routes may become ineffective during emergencies.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

@@ -1,0 +1,24 @@
+rule_id: NBC-PR-003
+
+title: Manual Call Point Requirement
+
+category: Fire Alarm
+
+applies_to:
+  - Buildings with fire alarm systems
+
+requirement:
+  Manual call points shall be provided for occupant-initiated fire alarm activation.
+
+compliance_check:
+  Verify MCP accessibility and functionality.
+
+evidence_required:
+  - Alarm system drawings
+  - Testing reports
+
+risk_if_non_compliant:
+  Delayed reporting of fire incidents.
+
+source_document:
+  National Building Code of India 2016 Part 4

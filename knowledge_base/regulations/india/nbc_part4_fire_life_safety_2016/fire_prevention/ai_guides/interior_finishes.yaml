@@ -1,0 +1,31 @@
+system_component: Interior Finishes
+
+description:
+  Wall, ceiling, floor, decorative, and finishing materials installed within occupied spaces that may influence fire growth and smoke production.
+
+purpose:
+  Reduce flame spread and limit smoke generation during fire incidents.
+
+why_it_matters:
+  Combustible interior finishes can accelerate fire development and increase occupant risk.
+
+common_fire_risks:
+  - Rapid flame spread
+  - High smoke generation
+  - Toxic combustion products
+  - Concealed fire spread
+
+common_compliance_checks:
+  - Flame spread ratings verified
+  - Approved finish materials used
+  - False ceiling compliance verified
+  - Decorative materials assessed
+
+related_rules:
+  - NBC-FP-008
+  - NBC-FP-009
+
+related_systems:
+  - Fire Resistance
+  - Means of Egress
+  - Occupant Safety

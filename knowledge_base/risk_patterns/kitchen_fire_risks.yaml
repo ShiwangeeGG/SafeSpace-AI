@@ -1,0 +1,52 @@
+risk_name: Commercial Kitchen Fire Risks
+
+severity: High
+
+description:
+  Risks arising from cooking operations,
+  fuel sources, grease accumulation,
+  and kitchen equipment.
+
+common_causes:
+  - Cooking oil ignition
+  - Grease buildup
+  - LPG leakage
+  - Open flames
+  - Equipment malfunction
+
+warning_signs:
+  - Dirty exhaust ducts
+  - Grease accumulation
+  - Damaged gas connections
+  - Missing suppression systems
+
+potential_consequences:
+  - Rapid localized fire growth
+  - Smoke spread
+  - Fire spread to dining areas
+  - Property damage
+
+high_risk_occupancies:
+  - Restaurants
+  - Hotels
+  - Food Courts
+  - Institutional Kitchens
+
+related_case_studies:
+  - Kamala Mills Fire
+  - Kumbakonam School Fire
+
+related_regulatory_domains:
+  - Commercial Kitchens
+  - Fire Protection
+  - Fire Prevention
+  - Operational Fire Safety
+
+recommended_controls:
+  - Clean exhaust systems
+  - Install kitchen suppression systems
+  - Inspect LPG systems
+  - Train kitchen staff
+  - Maintain extinguishers
+
+risk_score_impact: High

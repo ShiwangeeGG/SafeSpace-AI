@@ -1,0 +1,31 @@
+system_component: Smoke Management
+
+description:
+  Systems designed to control, contain, or remove smoke from high-rise buildings during fire emergencies.
+
+purpose:
+  Maintain safe evacuation routes and support firefighting operations.
+
+why_it_matters:
+  Smoke is the primary cause of fire-related fatalities and can render evacuation routes unusable.
+
+common_fire_risks:
+  - Smoke inhalation
+  - Reduced visibility
+  - Staircase contamination
+  - Evacuation delays
+
+common_compliance_checks:
+  - Smoke extraction operational
+  - Staircase pressurization functional
+  - Control systems tested
+  - Smoke zones maintained
+
+related_rules:
+  - NBC-HR-007
+  - NBC-HR-008
+
+related_systems:
+  - Fire Fighting Shaft
+  - Fire Detection
+  - Fire Command Centre

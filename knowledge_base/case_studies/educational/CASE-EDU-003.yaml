@@ -1,0 +1,111 @@
+case_id: CASE-EDU-003
+
+incident_name: Kumbakonam School Fire
+
+incident_date: 2004-07-16
+
+location:
+city: Kumbakonam
+state: Tamil Nadu
+country: India
+
+occupancy_type: Educational
+
+building_type:
+
+- Primary School
+
+incident_type:
+
+- Fire
+
+severity: Catastrophic
+
+fatalities: 94
+
+injuries: 18
+
+summary: >
+A fire started in a school kitchen and rapidly spread
+to classrooms through highly combustible thatched
+roofing. Young students became trapped inside
+overcrowded classrooms, resulting in one of India's
+deadliest school fire disasters.
+
+root_causes:
+
+- Kitchen fire
+- Open flame cooking activity
+- Combustible thatched roofing
+- Rapid fire spread to classrooms
+
+fire_safety_failures:
+
+- Combustible construction materials
+- Inadequate exits
+- Overcrowded classrooms
+- Poor emergency preparedness
+- Lack of fire protection systems
+
+affected_systems:
+
+- Fire Prevention
+- Escape Routes
+- Operational Fire Safety
+- Educational Occupancy Safety
+
+risk_patterns:
+
+- Kitchen fire exposure
+- Combustible roofing
+- Child evacuation challenges
+- Occupancy overload
+- Delayed evacuation
+
+occupancy_risks:
+
+- Young children
+- Limited emergency awareness
+- High classroom density
+- Single building evacuation dependency
+
+fatality_mechanism:
+
+- Burns
+- Smoke Inhalation
+
+related_cfo_domains:
+
+- Escape Routes
+- Operational Fire Safety
+- Fire Protection Systems
+
+related_nbc_domains:
+
+- Educational Occupancy
+- Fire Prevention
+- Means of Escape
+- Life Safety
+
+lessons_learned:
+
+- Eliminate combustible roofing materials
+- Separate kitchens from classrooms
+- Improve school evacuation planning
+- Install fire protection systems
+- Reduce classroom overcrowding
+
+prevention_recommendations:
+
+- Fire-resistant construction
+- Fire alarms
+- School fire drills
+- Kitchen fire suppression systems
+- Emergency exits
+
+search_keywords:
+
+- Kumbakonam School Fire
+- School Kitchen Fire
+- Educational Occupancy Fire
+- Child Evacuation Fire

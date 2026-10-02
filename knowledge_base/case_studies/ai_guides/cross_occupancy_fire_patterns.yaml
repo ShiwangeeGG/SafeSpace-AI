@@ -1,0 +1,39 @@
+domain: Cross Occupancy Fire Patterns
+
+common_causes:
+  - Electrical faults
+  - Human negligence
+  - Poor maintenance
+  - Combustible materials
+  - Unauthorized modifications
+
+common_failures:
+  - Blocked exits
+  - Missing fire protection systems
+  - Delayed evacuation
+  - Poor emergency communication
+  - Lack of training
+
+common_fatality_causes:
+  - Smoke inhalation
+  - Entrapment
+  - Burns
+
+high_risk_conditions:
+  - Overcrowding
+  - Lack of inspections
+  - Inadequate maintenance
+  - Obstructed evacuation routes
+
+recommended_controls:
+  - Fire Drills
+  - Fire Alarm Systems
+  - Occupancy Management
+  - Maintenance Programs
+  - Emergency Response Planning
+
+most_affected_systems:
+  - Escape Routes
+  - Fire Protection Systems
+  - Emergency Communication
+  - Operational Fire Safety

@@ -1,0 +1,24 @@
+rule_id: NBC-LS-003
+
+title: Exits Shall Be Clearly Identifiable
+
+category: Exits
+
+applies_to:
+  - All buildings
+
+requirement:
+  Exit routes shall be clearly marked and easily identifiable.
+
+compliance_check:
+  Verify exit signage is installed.
+
+evidence_required:
+  - Site photographs
+  - Inspection report
+
+risk_if_non_compliant:
+  Delayed evacuation during emergencies.
+
+source_document:
+  National Building Code of India 2016 Part 4

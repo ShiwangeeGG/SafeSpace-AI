@@ -1,0 +1,87 @@
+occupancy_name: Assembly
+
+occupancy_category: Public Gathering Occupancy
+
+description: >
+Buildings or portions of buildings where groups of
+people gather for entertainment, recreation, social,
+religious, cultural, transportation, dining, or
+similar purposes.
+
+examples:
+
+- Auditoriums
+- Cinemas
+- Theatres
+- Restaurants
+- Banquet Halls
+- Marriage Halls
+- Convention Centres
+- Exhibition Halls
+- Religious Buildings
+- Stadiums
+- Airport Passenger Terminals
+- Railway Stations
+
+occupancy_characteristics:
+
+- High occupant density
+- Public access
+- Dynamic crowd movement
+- Event-based occupancy variation
+- Large gathering potential
+
+primary_fire_safety_concerns:
+
+- Mass evacuation
+- Crowd management
+- Exit accessibility
+- Smoke control
+- Occupancy overload
+
+common_fire_risks:
+
+- Blocked exits
+- Occupancy overload
+- Combustible decorations
+- Kitchen fires
+- Electrical faults
+
+evacuation_complexity: Very High
+
+risk_level: High
+
+related_case_studies:
+
+- Kamala Mills Fire
+- Rajkot Gaming Zone Fire
+- Dabwali School Fire
+
+related_risk_patterns:
+
+- blocked_exits_risks
+- occupancy_overload_risks
+- combustible_materials
+- evacuation_failures
+
+recommended_focus_areas:
+
+- Exit management
+- Occupancy control
+- Emergency communication
+- Fire alarm systems
+- Fire drills
+
+retrieval_keywords:
+
+- assembly occupancy
+- auditorium
+- banquet hall
+- cinema
+- stadium
+- restaurant
+- public gathering
+
+source:
+document: NBC Part 4 Fire and Life Safety
+occupancy_group: Assembly

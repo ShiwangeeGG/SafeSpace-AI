@@ -1,0 +1,23 @@
+rule_id: NBC-PR-012
+
+title: Fire Water Supply Shall Remain Available
+
+category: Water Storage
+
+applies_to:
+  - Buildings with fire water tanks
+
+requirement:
+  Fire water reserves shall remain available and protected from unauthorized use.
+
+compliance_check:
+  Verify tank levels and isolation.
+
+evidence_required:
+  - Tank inspection records
+
+risk_if_non_compliant:
+  Firefighting water shortage.
+
+source_document:
+  National Building Code of India 2016 Part 4

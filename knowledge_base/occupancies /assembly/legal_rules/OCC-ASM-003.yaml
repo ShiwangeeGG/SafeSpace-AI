@@ -1,0 +1,42 @@
+rule_id: OCC-ASM-003
+
+occupancy_group: Assembly
+
+rule_category: Dining and Gathering Occupancies
+
+occupancy_definition: >
+  Buildings or spaces used for dining,
+  banquets, social gatherings, and food service.
+
+applies_to:
+  - Restaurants
+  - Banquet Halls
+  - Marriage Halls
+  - Party Venues
+  - Convention Centres
+
+occupancy_characteristics:
+  - Variable occupant loads
+  - Kitchen fire exposure
+  - Crowd congestion risks
+
+primary_fire_safety_concern:
+  Simultaneous management of evacuation and
+  commercial kitchen fire hazards.
+
+related_nbc_domains:
+  - Means of Escape
+  - Commercial Kitchens
+  - Occupancy Classification
+
+retrieval_keywords:
+  - restaurant
+  - banquet hall
+  - marriage hall
+  - convention centre
+  - party venue
+
+source:
+  document: NBC Part 4 Fire and Life Safety
+  section: Occupancy Classification
+  occupancy_group: Assembly

@@ -1,0 +1,46 @@
+rule_id: OCC-IND-001
+
+occupancy_group: Industrial
+
+rule_category: Occupancy Definition
+
+occupancy_definition: >
+Buildings used for manufacturing, assembly,
+fabrication, processing, repair, packaging,
+or similar industrial operations.
+
+applies_to:
+
+- Factories
+- Manufacturing Plants
+- Assembly Units
+- Processing Facilities
+- Production Workshops
+
+occupancy_characteristics:
+
+- Machinery-intensive operations
+- Process-driven activities
+- Industrial equipment usage
+- Moderate to high fire loads
+
+primary_fire_safety_concern:
+Prevention of industrial fires and protection
+of workers and production facilities.
+
+related_nbc_domains:
+
+- Industrial Occupancy
+- Fire Prevention
+- Fire Protection
+
+retrieval_keywords:
+
+- factory
+- manufacturing
+- production plant
+- industrial occupancy
+
+source:
+document: NBC Part 4 Fire and Life Safety
+occupancy_group: Industrial

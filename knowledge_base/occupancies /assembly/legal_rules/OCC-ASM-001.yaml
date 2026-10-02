@@ -1,0 +1,43 @@
+rule_id: OCC-ASM-001
+
+occupancy_group: Assembly
+
+rule_category: Occupancy Definition
+
+occupancy_definition: >
+  Buildings or portions of buildings where groups
+  of people gather for entertainment, recreation,
+  social, religious, travel, or similar purposes.
+
+applies_to:
+  - Auditoriums
+  - Assembly Halls
+  - Exhibition Halls
+  - Community Halls
+  - Religious Buildings
+
+occupancy_characteristics:
+  - Large occupant load
+  - Public access
+  - High evacuation demand
+  - Event-based crowding
+
+primary_fire_safety_concern:
+  Safe evacuation of large numbers of occupants.
+
+related_nbc_domains:
+  - Means of Escape
+  - Life Safety
+  - Occupancy Classification
+
+retrieval_keywords:
+  - assembly occupancy
+  - public gathering
+  - assembly hall
+  - auditorium
+  - religious building
+
+source:
+  document: NBC Part 4 Fire and Life Safety
+  section: Occupancy Classification
+  occupancy_group: Assembly

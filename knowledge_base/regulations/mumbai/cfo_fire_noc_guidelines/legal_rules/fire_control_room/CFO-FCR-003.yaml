@@ -1,0 +1,24 @@
+rule_id: CFO-FCR-003
+
+title: Fire Protection System Monitoring Requirement
+
+category: Monitoring Systems
+
+applies_to:
+  - Buildings with Fire Control Rooms
+
+requirement:
+  Fire protection systems shall provide status monitoring within the Fire Control Room.
+
+compliance_check:
+  Verify monitoring interfaces and status indicators.
+
+evidence_required:
+  - System integration documentation
+  - Testing reports
+
+risk_if_non_compliant:
+  Fire safety system failures may go unnoticed.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

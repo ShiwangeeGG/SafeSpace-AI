@@ -1,0 +1,58 @@
+system_id: SYS-001
+
+system_name: Fire Alarm System
+
+category: Detection and Warning
+
+criticality_level: Critical
+
+system_purpose: >
+  Detect fire at the earliest stage and
+  notify occupants for evacuation.
+
+why_it_is_important:
+  - Early fire detection
+  - Faster evacuation
+  - Reduced casualties
+
+affected_occupancies:
+  - All Occupancies
+
+common_failure_modes:
+  - Disabled detectors
+  - Faulty panels
+  - Power failure
+
+related_compliance_gaps:
+  - GAP-003-missing_fire_alarm
+
+immediate_actions:
+  - Verify panel status
+  - Test manual call points
+
+short_term_actions:
+  - Replace faulty detectors
+  - Inspect wiring
+
+long_term_actions:
+  - Establish monthly testing schedule
+  - Upgrade obsolete equipment
+
+inspection_focus:
+  - Detectors
+  - MCPs
+  - Alarm sounders
+  - Control panel
+
+related_case_studies:
+  - AMRI Hospital Fire
+
+ai_reasoning_hints:
+  - Treat alarm failure as life safety issue
+
+retrieval_keywords:
+  - fire alarm
+  - smoke detector
+
+source:
+  document: NBC Part 4 Fire and Life Safety

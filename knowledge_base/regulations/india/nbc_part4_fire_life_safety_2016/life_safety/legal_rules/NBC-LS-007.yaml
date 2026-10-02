@@ -1,0 +1,24 @@
+rule_id: NBC-LS-007
+
+title: Staircases Shall Form Part Of Means Of Egress
+
+category: Staircases
+
+applies_to:
+  - Multi-storey buildings
+
+requirement:
+  Staircases intended for evacuation shall form a protected means of egress.
+
+compliance_check:
+  Verify staircase enclosure and protection.
+
+evidence_required:
+  - Floor plans
+  - Site inspection
+
+risk_if_non_compliant:
+  Smoke ingress and evacuation failure.
+
+source_document:
+  National Building Code of India 2016 Part 4

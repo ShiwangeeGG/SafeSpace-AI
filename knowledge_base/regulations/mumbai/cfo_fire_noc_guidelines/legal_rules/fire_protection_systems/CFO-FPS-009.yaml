@@ -1,0 +1,24 @@
+rule_id: CFO-FPS-009
+
+title: External Hydrant Requirement
+
+category: Hydrant System
+
+applies_to:
+  - Buildings requiring external firefighting facilities
+
+requirement:
+  External hydrants shall be provided for fire brigade operations.
+
+compliance_check:
+  Verify hydrant location, accessibility, and functionality.
+
+evidence_required:
+  - Site inspection
+  - Hydrant layout
+
+risk_if_non_compliant:
+  Reduced firefighting effectiveness.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

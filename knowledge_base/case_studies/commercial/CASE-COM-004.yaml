@@ -1,0 +1,101 @@
+case_id: CASE-COM-004
+
+incident_name: Times Tower Fire
+
+incident_date: 2024-09-06
+
+location:
+city: Mumbai
+state: Maharashtra
+country: India
+
+occupancy_type: Business
+
+building_type:
+
+- Commercial Office Tower
+
+incident_type:
+
+- Fire
+
+severity: Moderate
+
+fatalities: 0
+
+injuries: 0
+
+summary: >
+A fire occurred within an electrical service duct
+inside Times Tower at Kamala Mills. The fire spread
+vertically through utility shafts and external facade
+elements, demonstrating the risks associated with
+service penetrations and facade fire spread.
+
+root_causes:
+
+- Electrical short circuit
+- Utility shaft ignition
+- Vertical flame propagation
+
+fire_safety_failures:
+
+- Inadequate shaft fire stopping
+- Poor compartmentation of service ducts
+- Potential facade vulnerability
+
+affected_systems:
+
+- Electrical Fire Safety
+- Fire Prevention
+- Fire Protection Systems
+
+risk_patterns:
+
+- Electrical faults
+- Vertical shaft fire spread
+- Facade fire spread
+- Hidden fire development
+
+occupancy_risks:
+
+- High-rise office occupants
+- Multi-floor evacuation requirements
+
+fatality_mechanism:
+
+- None
+
+related_cfo_domains:
+
+- Electrical Fire Safety
+- Fire Protection Systems
+- Fire Control Room
+
+related_nbc_domains:
+
+- Electrical Fire Safety
+- Fire Prevention
+- Fire Resistance
+- Service Shafts
+
+lessons_learned:
+
+- Fire-stop all service penetrations
+- Improve shaft compartmentation
+- Conduct electrical safety audits
+- Monitor utility shafts continuously
+
+prevention_recommendations:
+
+- Electrical inspections
+- Fire-rated shaft enclosures
+- Automatic detection inside service shafts
+- Facade fire risk assessments
+
+search_keywords:
+
+- Times Tower Fire
+- Electrical Shaft Fire
+- Utility Duct Fire
+- Commercial High Rise Fire

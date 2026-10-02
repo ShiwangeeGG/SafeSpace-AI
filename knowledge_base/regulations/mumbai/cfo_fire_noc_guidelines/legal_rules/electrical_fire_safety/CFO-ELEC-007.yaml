@@ -1,0 +1,24 @@
+rule_id: CFO-ELEC-007
+
+title: Fire Control Room Master Switch Requirement
+
+category: Emergency Controls
+
+applies_to:
+  - Buildings with Fire Control Rooms
+
+requirement:
+  Master electrical control switches shall be available within the fire control room for emergency operation.
+
+compliance_check:
+  Verify switch accessibility and labeling.
+
+evidence_required:
+  - Fire control room inspection
+  - Electrical layout drawings
+
+risk_if_non_compliant:
+  Emergency responders may be unable to safely isolate electrical systems.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

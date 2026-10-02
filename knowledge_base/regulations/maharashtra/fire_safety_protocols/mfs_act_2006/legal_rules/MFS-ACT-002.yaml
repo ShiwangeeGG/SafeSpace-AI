@@ -1,0 +1,28 @@
+rule_id: MFS-ACT-002
+
+title: Fire Safety Systems Must Be Maintained
+
+category: Maintenance
+
+applies_to:
+  - Owners
+  - Occupiers
+
+requirement:
+  Fire prevention and life safety measures shall be maintained in good repair and efficient condition at all times.
+
+compliance_check:
+  Verify maintenance records and system operability.
+
+evidence_required:
+  - Maintenance logs
+  - Inspection reports
+  - Service records
+
+risk_if_non_compliant:
+  Failure of critical fire systems during emergencies.
+
+source_document:
+  Maharashtra Fire Prevention and Life Safety Measures Act, 2006
+
+page: 5

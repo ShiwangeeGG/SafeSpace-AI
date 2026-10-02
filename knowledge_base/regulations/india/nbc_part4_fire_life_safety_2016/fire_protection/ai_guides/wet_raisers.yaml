@@ -1,0 +1,31 @@
+system_component: Wet Risers
+
+description:
+  Vertical firefighting water distribution systems that provide immediate water supply to multiple building levels.
+
+purpose:
+  Support firefighting operations in multi-storey and high-rise buildings.
+
+why_it_matters:
+  Carrying hoses and equipment to upper floors without wet risers delays firefighting efforts.
+
+common_fire_risks:
+  - Inadequate water delivery
+  - Equipment failure
+  - Pressure loss
+  - Delayed firefighting response
+
+common_compliance_checks:
+  - Riser installation verified
+  - Pressure testing completed
+  - Landing valves functional
+  - System accessibility maintained
+
+related_rules:
+  - NBC-PR-005
+  - NBC-PR-006
+
+related_systems:
+  - Hydrant Systems
+  - Fire Pumps
+  - Fire Water Storage

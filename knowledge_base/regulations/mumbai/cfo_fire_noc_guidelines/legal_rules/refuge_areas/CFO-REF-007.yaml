@@ -1,0 +1,24 @@
+rule_id: CFO-REF-007
+
+title: Terrace Refuge Provision Requirement
+
+category: High Rise Fire Safety
+
+applies_to:
+  - Buildings with terrace refuge provisions
+
+requirement:
+  Terrace-level refuge facilities shall be maintained and remain available for emergency use where required.
+
+compliance_check:
+  Verify accessibility and condition of terrace refuge provisions.
+
+evidence_required:
+  - Site inspection
+  - Building plans
+
+risk_if_non_compliant:
+  Reduced emergency refuge capacity.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

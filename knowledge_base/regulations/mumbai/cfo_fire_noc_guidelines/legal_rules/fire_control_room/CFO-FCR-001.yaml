@@ -1,0 +1,25 @@
+rule_id: CFO-FCR-001
+
+title: Fire Control Room Requirement
+
+category: Emergency Management
+
+applies_to:
+  - High Rise Buildings
+  - Buildings requiring Fire Control Rooms
+
+requirement:
+  A dedicated Fire Control Room shall be provided for monitoring and managing fire safety systems.
+
+compliance_check:
+  Verify Fire Control Room availability and accessibility.
+
+evidence_required:
+  - Approved building plans
+  - Site inspection
+
+risk_if_non_compliant:
+  Reduced emergency coordination and delayed incident management.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

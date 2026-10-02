@@ -1,0 +1,24 @@
+rule_id: NBC-CK-003
+
+title: Grease Duct Construction Requirement
+
+category: Exhaust Duct
+
+applies_to:
+  - Commercial Kitchens
+
+requirement:
+  Grease ducts shall be constructed using non-combustible materials.
+
+compliance_check:
+  Verify duct material specifications.
+
+evidence_required:
+  - Manufacturer certification
+  - Inspection records
+
+risk_if_non_compliant:
+  Fire spread through combustible ductwork.
+
+source_document:
+  National Building Code of India 2016 Part 4 Annex G

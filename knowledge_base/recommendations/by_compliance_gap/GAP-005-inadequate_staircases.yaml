@@ -1,0 +1,48 @@
+gap_id: GAP-005
+
+gap_name: Inadequate Staircases
+
+category: Means of Escape
+
+affected_occupancies:
+  - High Rise Buildings
+  - Assembly
+  - Hospital
+  - Residential
+
+risk_level: Critical
+
+compliance_issue: >
+  Number, width, or design of staircases
+  is insufficient for safe evacuation.
+
+why_it_is_dangerous:
+  - Evacuation bottlenecks
+  - Delayed escape
+  - Increased casualty risk
+
+related_regulations:
+  - Staircase Safety
+  - Means of Escape
+
+related_risk_patterns:
+  - evacuation_failures
+  - occupancy_overload
+
+immediate_actions:
+  - Assess occupant load
+
+short_term_actions:
+  - Improve existing escape capacity
+
+long_term_actions:
+  - Construct compliant staircases
+
+priority_level: Critical
+
+retrieval_keywords:
+  - insufficient staircase
+  - staircase width
+
+source:
+  document: NBC Part 4 Fire and Life Safety

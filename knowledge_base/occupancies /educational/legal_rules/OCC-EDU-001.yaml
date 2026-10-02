@@ -1,0 +1,47 @@
+rule_id: OCC-EDU-001
+
+occupancy_group: Educational
+
+rule_category: Occupancy Definition
+
+occupancy_definition: >
+Buildings used for educational purposes
+through schools, colleges, training centres,
+coaching institutes, and academic facilities.
+
+applies_to:
+
+- Schools
+- Colleges
+- Universities
+- Coaching Institutes
+- Training Centres
+- Academic Campuses
+
+occupancy_characteristics:
+
+- Student occupancy
+- Fixed classroom layouts
+- Scheduled occupancy periods
+- Large group movement
+
+primary_fire_safety_concern:
+Safe evacuation of students and staff.
+
+related_nbc_domains:
+
+- Occupancy Classification
+- Means of Escape
+- Life Safety
+
+retrieval_keywords:
+
+- school
+- college
+- university
+- coaching centre
+- educational occupancy
+
+source:
+document: NBC Part 4 Fire and Life Safety
+occupancy_group: Educational

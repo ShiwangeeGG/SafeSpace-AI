@@ -1,0 +1,45 @@
+domain: Educational Fire Incidents
+
+most_common_root_causes:
+  - Electrical faults
+  - Kitchen fires
+  - Temporary structures
+  - Combustible roofing
+
+common_failures:
+  - Inadequate exits
+  - Poor evacuation planning
+  - Missing fire alarms
+  - Lack of drills
+  - Occupancy overload
+
+common_occupancies:
+  - Schools
+  - Colleges
+  - Coaching Institutes
+  - Training Centres
+
+high_risk_indicators:
+  - Upper floor classrooms
+  - Single staircase access
+  - High student density
+  - Unauthorized construction
+
+most_affected_systems:
+  - Escape Routes
+  - Fire Protection Systems
+  - Operational Fire Safety
+  - Emergency Communication
+
+recommended_controls:
+  - Fire Drills
+  - Occupancy Management
+  - Fire Alarms
+  - Emergency Lighting
+  - Exit Route Inspections
+
+common_regulatory_domains:
+  - Educational Occupancy
+  - Means of Escape
+  - Fire Protection
+  - Life Safetys

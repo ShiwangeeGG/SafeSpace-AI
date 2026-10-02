@@ -1,0 +1,23 @@
+rule_id: NBC-LS-011
+
+title: Horizontal Exits Shall Provide Protected Transfer
+
+category: Horizontal Exit
+
+applies_to:
+  - Buildings using horizontal exits
+
+requirement:
+  Horizontal exits shall transfer occupants to a fire-safe compartment.
+
+compliance_check:
+  Verify compartment separation.
+
+evidence_required:
+  - Fire compartment drawings
+
+risk_if_non_compliant:
+  Fire spread across evacuation route.
+
+source_document:
+  National Building Code of India 2016 Part 4

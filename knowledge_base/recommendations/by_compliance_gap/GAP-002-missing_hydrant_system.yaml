@@ -1,0 +1,48 @@
+gap_id: GAP-002
+
+gap_name: Missing Hydrant System
+
+category: Fire Protection
+
+affected_occupancies:
+  - High Rise Buildings
+  - Hospital
+  - Mercantile
+  - Industrial
+
+risk_level: High
+
+compliance_issue: >
+  Required hydrant system is not available.
+
+why_it_is_dangerous:
+  - Fire brigade support reduced
+  - Delayed firefighting response
+  - Fire escalation risk
+
+related_regulations:
+  - Hydrant Systems
+  - Wet Risers
+
+related_risk_patterns:
+  - smoke_spread_risks
+  - high_rise_risks
+
+immediate_actions:
+  - Provide temporary firefighting arrangements
+
+short_term_actions:
+  - Design hydrant network
+  - Verify water supply requirements
+
+long_term_actions:
+  - Install hydrant and wet riser system
+
+priority_level: High
+
+retrieval_keywords:
+  - missing hydrant
+  - no hydrant system
+
+source:
+  document: NBC Part 4 Fire and Life Safety

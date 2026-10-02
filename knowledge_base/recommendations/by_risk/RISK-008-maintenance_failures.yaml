@@ -1,0 +1,53 @@
+risk_id: RISK-008
+
+risk_name: Maintenance Failures
+
+category: System Reliability
+
+risk_level: High
+
+risk_description: >
+  Fire safety systems fail due to inadequate
+  inspection, testing, and maintenance.
+
+why_it_is_dangerous:
+  - System malfunction
+  - Delayed response
+  - Increased fire spread
+
+affected_occupancies:
+  - All Occupancies
+
+related_compliance_gaps:
+  - GAP-012-nonfunctional_fire_pump
+
+immediate_actions:
+  - Inspect critical systems
+  - Repair identified defects
+
+short_term_actions:
+  - Conduct maintenance audit
+  - Verify testing records
+
+long_term_actions:
+  - Implement preventive maintenance program
+  - Establish maintenance tracking system
+
+high_priority_systems:
+  - Fire Pumps
+  - Sprinklers
+  - Fire Alarm Systems
+
+related_case_studies:
+  - Dreams Mall Fire
+  - AMRI Hospital Fire
+
+ai_reasoning_hints:
+  - Verify system functionality before assuming compliance
+
+retrieval_keywords:
+  - maintenance failure
+  - nonfunctional fire system
+
+source:
+  document: Risk Patterns Layer

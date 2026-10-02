@@ -1,0 +1,24 @@
+rule_id: CFO-FL-008
+
+title: Fire Lift Identification Requirement
+
+category: Identification
+
+applies_to:
+  - Fire Lifts
+
+requirement:
+  Fire lifts shall be clearly identified and marked for emergency use.
+
+compliance_check:
+  Verify signage and identification markings.
+
+evidence_required:
+  - Site inspection
+  - Photographs
+
+risk_if_non_compliant:
+  Delayed identification during emergency response.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

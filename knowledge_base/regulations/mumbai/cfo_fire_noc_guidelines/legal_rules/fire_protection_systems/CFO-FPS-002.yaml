@@ -1,0 +1,24 @@
+rule_id: CFO-FPS-002
+
+title: Internal Hydrant System Requirement
+
+category: Hydrant System
+
+applies_to:
+  - Buildings requiring hydrant protection
+
+requirement:
+  Internal hydrant systems shall be installed to support firefighting operations.
+
+compliance_check:
+  Verify hydrant coverage and accessibility.
+
+evidence_required:
+  - Hydrant layout
+  - Hydraulic calculations
+
+risk_if_non_compliant:
+  Firefighters may not have adequate firefighting water supply.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

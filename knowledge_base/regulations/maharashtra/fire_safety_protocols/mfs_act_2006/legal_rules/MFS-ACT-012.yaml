@@ -1,0 +1,27 @@
+rule_id: MFS-ACT-012
+
+title: False Fire Compliance Certification Prohibited
+
+category: Certification Integrity
+
+applies_to:
+  - Licensed Agencies
+
+requirement:
+  No compliance or maintenance certificate shall be issued unless actual compliance exists.
+
+compliance_check:
+  Verify certification matches site conditions.
+
+evidence_required:
+  - Audit report
+  - Inspection findings
+  - Certificate records
+
+risk_if_non_compliant:
+  Fraudulent certification and legal penalties.
+
+source_document:
+  Maharashtra Fire Prevention and Life Safety Measures Act, 2006
+
+page: 9

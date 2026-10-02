@@ -1,0 +1,34 @@
+domain: Local Context Intelligence
+
+description: >
+  Provides geographic fire safety intelligence,
+  jurisdiction-specific compliance guidance,
+  regional fire risk patterns, and location-aware
+  recommendations.
+
+supported_regions:
+  - India
+  - Maharashtra
+  - Mumbai
+
+primary_objectives:
+  - Location Aware Reasoning
+  - Jurisdiction Identification
+  - Local Risk Assessment
+  - Compliance Support
+  - Regional Recommendation Generation
+
+knowledge_sources:
+  - Regulations Layer
+  - Risk Patterns Layer
+  - Case Studies Layer
+  - NBC 2016 Part 4
+  - Mumbai CFO Guidelines
+
+retrieval_priority: High
+
+intended_ai_usage:
+  - Location Classification
+  - Risk Assessment
+  - Compliance Guidance
+  - Recommendation Generation

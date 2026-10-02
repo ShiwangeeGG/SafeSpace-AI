@@ -1,0 +1,80 @@
+occupancy_name: Hospital
+
+occupancy_category: Institutional Occupancy
+
+description: >
+Buildings used for medical treatment, patient care,
+diagnosis, recovery, surgery, and healthcare services.
+Hospitals contain vulnerable occupants who often require
+assistance during emergencies.
+
+examples:
+
+- General Hospitals
+- Multi-Speciality Hospitals
+- Nursing Homes
+- Healthcare Centres
+- Trauma Centres
+- Medical Colleges
+- Specialty Hospitals
+
+occupancy_characteristics:
+
+- Continuous occupancy
+- Vulnerable patients
+- Bedridden occupants
+- Medical equipment dependency
+- Oxygen system dependency
+
+primary_fire_safety_concerns:
+
+- Patient safety
+- Smoke management
+- Assisted evacuation
+- Medical infrastructure protection
+- Continuity of critical care
+
+common_fire_risks:
+
+- Electrical faults
+- Medical equipment failures
+- Oxygen-assisted fire growth
+- Basement fires
+- HVAC failures
+
+evacuation_complexity: Very High
+
+risk_level: Critical
+
+related_case_studies:
+
+- AMRI Hospital Fire
+- Bhandara Hospital Fire
+- Sunrise Hospital Fire
+
+related_risk_patterns:
+
+- smoke_spread_risks
+- evacuation_failures
+- electrical_risks
+- maintenance_failures
+
+recommended_focus_areas:
+
+- Smoke management
+- Patient evacuation planning
+- Fire detection systems
+- Staff emergency training
+- Fire compartmentation
+
+retrieval_keywords:
+
+- hospital occupancy
+- healthcare facility
+- patient safety
+- medical centre
+- nursing home
+
+source:
+document: NBC Part 4 Fire and Life Safety
+occupancy_group: Institutional

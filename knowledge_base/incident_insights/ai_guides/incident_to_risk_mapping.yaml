@@ -1,0 +1,276 @@
+domain: Incident To Risk Intelligence
+
+description: >
+  Maps major fire incidents to the
+  recurring fire risks observed during
+  investigations. Used to connect
+  case studies with risk assessment
+  and recommendation generation.
+
+incident_risk_mappings:
+
+  kamala_mills_fire_2017:
+
+    occupancy:
+      - Assembly
+      - Mercantile
+
+    primary_risks:
+      - blocked_exits_risks
+      - occupancy_overload
+      - combustible_materials
+      - evacuation_failures
+
+    secondary_risks:
+      - smoke_spread_risks
+      - maintenance_failures
+
+    root_cause_categories:
+      - Open Flame Ignition
+      - Combustible Decorations
+      - Compliance Failures
+
+    recommendation_priority:
+      - Means of Escape
+      - Occupancy Control
+      - Fire Detection
+      - Emergency Communication
+
+  rajkot_gaming_zone_fire_2024:
+
+    occupancy:
+      - Assembly
+
+    primary_risks:
+      - combustible_materials
+      - occupancy_overload
+      - blocked_exits_risks
+
+    secondary_risks:
+      - evacuation_failures
+      - smoke_spread_risks
+
+    root_cause_categories:
+      - Electrical Fault
+      - Unauthorized Structures
+      - Combustible Construction
+
+    recommendation_priority:
+      - Exit Management
+      - Occupancy Control
+      - Fire Detection
+      - Fire Suppression
+
+  dreams_mall_fire_2021:
+
+    occupancy:
+      - Mercantile
+      - Hospital
+
+    primary_risks:
+      - maintenance_failures
+      - smoke_spread_risks
+
+    secondary_risks:
+      - evacuation_failures
+      - electrical_risks
+
+    root_cause_categories:
+      - Electrical Failure
+      - Maintenance Deficiencies
+
+    recommendation_priority:
+      - System Maintenance
+      - Fire Alarm Systems
+      - Smoke Management
+      - Fire Pumps
+
+  amri_hospital_fire_2011:
+
+    occupancy:
+      - Hospital
+
+    primary_risks:
+      - smoke_spread_risks
+      - maintenance_failures
+      - evacuation_failures
+
+    secondary_risks:
+      - blocked_exits_risks
+
+    root_cause_categories:
+      - Improper Storage
+      - Poor Maintenance
+      - Smoke Propagation
+
+    recommendation_priority:
+      - Smoke Management
+      - Evacuation Planning
+      - Fire Detection
+      - Staff Training
+
+  kumbakonam_school_fire_2004:
+
+    occupancy:
+      - Educational
+
+    primary_risks:
+      - combustible_materials
+      - evacuation_failures
+
+    secondary_risks:
+      - occupancy_overload
+      - blocked_exits_risks
+
+    root_cause_categories:
+      - Open Flame Ignition
+      - Combustible Roofing
+
+    recommendation_priority:
+      - Means of Escape
+      - Occupant Evacuation
+      - Fire Detection
+      - Staff Training
+
+  dabwali_school_fire_1995:
+
+    occupancy:
+      - Educational
+      - Assembly
+
+    primary_risks:
+      - occupancy_overload
+      - blocked_exits_risks
+      - combustible_materials
+
+    secondary_risks:
+      - evacuation_failures
+
+    root_cause_categories:
+      - Electrical Failure
+      - Overcrowding
+
+    recommendation_priority:
+      - Occupancy Control
+      - Exit Management
+      - Fire Detection
+
+  crystal_tower_fire_2022:
+
+    occupancy:
+      - Residential
+      - High Rise
+
+    primary_risks:
+      - smoke_spread_risks
+      - high_rise_risks
+
+    secondary_risks:
+      - evacuation_failures
+
+    root_cause_categories:
+      - Vertical Fire Spread
+      - High Rise Challenges
+
+    recommendation_priority:
+      - Refuge Areas
+      - Fire Lifts
+      - Smoke Management
+
+  times_tower_fire_2024:
+
+    occupancy:
+      - Business
+      - High Rise
+
+    primary_risks:
+      - electrical_risks
+      - high_rise_risks
+
+    secondary_risks:
+      - smoke_spread_risks
+
+    root_cause_categories:
+      - Electrical Duct Fire
+      - Vertical Fire Spread
+
+    recommendation_priority:
+      - Electrical Fire Safety
+      - Smoke Management
+      - Compartmentation
+
+  bhiwandi_warehouse_fire:
+
+    occupancy:
+      - Storage
+
+    primary_risks:
+      - combustible_materials
+      - smoke_spread_risks
+
+    secondary_risks:
+      - maintenance_failures
+
+    root_cause_categories:
+      - High Fire Load
+      - Storage Practices
+
+    recommendation_priority:
+      - Fire Detection
+      - Sprinkler Systems
+      - Storage Management
+
+  chemical_plant_fire_incidents:
+
+    occupancy:
+      - Hazardous
+      - Industrial
+
+    primary_risks:
+      - hazardous_material_risks
+      - electrical_risks
+
+    secondary_risks:
+      - maintenance_failures
+
+    root_cause_categories:
+      - Chemical Reactions
+      - Process Failure
+
+    recommendation_priority:
+      - Hazard Control
+      - Gas Detection
+      - Emergency Response
+
+risk_frequency_analysis:
+
+  blocked_exits_risks:
+    observed_frequency: High
+
+  smoke_spread_risks:
+    observed_frequency: Very High
+
+  evacuation_failures:
+    observed_frequency: Very High
+
+  combustible_materials:
+    observed_frequency: High
+
+  maintenance_failures:
+    observed_frequency: High
+
+  occupancy_overload:
+    observed_frequency: High
+
+  electrical_risks:
+    observed_frequency: High
+
+  hazardous_material_risks:
+    observed_frequency: Moderate
+
+ai_reasoning_goal: >
+  Connect historical incidents to
+  recurring risk patterns so that
+  SafeSpace_AI can explain why a risk
+  is important, identify similar incidents,
+  and generate stronger recommendations.

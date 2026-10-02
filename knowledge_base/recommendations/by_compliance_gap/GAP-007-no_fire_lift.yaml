@@ -1,0 +1,42 @@
+gap_id: GAP-007
+
+gap_name: Missing Fire Lift
+
+category: Fire Fighting Support
+
+affected_occupancies:
+  - High Rise Buildings
+
+risk_level: High
+
+compliance_issue: >
+  Required fireman's lift is unavailable.
+
+why_it_is_dangerous:
+  - Slower firefighter access
+  - Delayed rescue operations
+
+related_regulations:
+  - Fireman's Lift
+  - High Rise Buildings
+
+related_risk_patterns:
+  - high_rise_risks
+
+immediate_actions:
+  - Review firefighting strategy
+
+short_term_actions:
+  - Evaluate lift compliance
+
+long_term_actions:
+  - Install compliant fire lift
+
+priority_level: High
+
+retrieval_keywords:
+  - no fire lift
+  - missing fire lift
+
+source:
+  document: NBC Part 4 Fire and Life Safety

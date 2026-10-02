@@ -1,0 +1,26 @@
+rule_id: MFS-ACT-005
+
+title: Biannual Maintenance Certification
+
+category: Certification
+
+applies_to:
+  - Buildings covered under the Act
+
+requirement:
+  Maintenance certificates shall be submitted twice annually in January and July.
+
+compliance_check:
+  Verify current January and July certificates exist.
+
+evidence_required:
+  - Maintenance certificate
+  - Service records
+
+risk_if_non_compliant:
+  Non-compliance with statutory maintenance obligations.
+
+source_document:
+  Maharashtra Fire Prevention and Life Safety Measures Act, 2006
+
+page: 5

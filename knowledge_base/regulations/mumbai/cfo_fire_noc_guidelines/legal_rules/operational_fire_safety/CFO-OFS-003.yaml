@@ -1,0 +1,24 @@
+rule_id: CFO-OFS-003
+
+title: Fire Safety Logbook Requirement
+
+category: Documentation
+
+applies_to:
+  - Buildings with fire protection systems
+
+requirement:
+  Fire safety activities, inspections, testing, and maintenance shall be recorded in designated logbooks.
+
+compliance_check:
+  Verify logbook completeness and accuracy.
+
+evidence_required:
+  - Fire safety logbooks
+  - Inspection records
+
+risk_if_non_compliant:
+  Lack of evidence of compliance and maintenance.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

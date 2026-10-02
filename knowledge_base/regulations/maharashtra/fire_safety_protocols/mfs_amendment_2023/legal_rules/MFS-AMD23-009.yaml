@@ -1,0 +1,20 @@
+rule_id: MFS-AMD23-009
+
+title: Audit Certificate Submission Is Mandatory
+
+category: Audit Compliance
+
+applies_to:
+  - Building owners
+  - Occupiers
+
+requirement:
+  Audit certificate issued by licensed Fire and Life Safety Auditor shall be submitted to the Director, Chief Fire Officer, or nominated officer.
+
+compliance_check:
+  Verify certificate submission.
+
+source_document:
+  Maharashtra Fire Prevention and Life Safety Measures (Amendment) Act, 2023
+
+page: 11

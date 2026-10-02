@@ -1,0 +1,39 @@
+rule_id: OCC-ASM-004
+
+occupancy_group: Assembly
+
+rule_category: Transportation Assembly Occupancies
+
+occupancy_definition: >
+  Buildings where people gather temporarily
+  while awaiting transportation services.
+
+applies_to:
+  - Railway Stations
+  - Metro Stations
+  - Bus Terminals
+  - Airport Passenger Areas
+
+occupancy_characteristics:
+  - Constant occupant turnover
+  - Peak crowd conditions
+  - Public access
+
+primary_fire_safety_concern:
+  Managing evacuation under crowded conditions.
+
+related_nbc_domains:
+  - Means of Escape
+  - Emergency Communication
+  - Occupancy Classification
+
+retrieval_keywords:
+  - railway station
+  - metro station
+  - airport terminal
+  - bus terminal
+
+source:
+  document: NBC Part 4 Fire and Life Safety
+  section: Occupancy Classification
+  occupancy_group: Assembly

@@ -1,0 +1,81 @@
+occupancy_name: Educational
+
+occupancy_category: Educational Occupancy
+
+description: >
+Buildings used for teaching, training, learning,
+research, and educational activities. These occupancies
+typically contain students, teachers, administrators,
+and support staff.
+
+examples:
+
+- Schools
+- Colleges
+- Universities
+- Coaching Institutes
+- Training Centres
+- Vocational Institutes
+- Research Institutions
+
+occupancy_characteristics:
+
+- High student population
+- Classroom-based activities
+- Scheduled occupancy periods
+- Age-dependent occupant behaviour
+- Group movement patterns
+
+primary_fire_safety_concerns:
+
+- Student evacuation
+- Child safety
+- Occupancy management
+- Emergency preparedness
+- Classroom evacuation
+
+common_fire_risks:
+
+- Electrical faults
+- Laboratory incidents
+- Kitchen fires
+- Temporary structures
+- Occupancy overload
+
+evacuation_complexity: High
+
+risk_level: High
+
+related_case_studies:
+
+- Surat Coaching Centre Fire
+- Kumbakonam School Fire
+- Dabwali School Fire
+
+related_risk_patterns:
+
+- evacuation_failures
+- occupancy_overload_risks
+- combustible_materials
+- electrical_risks
+
+recommended_focus_areas:
+
+- Student evacuation planning
+- Fire drills
+- Exit management
+- Fire alarm systems
+- Staff training
+
+retrieval_keywords:
+
+- educational occupancy
+- school
+- college
+- university
+- coaching institute
+- training centre
+
+source:
+document: NBC Part 4 Fire and Life Safety
+occupancy_group: Educational

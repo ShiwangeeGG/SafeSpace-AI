@@ -1,0 +1,20 @@
+recurring_failures:
+
+  system_failures:
+    - Nonfunctional Fire Pumps
+    - Disabled Fire Alarms
+    - Inactive Sprinklers
+
+  management_failures:
+    - Poor Maintenance
+    - Lack of Training
+    - Inadequate Drills
+
+  compliance_failures:
+    - Blocked Exits
+    - Missing Refuge Areas
+    - Missing Fire Lifts
+
+ai_reasoning_goal: >
+  Identify recurring failures that
+  appear across multiple incidents.

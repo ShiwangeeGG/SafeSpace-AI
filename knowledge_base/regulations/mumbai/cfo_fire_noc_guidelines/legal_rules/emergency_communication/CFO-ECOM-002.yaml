@@ -1,0 +1,24 @@
+rule_id: CFO-ECOM-002
+
+title: Public Address System Requirement
+
+category: Occupant Notification
+
+applies_to:
+  - Buildings with emergency communication systems
+
+requirement:
+  Public address systems shall be provided to broadcast emergency instructions during fire incidents.
+
+compliance_check:
+  Verify public address system functionality and coverage.
+
+evidence_required:
+  - Testing reports
+  - Audio coverage verification
+
+risk_if_non_compliant:
+  Occupants may not receive evacuation instructions.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

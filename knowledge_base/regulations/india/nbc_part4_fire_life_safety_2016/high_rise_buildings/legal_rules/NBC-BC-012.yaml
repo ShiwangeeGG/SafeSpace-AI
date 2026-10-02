@@ -1,0 +1,24 @@
+rule_id: NBC-HR-012
+
+title: Fire Protection Systems Shall Be Continuously Maintained
+
+category: Maintenance
+
+applies_to:
+  - High Rise Buildings
+
+requirement:
+  Fire protection and life safety systems shall remain operational and be regularly inspected and maintained.
+
+compliance_check:
+  Verify maintenance records.
+
+evidence_required:
+  - Maintenance logs
+  - Inspection reports
+
+risk_if_non_compliant:
+  System failure during emergencies.
+
+source_document:
+  National Building Code of India 2016 Part 4 Annex E

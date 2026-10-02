@@ -1,0 +1,24 @@
+rule_id: NBC-HR-001
+
+title: High Rise Building Classification
+
+category: Building Classification
+
+applies_to:
+  - Buildings 15 metres or higher
+
+requirement:
+  Buildings with a height of 15 metres or more shall be treated as High Rise Buildings.
+
+compliance_check:
+  Verify building height.
+
+evidence_required:
+  - Approved building plans
+  - Height certificate
+
+risk_if_non_compliant:
+  Applicable high-rise fire safety requirements may not be implemented.
+
+source_document:
+  National Building Code of India 2016 Part 4 Annex E

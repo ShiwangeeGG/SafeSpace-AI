@@ -1,0 +1,24 @@
+rule_id: NBC-HR-005
+
+title: Refuge Area Requirement
+
+category: Life Safety
+
+applies_to:
+  - High Rise Buildings
+
+requirement:
+  Refuge areas shall be provided to accommodate occupants during emergency evacuation.
+
+compliance_check:
+  Verify refuge area availability and accessibility.
+
+evidence_required:
+  - Floor plans
+  - Site inspection
+
+risk_if_non_compliant:
+  Occupants may lack protected waiting areas during evacuation.
+
+source_document:
+  National Building Code of India 2016 Part 4 Annex E

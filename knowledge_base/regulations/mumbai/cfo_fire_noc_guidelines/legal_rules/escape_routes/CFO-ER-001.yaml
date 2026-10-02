@@ -1,0 +1,24 @@
+rule_id: CFO-ER-001
+
+title: Escape Routes Shall Remain Unobstructed
+
+category: Means of Egress
+
+applies_to:
+  - All Occupied Buildings
+
+requirement:
+  Escape routes, corridors, and exit access paths shall remain free from obstructions at all times.
+
+compliance_check:
+  Verify escape routes are clear and accessible.
+
+evidence_required:
+  - Site inspection
+  - Photographs
+
+risk_if_non_compliant:
+  Delayed evacuation and increased life safety risk.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

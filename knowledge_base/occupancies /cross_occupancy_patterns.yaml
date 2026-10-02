@@ -1,0 +1,57 @@
+domain: Cross Occupancy Fire Patterns
+
+common_fire_risks:
+
+electrical_failures:
+occupancies:
+- Residential
+- Business
+- Educational
+- Hospital
+- Industrial
+
+blocked_exits:
+occupancies:
+- Assembly
+- Mercantile
+- Educational
+- Institutional
+
+smoke_spread:
+occupancies:
+- Residential
+- Hospital
+- Mercantile
+- Mixed
+
+combustible_materials:
+occupancies:
+- Storage
+- Mercantile
+- Industrial
+- Hazardous
+
+occupancy_overload:
+occupancies:
+- Assembly
+- Mercantile
+- Educational
+
+evacuation_failures:
+occupancies:
+- Assembly
+- Hospital
+- Institutional
+- Mixed
+
+maintenance_failures:
+occupancies:
+- Industrial
+- Storage
+- Mercantile
+- Business
+
+ai_reasoning_objective:
+Identify recurring fire safety patterns
+across different occupancy classifications
+and support risk prediction.

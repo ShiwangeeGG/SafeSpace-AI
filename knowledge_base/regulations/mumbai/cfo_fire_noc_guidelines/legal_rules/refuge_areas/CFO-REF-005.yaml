@@ -1,0 +1,24 @@
+rule_id: CFO-REF-005
+
+title: Refuge Areas Shall Remain Free From Encroachment
+
+category: Operational Safety
+
+applies_to:
+  - Refuge Areas
+
+requirement:
+  Refuge areas shall not be used for storage, commercial activities, occupancy, or any unauthorized purpose.
+
+compliance_check:
+  Verify refuge areas remain unobstructed.
+
+evidence_required:
+  - Site inspection
+  - Photographs
+
+risk_if_non_compliant:
+  Reduced occupant protection during emergencies.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

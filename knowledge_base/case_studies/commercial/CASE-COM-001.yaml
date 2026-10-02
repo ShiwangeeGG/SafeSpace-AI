@@ -1,0 +1,120 @@
+case_id: CASE-COM-001
+
+incident_name: Kamala Mills Rooftop Fire
+
+incident_date: 2017-12-29
+
+location:
+city: Mumbai
+state: Maharashtra
+country: India
+
+occupancy_type: Assembly
+
+building_type:
+
+- Restaurant
+- Rooftop Dining
+- Commercial Complex
+
+incident_type:
+
+- Fire
+
+severity: Critical
+
+fatalities: 14
+
+injuries: 55
+
+summary: >
+A major fire occurred at Mojo's Bistro and 1 Above
+restaurants within Kamala Mills Compound. The fire
+originated from burning hookah embers and rapidly
+spread through combustible rooftop decorations and
+temporary structures. Multiple fire safety failures
+significantly increased casualties.
+
+root_causes:
+
+- Hookah embers ignited combustible decorations
+- Presence of combustible bamboo structures
+- Extensive use of tarpaulin roofing
+- Unauthorized rooftop modifications
+
+fire_safety_failures:
+
+- Blocked emergency exits
+- Inadequate means of escape
+- Missing sprinkler protection
+- Lack of effective smoke management
+- Poor crowd evacuation
+- Excess combustible interior materials
+
+affected_systems:
+
+- Escape Routes
+- Fire Protection Systems
+- Operational Fire Safety
+- Emergency Communication
+
+risk_patterns:
+
+- Combustible Decorations
+- Exit Obstruction
+- Unauthorized Construction
+- Occupancy Overload
+- Delayed Evacuation
+
+occupancy_risks:
+
+- High occupant density
+- Alcohol-serving venue
+- Rooftop assembly occupancy
+- Limited evacuation paths
+
+regulatory_violations:
+
+- Unauthorized structural alterations
+- Inadequate fire safety provisions
+- Obstructed emergency exits
+
+related_cfo_domains:
+
+- Escape Routes
+- Fire Protection Systems
+- Operational Fire Safety
+- Emergency Communication
+
+related_nbc_domains:
+
+- Occupancy Classification
+- Means of Escape
+- Fire Protection
+- Life Safety
+
+lessons_learned:
+
+- Eliminate combustible decorative materials
+- Maintain unobstructed emergency exits
+- Conduct regular fire safety inspections
+- Install and maintain automatic fire protection systems
+- Prevent unauthorized structural modifications
+- Improve occupant evacuation planning
+
+prevention_recommendations:
+
+- Install automatic sprinkler systems
+- Conduct periodic fire drills
+- Use fire-retardant interior finishes
+- Maintain clear exit routes
+- Implement occupancy load controls
+
+search_keywords:
+
+- Kamala Mills Fire
+- Mumbai Restaurant Fire
+- Rooftop Fire
+- Assembly Occupancy Fire
+- Blocked Exit Fatalities
+

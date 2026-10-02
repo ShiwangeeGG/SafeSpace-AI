@@ -1,0 +1,44 @@
+domain: Hospital Fire Incidents
+
+most_common_root_causes:
+  - Electrical faults
+  - Medical equipment failures
+  - Oxygen-related hazards
+  - Basement fires
+
+common_failures:
+  - Poor smoke management
+  - Delayed patient evacuation
+  - Inadequate compartmentation
+  - Lack of staff preparedness
+
+common_occupancies:
+  - Hospitals
+  - ICUs
+  - COVID Care Centres
+  - Nursing Homes
+
+high_risk_indicators:
+  - Oxygen pipelines
+  - Basement storage
+  - Critical care units
+  - Bedridden patients
+
+most_affected_systems:
+  - Smoke Management
+  - Emergency Communication
+  - Fire Protection Systems
+  - Operational Fire Safety
+
+recommended_controls:
+  - Smoke Extraction Systems
+  - Staff Fire Drills
+  - Fire Detection Systems
+  - Evacuation Planning
+  - Compartmentation Audits
+
+common_regulatory_domains:
+  - Institutional Occupancy
+  - Fire Protection
+  - Smoke Management
+  - Life Safety

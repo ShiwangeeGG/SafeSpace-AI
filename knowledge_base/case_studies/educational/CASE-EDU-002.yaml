@@ -1,0 +1,112 @@
+case_id: CASE-EDU-002
+
+incident_name: Dabwali School Fire
+
+incident_date: 1995-12-23
+
+location:
+city: Dabwali
+state: Haryana
+country: India
+
+occupancy_type: Educational
+
+building_type:
+
+- School Function
+- Temporary Assembly Structure
+
+incident_type:
+
+- Fire
+
+severity: Catastrophic
+
+fatalities: 442
+
+injuries: 100+
+
+summary: >
+A devastating fire occurred during a school annual
+function held inside a temporary tent structure.
+The fire rapidly spread through highly combustible
+tent materials, causing panic and a deadly crowd crush
+as occupants attempted to escape through limited exits.
+
+root_causes:
+
+- Electrical short circuit
+- Ignition of synthetic tent materials
+- Rapid flame spread through temporary structure
+
+fire_safety_failures:
+
+- Inadequate emergency exits
+- Temporary combustible construction
+- Overcrowding
+- Lack of emergency evacuation planning
+- No fire protection equipment
+
+affected_systems:
+
+- Escape Routes
+- Operational Fire Safety
+- Emergency Communication
+- Assembly Occupancy Safety
+
+risk_patterns:
+
+- Single exit dependency
+- Temporary event structures
+- Occupancy overload
+- Panic-induced crowd crush
+- Lack of event fire safety planning
+
+occupancy_risks:
+
+- School children
+- Parents and visitors
+- High occupant density
+- Enclosed temporary structure
+
+fatality_mechanism:
+
+- Burns
+- Smoke Inhalation
+- Crowd Crush
+
+related_cfo_domains:
+
+- Escape Routes
+- Operational Fire Safety
+- Emergency Communication
+
+related_nbc_domains:
+
+- Assembly Occupancy
+- Means of Escape
+- Fire Prevention
+- Life Safety
+
+lessons_learned:
+
+- Avoid combustible temporary structures
+- Provide multiple exits for assembly occupancies
+- Control crowd density
+- Conduct event safety planning
+- Install temporary fire protection measures
+
+prevention_recommendations:
+
+- Multiple emergency exits
+- Occupancy limits
+- Fire-retardant tent materials
+- Emergency response plans
+- Event fire safety inspections
+
+search_keywords:
+
+- Dabwali School Fire
+- School Function Fire
+- Tent Fire Disaster
+- Assembly Occupancy Fire

@@ -1,0 +1,41 @@
+risk_name: Blocked Exits
+
+severity: Critical
+
+description:
+  Fire exits that are locked, obstructed, inaccessible,
+  or inadequately marked.
+
+common_causes:
+  - Storage in exit paths
+  - Locked exit doors
+  - Poor maintenance
+  - Unauthorized modifications
+
+warning_signs:
+  - Exit doors blocked
+  - Missing signage
+  - Narrow pathways
+  - Occupied stair landings
+
+potential_consequences:
+  - Delayed evacuation
+  - Crowd crush
+  - Smoke entrapment
+  - Increased fatalities
+
+high_risk_occupancies:
+  - Assembly
+  - Commercial
+  - Educational
+  - Residential
+
+related_case_studies:
+  - Kamala Mills Fire
+  - Rajkot Gaming Zone Fire
+  - Surat Coaching Centre Fire
+
+recommended_controls:
+  - Monthly exit inspections
+  - Illuminated exit signs
+  - Exit clearance enforcement

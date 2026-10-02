@@ -1,0 +1,24 @@
+rule_id: CFO-STAIR-007
+
+title: Staircase Fire Separation Requirement
+
+category: Fire Resistance
+
+applies_to:
+  - Protected Staircases
+
+requirement:
+  Staircases shall maintain required fire separation from adjacent occupied spaces.
+
+compliance_check:
+  Verify fire-rated walls and doors.
+
+evidence_required:
+  - Architectural drawings
+  - Product certifications
+
+risk_if_non_compliant:
+  Fire spread into evacuation routes.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

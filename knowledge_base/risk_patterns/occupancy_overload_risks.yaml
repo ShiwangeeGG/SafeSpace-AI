@@ -1,0 +1,28 @@
+risk_name: Occupancy Overload
+
+severity: High
+
+common_causes:
+  - Excess visitors
+  - Event overcrowding
+  - Capacity violations
+
+warning_signs:
+  - Congested exits
+  - Standing crowds
+  - Restricted movement
+
+potential_consequences:
+  - Crowd crush
+  - Delayed evacuation
+  - Panic behaviour
+
+related_case_studies:
+  - Kamala Mills Fire
+  - Rajkot Gaming Zone Fire
+  - Dabwali School Fire
+
+recommended_controls:
+  - Occupancy monitoring
+  - Capacity enforcement
+  - Crowd management

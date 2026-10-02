@@ -1,0 +1,24 @@
+rule_id: CFO-BSMT-007
+
+title: Fire Retardant Surface Protection Requirement
+
+category: Passive Fire Protection
+
+applies_to:
+  - Basement Areas
+
+requirement:
+  Specified basement surfaces shall be treated or protected using approved fire-retardant materials where required.
+
+compliance_check:
+  Verify material certification and installation.
+
+evidence_required:
+  - Product certifications
+  - Site inspection
+
+risk_if_non_compliant:
+  Increased fire spread potential.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

@@ -1,0 +1,53 @@
+comparison_categories:
+
+occupant_density:
+residential: Medium
+educational: High
+institutional: Medium
+hospital: Medium
+assembly: Very High
+business: Medium
+mercantile: High
+industrial: Medium
+storage: Low
+hazardous: Low
+mixed: Variable
+
+evacuation_complexity:
+residential: Medium
+educational: High
+institutional: High
+hospital: Critical
+assembly: Very High
+business: Medium
+mercantile: High
+industrial: High
+storage: Low
+hazardous: Critical
+mixed: Very High
+
+fire_load:
+residential: Medium
+educational: Medium
+institutional: Medium
+hospital: Medium
+assembly: Medium
+business: Medium
+mercantile: High
+industrial: High
+storage: Very High
+hazardous: Critical
+mixed: Variable
+
+life_safety_priority:
+residential: High
+educational: High
+institutional: Very High
+hospital: Critical
+assembly: Very High
+business: Medium
+mercantile: High
+industrial: High
+storage: Medium
+hazardous: Critical
+mixed: High

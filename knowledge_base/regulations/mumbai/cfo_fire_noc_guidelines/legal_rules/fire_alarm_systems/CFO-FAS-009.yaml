@@ -1,0 +1,24 @@
+rule_id: CFO-FAS-009
+
+title: Fire Alarm System Maintenance Requirement
+
+category: Maintenance
+
+applies_to:
+  - Fire Alarm Systems
+
+requirement:
+  Fire alarm systems shall be periodically inspected, tested, and maintained.
+
+compliance_check:
+  Verify maintenance schedule and records.
+
+evidence_required:
+  - Maintenance logs
+  - Testing reports
+
+risk_if_non_compliant:
+  Alarm system failure during emergencies.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

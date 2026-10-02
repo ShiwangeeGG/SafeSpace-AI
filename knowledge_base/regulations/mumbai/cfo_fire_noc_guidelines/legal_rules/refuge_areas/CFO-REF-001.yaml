@@ -1,0 +1,24 @@
+rule_id: CFO-REF-001
+
+title: Refuge Area Requirement
+
+category: Life Safety
+
+applies_to:
+  - High Rise Buildings
+
+requirement:
+  Refuge areas shall be provided in high-rise buildings as required by applicable fire safety regulations.
+
+compliance_check:
+  Verify refuge areas are provided at required locations.
+
+evidence_required:
+  - Approved plans
+  - Building section drawings
+
+risk_if_non_compliant:
+  Occupants may lack protected waiting areas during emergencies.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

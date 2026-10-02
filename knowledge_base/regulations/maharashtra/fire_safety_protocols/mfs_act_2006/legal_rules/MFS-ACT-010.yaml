@@ -1,0 +1,28 @@
+rule_id: MFS-ACT-010
+
+title: Compliance with Fire Safety Notice
+
+category: Enforcement
+
+applies_to:
+  - Owners
+  - Occupiers
+
+requirement:
+  Fire safety deficiencies identified during inspection shall be rectified within the period specified in the notice.
+
+compliance_check:
+  Verify corrective actions completed before deadline.
+
+evidence_required:
+  - Closure report
+  - Rectification records
+  - Follow-up inspection
+
+risk_if_non_compliant:
+  Building may be sealed and enforcement action initiated.
+
+source_document:
+  Maharashtra Fire Prevention and Life Safety Measures Act, 2006
+
+page: 7

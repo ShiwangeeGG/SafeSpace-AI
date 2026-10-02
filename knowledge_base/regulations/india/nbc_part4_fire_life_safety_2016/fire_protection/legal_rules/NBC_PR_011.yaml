@@ -1,0 +1,24 @@
+rule_id: NBC-PR-011
+
+title: Dedicated Fire Water Storage Requirement
+
+category: Water Storage
+
+applies_to:
+  - Buildings requiring firefighting systems
+
+requirement:
+  Dedicated water storage shall be provided exclusively for firefighting purposes.
+
+compliance_check:
+  Verify tank capacity and isolation.
+
+evidence_required:
+  - Tank drawings
+  - Capacity calculations
+
+risk_if_non_compliant:
+  Inadequate water supply during fire emergencies.
+
+source_document:
+  National Building Code of India 2016 Part 4

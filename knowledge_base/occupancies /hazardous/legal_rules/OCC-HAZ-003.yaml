@@ -1,0 +1,43 @@
+rule_id: OCC-HAZ-003
+
+occupancy_group: Hazardous
+
+rule_category: Toxic and Reactive Materials
+
+occupancy_definition: >
+Occupancies involving materials capable of
+producing toxic gases, dangerous reactions,
+or severe health hazards during fires.
+
+applies_to:
+
+- Chemical Processing Facilities
+- Pesticide Manufacturing Plants
+- Industrial Gas Facilities
+
+occupancy_characteristics:
+
+- Toxic release potential
+- Chemical reaction hazards
+- Specialized containment requirements
+
+primary_fire_safety_concern:
+Protection against toxic exposure and
+uncontrolled chemical reactions.
+
+related_nbc_domains:
+
+- Hazardous Material Control
+- Fire Prevention
+- Life Safety
+
+retrieval_keywords:
+
+- toxic chemicals
+- reactive materials
+- chemical hazards
+- toxic release
+
+source:
+document: NBC Part 4 Fire and Life Safety
+occupancy_group: Hazardous

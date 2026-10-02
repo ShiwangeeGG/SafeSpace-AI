@@ -1,0 +1,46 @@
+domain: Transportation Fire Incidents
+
+common_causes:
+
+- Electrical faults
+- Fuel leaks
+- Vehicle failures
+- Operational errors
+
+common_failures:
+
+- Delayed evacuation
+- Poor maintenance
+- Inadequate emergency communication
+
+common_occupancies:
+
+- Trains
+- Buses
+- Metro Systems
+
+high_risk_indicators:
+
+- High passenger density
+- Confined environments
+- Limited exits
+- Underground infrastructure
+
+most_affected_systems:
+
+- Emergency Communication
+- Smoke Management
+- Operational Fire Safety
+
+recommended_controls:
+
+- Emergency drills
+- Maintenance inspections
+- Fire detection systems
+- Evacuation planning
+
+common_regulatory_domains:
+
+- Life Safety
+- Emergency Management
+- Operational Safety

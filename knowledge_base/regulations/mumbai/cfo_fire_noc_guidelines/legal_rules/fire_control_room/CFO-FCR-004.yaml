@@ -1,0 +1,24 @@
+rule_id: CFO-FCR-004
+
+title: Building Floor Plan Availability Requirement
+
+category: Emergency Information
+
+applies_to:
+  - Fire Control Rooms
+
+requirement:
+  Updated building floor plans and fire safety layouts shall be available within the Fire Control Room.
+
+compliance_check:
+  Verify plan availability and currency.
+
+evidence_required:
+  - Building plans
+  - Site inspection
+
+risk_if_non_compliant:
+  Firefighters may lack critical building information during emergencies.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

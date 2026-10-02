@@ -1,0 +1,58 @@
+risk_id: RISK-006
+
+risk_name: High Rise Risks
+
+category: High Rise Buildings
+
+risk_level: Critical
+
+risk_description: >
+  Fire risks associated with high-rise buildings,
+  including vertical fire spread and complex
+  evacuation.
+
+why_it_is_dangerous:
+  - Vertical smoke spread
+  - Difficult firefighting access
+  - Extended evacuation times
+
+affected_occupancies:
+  - High Rise Residential
+  - High Rise Mercantile
+  - High Rise Mixed Occupancy
+
+related_compliance_gaps:
+  - GAP-006-missing_refuge_area
+  - GAP-007-no_fire_lift
+  - GAP-008-no_smoke_management
+
+immediate_actions:
+  - Verify refuge area accessibility
+  - Check fire lift functionality
+
+short_term_actions:
+  - Conduct high-rise evacuation drills
+  - Review smoke management strategy
+
+long_term_actions:
+  - Upgrade high-rise fire protection systems
+  - Improve firefighter access provisions
+
+high_priority_systems:
+  - Fire Lift
+  - Refuge Areas
+  - Smoke Management
+
+related_case_studies:
+  - Crystal Tower Fire
+  - Times Tower Fire
+
+ai_reasoning_hints:
+  - Prioritize smoke control and evacuation
+
+retrieval_keywords:
+  - high rise fire
+  - vertical fire spread
+
+source:
+  document: Risk Patterns Layer

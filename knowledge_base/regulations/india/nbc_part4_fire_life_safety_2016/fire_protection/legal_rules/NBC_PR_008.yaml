@@ -1,0 +1,24 @@
+rule_id: NBC-PR-008
+
+title: Sprinkler Systems Shall Be Maintained Operational
+
+category: Sprinkler System
+
+applies_to:
+  - Buildings with sprinkler systems
+
+requirement:
+  Sprinkler systems shall remain functional and available at all times.
+
+compliance_check:
+  Verify maintenance and testing records.
+
+evidence_required:
+  - Inspection logs
+  - Maintenance reports
+
+risk_if_non_compliant:
+  Fire suppression failure.
+
+source_document:
+  National Building Code of India 2016 Part 4

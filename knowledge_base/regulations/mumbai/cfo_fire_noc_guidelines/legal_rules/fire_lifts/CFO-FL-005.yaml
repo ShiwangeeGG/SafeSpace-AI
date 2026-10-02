@@ -1,0 +1,24 @@
+rule_id: CFO-FL-005
+
+title: Fire Lift Emergency Operation Requirement
+
+category: Emergency Controls
+
+applies_to:
+  - Fire Lifts
+
+requirement:
+  Fire lifts shall support firefighter emergency operation mode.
+
+compliance_check:
+  Verify emergency control functionality.
+
+evidence_required:
+  - Lift testing records
+  - Commissioning reports
+
+risk_if_non_compliant:
+  Firefighters may be unable to control lift operation during emergencies.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

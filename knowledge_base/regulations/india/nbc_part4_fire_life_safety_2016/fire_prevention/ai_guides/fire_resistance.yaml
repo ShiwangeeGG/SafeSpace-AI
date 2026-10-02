@@ -1,0 +1,29 @@
+system_component: Fire Resistance
+
+description:
+  The ability of building elements to withstand fire exposure for a specified period while maintaining structural integrity and limiting fire spread.
+
+purpose:
+  Prevent premature structural collapse and support safe evacuation.
+
+why_it_matters:
+  Fire-resistant construction increases the time available for evacuation and firefighting operations.
+
+common_fire_risks:
+  - Structural failure
+  - Early collapse
+  - Fire spread through weak assemblies
+
+common_compliance_checks:
+  - Structural fire ratings verified
+  - Fire-rated construction materials used
+  - Fire resistance certifications available
+  - Fire-rated assemblies maintained
+
+related_rules:
+  - NBC-FP-003
+
+related_systems:
+  - Compartmentation
+  - Building Separation
+  - Structural Safety

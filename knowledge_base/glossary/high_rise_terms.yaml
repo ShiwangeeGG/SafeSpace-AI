@@ -1,0 +1,25 @@
+terms:
+
+  - term_id: HR-001
+    term_name: Refuge Area
+    definition: Designated safe area for temporary shelter during emergencies.
+
+  - term_id: HR-002
+    term_name: Fire Lift
+    definition: Lift dedicated for firefighter operations.
+
+  - term_id: HR-003
+    term_name: Fire Check Floor
+    definition: Floor designed to restrict vertical fire spread.
+
+  - term_id: HR-004
+    term_name: Smoke Lobby
+    definition: Smoke-protected lobby adjoining escape routes.
+
+  - term_id: HR-005
+    term_name: Pressurization System
+    definition: System maintaining positive air pressure to prevent smoke entry.
+
+  - term_id: HR-006
+    term_name: Fire Fighting Shaft
+    definition: Protected shaft containing firefighting facilities.

@@ -1,0 +1,26 @@
+rule_id: MFS-ACMS-002
+
+title: ACMS Must Monitor Active and Passive Fire Systems
+
+category: Fire Monitoring
+
+applies_to:
+  - Buildings with ACMS
+
+requirement:
+  ACMS shall monitor both active and passive fire prevention and life safety measures.
+
+compliance_check:
+  Verify all required systems are connected to ACMS.
+
+evidence_required:
+  - ACMS configuration report
+  - Monitoring dashboard
+
+risk_if_non_compliant:
+  Partial fire safety coverage resulting in hidden failures.
+
+source_document:
+  Maharashtra Fire Prevention and Life Safety Measures (Amendment) Rules 2025
+
+page: 12

@@ -1,0 +1,39 @@
+domain: Commercial Kitchen Fire Safety
+
+description:
+  Fire safety framework governing commercial cooking operations, kitchen exhaust systems, grease management, fire suppression systems, fuel safety, and maintenance practices.
+
+primary_hazards:
+  - Grease fires
+  - Cooking oil fires
+  - LPG leaks
+  - Exhaust duct fires
+  - Appliance overheating
+
+critical_safety_systems:
+  - Exhaust Hoods
+  - Grease Ducts
+  - Fire Suppression Systems
+  - LPG Safety Systems
+  - Portable Fire Extinguishers
+
+key_compliance_focus:
+  - Grease control
+  - Fire detection and suppression
+  - Fuel isolation
+  - Maintenance and cleaning
+  - Emergency response readiness
+
+related_rules:
+  - NBC-CK-001
+  - NBC-CK-002
+  - NBC-CK-003
+  - NBC-CK-004
+  - NBC-CK-005
+  - NBC-CK-006
+  - NBC-CK-007
+  - NBC-CK-008
+  - NBC-CK-009
+  - NBC-CK-010
+  - NBC-CK-011
+  - NBC-CK-012

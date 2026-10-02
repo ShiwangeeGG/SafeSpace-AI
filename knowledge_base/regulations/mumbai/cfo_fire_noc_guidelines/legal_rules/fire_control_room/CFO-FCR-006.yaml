@@ -1,0 +1,24 @@
+rule_id: CFO-FCR-006
+
+title: Master Electrical Control Requirement
+
+category: Emergency Controls
+
+applies_to:
+  - Fire Control Rooms
+
+requirement:
+  Master electrical control switches shall be available for emergency isolation of building services where required.
+
+compliance_check:
+  Verify switch availability and accessibility.
+
+evidence_required:
+  - Electrical drawings
+  - Site inspection
+
+risk_if_non_compliant:
+  Emergency responders may be unable to safely isolate electrical systems.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

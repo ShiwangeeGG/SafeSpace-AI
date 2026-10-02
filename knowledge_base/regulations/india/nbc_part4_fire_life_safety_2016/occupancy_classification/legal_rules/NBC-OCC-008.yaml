@@ -1,0 +1,29 @@
+rule_id: NBC-OCC-008
+
+title: Mercantile Occupancy Classification
+
+category: Occupancy Classification
+
+applies_to:
+  - Shops
+  - Markets
+  - Department stores
+  - Shopping malls
+
+requirement:
+  Buildings used for display and sale of merchandise shall be classified as Mercantile Occupancy.
+
+compliance_check:
+  Verify commercial retail activity.
+
+evidence_required:
+  - Trade licence
+  - Occupancy certificate
+
+risk_if_non_compliant:
+  Incorrect fire load assessment.
+
+source_document:
+  National Building Code of India 2016 Part 4
+
+page: Occupancy Classification Chapter

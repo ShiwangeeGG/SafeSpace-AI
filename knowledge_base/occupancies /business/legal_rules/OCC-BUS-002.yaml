@@ -1,0 +1,43 @@
+rule_id: OCC-BUS-002
+
+occupancy_group: Business
+
+rule_category: Office Occupancies
+
+occupancy_definition: >
+Buildings primarily used for office functions,
+administration, management, and professional work.
+
+applies_to:
+
+- IT Offices
+- Corporate Headquarters
+- Consulting Firms
+- Legal Offices
+- Financial Service Offices
+
+occupancy_characteristics:
+
+- Open office layouts
+- Workstation clustering
+- High electrical dependency
+
+primary_fire_safety_concern:
+Electrical fire prevention and orderly evacuation.
+
+related_nbc_domains:
+
+- Electrical Fire Safety
+- Means of Escape
+- Fire Detection
+
+retrieval_keywords:
+
+- IT office
+- corporate office
+- workstation
+- business centre
+
+source:
+document: NBC Part 4 Fire and Life Safety
+occupancy_group: Business

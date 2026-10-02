@@ -1,0 +1,19 @@
+rule_id: MFS-AMD23-007
+
+title: Mandatory Fire And Life Safety Audit
+
+category: Audit
+
+applies_to:
+  - Buildings specified under Section 45
+
+requirement:
+  Fire and Life Safety Audit shall be conducted by a licensed Fire and Life Safety Auditor.
+
+compliance_check:
+  Verify audit completion and auditor licence validity.
+
+source_document:
+  Maharashtra Fire Prevention and Life Safety Measures (Amendment) Act, 2023
+
+page: 10-11

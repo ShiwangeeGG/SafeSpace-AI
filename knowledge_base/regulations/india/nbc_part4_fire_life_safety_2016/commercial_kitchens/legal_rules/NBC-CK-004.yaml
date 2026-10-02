@@ -1,0 +1,24 @@
+rule_id: NBC-CK-004
+
+title: Grease Duct Shall Be Continuous
+
+category: Exhaust Duct
+
+applies_to:
+  - Commercial Kitchens
+
+requirement:
+  Grease ducts shall provide a continuous path to discharge point.
+
+compliance_check:
+  Verify duct continuity and routing.
+
+evidence_required:
+  - Mechanical drawings
+  - Inspection report
+
+risk_if_non_compliant:
+  Grease leakage and fire spread.
+
+source_document:
+  National Building Code of India 2016 Part 4 Annex G

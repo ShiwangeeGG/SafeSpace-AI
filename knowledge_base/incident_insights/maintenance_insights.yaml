@@ -1,0 +1,27 @@
+maintenance_patterns:
+
+  nonfunctional_fire_pumps:
+    frequency: High
+
+  disabled_fire_alarms:
+    frequency: High
+
+  neglected_sprinkler_systems:
+    frequency: Moderate
+
+  expired_extinguishers:
+    frequency: Moderate
+
+observed_incidents:
+  - Dreams Mall Fire
+  - AMRI Hospital Fire
+
+key_insight: >
+  Fire safety systems often fail because
+  they are poorly maintained rather than
+  because they were never installed.
+
+ai_usage:
+  - Compliance Evaluation
+  - Maintenance Planning
+  - Risk Assessment

@@ -1,0 +1,36 @@
+rule_id: OCC-MIX-003
+
+occupancy_group: Mixed
+
+rule_category: Occupancy Risk Interaction
+
+occupancy_definition: >
+  Different occupancies within a building
+  may introduce different fire hazards
+  and evacuation challenges.
+
+applies_to:
+  - Residential + Retail
+  - Office + Assembly
+  - Hotel + Commercial
+
+occupancy_characteristics:
+  - Multiple risk sources
+  - Different occupant behaviours
+  - Different operating hours
+
+primary_fire_safety_concern:
+  Managing interactions between occupancy risks.
+
+related_nbc_domains:
+  - Life Safety
+  - Fire Prevention
+
+retrieval_keywords:
+  - mixed use risk
+  - occupancy interaction
+  - fire hazards
+
+source:
+  document: NBC Part 4 Fire and Life Safety
+  occupancy_group: Mixed

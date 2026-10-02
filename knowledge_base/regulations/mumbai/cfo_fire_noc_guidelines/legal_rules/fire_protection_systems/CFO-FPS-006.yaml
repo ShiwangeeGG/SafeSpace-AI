@@ -1,0 +1,24 @@
+rule_id: CFO-FPS-006
+
+title: Drencher System Requirement
+
+category: Fire Suppression
+
+applies_to:
+  - Buildings requiring drencher protection
+
+requirement:
+  Drencher systems shall be installed where specified for exposure protection and fire control.
+
+compliance_check:
+  Verify drencher coverage and functionality.
+
+evidence_required:
+  - Drencher drawings
+  - Testing reports
+
+risk_if_non_compliant:
+  Increased fire spread to protected areas.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

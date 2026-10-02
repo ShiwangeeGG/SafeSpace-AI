@@ -1,0 +1,68 @@
+system_id: SYS-005
+
+system_name: Smoke Management System
+
+category: Smoke Control
+
+criticality_level: Critical
+
+system_purpose: >
+  Control, extract, and manage smoke movement
+  during a fire emergency to maintain tenable
+  evacuation conditions.
+
+why_it_is_important:
+  - Reduces smoke inhalation risk
+  - Improves visibility during evacuation
+  - Supports firefighter operations
+
+affected_occupancies:
+  - High Rise Buildings
+  - Hospital
+  - Mercantile
+  - Assembly
+  - Mixed Occupancy
+
+common_failure_modes:
+  - Nonfunctional exhaust fans
+  - Damaged ductwork
+  - Failed pressurization systems
+  - Poor maintenance
+
+related_compliance_gaps:
+  - GAP-008-no_smoke_management
+  - GAP-011-poor_compartmentation
+
+immediate_actions:
+  - Verify smoke extraction functionality
+  - Inspect pressurization systems
+
+short_term_actions:
+  - Conduct smoke control testing
+  - Repair identified deficiencies
+
+long_term_actions:
+  - Upgrade smoke management infrastructure
+  - Establish maintenance schedule
+
+inspection_focus:
+  - Exhaust Fans
+  - Pressurization Systems
+  - Smoke Dampers
+  - Control Panels
+
+related_case_studies:
+  - AMRI Hospital Fire
+  - Crystal Tower Fire
+
+ai_reasoning_hints:
+  - Smoke is the primary cause of fire fatalities
+  - Prioritize smoke control in high-rise buildings
+
+retrieval_keywords:
+  - smoke management
+  - smoke extraction
+  - pressurization system
+
+source:
+  document: NBC Part 4 Fire and Life Safety

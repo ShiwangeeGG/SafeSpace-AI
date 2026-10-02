@@ -1,0 +1,36 @@
+rule_id: OCC-STO-002
+
+occupancy_group: Storage
+
+rule_category: Warehouse Occupancies
+
+occupancy_definition: >
+  Facilities used for storing finished goods,
+  raw materials, inventory, merchandise,
+  and logistics stock.
+
+applies_to:
+  - Warehouses
+  - Logistics Hubs
+  - Inventory Storage Facilities
+
+occupancy_characteristics:
+  - Rack storage systems
+  - Large inventory volumes
+  - Material handling operations
+
+primary_fire_safety_concern:
+  Rapid fire growth through stored goods.
+
+related_nbc_domains:
+  - Fire Protection
+  - Fire Prevention
+
+retrieval_keywords:
+  - warehouse
+  - inventory storage
+  - logistics facility
+
+source:
+  document: NBC Part 4 Fire and Life Safety
+  occupancy_group: Storage

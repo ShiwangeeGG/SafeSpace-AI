@@ -1,0 +1,24 @@
+rule_id: CFO-FCR-002
+
+title: Fire Alarm Monitoring Requirement
+
+category: Monitoring Systems
+
+applies_to:
+  - Fire Control Rooms
+
+requirement:
+  Fire alarm systems shall be continuously monitored from the Fire Control Room.
+
+compliance_check:
+  Verify fire alarm monitoring functionality.
+
+evidence_required:
+  - System testing reports
+  - Commissioning records
+
+risk_if_non_compliant:
+  Delayed detection and response to fire events.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

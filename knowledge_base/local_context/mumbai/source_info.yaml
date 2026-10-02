@@ -1,0 +1,21 @@
+source_id: LOC-MUM-SRC-001
+
+source_name: Mumbai Fire Context Knowledge Base
+
+region: Mumbai
+
+knowledge_sources:
+  - Mumbai CFO Guidelines
+  - Mumbai Fire Brigade Guidance
+  - Mumbai Fire Case Studies
+  - Risk Patterns Layer
+
+retrieval_priority: Critical
+
+intended_ai_usage:
+  - Mumbai Specific Compliance Guidance
+  - Risk Assessment
+  - Recommendation Generation
+
+maintained_for:
+  - SafeSpace_AI

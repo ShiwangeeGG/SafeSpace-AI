@@ -1,0 +1,37 @@
+occupancy_type: Industrial
+
+description:
+  Buildings used for manufacturing, processing, fabrication, assembly, or repair operations.
+
+examples:
+  - Factories
+  - Manufacturing Plants
+  - Processing Units
+  - Workshops
+
+primary_fire_risks:
+  - Machinery
+  - Flammable liquids
+  - Welding operations
+  - Electrical systems
+
+typical_occupants:
+  - Workers
+  - Engineers
+  - Supervisors
+  - Maintenance Staff
+
+critical_life_safety_focus:
+  - Process safety
+  - Hazard isolation
+  - Fire suppression
+  - Emergency shutdown
+
+commonly_required_systems:
+  - Hydrant systems
+  - Sprinklers
+  - Fire alarms
+  - Industrial fire protection systems
+
+related_nbc_rules:
+  - NBC-OCC-009

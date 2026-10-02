@@ -1,0 +1,26 @@
+rule_id: MFS-RULE-008
+
+title: Nominated Fire Officers Must Hold Prescribed Qualifications
+
+category: Personnel Qualification
+
+applies_to:
+  - Nominated Officers
+
+requirement:
+  Nominated officers shall possess prescribed fire engineering qualifications and relevant fire service experience.
+
+compliance_check:
+  Verify qualifications and experience.
+
+evidence_required:
+  - Degree or diploma certificates
+  - Experience certificates
+
+risk_if_non_compliant:
+  Invalid inspection authority.
+
+source_document:
+  Maharashtra Fire Prevention and Life Safety Measures Rules, 2009
+
+page: 2-4

@@ -1,0 +1,79 @@
+occupancy_name: Business
+
+occupancy_category: Office and Administrative Occupancy
+
+description: >
+Buildings used primarily for business transactions,
+administration, professional services, record keeping,
+financial services, management activities, and office
+operations.
+
+examples:
+
+- Corporate Offices
+- IT Companies
+- Banks
+- Government Offices
+- Consulting Firms
+- Administrative Buildings
+- Business Parks
+- Financial Institutions
+
+occupancy_characteristics:
+
+- Moderate occupant density
+- Daytime peak occupancy
+- High dependence on electrical systems
+- Extensive computer and server usage
+- Large open office layouts
+
+primary_fire_safety_concerns:
+
+- Electrical fire hazards
+- Smoke spread through office floors
+- Evacuation of large office populations
+- Protection of critical records and IT systems
+
+common_fire_risks:
+
+- Electrical faults
+- Overloaded circuits
+- Server room fires
+- HVAC equipment failures
+- Poor maintenance
+
+evacuation_complexity: Moderate
+
+risk_level: Medium
+
+related_case_studies:
+
+- Times Tower Fire
+
+related_risk_patterns:
+
+- electrical_risks
+- smoke_spread_risks
+- maintenance_failures
+- high_rise_risks
+
+recommended_focus_areas:
+
+- Electrical safety
+- Fire alarm systems
+- Smoke management
+- Emergency communication
+- Fire protection systems
+
+retrieval_keywords:
+
+- office building
+- business occupancy
+- IT office
+- bank
+- government office
+- corporate office
+
+source:
+document: NBC Part 4 Fire and Life Safety
+occupancy_group: Business

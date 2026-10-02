@@ -1,0 +1,25 @@
+rule_id: MFS-RULE-001
+
+title: Fire Compliance Certificate Must Be Issued in Prescribed Format
+
+category: Certification
+
+applies_to:
+  - Licensed Agencies
+
+requirement:
+  Fire compliance certificates shall be issued in Form-A.
+
+compliance_check:
+  Verify compliance certificate is issued in prescribed format.
+
+evidence_required:
+  - Form-A certificate
+
+risk_if_non_compliant:
+  Invalid statutory certification.
+
+source_document:
+  Maharashtra Fire Prevention and Life Safety Measures Rules, 2009
+
+page: 4

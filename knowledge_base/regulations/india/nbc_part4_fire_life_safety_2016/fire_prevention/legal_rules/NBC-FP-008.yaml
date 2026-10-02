@@ -1,0 +1,24 @@
+rule_id: NBC-FP-008
+
+title: Interior Finishes Shall Limit Flame Spread
+
+category: Interior Finish
+
+applies_to:
+  - Occupied Buildings
+
+requirement:
+  Interior finish materials shall meet prescribed flame spread requirements.
+
+compliance_check:
+  Verify material classifications.
+
+evidence_required:
+  - Material test reports
+  - Product certifications
+
+risk_if_non_compliant:
+  Accelerated fire growth.
+
+source_document:
+  National Building Code of India 2016 Part 4

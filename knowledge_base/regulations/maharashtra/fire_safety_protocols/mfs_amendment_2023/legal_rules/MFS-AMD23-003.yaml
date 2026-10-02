@@ -1,0 +1,19 @@
+rule_id: MFS-AMD23-003
+
+title: Fire Safety Measures Shall Meet NBC Requirements
+
+category: Compliance
+
+applies_to:
+  - Schedule-I Buildings
+
+requirement:
+  Fire prevention and life safety measures shall not be less than minimum requirements prescribed in Part 4 of the National Building Code of India.
+
+compliance_check:
+  Compare installed systems against NBC Part 4 requirements.
+
+source_document:
+  Maharashtra Fire Prevention and Life Safety Measures (Amendment) Act, 2023
+
+page: 3

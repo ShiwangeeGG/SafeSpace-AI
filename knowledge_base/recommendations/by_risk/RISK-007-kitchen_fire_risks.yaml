@@ -1,0 +1,57 @@
+risk_id: RISK-007
+
+risk_name: Kitchen Fire Risks
+
+category: Ignition Sources
+
+risk_level: High
+
+risk_description: >
+  Fire risks associated with cooking
+  operations, LPG systems, grease buildup,
+  and kitchen exhaust systems.
+
+why_it_is_dangerous:
+  - Rapid flame spread
+  - Grease fires
+  - LPG explosions
+
+affected_occupancies:
+  - Assembly
+  - Mercantile
+  - Residential
+  - Institutional
+
+related_compliance_gaps:
+  - Inadequate suppression systems
+  - Poor maintenance
+
+immediate_actions:
+  - Inspect LPG systems
+  - Remove grease accumulation
+
+short_term_actions:
+  - Service kitchen exhaust systems
+  - Verify extinguisher availability
+
+long_term_actions:
+  - Install kitchen suppression systems
+  - Establish maintenance schedules
+
+high_priority_systems:
+  - Kitchen Suppression Systems
+  - Fire Detection Systems
+
+related_case_studies:
+  - Kamala Mills Fire
+
+ai_reasoning_hints:
+  - Focus on ignition source control
+
+retrieval_keywords:
+  - kitchen fire
+  - LPG fire
+  - grease fire
+
+source:
+  document: Risk Patterns Layer

@@ -1,0 +1,24 @@
+rule_id: CFO-BSMT-003
+
+title: Smoke Extraction System Requirement
+
+category: Smoke Management
+
+applies_to:
+  - Basements
+
+requirement:
+  Basements shall be provided with smoke extraction systems to remove smoke during fire emergencies.
+
+compliance_check:
+  Verify smoke extraction system functionality.
+
+evidence_required:
+  - Smoke control drawings
+  - Functional test reports
+
+risk_if_non_compliant:
+  Smoke buildup may prevent evacuation and firefighting operations.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

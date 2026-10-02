@@ -1,0 +1,34 @@
+domain: Fire Risk Patterns
+
+major_risk_categories:
+  - Electrical Risks
+  - Blocked Exits
+  - Smoke Spread
+  - Occupancy Overload
+  - Combustible Materials
+  - Kitchen Fires
+  - Hazardous Materials
+  - High Rise Risks
+  - Evacuation Failures
+  - Maintenance Failures
+
+primary_objective:
+  Identify recurring risk indicators before they
+  develop into fire incidents.
+
+most_common_fire_causes:
+  - Electrical Faults
+  - Human Negligence
+  - Poor Maintenance
+  - Combustible Materials
+  - Kitchen Fires
+
+most_common_fatality_causes:
+  - Smoke Inhalation
+  - Entrapment
+  - Delayed Evacuation
+
+key_lesson:
+  Major fire incidents are often caused by a
+  combination of multiple small failures rather
+  than a single catastrophic event.

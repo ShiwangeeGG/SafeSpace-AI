@@ -1,0 +1,31 @@
+occupancy_patterns:
+
+  assembly:
+    common_failures:
+      - Occupancy Overload
+      - Blocked Exits
+
+  hospital:
+    common_failures:
+      - Smoke Spread
+      - Evacuation Complexity
+
+  educational:
+    common_failures:
+      - Inadequate Escape Planning
+      - Occupant Panic
+
+  industrial:
+    common_failures:
+      - Hazardous Material Risks
+      - Electrical Failures
+
+  residential:
+    common_failures:
+      - Delayed Detection
+      - Staircase Obstruction
+
+key_insight: >
+  Each occupancy type demonstrates
+  unique fire risks requiring
+  occupancy-specific controls.

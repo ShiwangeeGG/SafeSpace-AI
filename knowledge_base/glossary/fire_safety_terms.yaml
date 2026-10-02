@@ -1,0 +1,41 @@
+terms:
+
+  - term_id: FS-001
+    term_name: Fire
+    definition: Rapid oxidation process producing heat, light, smoke, and flames.
+
+  - term_id: FS-002
+    term_name: Fire Triangle
+    definition: Combination of fuel, heat, and oxygen required for fire.
+
+  - term_id: FS-003
+    term_name: Flashover
+    definition: Sudden transition where all combustible materials ignite almost simultaneously.
+
+  - term_id: FS-004
+    term_name: Backdraft
+    definition: Explosive ignition caused by sudden oxygen introduction into a confined fire.
+
+  - term_id: FS-005
+    term_name: Means of Escape
+    definition: Continuous unobstructed path enabling occupants to reach a safe location.
+
+  - term_id: FS-006
+    term_name: Compartmentation
+    definition: Division of buildings into fire-resistant sections to limit fire spread.
+
+  - term_id: FS-007
+    term_name: Fire Load
+    definition: Total combustible material present in a space.
+
+  - term_id: FS-008
+    term_name: Travel Distance
+    definition: Distance occupants travel to reach an exit.
+
+  - term_id: FS-009
+    term_name: Dead End Corridor
+    definition: Corridor with only one escape direction.
+
+  - term_id: FS-010
+    term_name: Occupant Load
+    definition: Maximum number of occupants expected in a space.

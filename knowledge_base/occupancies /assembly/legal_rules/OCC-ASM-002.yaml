@@ -1,0 +1,41 @@
+rule_id: OCC-ASM-002
+
+occupancy_group: Assembly
+
+rule_category: Entertainment Occupancies
+
+occupancy_definition: >
+  Assembly occupancies used primarily for
+  entertainment, recreation, or spectator events.
+
+applies_to:
+  - Cinemas
+  - Theatres
+  - Multiplexes
+  - Stadiums
+  - Sports Arenas
+
+occupancy_characteristics:
+  - High occupant density
+  - Dim lighting conditions
+  - Crowd concentration
+
+primary_fire_safety_concern:
+  Rapid evacuation during emergencies.
+
+related_nbc_domains:
+  - Means of Escape
+  - Emergency Lighting
+  - Exit Signage
+
+retrieval_keywords:
+  - cinema
+  - theatre
+  - multiplex
+  - stadium
+  - sports arena
+
+source:
+  document: NBC Part 4 Fire and Life Safety
+  section: Occupancy Classification
+  occupancy_group: Assembly

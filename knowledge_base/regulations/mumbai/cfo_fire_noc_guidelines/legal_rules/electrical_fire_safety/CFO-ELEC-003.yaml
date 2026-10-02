@@ -1,0 +1,24 @@
+rule_id: CFO-ELEC-003
+
+title: Floor Penetration Sealing Requirement
+
+category: Fire Stopping
+
+applies_to:
+  - Electrical Service Penetrations
+
+requirement:
+  Openings created by electrical services passing through floors or walls shall be properly fire stopped.
+
+compliance_check:
+  Verify fire stopping installation.
+
+evidence_required:
+  - Site inspection
+  - Fire stopping certification
+
+risk_if_non_compliant:
+  Fire and smoke may spread between floors.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

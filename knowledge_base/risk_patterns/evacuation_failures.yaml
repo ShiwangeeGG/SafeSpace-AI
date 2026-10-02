@@ -1,0 +1,53 @@
+risk_name: Evacuation Failures
+
+severity: Critical
+
+description:
+  Conditions that prevent occupants from leaving
+  a building safely during a fire emergency.
+
+common_causes:
+  - Poor evacuation planning
+  - Lack of fire drills
+  - Inadequate exit capacity
+  - Blocked exits
+  - Occupancy overload
+
+warning_signs:
+  - Congested corridors
+  - Missing evacuation plans
+  - Poor emergency lighting
+  - Confused occupant movement
+
+potential_consequences:
+  - Entrapment
+  - Crowd crush
+  - Smoke inhalation
+  - Increased casualties
+
+high_risk_occupancies:
+  - Hospitals
+  - Educational
+  - Assembly
+  - High Rise Residential
+
+related_case_studies:
+  - Kamala Mills Fire
+  - Surat Coaching Centre Fire
+  - Dabwali School Fire
+  - AMRI Hospital Fire
+
+related_regulatory_domains:
+  - Means of Escape
+  - Life Safety
+  - Emergency Communication
+  - Occupancy Safety
+
+recommended_controls:
+  - Conduct regular fire drills
+  - Maintain evacuation plans
+  - Install emergency lighting
+  - Improve occupant training
+  - Monitor occupancy levels
+
+risk_score_impact: Critical

@@ -1,0 +1,24 @@
+rule_id: CFO-FAS-003
+
+title: Manual Call Point Requirement
+
+category: Alarm Initiation
+
+applies_to:
+  - Buildings with fire alarm systems
+
+requirement:
+  Manual call points shall be installed to permit occupant-initiated fire alarm activation.
+
+compliance_check:
+  Verify manual call point availability and accessibility.
+
+evidence_required:
+  - Fire alarm layout
+  - Site inspection
+
+risk_if_non_compliant:
+  Occupants may be unable to report fire conditions promptly.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

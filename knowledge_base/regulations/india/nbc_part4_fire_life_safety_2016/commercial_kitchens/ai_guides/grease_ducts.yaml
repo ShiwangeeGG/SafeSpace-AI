@@ -1,0 +1,32 @@
+system_component: Grease Ducts
+
+description:
+  Specialized exhaust ductwork used to transport grease-laden vapours from kitchen exhaust hoods to a safe discharge location.
+
+purpose:
+  Safely contain and transport combustible cooking vapours away from occupied spaces.
+
+why_it_matters:
+  Grease deposits inside ducts are one of the most common causes of commercial kitchen fires.
+
+common_fire_risks:
+  - Grease accumulation
+  - Internal duct fires
+  - Fire spread through duct routes
+  - Improper duct construction
+
+common_compliance_checks:
+  - Non-combustible construction
+  - Continuous duct routing
+  - Inspection access panels installed
+  - No grease leakage
+
+related_rules:
+  - NBC-CK-003
+  - NBC-CK-004
+  - NBC-CK-005
+
+related_systems:
+  - Kitchen Exhaust System
+  - Fire Suppression Systems
+  - Maintenance and Cleaning

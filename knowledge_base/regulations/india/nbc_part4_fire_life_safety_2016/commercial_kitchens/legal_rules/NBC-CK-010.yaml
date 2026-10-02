@@ -1,0 +1,24 @@
+rule_id: NBC-CK-010
+
+title: Portable Fire Extinguisher Requirement
+
+category: Fire Fighting Equipment
+
+applies_to:
+  - Commercial Kitchens
+
+requirement:
+  Appropriate portable fire extinguishers shall be provided within commercial kitchens.
+
+compliance_check:
+  Verify extinguisher type and accessibility.
+
+evidence_required:
+  - Inspection records
+  - Site photographs
+
+risk_if_non_compliant:
+  Delayed response to incipient fires.
+
+source_document:
+  National Building Code of India 2016 Part 4 Annex G

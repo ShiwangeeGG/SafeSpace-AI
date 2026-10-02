@@ -1,0 +1,57 @@
+occupancy_name: Storage
+
+occupancy_category: Storage Occupancy
+
+description: >
+  Buildings used primarily for storing,
+  preserving, warehousing, or distributing
+  materials, products, inventory, and goods.
+
+examples:
+  - Warehouses
+  - Godowns
+  - Distribution Centres
+  - Logistics Hubs
+  - Inventory Storage Facilities
+
+occupancy_characteristics:
+  - Large storage volumes
+  - High fuel load
+  - Limited occupants
+  - Rack storage systems
+
+primary_fire_safety_concerns:
+  - Fire spread through stored materials
+  - Delayed fire detection
+  - Smoke accumulation
+  - Property loss
+
+common_fire_risks:
+  - Electrical faults
+  - Combustible materials
+  - Poor housekeeping
+  - Storage arrangement failures
+
+evacuation_complexity: Low
+
+risk_level: High
+
+related_risk_patterns:
+  - combustible_materials
+  - maintenance_failures
+  - smoke_spread_risks
+
+recommended_focus_areas:
+  - Fire detection
+  - Sprinkler protection
+  - Storage arrangement controls
+  - Housekeeping
+
+retrieval_keywords:
+  - warehouse
+  - storage occupancy
+  - godown
+  - logistics facility
+
+source:
+  document: NBC Part 4 Fire and Life Safety

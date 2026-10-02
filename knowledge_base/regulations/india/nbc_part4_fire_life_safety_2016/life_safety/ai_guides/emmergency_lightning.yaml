@@ -1,0 +1,22 @@
+life_safety_component: Emergency Lighting
+
+description:
+  Backup lighting system that remains operational during power failure.
+
+purpose:
+  Ensure visibility of evacuation routes during emergencies.
+
+why_it_matters:
+  Darkness significantly slows evacuation and increases panic.
+
+common_compliance_checks:
+  - Functional testing
+  - Battery backup
+  - Route coverage
+
+related_rules:
+  - NBC-LS-013
+
+related_systems:
+  - Exit Signage
+  - Means of Egress

@@ -1,0 +1,24 @@
+rule_id: NBC-FP-001
+
+title: Building Design Shall Limit Fire Spread
+
+category: Fire Prevention
+
+applies_to:
+  - All Buildings
+
+requirement:
+  Buildings shall be designed and constructed to minimize the possibility of fire spread within and beyond the building.
+
+compliance_check:
+  Verify fire-resistant construction and compartmentation provisions.
+
+evidence_required:
+  - Approved drawings
+  - Fire safety design report
+
+risk_if_non_compliant:
+  Rapid fire propagation and increased life safety risk.
+
+source_document:
+  National Building Code of India 2016 Part 4

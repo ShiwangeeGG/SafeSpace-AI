@@ -1,0 +1,28 @@
+rule_id: MFS-ACT-001
+
+title: Mandatory Provision of Fire Prevention and Life Safety Measures
+
+category: Fire Safety Compliance
+
+applies_to:
+  - Owners of buildings classified under Schedule-I
+  - Occupiers where owner is not traceable
+
+requirement:
+  Fire prevention and life safety measures and minimum firefighting installations specified under Schedule-I shall be provided.
+
+compliance_check:
+  Verify required fire safety systems are installed according to Schedule-I requirements.
+
+evidence_required:
+  - Fire safety drawings
+  - Installation certificates
+  - Site inspection records
+
+risk_if_non_compliant:
+  Increased fire risk and legal non-compliance.
+
+source_document:
+  Maharashtra Fire Prevention and Life Safety Measures Act, 2006
+
+page: 5

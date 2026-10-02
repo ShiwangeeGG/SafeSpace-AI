@@ -1,0 +1,38 @@
+occupancy_type: Educational
+
+description:
+  Buildings used for education, training, and academic activities.
+
+examples:
+  - Schools
+  - Colleges
+  - Universities
+  - Coaching Institutes
+  - Training Centres
+
+primary_fire_risks:
+  - Electrical equipment
+  - Laboratories
+  - Library materials
+  - High occupant density
+
+typical_occupants:
+  - Students
+  - Teachers
+  - Staff
+  - Visitors
+
+critical_life_safety_focus:
+  - Fast evacuation
+  - Clear exit routes
+  - Fire drills
+  - Occupant awareness
+
+commonly_required_systems:
+  - Fire alarms
+  - Emergency lighting
+  - Fire extinguishers
+  - Exit signage
+
+related_nbc_rules:
+  - NBC-OCC-004

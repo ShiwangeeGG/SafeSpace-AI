@@ -1,0 +1,43 @@
+rule_id: OCC-HAZ-002
+
+occupancy_group: Hazardous
+
+rule_category: Flammable and Combustible Materials
+
+occupancy_definition: >
+Occupancies involving the storage, handling,
+processing, or use of flammable liquids,
+combustible materials, or ignitable substances.
+
+applies_to:
+
+- Fuel Storage Facilities
+- Oil Depots
+- LPG Installations
+- Paint Manufacturing Units
+
+occupancy_characteristics:
+
+- Rapid ignition potential
+- High heat release rates
+- Flash fire risk
+
+primary_fire_safety_concern:
+Prevention of ignition and rapid fire spread.
+
+related_nbc_domains:
+
+- Fire Prevention
+- Hazardous Material Control
+- Fire Protection
+
+retrieval_keywords:
+
+- flammable liquid
+- LPG
+- fuel storage
+- combustible materials
+
+source:
+document: NBC Part 4 Fire and Life Safety
+occupancy_group: Hazardous

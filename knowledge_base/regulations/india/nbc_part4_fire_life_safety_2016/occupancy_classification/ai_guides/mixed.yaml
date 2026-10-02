@@ -1,0 +1,37 @@
+occupancy_type: Mixed Occupancy
+
+description:
+  Buildings containing two or more occupancy classifications within the same structure.
+
+examples:
+  - Mall with Offices
+  - Residential Building with Shops
+  - Hotel with Convention Centre
+  - Mixed-use Towers
+
+primary_fire_risks:
+  - Multiple hazard profiles
+  - Shared evacuation routes
+  - Different occupant behaviors
+
+typical_occupants:
+  - Residents
+  - Employees
+  - Customers
+  - Visitors
+
+critical_life_safety_focus:
+  - Occupancy separation
+  - Compartmentation
+  - Coordinated evacuation
+  - Compliance with all applicable occupancy requirements
+
+commonly_required_systems:
+  - Fire alarms
+  - Hydrants
+  - Sprinklers
+  - Emergency lighting
+  - Smoke management systems
+
+related_nbc_rules:
+  - NBC-OCC-012

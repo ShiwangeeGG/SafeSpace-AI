@@ -1,0 +1,134 @@
+domain: Compliance Gap Intelligence
+
+description: >
+Compliance gaps represent missing, inadequate,
+damaged, obstructed, or non-functional fire safety
+features required for life safety, evacuation,
+fire containment, and firefighting operations.
+
+critical_gaps:
+
+- blocked_exits
+- inadequate_staircases
+- missing_fire_alarm
+- nonfunctional_fire_pump
+- no_smoke_management
+
+high_risk_gaps:
+
+- missing_sprinklers
+- missing_hydrant_system
+- missing_refuge_area
+- no_fire_lift
+- missing_fire_command_centre
+
+moderate_risk_gaps:
+
+- inadequate_access_road
+- poor_compartmentation
+
+gap_categories:
+
+life_safety:
+- blocked_exits
+- inadequate_staircases
+- missing_fire_alarm
+
+evacuation:
+- blocked_exits
+- inadequate_staircases
+- missing_refuge_area
+- no_smoke_management
+
+fire_containment:
+- missing_sprinklers
+- poor_compartmentation
+
+fire_fighting_support:
+- missing_hydrant_system
+- nonfunctional_fire_pump
+- no_fire_lift
+- missing_fire_command_centre
+
+common_gap_relationships:
+
+blocked_exits:
+commonly_causes:
+- evacuation_failures
+- crowd_congestion
+- life_safety_failures
+
+inadequate_staircases:
+commonly_causes:
+- evacuation_delays
+- occupant_bottlenecks
+
+missing_fire_alarm:
+commonly_causes:
+- delayed_detection
+- delayed_evacuation
+
+missing_sprinklers:
+commonly_causes:
+- rapid_fire_growth
+- increased_smoke_production
+
+no_smoke_management:
+commonly_causes:
+- smoke_inhalation
+- loss_of_visibility
+- evacuation_failures
+
+nonfunctional_fire_pump:
+commonly_causes:
+- hydrant_failure
+- sprinkler_failure
+
+poor_compartmentation:
+commonly_causes:
+- smoke_spread
+- multi_floor_fire_spread
+
+recommendation_priority_order:
+
+- Life Safety
+- Evacuation
+- Fire Detection
+- Fire Containment
+- Fire Fighting Support
+- Property Protection
+- Documentation
+
+ai_reasoning_guidelines:
+
+critical:
+action: Immediate Rectification
+escalation: Highest
+
+high:
+action: Urgent Compliance Action
+escalation: High
+
+moderate:
+action: Planned Improvement
+escalation: Medium
+
+example_reasoning:
+
+blocked_exit:
+risk: Critical
+recommendation_priority: 1
+
+missing_fire_alarm:
+risk: Critical
+recommendation_priority: 2
+
+missing_sprinklers:
+risk: High
+recommendation_priority: 3
+
+ai_reasoning_goal: >
+Identify the most dangerous compliance gaps,
+prioritize life safety issues first, and generate
+recommendations based on fire risk rather than
+documentation requirements.

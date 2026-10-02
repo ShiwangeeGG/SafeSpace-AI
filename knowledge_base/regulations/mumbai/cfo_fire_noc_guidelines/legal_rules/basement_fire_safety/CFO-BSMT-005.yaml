@@ -1,0 +1,24 @@
+rule_id: CFO-BSMT-005
+
+title: Carbon Monoxide Detection Requirement
+
+category: Detection Systems
+
+applies_to:
+  - Basement Parking Areas
+
+requirement:
+  Carbon monoxide detection systems shall be installed and maintained.
+
+compliance_check:
+  Verify detector coverage and operation.
+
+evidence_required:
+  - Detector layout drawings
+  - Testing reports
+
+risk_if_non_compliant:
+  Hazardous gas accumulation may endanger occupants.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

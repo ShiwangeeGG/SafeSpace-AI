@@ -1,0 +1,54 @@
+system_component: Fire Check Floors
+
+description:
+  Fire check floors are designated protected levels within high-rise buildings that support firefighting operations, smoke management, emergency staging, and occupant protection during fire incidents.
+
+purpose:
+  Provide strategic emergency support zones at regular vertical intervals within tall buildings.
+
+why_it_matters:
+  Firefighters require intermediate operational areas when responding to emergencies in very tall buildings. Fire check floors improve access, coordination, and incident management.
+
+common_fire_risks:
+  - Limited firefighter access
+  - Extended response times
+  - Smoke accumulation
+  - Lack of emergency staging areas
+  - Fire spread through vertical building sections
+
+common_compliance_checks:
+  - Fire check floors provided
+  - Maximum 70 metre interval maintained
+  - Access routes available
+  - No encroachments present
+  - Open ventilation areas maintained
+  - Drencher systems operational
+  - Maintenance records available
+
+critical_safety_features:
+  - Emergency Staging Areas
+  - Smoke Ventilation
+  - Drencher Protection
+  - Firefighter Access Zones
+  - Protected Operational Areas
+
+critical_dimensions:
+  maximum_interval_between_fire_check_floors:
+    value: 70 m
+
+related_rules:
+  - CFO-FCF-001
+  - CFO-FCF-002
+  - CFO-FCF-003
+  - CFO-FCF-004
+  - CFO-FCF-005
+  - CFO-FCF-006
+  - CFO-FCF-007
+
+related_systems:
+  - Fire Command Centre
+  - Fire Fighting Shaft
+  - Fireman's Lift
+  - Smoke Management
+  - Refuge Areas
+  - Emergency Communication

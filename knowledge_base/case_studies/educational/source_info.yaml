@@ -1,0 +1,26 @@
+domain: Educational Fire Incident Case Studies
+
+occupancies_covered:
+
+- Schools
+- Colleges
+- Coaching Institutes
+- Training Centres
+
+analysis_focus:
+
+- Root Cause Analysis
+- Compliance Failures
+- Fire Safety Lessons
+- Risk Patterns
+- Student Evacuation
+- Occupancy Safety
+
+intended_ai_usage:
+
+- Training
+- Risk Assessment
+- Compliance Education
+- Incident Investigation Support
+
+retrieval_priority: High

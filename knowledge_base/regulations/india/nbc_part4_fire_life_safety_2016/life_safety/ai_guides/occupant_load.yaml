@@ -1,0 +1,23 @@
+life_safety_component: Occupant Load
+
+description:
+  Occupant load represents the maximum number of people expected to occupy a building or space and is used to determine evacuation capacity requirements.
+
+purpose:
+  Ensure sufficient exits, staircases, and evacuation routes are provided for all occupants.
+
+why_it_matters:
+  Underestimating occupant load can lead to overcrowded exits and unsafe evacuation conditions.
+
+common_compliance_checks:
+  - Occupant load calculations available
+  - Exit capacity matches occupant load
+  - Occupancy use matches approved classification
+
+related_rules:
+  - NBC-LS-001
+
+related_systems:
+  - Exits
+  - Staircases
+  - Refuge Areas

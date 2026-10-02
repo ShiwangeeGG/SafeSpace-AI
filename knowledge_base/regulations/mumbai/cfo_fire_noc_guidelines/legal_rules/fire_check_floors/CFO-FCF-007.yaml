@@ -1,0 +1,24 @@
+rule_id: CFO-FCF-007
+
+title: Fire Check Floor Maintenance Requirement
+
+category: Maintenance
+
+applies_to:
+  - Fire Check Floors
+
+requirement:
+  Fire check floor safety features shall be regularly inspected and maintained.
+
+compliance_check:
+  Verify inspection and maintenance records.
+
+evidence_required:
+  - Maintenance logs
+  - Inspection reports
+
+risk_if_non_compliant:
+  Safety features may fail during emergency operations.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

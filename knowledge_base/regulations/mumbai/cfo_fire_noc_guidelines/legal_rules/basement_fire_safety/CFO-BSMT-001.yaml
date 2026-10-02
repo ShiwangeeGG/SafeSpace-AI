@@ -1,0 +1,24 @@
+rule_id: CFO-BSMT-001
+
+title: Basement Ventilation Requirement
+
+category: Ventilation
+
+applies_to:
+  - Basements
+
+requirement:
+  Basements shall be provided with adequate mechanical ventilation systems.
+
+compliance_check:
+  Verify ventilation system installation and operation.
+
+evidence_required:
+  - HVAC drawings
+  - Testing reports
+
+risk_if_non_compliant:
+  Smoke accumulation and hazardous air conditions during fire incidents.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

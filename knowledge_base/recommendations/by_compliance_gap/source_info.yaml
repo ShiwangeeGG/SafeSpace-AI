@@ -1,0 +1,82 @@
+source_id: REC-GAP-SRC-001
+
+source_name: Compliance Gap Recommendation Knowledge Base
+
+source_type: Recommendation Layer
+
+purpose: >
+Provide recommendation guidance when fire
+safety compliance gaps are identified during
+building review, compliance assessment,
+occupancy evaluation, or fire risk analysis.
+
+regulatory_sources:
+
+- NBC 2016 Part 4 Fire and Life Safety
+- Mumbai CFO Fire NOC Guidelines
+
+supported_gap_categories:
+
+- Fire Detection
+- Fire Alarm Systems
+- Fire Protection Systems
+- Means of Escape
+- Staircase Safety
+- Smoke Management
+- High Rise Buildings
+- Fire Fighting Infrastructure
+- Fire Command Centre
+
+related_domains:
+
+- Fire Prevention
+- Fire Protection
+- Means of Escape
+- High Rise Buildings
+- Occupancy Classification
+
+related_layers:
+
+- Regulations
+- Occupancies
+- Risk Patterns
+- Case Studies
+
+supported_recommendation_types:
+
+- Immediate Actions
+- Short Term Actions
+- Long Term Actions
+- Compliance Actions
+- Risk Mitigation Actions
+
+retrieval_priority: Critical
+
+intended_ai_usage:
+
+- Compliance Gap Detection
+- Recommendation Generation
+- Risk Prioritization
+- Fire Safety Assessment
+- Occupancy Risk Review
+- Compliance Reporting
+
+knowledge_dependencies:
+
+- NBC Regulations
+- CFO NOC Guidelines
+- Occupancy Profiles
+- Risk Patterns
+- Fire Incident Case Studies
+
+recommendation_principles:
+
+- Life Safety First
+- Evacuation Before Property Protection
+- Early Detection Before Suppression
+- Suppression Before Recovery
+- Risk Reduction Before Documentation
+
+maintained_for:
+
+- SafeSpace_AI

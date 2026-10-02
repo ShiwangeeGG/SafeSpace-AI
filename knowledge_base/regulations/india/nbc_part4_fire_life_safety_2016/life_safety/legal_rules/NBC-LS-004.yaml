@@ -1,0 +1,24 @@
+rule_id: NBC-LS-004
+
+title: Exit Routes Shall Remain Unobstructed
+
+category: Exits
+
+applies_to:
+  - All buildings
+
+requirement:
+  Exits and exit access routes shall remain free from storage and obstructions.
+
+compliance_check:
+  Verify no materials block exit routes.
+
+evidence_required:
+  - Inspection records
+  - Site photographs
+
+risk_if_non_compliant:
+  Restricted occupant evacuation.
+
+source_document:
+  National Building Code of India 2016 Part 4

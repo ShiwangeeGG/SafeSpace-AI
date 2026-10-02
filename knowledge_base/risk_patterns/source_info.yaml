@@ -1,0 +1,24 @@
+source_id: RISK-PATTERNS-001
+
+source_name: Fire Risk Pattern Knowledge Base
+
+knowledge_layer: Risk Patterns
+
+purpose: >
+  Capture recurring fire safety risks observed across
+  real-world incidents, regulatory inspections, and
+  fire safety audits.
+
+analysis_focus:
+  - Risk Identification
+  - Risk Assessment
+  - Pattern Recognition
+  - Compliance Support
+
+intended_ai_usage:
+  - Risk Detection
+  - Compliance Analysis
+  - Audit Support
+  - Safety Recommendations
+
+retrieval_priority: Very High

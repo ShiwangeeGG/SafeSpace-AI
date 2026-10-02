@@ -1,0 +1,26 @@
+rule_id: MFS-ACT-006
+
+title: Prohibition on Tampering with Fire Safety Equipment
+
+category: Equipment Protection
+
+applies_to:
+  - All persons
+
+requirement:
+  No person shall tamper with, alter, remove, damage, or instigate damage to any fire prevention or life safety equipment.
+
+compliance_check:
+  Verify equipment remains intact and functional.
+
+evidence_required:
+  - Inspection report
+  - Incident records
+
+risk_if_non_compliant:
+  Compromised fire protection and legal penalties.
+
+source_document:
+  Maharashtra Fire Prevention and Life Safety Measures Act, 2006
+
+page: 6

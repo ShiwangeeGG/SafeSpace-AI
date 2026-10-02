@@ -1,0 +1,25 @@
+rule_id: MFS-RULE-009
+
+title: Nominated Officers Must Complete Fire Prevention Training
+
+category: Personnel Qualification
+
+applies_to:
+  - Nominated Officers
+
+requirement:
+  A fire officer shall possess a Fire Prevention Course certificate from the State Fire Academy before appointment as nominated officer.
+
+compliance_check:
+  Verify training certificate.
+
+evidence_required:
+  - State Fire Academy certificate
+
+risk_if_non_compliant:
+  Officer not eligible for appointment.
+
+source_document:
+  Maharashtra Fire Prevention and Life Safety Measures Rules, 2009
+
+page: 4

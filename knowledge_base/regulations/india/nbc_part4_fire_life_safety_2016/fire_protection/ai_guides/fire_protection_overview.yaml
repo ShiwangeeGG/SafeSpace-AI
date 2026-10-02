@@ -1,0 +1,58 @@
+domain: Fire Protection
+
+description:
+  Fire protection encompasses active fire safety systems designed to detect, notify, control, suppress, and support response to fire incidents within buildings.
+
+primary_objectives:
+  - Detect fire early
+  - Notify occupants
+  - Suppress fire growth
+  - Support evacuation
+  - Support firefighting operations
+  - Protect life and property
+
+critical_components:
+  - Fire Detection
+  - Fire Alarm Systems
+  - Hydrant Systems
+  - Wet Risers
+  - Sprinkler Systems
+  - Fire Pumps
+  - Fire Water Storage
+  - Smoke Management
+  - Fire Command Centre
+  - Emergency Communication
+
+key_compliance_focus:
+  - System availability
+  - Water supply reliability
+  - Detection effectiveness
+  - Alarm functionality
+  - Fire suppression readiness
+  - Emergency coordination
+
+related_documents:
+  - NBC Part 4 Fire Protection
+  - NBC Part 4 Life Safety
+  - NBC Part 4 Fire Prevention
+  - Maharashtra Fire Prevention and Life Safety Measures Act 2006
+  - Maharashtra Fire Prevention and Life Safety Measures Rules 2009
+  - Maharashtra Fire Prevention and Life Safety Measures Amendment Act 2023
+
+related_rules:
+  - NBC-PR-001
+  - NBC-PR-002
+  - NBC-PR-003
+  - NBC-PR-004
+  - NBC-PR-005
+  - NBC-PR-006
+  - NBC-PR-007
+  - NBC-PR-008
+  - NBC-PR-009
+  - NBC-PR-010
+  - NBC-PR-011
+  - NBC-PR-012
+  - NBC-PR-013
+  - NBC-PR-014
+  - NBC-PR-015
+  - NBC-PR-016

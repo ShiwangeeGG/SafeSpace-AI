@@ -1,0 +1,43 @@
+rule_id: OCC-HAZ-004
+
+occupancy_group: Hazardous
+
+rule_category: Explosion Hazard Occupancies
+
+occupancy_definition: >
+Occupancies where combustible dusts,
+gases, vapours, or explosive materials
+create significant explosion hazards.
+
+applies_to:
+
+- Fireworks Facilities
+- Explosive Manufacturing Units
+- Gas Processing Plants
+- Dust-Producing Industrial Facilities
+
+occupancy_characteristics:
+
+- Explosion potential
+- Pressure wave hazards
+- Secondary fire risks
+
+primary_fire_safety_concern:
+Prevention and containment of explosions.
+
+related_nbc_domains:
+
+- Hazardous Occupancy
+- Fire Protection
+- Fire Prevention
+
+retrieval_keywords:
+
+- explosion hazard
+- fireworks
+- gas processing
+- combustible dust
+
+source:
+document: NBC Part 4 Fire and Life Safety
+occupancy_group: Hazardous

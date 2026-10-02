@@ -1,0 +1,28 @@
+system_component: Building Separation
+
+description:
+  Physical spacing and separation measures provided between buildings to reduce the likelihood of fire spreading from one structure to another.
+
+purpose:
+  Limit external fire spread and improve access for firefighting operations.
+
+why_it_matters:
+  Closely spaced buildings can allow flames, radiant heat, and smoke to spread rapidly between properties.
+
+common_fire_risks:
+  - Fire spread to adjacent buildings
+  - Exposure from radiant heat
+  - Restricted fire brigade access
+
+common_compliance_checks:
+  - Adequate separation distance
+  - Site layout compliance
+  - Access route availability
+  - Exposure protection measures
+
+related_rules:
+  - NBC-FP-002
+
+related_systems:
+  - Fire Resistance
+  - Compartmentation

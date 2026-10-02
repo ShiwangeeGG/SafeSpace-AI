@@ -1,0 +1,30 @@
+system_component: Fire Fighting Shaft
+
+description:
+  A protected vertical firefighting zone containing essential infrastructure such as staircases, fireman's lift, and firefighting facilities.
+
+purpose:
+  Provide firefighters with safe and efficient access to upper floors during emergencies.
+
+why_it_matters:
+  Firefighters require protected access routes to combat fires in high-rise buildings.
+
+common_fire_risks:
+  - Delayed firefighting access
+  - Smoke infiltration
+  - Fire spread through vertical routes
+  - Restricted emergency movement
+
+common_compliance_checks:
+  - Shaft enclosure integrity
+  - Fire resistance maintained
+  - Accessibility verified
+  - Firefighting equipment available
+
+related_rules:
+  - NBC-HR-003
+
+related_systems:
+  - Fireman's Lift
+  - Smoke Management
+  - Staircases

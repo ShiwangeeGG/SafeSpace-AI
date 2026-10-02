@@ -1,0 +1,24 @@
+rule_id: CFO-REF-003
+
+title: Refuge Area Signage Requirement
+
+category: Occupant Information
+
+applies_to:
+  - Refuge Areas
+
+requirement:
+  Refuge areas shall be clearly identified using approved signage.
+
+compliance_check:
+  Verify signage visibility and placement.
+
+evidence_required:
+  - Site inspection
+  - Photographs
+
+risk_if_non_compliant:
+  Occupants may not locate refuge areas during emergencies.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

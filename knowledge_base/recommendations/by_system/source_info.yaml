@@ -1,0 +1,55 @@
+source_id: REC-SYS-SRC-001
+
+source_name: Fire Protection System Recommendation Knowledge Base
+
+source_type: Recommendation Layer
+
+purpose: >
+  Provide recommendations for fire
+  protection systems, life safety systems,
+  fire fighting infrastructure, and emergency
+  management systems.
+
+knowledge_sources:
+  - NBC 2016 Part 4 Fire and Life Safety
+  - Mumbai CFO Fire NOC Guidelines
+  - Fire Protection Layer
+  - High Rise Buildings Layer
+  - Occupancy Classification Layer
+  - Risk Patterns Layer
+  - Fire Incident Case Studies
+
+supported_systems:
+  - Fire Alarm System
+  - Sprinkler System
+  - Hydrant System
+  - Fire Pump
+  - Smoke Management System
+  - Fire Lift
+  - Refuge Area
+  - Emergency Communication System
+  - Fire Command Centre
+
+related_domains:
+  - Fire Protection
+  - High Rise Buildings
+  - Means of Escape
+  - Emergency Communication
+
+retrieval_priority: Critical
+
+intended_ai_usage:
+  - System Assessment
+  - Recommendation Generation
+  - Maintenance Planning
+  - Compliance Guidance
+  - Fire Safety Audits
+
+recommendation_principles:
+  - Life Safety First
+  - Early Detection Before Suppression
+  - Evacuation Before Property Protection
+  - System Reliability Before Documentation
+
+maintained_for:
+  - SafeSpace_AI

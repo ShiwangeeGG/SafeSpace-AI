@@ -1,0 +1,24 @@
+rule_id: CFO-FCR-005
+
+title: Emergency Communication Integration Requirement
+
+category: Emergency Communication
+
+applies_to:
+  - Fire Control Rooms
+
+requirement:
+  Fire Control Rooms shall be connected to emergency communication systems used during evacuation and firefighting operations.
+
+compliance_check:
+  Verify communication system functionality.
+
+evidence_required:
+  - Communication testing reports
+  - System documentation
+
+risk_if_non_compliant:
+  Reduced coordination between occupants and emergency responders.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

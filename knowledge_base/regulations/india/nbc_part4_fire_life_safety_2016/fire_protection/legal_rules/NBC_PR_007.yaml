@@ -1,0 +1,24 @@
+rule_id: NBC-PR-007
+
+title: Automatic Sprinkler Protection Requirement
+
+category: Sprinkler System
+
+applies_to:
+  - Buildings requiring sprinkler protection
+
+requirement:
+  Automatic sprinkler systems shall be installed where required by occupancy and fire risk.
+
+compliance_check:
+  Verify sprinkler coverage.
+
+evidence_required:
+  - Sprinkler drawings
+  - Hydraulic calculations
+
+risk_if_non_compliant:
+  Uncontrolled fire growth.
+
+source_document:
+  National Building Code of India 2016 Part 4

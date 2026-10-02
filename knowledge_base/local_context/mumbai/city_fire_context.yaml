@@ -1,0 +1,30 @@
+city: Mumbai
+
+fire_authority:
+  - Mumbai Fire Brigade
+  - Chief Fire Officer Mumbai
+
+regulatory_framework:
+  - Mumbai CFO Guidelines
+  - NBC 2016 Part 4
+
+urban_characteristics:
+  - High Rise Buildings
+  - Mixed Occupancies
+  - Dense Commercial Areas
+  - Redevelopment Projects
+
+common_fire_challenges:
+  - Access Constraints
+  - Parking Obstructions
+  - High Occupant Density
+  - Aging Infrastructure
+
+compliance_focus:
+  - Means of Escape
+  - Fire Lifts
+  - Refuge Areas
+  - Fire Protection Systems
+
+ai_usage:
+  - Mumbai Specific Guidance

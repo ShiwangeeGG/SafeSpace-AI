@@ -1,0 +1,33 @@
+domain: Local Risk Intelligence
+
+india:
+
+  common_risks:
+    - electrical_risks
+    - maintenance_failures
+    - combustible_materials
+
+maharashtra:
+
+  common_risks:
+    - high_rise_risks
+    - occupancy_overload
+    - smoke_spread_risks
+
+mumbai:
+
+  common_risks:
+    - occupancy_overload
+    - blocked_exits_risks
+    - electrical_risks
+    - smoke_spread_risks
+
+risk_priority_order:
+  - Life Safety Risks
+  - Evacuation Risks
+  - Detection Failures
+  - Suppression Failures
+
+ai_goal: >
+  Prioritize risks frequently observed
+  within the identified location.

@@ -1,0 +1,65 @@
+system_component: Fire Appliance Access and Movement
+
+description:
+  Fire appliance access and movement requirements ensure that fire brigade vehicles can safely enter, maneuver, and operate within a property during emergencies.
+
+purpose:
+  Provide unobstructed access for firefighting vehicles and emergency responders.
+
+why_it_matters:
+  Even the best fire protection systems become less effective if fire brigade vehicles cannot quickly reach the incident location.
+
+common_fire_risks:
+  - Delayed emergency response
+  - Restricted vehicle access
+  - Inadequate turning space
+  - Structural failure of access routes
+  - Vehicle accidents during response
+
+common_compliance_checks:
+  - Access road unobstructed
+  - Entrance gate width compliant
+  - Archway clearance adequate
+  - Ramp width compliant
+  - Ramp gradient compliant
+  - Turning radius available
+  - Two-way movement possible
+  - Anti-crash barriers installed
+  - Anti-skid surfaces provided
+  - Podium load capacity verified
+
+critical_dimensions:
+  entrance_gate_width:
+    minimum: 6 m
+
+  archway_clearance:
+    minimum: 4.5 m
+
+  ramp_width:
+    minimum: 6 m
+
+  ramp_gradient:
+    acceptable_range:
+      - 1:10
+      - 1:12
+
+  turning_radius:
+    minimum: 14 m
+
+related_rules:
+  - CFO-ACC-001
+  - CFO-ACC-002
+  - CFO-ACC-003
+  - CFO-ACC-004
+  - CFO-ACC-005
+  - CFO-ACC-006
+  - CFO-ACC-007
+  - CFO-ACC-008
+  - CFO-ACC-009
+  - CFO-ACC-010
+
+related_systems:
+  - Fire Brigade Operations
+  - Emergency Response
+  - Fire Protection Systems
+  - High Rise Building Access

@@ -1,0 +1,24 @@
+rule_id: CFO-FPS-003
+
+title: Wet Riser System Requirement
+
+category: Wet Riser
+
+applies_to:
+  - High Rise Buildings
+
+requirement:
+  Wet riser systems shall provide water distribution to firefighting locations throughout the building.
+
+compliance_check:
+  Verify wet riser installation and operation.
+
+evidence_required:
+  - Firefighting drawings
+  - Testing records
+
+risk_if_non_compliant:
+  Delayed firefighting response on upper floors.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

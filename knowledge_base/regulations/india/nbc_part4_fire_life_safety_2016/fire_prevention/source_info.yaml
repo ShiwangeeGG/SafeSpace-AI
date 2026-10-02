@@ -1,0 +1,29 @@
+document_name: National Building Code of India 2016
+
+part: Part 4
+
+chapter: Fire Prevention
+
+authority: Bureau of Indian Standards
+
+jurisdiction: India
+
+document_type: National Standard
+
+scope:
+  - Fire Prevention
+  - Fire Compartmentation
+  - Building Separation
+  - Fire Resistance
+  - Shafts and Openings
+  - Electrical Fire Safety
+
+primary_focus:
+  - Prevent Fire Occurrence
+  - Limit Fire Spread
+  - Protect Building Structure
+  - Reduce Property Damage
+
+related_documents:
+  - NBC Part 4 Life Safety
+  - NBC Part 4 Fire Protection

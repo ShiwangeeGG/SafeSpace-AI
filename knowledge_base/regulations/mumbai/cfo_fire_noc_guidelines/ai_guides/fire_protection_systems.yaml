@@ -1,0 +1,58 @@
+system_component: Fire Protection Systems
+
+description:
+  Fire protection systems are active firefighting systems designed to detect, control, suppress, and support response to fire incidents within buildings.
+
+purpose:
+  Limit fire growth, support evacuation, and assist firefighting operations.
+
+why_it_matters:
+  Fire protection systems provide the primary means of controlling fires before they become catastrophic incidents.
+
+common_fire_risks:
+  - Uncontrolled fire growth
+  - Water supply failure
+  - Fire suppression failure
+  - Delayed firefighting response
+  - Equipment malfunction
+
+common_compliance_checks:
+  - Internal hydrants operational
+  - Wet risers functional
+  - Fire service inlets accessible
+  - Sprinkler systems operational
+  - Drencher systems functional
+  - Fire pumps available
+  - Standby pumps operational
+  - External hydrants accessible
+  - Maintenance records available
+
+critical_safety_features:
+  - Internal Hydrant System
+  - Wet Riser System
+  - Fire Service Inlet
+  - Automatic Sprinklers
+  - Drencher Systems
+  - Fire Pumps
+  - Standby Pumps
+  - External Hydrants
+
+related_rules:
+  - CFO-FPS-001
+  - CFO-FPS-002
+  - CFO-FPS-003
+  - CFO-FPS-004
+  - CFO-FPS-005
+  - CFO-FPS-006
+  - CFO-FPS-007
+  - CFO-FPS-008
+  - CFO-FPS-009
+  - CFO-FPS-010
+
+related_systems:
+  - Fire Alarm Systems
+  - Fire Control Room
+  - Fire Detection Systems
+  - Emergency Communication
+  - Fire Brigade Operations
+  - Fire Appliance Access

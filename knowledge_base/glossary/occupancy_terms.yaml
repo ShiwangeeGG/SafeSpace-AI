@@ -1,0 +1,37 @@
+terms:
+
+  - term_id: OCC-001
+    term_name: Assembly Occupancy
+    definition: Buildings where people gather for events or activities.
+
+  - term_id: OCC-002
+    term_name: Educational Occupancy
+    definition: Schools, colleges, and training institutions.
+
+  - term_id: OCC-003
+    term_name: Institutional Occupancy
+    definition: Facilities housing dependent or supervised occupants.
+
+  - term_id: OCC-004
+    term_name: Business Occupancy
+    definition: Offices and administrative buildings.
+
+  - term_id: OCC-005
+    term_name: Mercantile Occupancy
+    definition: Retail and commercial sales buildings.
+
+  - term_id: OCC-006
+    term_name: Industrial Occupancy
+    definition: Manufacturing and processing facilities.
+
+  - term_id: OCC-007
+    term_name: Storage Occupancy
+    definition: Buildings primarily used for storage.
+
+  - term_id: OCC-008
+    term_name: Hazardous Occupancy
+    definition: Buildings handling explosive, flammable, or toxic materials.
+
+  - term_id: OCC-009
+    term_name: Mixed Occupancy
+    definition: Building containing more than one occupancy classification.

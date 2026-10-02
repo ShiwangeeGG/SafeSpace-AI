@@ -1,0 +1,32 @@
+system_component: Fire Water Storage
+
+description:
+  Dedicated water reserves maintained exclusively for firefighting purposes.
+
+purpose:
+  Provide a reliable water source during fire emergencies.
+
+why_it_matters:
+  Fire suppression systems depend on adequate water availability throughout an incident.
+
+common_fire_risks:
+  - Water shortages
+  - Shared water consumption
+  - Tank contamination
+  - Reduced firefighting capability
+
+common_compliance_checks:
+  - Tank capacity verified
+  - Water levels maintained
+  - Fire reserve protected
+  - Tank inspection completed
+
+related_rules:
+  - NBC-PR-011
+  - NBC-PR-012
+
+related_systems:
+  - Fire Pumps
+  - Hydrant Systems
+  - Wet Risers
+  - Sprinkler Systems

@@ -1,0 +1,27 @@
+rule_id: CFO-FCF-002
+
+title: Fire Check Floor Interval Requirement
+
+category: High Rise Fire Safety
+
+applies_to:
+  - Buildings requiring fire check floors
+
+requirement:
+  Fire check floors shall be located at intervals not exceeding 70 metres in height.
+
+threshold:
+  maximum_interval: 70 m
+
+compliance_check:
+  Verify spacing between fire check floors.
+
+evidence_required:
+  - Building elevation drawings
+  - Height calculations
+
+risk_if_non_compliant:
+  Inadequate firefighter support locations within the building.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

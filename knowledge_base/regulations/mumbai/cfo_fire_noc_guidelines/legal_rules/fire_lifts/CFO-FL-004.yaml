@@ -1,0 +1,24 @@
+rule_id: CFO-FL-004
+
+title: Fire Lift Lobby Protection Requirement
+
+category: Smoke Protection
+
+applies_to:
+  - Fire Lift Lobbies
+
+requirement:
+  Fire lift lobbies shall be protected against fire and smoke infiltration.
+
+compliance_check:
+  Verify lobby enclosure and smoke protection measures.
+
+evidence_required:
+  - Architectural drawings
+  - Site inspection
+
+risk_if_non_compliant:
+  Firefighters may be exposed to unsafe conditions during access.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

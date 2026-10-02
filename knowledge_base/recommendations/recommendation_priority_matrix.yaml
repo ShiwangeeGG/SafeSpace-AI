@@ -1,0 +1,56 @@
+priority_levels:
+
+  critical:
+
+    risks:
+      - blocked_exits
+      - evacuation_failures
+      - smoke_spread_risks
+      - hazardous_material_risks
+
+    action:
+      Immediate Correction
+
+  high:
+
+    risks:
+      - electrical_risks
+      - occupancy_overload
+      - kitchen_fire_risks
+
+    action:
+      Urgent Action
+
+  medium:
+
+    risks:
+      - maintenance_failures
+      - combustible_materials
+
+    action:
+      Planned Improvement
+
+priority_order:
+
+  - Life Safety
+  - Evacuation
+  - Detection
+  - Suppression
+  - Fire Fighting Support
+  - Property Protection
+
+occupancy_escalation:
+
+  hospital:
+    increase_priority: true
+
+  hazardous:
+    increase_priority: true
+
+  high_rise:
+    increase_priority: true
+
+ai_reasoning_goal: >
+  Ensure that recommendations are
+  prioritized according to fire risk,
+  life safety impact, and occupancy vulnerability.

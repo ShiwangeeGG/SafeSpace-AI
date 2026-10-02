@@ -1,0 +1,19 @@
+fatality_drivers:
+
+  primary:
+    - Smoke Inhalation
+    - Blocked Exits
+
+  secondary:
+    - Delayed Detection
+    - Occupancy Overload
+
+fatality_reduction_priorities:
+  - Early Detection
+  - Clear Exits
+  - Smoke Management
+  - Evacuation Planning
+
+ai_reasoning_goal: >
+  Prioritize controls that directly
+  reduce occupant fatalities.

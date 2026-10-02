@@ -1,0 +1,24 @@
+rule_id: NBC-LS-009
+
+title: Refuge Areas Shall Be Available For Emergency Use
+
+category: Refuge Area
+
+applies_to:
+  - Buildings requiring refuge areas
+
+requirement:
+  Refuge areas shall remain available and accessible during emergencies.
+
+compliance_check:
+  Verify no encroachments exist.
+
+evidence_required:
+  - Inspection records
+  - Site photographs
+
+risk_if_non_compliant:
+  Occupants lose protected waiting area during evacuation.
+
+source_document:
+  National Building Code of India 2016 Part 4

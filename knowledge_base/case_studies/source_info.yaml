@@ -1,0 +1,141 @@
+source_id: CASE-STUDIES-001
+
+source_name: Fire Incident Case Studies Repository
+
+source_type: Historical Fire Incident Knowledge Base
+
+knowledge_layer: Case Studies
+
+purpose: >
+Capture real-world fire incidents and map them to
+fire safety failures, compliance deficiencies,
+evacuation challenges, risk patterns, and lessons
+learned. The repository serves as an experiential
+layer that complements regulations and standards
+within SafeSpace_AI.
+
+coverage_scope:
+
+- Commercial Occupancies
+- Educational Occupancies
+- Institutional Occupancies
+- Industrial Occupancies
+- Residential Occupancies
+- Transportation Facilities
+
+occupancy_categories:
+commercial:
+examples:
+- Kamala Mills Fire
+- Rajkot Gaming Zone Fire
+- Dreams Mall Fire
+- Times Tower Fire
+
+educational:
+examples:
+- Surat Coaching Centre Fire
+- Dabwali School Fire
+- Kumbakonam School Fire
+
+institutional:
+examples:
+- AMRI Hospital Fire
+- Bhandara Hospital Fire
+- Sunrise Hospital Fire
+
+industrial:
+examples:
+- Chemical Factory Fires
+- Industrial Explosion Events
+- Warehouse Fires
+
+residential:
+examples:
+- Crystal Tower Fire
+- High Rise Residential Fires
+- Apartment Fire Incidents
+
+transportation:
+examples:
+- Gaisal Train Disaster
+- School Bus Fire Incidents
+- Metro Station Fire Incidents
+
+analysis_focus:
+
+- Root Cause Analysis
+- Compliance Failure Analysis
+- Fire Safety Lessons
+- Risk Pattern Identification
+- Occupancy Specific Hazards
+- Evacuation Challenges
+- Emergency Response Effectiveness
+- Fire Protection Deficiencies
+
+primary_objectives:
+
+- Learn from historical incidents
+- Identify recurring fire safety failures
+- Connect incidents to applicable regulations
+- Improve risk awareness
+- Support compliance education
+- Improve emergency preparedness
+
+common_failure_categories:
+
+- Blocked Exits
+- Inadequate Means of Escape
+- Missing Fire Protection Systems
+- Poor Smoke Management
+- Electrical Faults
+- Combustible Materials
+- Unauthorized Construction
+- Occupancy Overload
+- Lack of Maintenance
+- Inadequate Emergency Communication
+
+related_regulatory_sources:
+
+- National Building Code 2016 Part 4
+- Maharashtra Fire Prevention and Life Safety Measures Act 2006
+- Maharashtra Fire Prevention and Life Safety Measures Amendment Act 2023
+- Maharashtra Fire Prevention and Life Safety Measures Amendment Act 2025
+- Mumbai CFO Fire NOC Guidelines
+
+supported_risk_domains:
+
+- Fire Prevention
+- Fire Protection
+- Life Safety
+- Means of Escape
+- Smoke Management
+- Emergency Communication
+- Operational Fire Safety
+- High Rise Fire Safety
+- Hazardous Materials
+- Occupancy Safety
+
+intended_ai_usage:
+
+- Root Cause Analysis
+- Compliance Training
+- Risk Assessment
+- Fire Safety Awareness
+- Incident Pattern Recognition
+- Regulatory Question Answering
+- Compliance Recommendations
+- Deficiency Detection
+
+retrieval_priority: High
+
+document_summary: >
+This repository contains historical fire incidents
+categorized by occupancy type and analyzed through
+a fire safety and compliance lens. Each case study
+identifies causes, failures, affected systems,
+lessons learned, and applicable regulatory domains.
+The repository enables SafeSpace_AI to connect real
+incidents with regulations, helping users understand
+not only what the rules require, but why those rules
+exist and how failures have led to real-world
+consequences.

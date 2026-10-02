@@ -1,0 +1,24 @@
+rule_id: CFO-ER-007
+
+title: Lift Lobby Protection Requirement
+
+category: Life Safety
+
+applies_to:
+  - Buildings with Lift Lobbies
+
+requirement:
+  Lift lobbies forming part of protected evacuation routes shall be appropriately protected against smoke and fire intrusion.
+
+compliance_check:
+  Verify smoke protection measures and lobby integrity.
+
+evidence_required:
+  - Building drawings
+  - Site inspection
+
+risk_if_non_compliant:
+  Smoke may compromise evacuation routes.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

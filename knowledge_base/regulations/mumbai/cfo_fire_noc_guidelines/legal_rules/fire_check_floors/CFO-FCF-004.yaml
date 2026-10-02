@@ -1,0 +1,24 @@
+rule_id: CFO-FCF-004
+
+title: Fire Check Floors Shall Remain Free From Encroachment
+
+category: Operational Safety
+
+applies_to:
+  - Fire Check Floors
+
+requirement:
+  Fire check floors shall not be used for storage, occupancy, or unauthorized activities.
+
+compliance_check:
+  Verify fire check floors remain unobstructed.
+
+evidence_required:
+  - Site inspection
+  - Photographs
+
+risk_if_non_compliant:
+  Firefighter staging and emergency operations may be compromised.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

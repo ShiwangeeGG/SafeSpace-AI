@@ -1,0 +1,63 @@
+risk_id: RISK-003
+
+risk_name: Electrical Risks
+
+category: Ignition Sources
+
+risk_level: High
+
+risk_description: >
+Electrical faults, short circuits, overloaded
+circuits, and poor maintenance may initiate fires.
+
+why_it_is_dangerous:
+
+- Hidden ignition source
+- Rapid fire initiation
+- Equipment damage
+
+affected_occupancies:
+
+- All Occupancies
+
+related_compliance_gaps:
+
+- Missing Fire Alarm
+- Poor Maintenance
+
+immediate_actions:
+
+- Inspect electrical systems
+- Remove overloaded connections
+
+short_term_actions:
+
+- Conduct electrical audit
+- Repair damaged wiring
+
+long_term_actions:
+
+- Implement preventive maintenance
+- Upgrade electrical infrastructure
+
+high_priority_systems:
+
+- Electrical Safety Systems
+- Fire Detection Systems
+
+related_case_studies:
+
+- Times Tower Fire
+- Dreams Mall Fire
+
+ai_reasoning_hints:
+
+- Common ignition source across occupancies
+
+retrieval_keywords:
+
+- short circuit
+- electrical fire
+
+source:
+document: Risk Patterns Layer

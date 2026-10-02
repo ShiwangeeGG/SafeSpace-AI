@@ -1,0 +1,24 @@
+rule_id: CFO-ER-004
+
+title: Exit Signage Requirement
+
+category: Exit Identification
+
+applies_to:
+  - All Buildings Requiring Emergency Evacuation
+
+requirement:
+  Exit routes shall be clearly identified using approved exit signage.
+
+compliance_check:
+  Verify visibility and placement of exit signs.
+
+evidence_required:
+  - Site inspection
+  - Photographs
+
+risk_if_non_compliant:
+  Occupants may be unable to locate exits during emergencies.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

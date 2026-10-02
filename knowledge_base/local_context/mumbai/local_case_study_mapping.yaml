@@ -1,0 +1,40 @@
+city: Mumbai
+
+incident_clusters:
+
+  lower_parel:
+
+    incidents:
+      - Kamala Mills Fire
+      - Times Tower Fire
+
+    common_risks:
+      - occupancy_overload
+      - blocked_exits_risks
+      - electrical_risks
+
+  bhandup:
+
+    incidents:
+      - Dreams Mall Fire
+
+    common_risks:
+      - maintenance_failures
+      - smoke_spread_risks
+
+regional_lessons:
+
+  commercial_areas:
+    common_failures:
+      - overcrowding
+      - blocked_exits
+
+  high_rise_buildings:
+    common_failures:
+      - smoke_spread_risks
+      - inadequate_compartmentation
+
+ai_usage:
+  - Local Incident Analysis
+  - Risk Assessment
+  - Recommendation Support

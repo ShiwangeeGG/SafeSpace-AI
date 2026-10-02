@@ -1,0 +1,54 @@
+occupancy_id: OCC-001
+
+occupancy_name: Mixed Occupancy
+
+category: Occupancy Recommendations
+
+risk_level: High
+
+primary_fire_safety_concerns:
+  - Occupancy interaction risks
+  - Smoke spread between occupancies
+  - Complex evacuation
+  - Shared fire protection systems
+
+common_compliance_gaps:
+  - Poor compartmentation
+  - Missing smoke management
+  - Shared escape route conflicts
+
+related_risk_patterns:
+  - smoke_spread_risks
+  - evacuation_failures
+  - occupancy_overload
+
+immediate_actions:
+  - Verify compartmentation
+  - Check escape route separation
+
+short_term_actions:
+  - Conduct mixed occupancy fire assessment
+  - Review evacuation strategy
+
+long_term_actions:
+  - Improve fire separation
+  - Upgrade smoke management systems
+
+high_priority_systems:
+  - Smoke Management
+  - Fire Alarm System
+  - Compartmentation
+
+related_case_studies:
+  - Kamala Mills Fire
+
+ai_reasoning_hints:
+  - Apply most restrictive occupancy requirements
+  - Prioritize occupancy separation
+
+retrieval_keywords:
+  - mixed occupancy
+  - mixed use building
+
+source:
+  document: NBC Part 4 Fire and Life Safety

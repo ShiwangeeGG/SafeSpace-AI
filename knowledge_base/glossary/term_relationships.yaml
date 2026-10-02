@@ -1,0 +1,211 @@
+domain: Fire Safety Terminology Relationships
+
+relationship_types:
+
+  system_to_system:
+    description: Related fire protection systems
+
+  term_to_risk:
+    description: Fire safety concepts linked to risks
+
+  term_to_occupancy:
+    description: Concepts commonly associated with occupancies
+
+  term_to_regulation:
+    description: Concepts linked to compliance requirements
+
+relationships:
+
+  sprinkler_system:
+    related_systems:
+      - fire_pump
+      - hydrant_system
+      - fire_alarm_system
+
+    related_risks:
+      - combustible_materials
+      - smoke_spread_risks
+
+    related_occupancies:
+      - mercantile
+      - industrial
+      - hospital
+
+  hydrant_system:
+    related_systems:
+      - fire_pump
+      - wet_riser
+      - landing_valve
+
+    related_risks:
+      - high_rise_risks
+
+  fire_alarm_system:
+    related_systems:
+      - emergency_communication
+      - smoke_management_system
+
+    related_risks:
+      - evacuation_failures
+      - smoke_spread_risks
+
+  smoke_management_system:
+    related_systems:
+      - compartmentation
+      - pressurization_system
+
+    related_risks:
+      - smoke_spread_risks
+      - evacuation_failures
+
+  refuge_area:
+    related_systems:
+      - fire_lift
+      - staircase_safety
+      - emergency_lighting
+
+    related_risks:
+      - high_rise_risks
+
+    related_occupancies:
+      - high_rise_residential
+      - mixed_occupancy
+
+  fire_lift:
+    related_systems:
+      - refuge_area
+      - fire_command_centre
+
+    related_risks:
+      - high_rise_risks
+
+  fire_command_centre:
+    related_systems:
+      - fire_alarm_system
+      - emergency_communication
+
+    related_risks:
+      - evacuation_failures
+
+  compartmentation:
+    related_systems:
+      - fire_doors
+      - smoke_management_system
+
+    related_risks:
+      - smoke_spread_risks
+
+  means_of_escape:
+    related_systems:
+      - staircase_safety
+      - emergency_lighting
+      - exit_signage
+
+    related_risks:
+      - blocked_exits_risks
+      - evacuation_failures
+
+  occupant_load:
+    related_terms:
+      - occupancy_overload
+      - means_of_escape
+
+    related_risks:
+      - occupancy_overload
+
+    related_occupancies:
+      - assembly
+      - mercantile
+      - educational
+
+  fire_load:
+    related_terms:
+      - combustible_materials
+      - ignition_source
+
+    related_risks:
+      - combustible_materials
+
+  hazardous_material:
+    related_terms:
+      - toxic_release
+      - explosion_risk
+
+    related_risks:
+      - hazardous_material_risks
+
+    related_occupancies:
+      - hazardous
+      - industrial
+
+  occupancy_overload:
+    related_terms:
+      - occupant_load
+      - evacuation_capacity
+
+    related_risks:
+      - evacuation_failures
+
+  blocked_exit:
+    related_terms:
+      - means_of_escape
+      - staircase_safety
+
+    related_risks:
+      - evacuation_failures
+
+  emergency_communication:
+    related_systems:
+      - fire_alarm_system
+      - fire_command_centre
+
+    related_risks:
+      - evacuation_failures
+
+cross_domain_relationships:
+
+  hospital:
+    high_priority_systems:
+      - fire_alarm_system
+      - smoke_management_system
+      - fire_command_centre
+
+    common_risks:
+      - evacuation_failures
+      - smoke_spread_risks
+
+  assembly:
+    high_priority_systems:
+      - emergency_communication
+      - fire_alarm_system
+
+    common_risks:
+      - occupancy_overload
+      - blocked_exits_risks
+
+  industrial:
+    high_priority_systems:
+      - hydrant_system
+      - sprinkler_system
+
+    common_risks:
+      - hazardous_material_risks
+      - electrical_risks
+
+  high_rise_building:
+    high_priority_systems:
+      - refuge_area
+      - fire_lift
+      - smoke_management_system
+
+    common_risks:
+      - high_rise_risks
+      - smoke_spread_risks
+
+ai_reasoning_goal: >
+  Improve retrieval by linking related
+  terminology, systems, risks,
+  occupancies, and regulations so that
+  SafeSpace_AI can provide contextual
+  fire safety guidance rather than
+  isolated definitions.

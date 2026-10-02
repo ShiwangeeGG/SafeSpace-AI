@@ -1,0 +1,24 @@
+rule_id: CFO-OFS-002
+
+title: Evacuation Drill Requirement
+
+category: Emergency Preparedness
+
+applies_to:
+  - Buildings requiring evacuation planning
+
+requirement:
+  Evacuation drills shall be conducted to verify emergency evacuation procedures.
+
+compliance_check:
+  Verify evacuation drill records.
+
+evidence_required:
+  - Drill reports
+  - Evacuation records
+
+risk_if_non_compliant:
+  Delayed or ineffective evacuation during emergencies.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

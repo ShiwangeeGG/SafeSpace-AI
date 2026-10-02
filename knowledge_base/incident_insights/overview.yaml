@@ -1,0 +1,37 @@
+domain: Incident Insights
+
+description: >
+  Incident Insights captures recurring
+  fire safety failures, behavioral patterns,
+  response challenges, and lessons learned
+  from historical fire incidents.
+
+primary_objectives:
+  - Identify recurring fire failures
+  - Improve AI reasoning
+  - Support risk assessment
+  - Support recommendation generation
+  - Support fire safety education
+
+knowledge_sources:
+  - Case Studies Layer
+  - Risk Patterns Layer
+  - Occupancy Layer
+  - NBC 2016 Part 4
+  - Mumbai CFO Guidelines
+
+supported_insight_categories:
+  - Fatality Analysis
+  - Evacuation Analysis
+  - Fire Spread Analysis
+  - Maintenance Analysis
+  - Occupancy Analysis
+  - Emergency Response Analysis
+
+retrieval_priority: High
+
+intended_ai_usage:
+  - Risk Assessment
+  - Recommendation Generation
+  - Root Cause Analysis
+  - Incident Investigation Support

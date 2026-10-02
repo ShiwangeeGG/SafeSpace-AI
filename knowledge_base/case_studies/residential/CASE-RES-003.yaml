@@ -1,0 +1,89 @@
+case_id: CASE-RES-003
+
+incident_name: Delhi Apartment Fire Pattern
+
+incident_date: Multiple Incidents
+
+location:
+city: Delhi
+state: Delhi
+country: India
+
+occupancy_type: Residential
+
+building_type:
+
+- Apartment Buildings
+- Housing Complexes
+
+incident_type:
+
+- Fire
+
+severity: Moderate to High
+
+fatalities: Variable
+
+injuries: Variable
+
+summary: >
+Apartment fire incidents in Delhi have commonly
+involved electrical faults, LPG-related fires,
+storage of combustible materials, and delayed
+evacuation from densely populated residential blocks.
+
+root_causes:
+
+- Electrical short circuits
+- LPG leaks
+- Improper storage of combustible materials
+
+fire_safety_failures:
+
+- Lack of fire detection
+- Inadequate firefighting equipment
+- Obstructed escape routes
+
+affected_systems:
+
+- Fire Detection
+- Fire Protection Systems
+- Escape Routes
+
+risk_patterns:
+
+- Electrical fires
+- Kitchen fires
+- Storage hazards
+- Delayed occupant response
+
+occupancy_risks:
+
+- Families
+- Elderly occupants
+- Children
+
+fatality_mechanism:
+
+- Smoke Inhalation
+- Burns
+
+related_nbc_domains:
+
+- Residential Occupancy
+- Fire Prevention
+- Means of Escape
+
+lessons_learned:
+
+- Improve electrical safety
+- Maintain firefighting equipment
+- Educate residents
+- Conduct periodic inspections
+
+prevention_recommendations:
+
+- Smoke alarms
+- Portable extinguishers
+- LPG safety checks
+- Resident awareness programs

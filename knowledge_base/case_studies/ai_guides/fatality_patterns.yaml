@@ -1,0 +1,39 @@
+domain: Fire Fatality Patterns
+
+most_common_fatality_causes:
+  - Smoke Inhalation
+  - Asphyxiation
+  - Burns
+  - Entrapment
+  - Crowd Crush
+
+high_risk_groups:
+  - Children
+  - Elderly
+  - Hospital Patients
+  - Disabled Occupants
+
+common_scenarios:
+  - Blocked exits
+  - Staircase smoke infiltration
+  - Delayed evacuation
+  - Panic behaviour
+  - High-rise entrapment
+
+critical_observation:
+  Most fire fatalities occur due to smoke inhalation
+  rather than direct flame exposure.
+
+prevention_strategies:
+  - Early Detection
+  - Smoke Management
+  - Clear Escape Routes
+  - Fire Drills
+  - Emergency Communication
+
+related_systems:
+  - Escape Routes
+  - Smoke Management
+  - Fire Detection
+  - Emergency Communication
+  - Staircase Safety

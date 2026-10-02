@@ -1,0 +1,62 @@
+risk_id: RISK-004
+
+risk_name: Evacuation Failures
+
+category: Life Safety
+
+risk_level: Critical
+
+risk_description: >
+  Delayed, ineffective, or failed evacuation
+  during a fire emergency.
+
+why_it_is_dangerous:
+  - Occupant entrapment
+  - Smoke inhalation
+  - Increased fatalities
+  - Crowd congestion
+
+affected_occupancies:
+  - Assembly
+  - Educational
+  - Hospital
+  - Institutional
+  - Mercantile
+
+related_compliance_gaps:
+  - GAP-004-blocked_exits
+  - GAP-005-inadequate_staircases
+
+immediate_actions:
+  - Verify all exits are accessible
+  - Remove evacuation barriers
+  - Activate emergency response procedures
+
+short_term_actions:
+  - Conduct evacuation drills
+  - Review evacuation plans
+
+long_term_actions:
+  - Improve evacuation routes
+  - Install additional wayfinding systems
+
+high_priority_systems:
+  - Means of Escape
+  - Emergency Communication
+  - Exit Signage
+
+related_case_studies:
+  - Kamala Mills Fire
+  - Kumbakonam School Fire
+  - AMRI Hospital Fire
+
+ai_reasoning_hints:
+  - Prioritize life safety over property protection
+
+retrieval_keywords:
+  - evacuation failure
+  - evacuation delay
+  - trapped occupants
+
+source:
+  document: Risk Patterns Layer

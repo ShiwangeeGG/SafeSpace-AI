@@ -1,0 +1,31 @@
+document_name: National Building Code of India 2016
+
+part: Part 4
+
+annex: Annex G
+
+title: Commercial Kitchens
+
+authority: Bureau of Indian Standards
+
+jurisdiction: India
+
+document_type: National Standard
+
+scope:
+  - Commercial Kitchen Fire Safety
+  - Kitchen Exhaust Systems
+  - Grease Ducts
+  - Kitchen Fire Suppression
+  - LPG Safety
+  - Hood Protection Systems
+
+primary_focus:
+  - Fire Prevention
+  - Fire Detection
+  - Fire Suppression
+  - Grease Fire Control
+
+related_documents:
+  - Maharashtra Fire Prevention and Life Safety Measures Act 2006
+  - NBC Part 4 Fire Protection

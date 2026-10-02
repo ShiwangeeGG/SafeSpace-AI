@@ -1,0 +1,31 @@
+system_component: Sprinkler Systems
+
+description:
+  Automatic fire suppression systems that detect heat and discharge water directly onto developing fires.
+
+purpose:
+  Control or extinguish fires before they spread significantly.
+
+why_it_matters:
+  Sprinklers are among the most effective fire protection systems for limiting fire growth.
+
+common_fire_risks:
+  - Uncontrolled fire growth
+  - Delayed suppression
+  - Excessive smoke production
+  - Property damage escalation
+
+common_compliance_checks:
+  - Sprinkler coverage verified
+  - Water supply available
+  - Sprinkler heads unobstructed
+  - Inspection and testing completed
+
+related_rules:
+  - NBC-PR-007
+  - NBC-PR-008
+
+related_systems:
+  - Fire Pumps
+  - Fire Water Storage
+  - Fire Detection

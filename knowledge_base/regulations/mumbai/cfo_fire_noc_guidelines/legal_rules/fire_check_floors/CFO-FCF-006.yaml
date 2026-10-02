@@ -1,0 +1,24 @@
+rule_id: CFO-FCF-006
+
+title: Drencher Protection Requirement
+
+category: Fire Suppression
+
+applies_to:
+  - Fire Check Floors
+
+requirement:
+  Fire check floors shall be protected by drencher systems where specified.
+
+compliance_check:
+  Verify drencher installation and operation.
+
+evidence_required:
+  - Fire protection drawings
+  - Testing reports
+
+risk_if_non_compliant:
+  Increased fire exposure to critical emergency support areas.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

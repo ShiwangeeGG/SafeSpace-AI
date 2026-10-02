@@ -1,0 +1,47 @@
+rule_id: OCC-HOSP-001
+
+occupancy_group: Hospital
+
+rule_category: Occupancy Definition
+
+occupancy_definition: >
+Buildings or portions of buildings used for
+medical treatment, healthcare services, patient
+care, diagnosis, recovery, and related medical
+activities.
+
+applies_to:
+
+- Hospitals
+- Nursing Homes
+- Healthcare Centres
+- Medical Facilities
+- Specialty Hospitals
+
+occupancy_characteristics:
+
+- Vulnerable occupants
+- Continuous occupancy
+- Critical medical equipment
+- Limited self-evacuation capability
+
+primary_fire_safety_concern:
+Protection of patients who cannot evacuate
+independently.
+
+related_nbc_domains:
+
+- Institutional Occupancy
+- Life Safety
+- Fire Protection
+
+retrieval_keywords:
+
+- hospital
+- healthcare facility
+- nursing home
+- medical centre
+
+source:
+document: NBC Part 4 Fire and Life Safety
+occupancy_group: Institutional

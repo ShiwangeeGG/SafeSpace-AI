@@ -1,0 +1,29 @@
+terms:
+
+  - term_id: RISK-001
+    term_name: Risk Assessment
+    definition: Systematic evaluation of fire hazards and risks.
+
+  - term_id: RISK-002
+    term_name: Hazard
+    definition: Condition capable of causing harm or fire.
+
+  - term_id: RISK-003
+    term_name: Ignition Source
+    definition: Source capable of initiating combustion.
+
+  - term_id: RISK-004
+    term_name: Fuel Load
+    definition: Quantity of combustible material available to burn.
+
+  - term_id: RISK-005
+    term_name: Risk Level
+    definition: Measure of fire likelihood and consequence.
+
+  - term_id: RISK-006
+    term_name: Critical Risk
+    definition: Risk requiring immediate action.
+
+  - term_id: RISK-007
+    term_name: Mitigation
+    definition: Measures taken to reduce risk.

@@ -1,0 +1,32 @@
+system_component: Hazardous Material Control
+
+description:
+  Measures implemented to safely store, handle, process, and isolate hazardous materials that may increase fire or explosion risks.
+
+purpose:
+  Minimize fire severity and prevent catastrophic incidents involving hazardous substances.
+
+why_it_matters:
+  Hazardous materials can significantly increase fire intensity, explosion potential, and life safety risks.
+
+common_fire_risks:
+  - Flammable liquid fires
+  - Gas explosions
+  - Chemical reactions
+  - Toxic releases
+  - Escalating fire events
+
+common_compliance_checks:
+  - Hazardous storage areas designated
+  - Material inventories maintained
+  - Segregation requirements followed
+  - Ventilation systems operational
+  - Emergency response procedures available
+
+related_rules:
+  - NBC-FP-011
+
+related_systems:
+  - Fire Suppression Systems
+  - Gas Detection Systems
+  - Emergency Response Planning

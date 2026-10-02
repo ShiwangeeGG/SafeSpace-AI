@@ -1,0 +1,26 @@
+rule_id: CFO-ER-005
+
+title: Emergency Lighting Requirement
+
+category: Emergency Illumination
+
+applies_to:
+  - Escape Routes
+  - Corridors
+  - Staircases
+
+requirement:
+  Emergency lighting shall be provided along evacuation routes and remain operational during power failure.
+
+compliance_check:
+  Verify emergency lighting coverage and functionality.
+
+evidence_required:
+  - Testing records
+  - Site inspection
+
+risk_if_non_compliant:
+  Occupants may be unable to safely evacuate during power loss.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

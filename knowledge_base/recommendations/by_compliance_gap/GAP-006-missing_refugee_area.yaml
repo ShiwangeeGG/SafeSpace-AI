@@ -1,0 +1,45 @@
+gap_id: GAP-006
+
+gap_name: Missing Refuge Area
+
+category: High Rise Life Safety
+
+affected_occupancies:
+  - High Rise Residential
+  - High Rise Mercantile
+  - High Rise Mixed Occupancy
+
+risk_level: High
+
+compliance_issue: >
+  Required refuge area is absent.
+
+why_it_is_dangerous:
+  - Occupants lack safe holding area
+  - Evacuation becomes difficult
+
+related_regulations:
+  - Refuge Areas
+  - High Rise Buildings
+
+related_risk_patterns:
+  - high_rise_risks
+  - evacuation_failures
+
+immediate_actions:
+  - Review evacuation procedures
+
+short_term_actions:
+  - Identify temporary refuge location
+
+long_term_actions:
+  - Construct NBC-compliant refuge area
+
+priority_level: High
+
+retrieval_keywords:
+  - no refuge area
+  - missing refuge area
+
+source:
+  document: NBC Part 4 Fire and Life Safety

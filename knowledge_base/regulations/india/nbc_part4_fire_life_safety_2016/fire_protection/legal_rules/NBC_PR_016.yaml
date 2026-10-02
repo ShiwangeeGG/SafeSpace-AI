@@ -1,0 +1,24 @@
+rule_id: NBC-PR-016
+
+title: Emergency Communication System Requirement
+
+category: Emergency Communication
+
+applies_to:
+  - Buildings requiring emergency communication
+
+requirement:
+  Emergency communication systems shall be provided to support evacuation and firefighting operations.
+
+compliance_check:
+  Verify communication functionality.
+
+evidence_required:
+  - Testing reports
+  - Commissioning records
+
+risk_if_non_compliant:
+  Delayed emergency response.
+
+source_document:
+  National Building Code of India 2016 Part 4

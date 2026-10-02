@@ -1,0 +1,55 @@
+occupancy_name: Institutional
+
+occupancy_category: Institutional Occupancy
+
+description: >
+  Institutional occupancies face elevated
+  life-safety risks because occupants may
+  require assistance during emergencies and
+  may not be able to evacuate independently.
+
+examples:
+  - Hostels
+  - Care Homes
+  - Dormitories
+  - Rehabilitation Centres
+
+occupancy_characteristics:
+  - Continuous occupancy
+  - Vulnerable occupants
+  - Sleeping occupants
+
+primary_fire_safety_concerns:
+  - Smoke inhalation
+  - Delayed evacuation
+  - Communication breakdowns
+
+common_fire_risks:
+  - Electrical faults
+  - Maintenance failures
+  - Smoke spread
+  - Blocked exits
+
+evacuation_complexity: High
+
+risk_level: High
+
+related_risk_patterns:
+  - evacuation_failures
+  - smoke_spread_risks
+  - maintenance_failures
+  - electrical_risks
+
+recommended_focus_areas:
+  - Fire detection systems
+  - Smoke control
+  - Staff readiness
+  - Emergency communication
+
+retrieval_keywords:
+  - institutional fire risk
+  - hostel fire safety
+  - dormitory fire risk
+
+source:
+  document: NBC Part 4 Fire and Life Safety

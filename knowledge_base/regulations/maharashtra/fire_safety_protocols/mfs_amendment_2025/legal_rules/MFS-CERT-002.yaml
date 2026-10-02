@@ -1,0 +1,26 @@
+rule_id: MFS-CERT-002
+
+title: ACMS Operational Compliance Certificate
+
+category: Certification
+
+applies_to:
+  - Buildings operating ACMS
+
+requirement:
+  Licensed Agency shall issue Form B-1 certifying systems remain in good repair and efficient condition.
+
+compliance_check:
+  Verify current Form B-1 is available.
+
+evidence_required:
+  - Form B-1
+  - Maintenance reports
+
+risk_if_non_compliant:
+  No proof that fire systems are operational.
+
+source_document:
+  Maharashtra Fire Prevention and Life Safety Measures (Amendment) Rules 2025
+
+page: 2

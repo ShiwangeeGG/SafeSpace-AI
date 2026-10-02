@@ -1,0 +1,27 @@
+rule_id: CFO-ELEC-002
+
+title: Fire Rated Electrical Shaft Doors Requirement
+
+category: Electrical Fire Protection
+
+applies_to:
+  - Electrical Shafts
+
+requirement:
+  Electrical shaft inspection doors shall provide a minimum 2-hour fire resistance rating.
+
+threshold:
+  fire_rating: 2 hours
+
+compliance_check:
+  Verify door certification and installation.
+
+evidence_required:
+  - Product certification
+  - Inspection records
+
+risk_if_non_compliant:
+  Fire and smoke may spread through electrical shafts.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

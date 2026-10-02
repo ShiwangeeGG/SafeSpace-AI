@@ -1,0 +1,26 @@
+rule_id: CFO-FAS-001
+
+title: Addressable Fire Alarm System Requirement
+
+category: Fire Alarm System
+
+applies_to:
+  - High Rise Buildings
+  - Buildings requiring automatic fire alarm systems
+
+requirement:
+  Buildings shall be protected by an addressable fire alarm system capable of identifying the location of alarm initiation.
+
+compliance_check:
+  Verify addressable fire alarm system installation and operation.
+
+evidence_required:
+  - Fire alarm drawings
+  - Commissioning reports
+  - Testing records
+
+risk_if_non_compliant:
+  Delayed identification of fire location and slower emergency response.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

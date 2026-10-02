@@ -1,0 +1,41 @@
+domain: Fire Prevention
+
+description:
+  Fire prevention encompasses the design, construction, maintenance, and operational measures used to reduce the likelihood of fire occurrence and limit fire spread within and between buildings.
+
+primary_objectives:
+  - Prevent fire ignition
+  - Limit fire spread
+  - Protect occupants
+  - Protect property
+  - Support firefighting operations
+
+critical_components:
+  - Building Separation
+  - Fire Compartmentation
+  - Fire Resistance
+  - Shafts and Penetrations
+  - Interior Finishes
+  - Electrical Fire Safety
+  - Hazardous Material Control
+
+key_compliance_focus:
+  - Passive fire protection
+  - Fire-resistant construction
+  - Fire stopping
+  - Hazard isolation
+  - Electrical safety
+
+related_rules:
+  - NBC-FP-001
+  - NBC-FP-002
+  - NBC-FP-003
+  - NBC-FP-004
+  - NBC-FP-005
+  - NBC-FP-006
+  - NBC-FP-007
+  - NBC-FP-008
+  - NBC-FP-009
+  - NBC-FP-010
+  - NBC-FP-011
+  - NBC-FP-012

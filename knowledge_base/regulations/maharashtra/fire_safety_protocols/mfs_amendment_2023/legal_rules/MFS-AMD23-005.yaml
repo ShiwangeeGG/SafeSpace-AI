@@ -1,0 +1,19 @@
+rule_id: MFS-AMD23-005
+
+title: Automated Continuous Monitoring System Required
+
+category: Monitoring
+
+applies_to:
+  - Buildings covered under Section 45
+
+requirement:
+  Fire fighting systems shall be connected to an Automated Continuous Monitoring System.
+
+compliance_check:
+  Verify automated monitoring system installation and connectivity.
+
+source_document:
+  Maharashtra Fire Prevention and Life Safety Measures (Amendment) Act, 2023
+
+page: 5

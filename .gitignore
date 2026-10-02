@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ChromaDB / generated vector database
+vector_db/
+
+# Generated chunks
+# Uncomment this if you decide not to version generated chunks
+# chunks/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Secrets
+.env
+*.pem
+*.key
+secrets/

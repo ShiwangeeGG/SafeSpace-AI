@@ -1,0 +1,25 @@
+rule_id: MFS-ACT-004
+
+title: Fire Compliance Certificate Requirement
+
+category: Certification
+
+applies_to:
+  - Buildings covered under the Act
+
+requirement:
+  A certificate issued by a Licensed Agency shall be submitted confirming compliance with fire prevention and life safety measures.
+
+compliance_check:
+  Verify existence of valid compliance certificate.
+
+evidence_required:
+  - Licensed Agency certificate
+
+risk_if_non_compliant:
+  Inability to prove statutory compliance.
+
+source_document:
+  Maharashtra Fire Prevention and Life Safety Measures Act, 2006
+
+page: 5

@@ -1,0 +1,28 @@
+rule_id: MFS-SENSOR-002
+
+title: Fire Water Tank Monitoring
+
+category: IoT Monitoring
+
+applies_to:
+  - Buildings with fire water tanks
+
+requirement:
+  ACMS shall monitor:
+    - Underground tank level
+    - Aboveground tank level
+    - Overhead tank low-level status
+
+compliance_check:
+  Verify live level monitoring exists.
+
+evidence_required:
+  - Tank telemetry logs
+
+risk_if_non_compliant:
+  Water shortages may not be detected before an emergency.
+
+source_document:
+  Maharashtra Fire Prevention and Life Safety Measures (Amendment) Rules 2025
+
+page: 12

@@ -1,0 +1,42 @@
+rule_id: OCC-IND-005
+
+occupancy_group: Industrial
+
+rule_category: Occupancy Risk Characteristics
+
+occupancy_definition: >
+Industrial occupancies present elevated fire
+risk because of machinery, electrical systems,
+combustible materials, production processes,
+and operational hazards.
+
+applies_to:
+
+- All Industrial Occupancies
+
+occupancy_characteristics:
+
+- High operational activity
+- Equipment dependency
+- Variable fire loads
+- Process-related risks
+
+primary_fire_safety_concern:
+Prevention of operational disruptions,
+worker injury, and fire spread.
+
+related_nbc_domains:
+
+- Fire Protection
+- Fire Prevention
+- Operational Fire Safety
+
+retrieval_keywords:
+
+- industrial risk
+- factory fire risk
+- manufacturing hazards
+
+source:
+document: NBC Part 4 Fire and Life Safety
+occupancy_group: Industrial

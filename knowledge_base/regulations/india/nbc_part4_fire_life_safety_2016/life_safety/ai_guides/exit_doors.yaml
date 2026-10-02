@@ -1,0 +1,24 @@
+life_safety_component: Exit Doors
+
+description:
+  Doors forming part of the evacuation route that allow occupants to move safely toward an exit.
+
+purpose:
+  Ensure unrestricted movement during emergencies.
+
+why_it_matters:
+  Improper door operation can trap occupants and create evacuation bottlenecks.
+
+common_compliance_checks:
+  - Door swing direction
+  - Ease of operation
+  - Locking mechanisms
+  - Fire resistance rating
+
+related_rules:
+  - NBC-LS-005
+  - NBC-LS-006
+
+related_systems:
+  - Exits
+  - Staircases

@@ -1,0 +1,24 @@
+rule_id: NBC-FP-010
+
+title: Electrical Installations Shall Minimize Fire Hazards
+
+category: Electrical Safety
+
+applies_to:
+  - All Buildings
+
+requirement:
+  Electrical installations shall be designed, installed, and maintained to reduce fire risks.
+
+compliance_check:
+  Verify compliance with electrical safety standards.
+
+evidence_required:
+  - Electrical inspection reports
+  - Maintenance records
+
+risk_if_non_compliant:
+  Electrical fire incidents.
+
+source_document:
+  National Building Code of India 2016 Part 4

@@ -1,0 +1,23 @@
+rule_id: NBC-PR-014
+
+title: Staircase Pressurization Requirement
+
+category: Smoke Management
+
+applies_to:
+  - Protected staircases
+
+requirement:
+  Staircases requiring smoke protection shall be provided with pressurization systems.
+
+compliance_check:
+  Verify pressure differential and operation.
+
+evidence_required:
+  - HVAC testing records
+
+risk_if_non_compliant:
+  Smoke infiltration into evacuation routes.
+
+source_document:
+  National Building Code of India 2016 Part 4

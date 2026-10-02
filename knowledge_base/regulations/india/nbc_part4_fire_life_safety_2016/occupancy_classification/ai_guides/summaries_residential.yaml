@@ -1,0 +1,45 @@
+occupancy_type: Residential
+
+description:
+  Buildings primarily used for living and sleeping purposes.
+
+examples:
+  - Apartments
+  - Residential Towers
+  - Housing Societies
+  - Villas
+  - Hotels
+  - Hostels
+  - Guest Houses
+
+primary_fire_risks:
+  - Cooking fires
+  - Electrical faults
+  - LPG leaks
+  - Overloaded circuits
+  - Improper storage of combustible materials
+
+typical_occupants:
+  - Residents
+  - Families
+  - Elderly persons
+  - Children
+  - Guests
+
+critical_life_safety_focus:
+  - Early fire detection
+  - Safe evacuation
+  - Protected staircases
+  - Refuge areas in high-rises
+
+commonly_required_systems:
+  - Fire alarms
+  - Fire extinguishers
+  - Hydrant systems
+  - Sprinklers (where applicable)
+  - Emergency lighting
+
+related_nbc_rules:
+  - NBC-OCC-001
+  - NBC-OCC-002
+  - NBC-OCC-003

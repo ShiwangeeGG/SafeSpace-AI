@@ -1,0 +1,55 @@
+system_id: SYS-004
+
+system_name: Fire Pump
+
+category: Water Supply Infrastructure
+
+criticality_level: Critical
+
+system_purpose: >
+  Maintain required pressure and flow
+  for firefighting systems.
+
+why_it_is_important:
+  - Enables sprinkler operation
+  - Supports hydrants
+
+affected_occupancies:
+  - High Rise Buildings
+  - Hospital
+  - Industrial
+
+common_failure_modes:
+  - Pump failure
+  - Power failure
+  - Lack of maintenance
+
+related_compliance_gaps:
+  - GAP-012-nonfunctional_fire_pump
+
+immediate_actions:
+  - Verify operational readiness
+
+short_term_actions:
+  - Conduct pump testing
+
+long_term_actions:
+  - Implement preventive maintenance
+
+inspection_focus:
+  - Main pump
+  - Jockey pump
+  - Diesel pump
+
+related_case_studies:
+  - Dreams Mall Fire
+
+ai_reasoning_hints:
+  - Failure impacts multiple systems
+
+retrieval_keywords:
+  - fire pump
+  - jockey pump
+
+source:
+  document: NBC Part 4 Fire and Life Safety

@@ -1,0 +1,90 @@
+case_id: CASE-IND-001
+
+incident_name: Maharashtra Chemical Factory Fire
+
+incident_date: 2021
+
+location:
+city: Palghar
+state: Maharashtra
+country: India
+
+occupancy_type: Industrial
+
+building_type:
+
+- Chemical Manufacturing Facility
+
+incident_type:
+
+- Fire
+- Explosion
+
+severity: Catastrophic
+
+fatalities: 18
+
+injuries: 20+
+
+summary: >
+A major explosion followed by a fire occurred at a
+chemical manufacturing facility. The incident involved
+hazardous chemicals, rapid fire spread, and structural
+collapse.
+
+root_causes:
+
+- Chemical process failure
+- Flammable material ignition
+- Explosion event
+
+fire_safety_failures:
+
+- Hazardous material management deficiencies
+- Process safety failures
+- Insufficient emergency controls
+
+affected_systems:
+
+- Hazardous Material Control
+- Fire Protection Systems
+- Operational Fire Safety
+
+risk_patterns:
+
+- Chemical explosions
+- Toxic smoke release
+- Process safety failures
+- Rapid fire escalation
+
+occupancy_risks:
+
+- Industrial workers
+- Chemical storage areas
+- High-energy processes
+
+fatality_mechanism:
+
+- Explosion Injuries
+- Burns
+- Smoke Inhalation
+
+related_nbc_domains:
+
+- Industrial Occupancy
+- Hazardous Occupancy
+- Fire Protection
+- Fire Prevention
+
+lessons_learned:
+
+- Improve process safety management
+- Monitor hazardous reactions
+- Strengthen emergency shutdown systems
+
+prevention_recommendations:
+
+- Hazard assessments
+- Explosion protection
+- Emergency response planning
+- Chemical safety audits

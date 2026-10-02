@@ -1,0 +1,29 @@
+rule_id: MFS-SENSOR-003
+
+title: Sprinkler System Monitoring
+
+category: IoT Monitoring
+
+applies_to:
+  - Buildings with sprinkler systems
+
+requirement:
+  ACMS shall monitor:
+    - Main sprinkler pump run status
+    - Power status
+    - Sprinkler riser pressure
+
+compliance_check:
+  Verify telemetry exists.
+
+evidence_required:
+  - Pressure logs
+  - Pump status logs
+
+risk_if_non_compliant:
+  Sprinkler failures may remain hidden.
+
+source_document:
+  Maharashtra Fire Prevention and Life Safety Measures (Amendment) Rules 2025
+
+page: 12

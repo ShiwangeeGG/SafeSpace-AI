@@ -1,0 +1,41 @@
+source_id: OCC-INS-SRC-001
+
+source_name: Institutional Occupancy Knowledge Base
+
+occupancy_group: Institutional
+
+regulatory_source:
+  - NBC 2016 Part 4 Fire and Life Safety
+
+purpose: >
+  Define institutional occupancies and provide
+  fire safety intelligence for facilities
+  containing vulnerable occupants who may
+  require assistance during emergencies.
+
+applies_to:
+  - Hostels
+  - Dormitories
+  - Old Age Homes
+  - Rehabilitation Centres
+  - Care Homes
+
+primary_fire_safety_focus:
+  - Assisted Evacuation
+  - Occupant Protection
+  - Smoke Management
+  - Emergency Communication
+
+related_risk_patterns:
+  - evacuation_failures
+  - smoke_spread_risks
+  - maintenance_failures
+  - electrical_risks
+
+retrieval_priority: High
+
+intended_ai_usage:
+  - Occupancy Classification
+  - Life Safety Assessment
+  - Risk Assessment
+  - Compliance Analysis

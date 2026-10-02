@@ -1,0 +1,25 @@
+rule_id: CFO-OFS-007
+
+title: Fire Safety Training Requirement
+
+category: Training
+
+applies_to:
+  - Building Staff
+  - Facility Management Personnel
+
+requirement:
+  Personnel responsible for fire safety shall receive periodic fire safety training.
+
+compliance_check:
+  Verify training completion records.
+
+evidence_required:
+  - Training certificates
+  - Attendance records
+
+risk_if_non_compliant:
+  Staff may be unable to respond effectively during emergencies.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

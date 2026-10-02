@@ -1,0 +1,24 @@
+rule_id: CFO-STAIR-003
+
+title: Staircase Emergency Ventilation Requirement
+
+category: Smoke Control
+
+applies_to:
+  - Protected Staircases
+
+requirement:
+  Staircases shall be provided with emergency ventilation facilities where specified.
+
+compliance_check:
+  Verify ventilation systems and openings.
+
+evidence_required:
+  - Building drawings
+  - Site inspection
+
+risk_if_non_compliant:
+  Smoke accumulation within staircases.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

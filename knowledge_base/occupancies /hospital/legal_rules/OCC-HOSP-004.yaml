@@ -1,0 +1,41 @@
+rule_id: OCC-HOSP-004
+
+occupancy_group: Hospital
+
+rule_category: Emergency Evacuation Requirements
+
+occupancy_definition: >
+Hospitals require specialized evacuation
+strategies because many occupants may be
+unable to use conventional escape routes.
+
+applies_to:
+
+- Hospitals
+- Nursing Homes
+- Long-Term Care Facilities
+
+occupancy_characteristics:
+
+- Assisted evacuation
+- Horizontal relocation
+- Staff-guided movement
+
+primary_fire_safety_concern:
+Maintaining life safety during evacuation.
+
+related_nbc_domains:
+
+- Means of Escape
+- Smoke Management
+- Emergency Communication
+
+retrieval_keywords:
+
+- hospital evacuation
+- patient relocation
+- assisted evacuation
+
+source:
+document: NBC Part 4 Fire and Life Safety
+occupancy_group: Institutional

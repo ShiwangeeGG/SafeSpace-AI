@@ -1,0 +1,40 @@
+occupancy_type: Institutional
+
+description:
+  Buildings occupied by persons requiring care, treatment, custody, or supervision.
+
+examples:
+  - Hospitals
+  - Nursing Homes
+  - Rehabilitation Centres
+  - Old Age Homes
+  - Prisons
+
+primary_fire_risks:
+  - Medical equipment
+  - Oxygen systems
+  - Electrical faults
+  - Limited occupant mobility
+
+typical_occupants:
+  - Patients
+  - Doctors
+  - Nurses
+  - Caretakers
+  - Inmates
+
+critical_life_safety_focus:
+  - Assisted evacuation
+  - Compartmentation
+  - Smoke control
+  - Continuous monitoring
+
+commonly_required_systems:
+  - Fire alarms
+  - Sprinklers
+  - Hydrant systems
+  - Smoke management systems
+  - Emergency power
+
+related_nbc_rules:
+  - NBC-OCC-005

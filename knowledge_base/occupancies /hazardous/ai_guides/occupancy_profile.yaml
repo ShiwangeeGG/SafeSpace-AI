@@ -1,0 +1,81 @@
+occupancy_name: Hazardous
+
+occupancy_category: Hazardous Occupancy
+
+description: >
+Buildings or facilities that manufacture, process,
+handle, store, or use materials capable of causing
+fire, explosion, toxic release, chemical reactions,
+or other severe hazards to life and property.
+
+examples:
+
+* Chemical Plants
+* Petroleum Facilities
+* LPG Storage Facilities
+* Gas Processing Plants
+* Paint Manufacturing Units
+* Fireworks Factories
+* Hazardous Chemical Warehouses
+* Explosive Manufacturing Facilities
+
+occupancy_characteristics:
+
+* High fire load
+* Explosion potential
+* Toxic release hazards
+* Specialized process operations
+* Hazardous material storage
+
+primary_fire_safety_concerns:
+
+* Explosion prevention
+* Hazardous material control
+* Fire containment
+* Toxic gas release
+* Emergency response planning
+
+common_fire_risks:
+
+* Chemical reactions
+* Flammable liquid ignition
+* Gas leaks
+* Static electricity ignition
+* Process failures
+
+evacuation_complexity: High
+
+risk_level: Critical
+
+related_case_studies:
+
+* Maharashtra Chemical Factory Fire
+* Ankleshwar Chemical Plant Fire
+
+related_risk_patterns:
+
+* hazardous_material_risks
+* combustible_materials
+* maintenance_failures
+* electrical_risks
+
+recommended_focus_areas:
+
+* Hazardous material management
+* Process safety
+* Explosion prevention
+* Fire protection systems
+* Emergency response planning
+
+retrieval_keywords:
+
+* hazardous occupancy
+* chemical plant
+* explosion risk
+* toxic materials
+* flammable liquids
+* hazardous storage
+
+source:
+document: NBC Part 4 Fire and Life Safety
+occupancy_group: Hazardous

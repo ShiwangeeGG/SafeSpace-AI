@@ -1,0 +1,24 @@
+rule_id: NBC-FP-003
+
+title: Fire Resistant Construction Materials
+
+category: Fire Resistance
+
+applies_to:
+  - Structural Elements
+
+requirement:
+  Structural members shall achieve required fire resistance ratings.
+
+compliance_check:
+  Verify fire resistance certification.
+
+evidence_required:
+  - Material certificates
+  - Structural design documents
+
+risk_if_non_compliant:
+  Premature structural collapse during fire.
+
+source_document:
+  National Building Code of India 2016 Part 4

@@ -1,0 +1,24 @@
+rule_id: NBC-PR-001
+
+title: Fire Detection System Requirement
+
+category: Fire Detection
+
+applies_to:
+  - Buildings requiring automatic detection
+
+requirement:
+  Automatic fire detection systems shall be installed where required by occupancy and building characteristics.
+
+compliance_check:
+  Verify detector coverage and installation.
+
+evidence_required:
+  - Fire alarm drawings
+  - Testing reports
+
+risk_if_non_compliant:
+  Delayed fire detection and evacuation.
+
+source_document:
+  National Building Code of India 2016 Part 4

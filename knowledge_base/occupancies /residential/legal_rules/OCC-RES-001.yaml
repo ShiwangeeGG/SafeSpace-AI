@@ -1,0 +1,43 @@
+rule_id: OCC-RES-001
+
+occupancy_group: Residential
+
+rule_category: Occupancy Definition
+
+occupancy_definition: >
+  Buildings or portions of buildings
+  used for residential purposes,
+  including sleeping accommodation
+  and normal domestic activities.
+
+applies_to:
+  - Apartments
+  - Residential Towers
+  - Individual Houses
+  - Housing Societies
+  - Row Houses
+
+occupancy_characteristics:
+  - Sleeping occupants
+  - Domestic activities
+  - Continuous occupancy
+  - Variable occupant awareness
+
+primary_fire_safety_concern:
+  Protection of occupants during
+  sleeping hours and emergencies.
+
+related_nbc_domains:
+  - Occupancy Classification
+  - Life Safety
+  - Means of Escape
+
+retrieval_keywords:
+  - residential occupancy
+  - apartment
+  - housing society
+  - residential tower
+
+source:
+  document: NBC Part 4 Fire and Life Safety
+  occupancy_group: Residential

@@ -1,0 +1,24 @@
+rule_id: CFO-OFS-009
+
+title: Fire Safety Signage Maintenance Requirement
+
+category: Safety Information
+
+applies_to:
+  - Occupied Buildings
+
+requirement:
+  Fire safety signage shall remain visible, legible, and properly maintained.
+
+compliance_check:
+  Verify signage condition and visibility.
+
+evidence_required:
+  - Site inspection
+  - Photographs
+
+risk_if_non_compliant:
+  Occupants may not receive critical safety information.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

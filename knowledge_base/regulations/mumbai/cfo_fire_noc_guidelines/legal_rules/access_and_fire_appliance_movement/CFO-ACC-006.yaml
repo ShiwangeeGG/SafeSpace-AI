@@ -1,0 +1,27 @@
+rule_id: CFO-ACC-006
+
+title: Turning Radius Requirement
+
+category: Fire Appliance Access
+
+applies_to:
+  - Buildings requiring fire appliance circulation
+
+requirement:
+  Fire appliance routes shall provide a minimum turning radius of 14 metres.
+
+threshold:
+  minimum_turning_radius: 14 m
+
+compliance_check:
+  Verify turning geometry.
+
+evidence_required:
+  - Site layout plans
+  - AutoTURN analysis if available
+
+risk_if_non_compliant:
+  Fire appliances may be unable to maneuver safely.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

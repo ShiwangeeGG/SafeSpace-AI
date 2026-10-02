@@ -1,0 +1,31 @@
+rule_id: NBC-OCC-006
+
+title: Assembly Occupancy Classification
+
+category: Occupancy Classification
+
+applies_to:
+  - Auditoriums
+  - Cinemas
+  - Theatres
+  - Restaurants
+  - Places of worship
+  - Exhibition halls
+
+requirement:
+  Buildings where groups of 50 or more persons congregate for amusement, recreation, social, religious, travel, or similar purposes shall be classified as Assembly Occupancy.
+
+compliance_check:
+  Verify maximum occupant load.
+
+evidence_required:
+  - Seating plans
+  - Occupancy calculations
+
+risk_if_non_compliant:
+  Occupant evacuation requirements may be underestimated.
+
+source_document:
+  National Building Code of India 2016 Part 4
+
+page: Occupancy Classification Chapter

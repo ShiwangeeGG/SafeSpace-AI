@@ -1,0 +1,27 @@
+rule_id: MFS-ACT-011
+
+title: Licensed Agency Requirement
+
+category: Licensing
+
+applies_to:
+  - Fire safety installation and maintenance work
+
+requirement:
+  Fire prevention and life safety work shall be carried out only by a Licensed Agency or an authorized substitute approved by the Chief Fire Officer.
+
+compliance_check:
+  Verify contractor holds valid license.
+
+evidence_required:
+  - Agency license
+  - Work order
+  - Approval records
+
+risk_if_non_compliant:
+  Fire safety work may be considered invalid.
+
+source_document:
+  Maharashtra Fire Prevention and Life Safety Measures Act, 2006
+
+page: 9

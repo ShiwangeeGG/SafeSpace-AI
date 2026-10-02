@@ -1,0 +1,55 @@
+risk_name: High Rise Building Risks
+
+severity: Critical
+
+description:
+  Risks unique to buildings where evacuation,
+  firefighting operations, smoke movement,
+  and emergency response become more complex
+  due to building height.
+
+common_causes:
+  - Smoke migration
+  - Electrical faults
+  - Facade fires
+  - Equipment failures
+  - Poor maintenance
+
+warning_signs:
+  - Non-functional fire lifts
+  - Obstructed refuge areas
+  - Staircase smoke infiltration
+  - Defective smoke management systems
+
+potential_consequences:
+  - Delayed evacuation
+  - Firefighter access difficulties
+  - Vertical fire spread
+  - Large-scale occupant entrapment
+
+high_risk_occupancies:
+  - Residential Towers
+  - Commercial Towers
+  - Mixed Use Buildings
+  - Hotels
+
+related_case_studies:
+  - Crystal Tower Fire
+  - Times Tower Fire
+  - Mumbai High Rise Residential Fire Pattern
+
+related_regulatory_domains:
+  - High Rise Buildings
+  - Refuge Areas
+  - Fire Lifts
+  - Smoke Management
+  - Fire Command Centre
+
+recommended_controls:
+  - Maintain fire lifts
+  - Maintain refuge areas
+  - Conduct high-rise evacuation drills
+  - Verify smoke management systems
+  - Inspect fire command centres
+
+risk_score_impact: Critical

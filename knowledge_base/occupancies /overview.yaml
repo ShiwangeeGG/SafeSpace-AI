@@ -1,0 +1,54 @@
+domain: Occupancy Classification
+
+description: >
+Occupancies represent the primary method of
+classifying buildings based on their use,
+occupant characteristics, operational activities,
+and associated fire and life safety risks.
+
+occupancy_groups:
+
+- Residential
+- Educational
+- Institutional
+- Assembly
+- Business
+- Mercantile
+- Industrial
+- Storage
+- Hazardous
+- Mixed
+
+classification_objectives:
+
+- Building Classification
+- Fire Risk Assessment
+- Compliance Evaluation
+- Occupant Safety Analysis
+- Emergency Planning
+
+primary_fire_safety_factors:
+
+- Occupant Density
+- Occupant Vulnerability
+- Fire Load
+- Evacuation Complexity
+- Operational Hazards
+
+related_domains:
+
+- Fire Prevention
+- Fire Protection
+- Means of Escape
+- High Rise Buildings
+- Risk Patterns
+
+ai_usage:
+
+- Occupancy Classification
+- Risk Profiling
+- Compliance Guidance
+- Recommendation Generation
+
+source:
+document: NBC 2016 Part 4 Fire and Life Safety

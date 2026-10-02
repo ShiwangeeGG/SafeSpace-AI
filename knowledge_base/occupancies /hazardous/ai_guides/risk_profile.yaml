@@ -1,0 +1,74 @@
+occupancy_name: Hazardous
+
+occupancy_category: Hazardous Occupancy
+
+description: >
+Hazardous occupancies consistently represent the
+highest fire and life-safety risk category because
+incidents can escalate rapidly into explosions,
+toxic releases, large fires, and mass-casualty events.
+
+examples:
+
+* Chemical Processing Plants
+* Petroleum Storage Facilities
+* Explosive Manufacturing Units
+* Industrial Gas Facilities
+
+occupancy_characteristics:
+
+* High-energy processes
+* Hazardous material inventories
+* Specialized equipment
+* Elevated regulatory requirements
+
+primary_fire_safety_concerns:
+
+* Explosion hazards
+* Toxic releases
+* Rapid fire spread
+* Process safety failures
+
+common_fire_risks:
+
+* Chemical incompatibility
+* Gas leaks
+* Equipment failure
+* Electrical ignition
+* Improper hazardous storage
+
+evacuation_complexity: Critical
+
+risk_level: Critical
+
+related_case_studies:
+
+* Maharashtra Chemical Factory Fire
+* Ankleshwar Chemical Plant Fire
+
+related_risk_patterns:
+
+* hazardous_material_risks
+* electrical_risks
+* maintenance_failures
+* combustible_materials
+
+recommended_focus_areas:
+
+* Hazard identification
+* Process safety management
+* Explosion protection
+* Fire detection systems
+* Hazardous material segregation
+
+retrieval_keywords:
+
+* hazardous fire risk
+* explosion risk
+* chemical hazards
+* flammable liquids
+* process safety
+
+source:
+document: NBC Part 4 Fire and Life Safety
+occupancy_group: Hazardous

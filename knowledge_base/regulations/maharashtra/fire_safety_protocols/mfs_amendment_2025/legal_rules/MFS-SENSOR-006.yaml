@@ -1,0 +1,25 @@
+rule_id: MFS-SENSOR-006
+
+title: Public Address System Monitoring
+
+category: IoT Monitoring
+
+applies_to:
+  - Buildings with PA systems
+
+requirement:
+  ACMS shall monitor PA system operational status.
+
+compliance_check:
+  Verify system health monitoring exists.
+
+evidence_required:
+  - PA system logs
+
+risk_if_non_compliant:
+  Emergency announcements may fail.
+
+source_document:
+  Maharashtra Fire Prevention and Life Safety Measures (Amendment) Rules 2025
+
+page: 13

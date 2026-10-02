@@ -1,0 +1,64 @@
+occupancy_name: Industrial
+
+occupancy_category: Industrial Occupancy
+
+description: >
+  Industrial occupancies require evacuation
+  procedures that account for machinery,
+  production areas, hazardous processes,
+  and workforce safety. Emergency shutdown
+  of operations may be necessary before evacuation.
+
+examples:
+  - Factories
+  - Manufacturing Plants
+  - Industrial Workshops
+  - Production Facilities
+
+occupancy_characteristics:
+  - Large floor areas
+  - Shift-based workforce
+  - Machinery obstacles
+  - Process equipment zones
+
+primary_fire_safety_concerns:
+  - Worker evacuation
+  - Emergency shutdown procedures
+  - Machinery hazards
+  - Smoke exposure
+
+common_fire_risks:
+  - Blocked pathways
+  - Delayed emergency response
+  - Equipment-related hazards
+  - Process interruptions
+
+evacuation_complexity: High
+
+risk_level: High
+
+related_case_studies:
+  - Maharashtra Chemical Factory Fire
+  - Ankleshwar Chemical Plant Fire
+
+related_risk_patterns:
+  - evacuation_failures
+  - maintenance_failures
+  - hazardous_material_risks
+
+recommended_focus_areas:
+  - Evacuation drills
+  - Emergency shutdown planning
+  - Worker awareness training
+  - Escape route inspections
+  - Emergency communication systems
+
+retrieval_keywords:
+  - factory evacuation
+  - industrial emergency
+  - worker evacuation
+  - emergency shutdown
+
+source:
+  document: NBC Part 4 Fire and Life Safety
+  occupancy_group: Industrial

@@ -1,0 +1,87 @@
+case_id: CASE-HOSP-002
+
+incident_name: Bhandara Hospital Fire
+
+incident_date: 2021-01-09
+
+location:
+city: Bhandara
+state: Maharashtra
+country: India
+
+occupancy_type: Institutional
+
+building_type:
+
+- District Hospital
+- Neonatal Care Unit
+
+incident_type:
+
+- Fire
+
+severity: Critical
+
+fatalities: 10
+
+injuries: Multiple
+
+summary: >
+A fire occurred inside the neonatal intensive care unit
+of a district hospital. The incident highlighted the
+unique fire safety challenges associated with critical
+healthcare environments and vulnerable occupants.
+
+root_causes:
+
+- Electrical equipment malfunction
+- Medical equipment ignition
+
+fire_safety_failures:
+
+- Delayed detection
+- Limited compartmentation
+- Challenging evacuation conditions
+
+affected_systems:
+
+- Fire Detection
+- Operational Fire Safety
+- Emergency Communication
+
+risk_patterns:
+
+- Medical equipment fires
+- Critical care occupancy
+- Infant evacuation challenges
+
+occupancy_risks:
+
+- Neonatal patients
+- Immobile occupants
+- Life-support dependency
+
+fatality_mechanism:
+
+- Burns
+- Smoke Inhalation
+
+related_nbc_domains:
+
+- Institutional Occupancy
+- Fire Detection
+- Life Safety
+
+lessons_learned:
+
+- Improve fire detection systems
+- Increase ICU monitoring
+- Develop infant evacuation plans
+- Enhance staff training
+
+prevention_recommendations:
+
+- Smoke detectors
+- ICU fire drills
+- Equipment inspections
+- Staff preparedness training

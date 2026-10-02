@@ -1,0 +1,24 @@
+rule_id: NBC-HR-010
+
+title: Automatic Sprinkler System Requirement
+
+category: Fire Suppression
+
+applies_to:
+  - High Rise Buildings
+
+requirement:
+  Automatic sprinkler systems shall be installed where required for high-rise protection.
+
+compliance_check:
+  Verify sprinkler coverage and operation.
+
+evidence_required:
+  - Sprinkler drawings
+  - Inspection reports
+
+risk_if_non_compliant:
+  Uncontrolled fire growth.
+
+source_document:
+  National Building Code of India 2016 Part 4 Annex E

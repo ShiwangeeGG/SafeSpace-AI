@@ -1,0 +1,32 @@
+document_name: National Building Code of India 2016
+
+part: Part 4
+
+chapter: Fire Protection
+
+authority: Bureau of Indian Standards
+
+jurisdiction: India
+
+document_type: National Standard
+
+scope:
+  - Fire Detection Systems
+  - Fire Alarm Systems
+  - Hydrant Systems
+  - Wet Risers
+  - Sprinkler Systems
+  - Fire Pumps
+  - Water Storage
+  - Smoke Management
+  - Fire Command Centre
+  - Emergency Communication
+
+primary_focus:
+  - Fire Detection
+  - Fire Suppression
+  - Emergency Response
+
+related_documents:
+  - NBC Part 4 Life Safety
+  - NBC Part 4 Fire Prevention

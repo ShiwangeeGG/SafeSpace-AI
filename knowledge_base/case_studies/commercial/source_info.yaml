@@ -1,0 +1,33 @@
+domain: Commercial Fire Incident Case Studies
+
+occupancies_covered:
+
+- Assembly
+- Mercantile
+- Business
+- Mixed Use Commercial
+- Restaurants
+- Malls
+- Entertainment Venues
+- Office Buildings
+
+analysis_focus:
+
+- Root Cause Analysis
+- Compliance Failures
+- Fire Safety Lessons
+- Risk Patterns
+- Evacuation Failures
+- Operational Failures
+- Fire Protection Failures
+
+intended_ai_usage:
+
+- Training
+- Risk Assessment
+- Compliance Education
+- Incident Investigation Support
+- Safety Awareness
+- Root Cause Analysis
+
+retrieval_priority: High

@@ -1,0 +1,24 @@
+rule_id: CFO-FAS-004
+
+title: Smoke Detector Requirement
+
+category: Fire Detection
+
+applies_to:
+  - Protected Building Areas
+
+requirement:
+  Smoke detectors shall be installed in designated areas requiring automatic fire detection.
+
+compliance_check:
+  Verify detector coverage and operation.
+
+evidence_required:
+  - Detector layout drawings
+  - Testing records
+
+risk_if_non_compliant:
+  Delayed fire detection.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

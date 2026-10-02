@@ -1,0 +1,24 @@
+rule_id: CFO-FL-007
+
+title: Fire Lift Maintenance Requirement
+
+category: Maintenance
+
+applies_to:
+  - Fire Lifts
+
+requirement:
+  Fire lifts shall be regularly inspected, tested, and maintained.
+
+compliance_check:
+  Verify maintenance schedules and records.
+
+evidence_required:
+  - Maintenance logs
+  - Testing reports
+
+risk_if_non_compliant:
+  Fire lift failure during emergencies.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

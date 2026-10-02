@@ -1,0 +1,23 @@
+life_safety_component: Fire Lifts
+
+description:
+  Specialized lifts designed for use by firefighters and emergency responders during fire incidents.
+
+purpose:
+  Improve emergency response efficiency in multi-storey buildings.
+
+why_it_matters:
+  Firefighters need rapid access to upper floors during emergencies.
+
+common_compliance_checks:
+  - Fire lift availability
+  - Emergency controls
+  - Fire resistance
+  - Backup power
+
+related_rules:
+  - NBC-LS-012
+
+related_systems:
+  - Firefighting Shaft
+  - Refuge Areas

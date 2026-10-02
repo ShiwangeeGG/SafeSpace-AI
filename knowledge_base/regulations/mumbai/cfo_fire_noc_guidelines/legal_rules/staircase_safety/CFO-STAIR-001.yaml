@@ -1,0 +1,24 @@
+rule_id: CFO-STAIR-001
+
+title: Enclosed Staircase Requirement
+
+category: Means of Egress
+
+applies_to:
+  - Buildings requiring protected staircases
+
+requirement:
+  Staircases forming part of emergency evacuation routes shall be enclosed using fire-resistant construction.
+
+compliance_check:
+  Verify staircase enclosure integrity.
+
+evidence_required:
+  - Architectural drawings
+  - Site inspection
+
+risk_if_non_compliant:
+  Smoke and fire may spread into evacuation routes.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

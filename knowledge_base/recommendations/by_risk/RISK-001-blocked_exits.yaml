@@ -1,0 +1,70 @@
+risk_id: RISK-001
+
+risk_name: Blocked Exits
+
+category: Means of Escape
+
+risk_level: Critical
+
+risk_description: >
+Exit routes, staircases, doors, or escape
+pathways are obstructed, locked, or inaccessible.
+
+why_it_is_dangerous:
+
+- Delayed evacuation
+- Crowd congestion
+- Increased fatalities
+- Smoke exposure
+
+affected_occupancies:
+
+- Assembly
+- Mercantile
+- Educational
+- Residential
+- Hospital
+
+related_compliance_gaps:
+
+- GAP-004-blocked_exits
+
+immediate_actions:
+
+- Remove all obstructions
+- Unlock emergency exits
+- Verify exit accessibility
+
+short_term_actions:
+
+- Conduct exit inspections
+- Update evacuation plans
+
+long_term_actions:
+
+- Establish monthly exit audits
+- Improve exit signage
+
+high_priority_systems:
+
+- Means of Escape
+- Emergency Lighting
+
+related_case_studies:
+
+- Kamala Mills Fire
+- Kumbakonam School Fire
+
+ai_reasoning_hints:
+
+- Always prioritize before property protection
+- Treat as life safety emergency
+
+retrieval_keywords:
+
+- blocked exit
+- locked exit
+- obstructed escape route
+
+source:
+document: Risk Patterns Layer

@@ -1,0 +1,39 @@
+rule_id: OCC-INS-002
+
+occupancy_group: Institutional
+
+rule_category: Residential Care Facilities
+
+occupancy_definition: >
+  Facilities that provide accommodation,
+  supervision, and daily care services
+  to residents.
+
+applies_to:
+  - Hostels
+  - Dormitories
+  - Old Age Homes
+  - Orphanages
+
+occupancy_characteristics:
+  - Sleeping occupants
+  - Shared accommodation
+  - Continuous occupancy
+
+primary_fire_safety_concern:
+  Night-time evacuation and occupant protection.
+
+related_nbc_domains:
+  - Life Safety
+  - Means of Escape
+  - Fire Protection
+
+retrieval_keywords:
+  - hostel
+  - dormitory
+  - care home
+  - sleeping accommodation
+
+source:
+  document: NBC Part 4 Fire and Life Safety
+  occupancy_group: Institutional

@@ -1,0 +1,113 @@
+case_id: CASE-EDU-001
+
+incident_name: Surat Coaching Centre Fire
+
+incident_date: 2019-05-24
+
+location:
+city: Surat
+state: Gujarat
+country: India
+
+occupancy_type: Educational
+
+building_type:
+
+- Coaching Institute
+- Training Centre
+
+incident_type:
+
+- Fire
+
+severity: Catastrophic
+
+fatalities: 22
+
+injuries: 15
+
+summary: >
+A major fire occurred at a coaching centre operating
+on the upper floors of a commercial building. The fire
+spread rapidly through temporary structures and
+combustible roofing materials. Many students became
+trapped due to inadequate evacuation provisions.
+
+root_causes:
+
+- Electrical short circuit
+- Combustible roofing materials
+- Temporary structures
+- Rapid smoke development
+
+fire_safety_failures:
+
+- Insufficient exits
+- Inadequate evacuation routes
+- Lack of fire protection systems
+- Unauthorized construction
+- Poor emergency preparedness
+
+affected_systems:
+
+- Escape Routes
+- Fire Protection Systems
+- Operational Fire Safety
+- Emergency Communication
+
+risk_patterns:
+
+- Occupancy overload
+- Student crowding
+- Illegal construction
+- Delayed evacuation
+- Inadequate approvals
+
+occupancy_risks:
+
+- High student density
+- Upper-floor occupancy
+- Young occupants
+- Limited evacuation awareness
+
+fatality_mechanism:
+
+- Smoke Inhalation
+- Thermal Burns
+- Jump Injuries
+
+related_cfo_domains:
+
+- Escape Routes
+- Fire Protection Systems
+- Operational Fire Safety
+
+related_nbc_domains:
+
+- Educational Occupancy
+- Means of Escape
+- Fire Protection
+- Life Safety
+
+lessons_learned:
+
+- Prevent unauthorized educational facilities
+- Maintain multiple evacuation routes
+- Install fire protection systems
+- Conduct evacuation drills
+- Enforce occupancy limits
+
+prevention_recommendations:
+
+- Automatic fire alarms
+- Emergency lighting
+- Exit signage
+- Fire drills
+- Occupancy audits
+
+search_keywords:
+
+- Surat Coaching Centre Fire
+- Educational Occupancy Fire
+- Student Evacuation Failure
+- Coaching Centre Fire

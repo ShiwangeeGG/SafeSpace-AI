@@ -1,0 +1,29 @@
+rule_id: NBC-OCC-004
+
+title: Educational Occupancy Classification
+
+category: Occupancy Classification
+
+applies_to:
+  - Schools
+  - Colleges
+  - Universities
+  - Training institutes
+
+requirement:
+  Buildings used for educational purposes involving more than 20 students shall be classified as Educational Occupancy.
+
+compliance_check:
+  Verify building use and student population.
+
+evidence_required:
+  - Institution registration
+  - Building usage records
+
+risk_if_non_compliant:
+  Fire safety measures may be inadequate for occupant load.
+
+source_document:
+  National Building Code of India 2016 Part 4
+
+page: Occupancy Classification Chapter

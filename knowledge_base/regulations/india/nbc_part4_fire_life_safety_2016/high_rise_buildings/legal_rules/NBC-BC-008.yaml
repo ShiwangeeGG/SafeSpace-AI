@@ -1,0 +1,23 @@
+rule_id: NBC-HR-008
+
+title: Smoke Management System Requirement
+
+category: Smoke Management
+
+applies_to:
+  - High Rise Buildings
+
+requirement:
+  Smoke management systems shall be installed to maintain tenable evacuation conditions.
+
+compliance_check:
+  Verify smoke extraction and control systems.
+
+evidence_required:
+  - Smoke control testing records
+
+risk_if_non_compliant:
+  Reduced visibility and increased life safety risk.
+
+source_document:
+  National Building Code of India 2016 Part 4 Annex E

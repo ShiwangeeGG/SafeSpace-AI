@@ -1,0 +1,23 @@
+life_safety_component: Exit Signage
+
+description:
+  Signs used to guide occupants toward safe exits during emergencies.
+
+purpose:
+  Improve evacuation speed and reduce confusion.
+
+why_it_matters:
+  Occupants may be unfamiliar with building layouts.
+
+common_compliance_checks:
+  - Visibility
+  - Placement
+  - Illumination
+  - Emergency power connection
+
+related_rules:
+  - NBC-LS-014
+
+related_systems:
+  - Emergency Lighting
+  - Means of Egress

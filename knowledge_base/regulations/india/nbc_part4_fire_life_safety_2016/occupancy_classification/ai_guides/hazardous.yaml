@@ -1,0 +1,36 @@
+occupancy_type: Hazardous
+
+description:
+  Buildings used for handling, processing, manufacturing, or storing hazardous materials.
+
+examples:
+  - Chemical Plants
+  - LPG Facilities
+  - Explosive Storage Areas
+  - Fuel Depots
+
+primary_fire_risks:
+  - Explosions
+  - Toxic releases
+  - Flammable gases
+  - Flammable liquids
+
+typical_occupants:
+  - Specialized Operators
+  - Engineers
+  - Safety Personnel
+
+critical_life_safety_focus:
+  - Explosion prevention
+  - Hazard containment
+  - Emergency shutdown
+  - Specialized firefighting
+
+commonly_required_systems:
+  - Gas detection systems
+  - Fire alarms
+  - Hydrant systems
+  - Specialized suppression systems
+
+related_nbc_rules:
+  - NBC-OCC-011

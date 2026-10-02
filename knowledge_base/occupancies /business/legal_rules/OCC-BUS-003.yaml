@@ -1,0 +1,42 @@
+rule_id: OCC-BUS-003
+
+occupancy_group: Business
+
+rule_category: Financial and Administrative Occupancies
+
+occupancy_definition: >
+Buildings used for banking, financial transactions,
+record management, and government administration.
+
+applies_to:
+
+- Banks
+- Financial Institutions
+- Government Offices
+- Revenue Offices
+
+occupancy_characteristics:
+
+- Public-facing services
+- Record storage
+- Controlled access areas
+
+primary_fire_safety_concern:
+Occupant safety and protection of critical records.
+
+related_nbc_domains:
+
+- Fire Protection
+- Means of Escape
+- Operational Fire Safety
+
+retrieval_keywords:
+
+- bank
+- government office
+- finance
+- records
+
+source:
+document: NBC Part 4 Fire and Life Safety
+occupancy_group: Business

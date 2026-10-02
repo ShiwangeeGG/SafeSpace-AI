@@ -1,0 +1,24 @@
+rule_id: NBC-PR-002
+
+title: Fire Alarm System Requirement
+
+category: Fire Alarm
+
+applies_to:
+  - Protected buildings
+
+requirement:
+  Buildings requiring fire protection shall be provided with a fire alarm system capable of notifying occupants.
+
+compliance_check:
+  Verify alarm audibility and functionality.
+
+evidence_required:
+  - Testing records
+  - Commissioning reports
+
+risk_if_non_compliant:
+  Occupants may not receive timely warning.
+
+source_document:
+  National Building Code of India 2016 Part 4

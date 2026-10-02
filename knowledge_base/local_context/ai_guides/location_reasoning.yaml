@@ -1,0 +1,38 @@
+domain: Location Reasoning Intelligence
+
+reasoning_workflow:
+
+  step_1:
+    identify_city
+
+  step_2:
+    identify_state
+
+  step_3:
+    identify_country
+
+  step_4:
+    retrieve_local_context
+
+  step_5:
+    retrieve_regulations
+
+  step_6:
+    generate_response
+
+priority_order:
+  - City
+  - State
+  - National
+
+fallback_logic:
+
+  city_not_found:
+    use_state_context
+
+  state_not_found:
+    use_national_context
+
+ai_goal: >
+  Use the most specific geographic
+  context available.

@@ -1,0 +1,24 @@
+rule_id: CFO-ECOM-003
+
+title: Voice Evacuation System Requirement
+
+category: Occupant Notification
+
+applies_to:
+  - Buildings requiring voice evacuation
+
+requirement:
+  Voice evacuation systems shall provide clear emergency announcements to occupants.
+
+compliance_check:
+  Verify voice announcement capability and audibility.
+
+evidence_required:
+  - System testing reports
+  - Commissioning records
+
+risk_if_non_compliant:
+  Reduced evacuation effectiveness and increased occupant confusion.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

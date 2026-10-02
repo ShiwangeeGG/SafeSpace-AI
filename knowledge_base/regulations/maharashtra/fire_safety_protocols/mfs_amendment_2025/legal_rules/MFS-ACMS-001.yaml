@@ -1,0 +1,27 @@
+rule_id: MFS-ACMS-001
+
+title: Mandatory Automated Continuous Monitoring System
+
+category: Fire Monitoring
+
+applies_to:
+  - Buildings covered under Maharashtra Fire Prevention and Life Safety Measures Act
+
+requirement:
+  Every applicable building shall install an Automated Continuous Monitoring System (ACMS) for fire fighting systems.
+
+compliance_check:
+  Verify ACMS installation exists and is operational.
+
+evidence_required:
+  - ACMS installation certificate
+  - System screenshots
+  - Licensed agency records
+
+risk_if_non_compliant:
+  Building cannot demonstrate continuous monitoring of fire safety systems.
+
+source_document:
+  Maharashtra Fire Prevention and Life Safety Measures (Amendment) Rules 2025
+
+page: 1

@@ -1,0 +1,25 @@
+rule_id: MFS-SENSOR-005
+
+title: Manual Call Point Monitoring
+
+category: IoT Monitoring
+
+applies_to:
+  - Buildings with MCPs
+
+requirement:
+  ACMS shall monitor manual call point operational status.
+
+compliance_check:
+  Verify MCP telemetry exists.
+
+evidence_required:
+  - Monitoring logs
+
+risk_if_non_compliant:
+  Faulty emergency activation points may remain unnoticed.
+
+source_document:
+  Maharashtra Fire Prevention and Life Safety Measures (Amendment) Rules 2025
+
+page: 13

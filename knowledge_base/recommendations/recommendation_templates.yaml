@@ -1,0 +1,51 @@
+template_structure:
+
+  issue:
+
+  risk_level:
+
+  affected_area:
+
+  immediate_actions:
+
+  short_term_actions:
+
+  long_term_actions:
+
+  related_systems:
+
+  related_compliance_gaps:
+
+  expected_outcome:
+
+example_template:
+
+  issue: Missing Fire Alarm System
+
+  risk_level: Critical
+
+  affected_area:
+    - Entire Building
+
+  immediate_actions:
+    - Implement fire watch
+
+  short_term_actions:
+    - Install manual call points
+
+  long_term_actions:
+    - Install complete fire alarm system
+
+  related_systems:
+    - Fire Alarm System
+
+  related_compliance_gaps:
+    - GAP-003-missing_fire_alarm
+
+  expected_outcome:
+    Improved fire detection and evacuation readiness
+
+ai_reasoning_goal: >
+  Standardize recommendation outputs
+  across all occupancies, risks,
+  compliance gaps, and systems.

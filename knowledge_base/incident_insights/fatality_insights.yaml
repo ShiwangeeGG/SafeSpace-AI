@@ -1,0 +1,49 @@
+fatality_patterns:
+
+  smoke_inhalation:
+    frequency: Very High
+
+    observed_in:
+      - Kamala Mills Fire
+      - AMRI Hospital Fire
+      - Crystal Tower Fire
+
+    key_insight: >
+      Smoke inhalation causes more
+      fatalities than direct flame contact.
+
+  blocked_exits:
+    frequency: High
+
+    observed_in:
+      - Kumbakonam School Fire
+      - Kamala Mills Fire
+
+    key_insight: >
+      Occupants become trapped when
+      exits are unavailable.
+
+  delayed_detection:
+    frequency: High
+
+    observed_in:
+      - AMRI Hospital Fire
+
+    key_insight: >
+      Early fire detection significantly
+      reduces fatalities.
+
+  panic_behavior:
+    frequency: Moderate
+
+    observed_in:
+      - Rajkot Gaming Zone Fire
+
+    key_insight: >
+      Panic often leads occupants toward
+      familiar routes rather than safest routes.
+
+overall_conclusion: >
+  Smoke, blocked exits, and delayed
+  detection are the leading contributors
+  to fire-related fatalities.

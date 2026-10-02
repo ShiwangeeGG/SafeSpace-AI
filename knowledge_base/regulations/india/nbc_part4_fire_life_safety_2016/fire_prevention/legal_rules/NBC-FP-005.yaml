@@ -1,0 +1,24 @@
+rule_id: NBC-FP-005
+
+title: Openings In Fire Barriers Shall Be Protected
+
+category: Compartmentation
+
+applies_to:
+  - Fire Compartments
+
+requirement:
+  Openings through fire barriers shall be protected using fire-rated assemblies.
+
+compliance_check:
+  Verify fire-rated doors and penetrations.
+
+evidence_required:
+  - Product certifications
+  - Inspection reports
+
+risk_if_non_compliant:
+  Fire barrier effectiveness compromised.
+
+source_document:
+  National Building Code of India 2016 Part 4

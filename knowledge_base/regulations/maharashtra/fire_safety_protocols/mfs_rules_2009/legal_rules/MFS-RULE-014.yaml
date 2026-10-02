@@ -1,0 +1,25 @@
+rule_id: MFS-RULE-014
+
+title: Licensed Agency Must Report Organizational Changes
+
+category: Licensing Compliance
+
+applies_to:
+  - Licensed Agencies
+
+requirement:
+  Changes in partners, directors, members, or office address shall be reported immediately.
+
+compliance_check:
+  Verify change notifications submitted.
+
+evidence_required:
+  - Notification records
+
+risk_if_non_compliant:
+  Regulatory violation.
+
+source_document:
+  Maharashtra Fire Prevention and Life Safety Measures Rules, 2009
+
+page: 9

@@ -1,0 +1,55 @@
+system_component: Fire Alarm Systems
+
+description:
+  Fire alarm systems detect fire conditions, notify occupants, provide location information, and support emergency response operations.
+
+purpose:
+  Deliver early warning of fire incidents and initiate emergency procedures.
+
+why_it_matters:
+  Rapid detection and notification significantly improve evacuation outcomes and reduce fire losses.
+
+common_fire_risks:
+  - Delayed fire detection
+  - Delayed occupant notification
+  - False alarms
+  - System malfunction
+  - Poor emergency coordination
+
+common_compliance_checks:
+  - Addressable fire alarm system installed
+  - Control panel operational
+  - Manual call points accessible
+  - Smoke detectors functional
+  - Multi-sensor detectors installed where required
+  - Kitchen detection systems operational
+  - Voice evacuation integration verified
+  - Firefighter interface available
+  - Maintenance records available
+
+critical_safety_features:
+  - Fire Alarm Control Panel
+  - Addressable Detection Network
+  - Manual Call Points
+  - Smoke Detectors
+  - Multi-Sensor Detectors
+  - Voice Evacuation Integration
+  - Firefighter Interface
+
+related_rules:
+  - CFO-FAS-001
+  - CFO-FAS-002
+  - CFO-FAS-003
+  - CFO-FAS-004
+  - CFO-FAS-005
+  - CFO-FAS-006
+  - CFO-FAS-007
+  - CFO-FAS-008
+  - CFO-FAS-009
+
+related_systems:
+  - Emergency Communication
+  - Fire Control Room
+  - Fire Detection Systems
+  - Smoke Management
+  - Evacuation Strategy

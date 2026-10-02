@@ -1,0 +1,29 @@
+rule_id: NBC-OCC-007
+
+title: Business Occupancy Classification
+
+category: Occupancy Classification
+
+applies_to:
+  - Offices
+  - Banks
+  - Professional establishments
+  - IT offices
+
+requirement:
+  Buildings used for transaction of business, keeping records, and professional services shall be classified as Business Occupancy.
+
+compliance_check:
+  Verify primary business use.
+
+evidence_required:
+  - Occupancy certificate
+  - Building usage records
+
+risk_if_non_compliant:
+  Fire safety systems may not align with actual risk profile.
+
+source_document:
+  National Building Code of India 2016 Part 4
+
+page: Occupancy Classification Chapter

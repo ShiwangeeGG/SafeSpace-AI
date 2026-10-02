@@ -1,0 +1,19 @@
+rule_id: MFS-AMD23-002
+
+title: Fire Safety Approval Is Mandatory
+
+category: Approval
+
+applies_to:
+  - Buildings listed in Schedule-I
+
+requirement:
+  Owner or occupier shall obtain Provisional Fire Safety Approval, Final Fire Safety Approval, or Renewal Fire Safety Approval as applicable.
+
+compliance_check:
+  Verify valid Fire Safety Approval exists.
+
+source_document:
+  Maharashtra Fire Prevention and Life Safety Measures (Amendment) Act, 2023
+
+page: 3

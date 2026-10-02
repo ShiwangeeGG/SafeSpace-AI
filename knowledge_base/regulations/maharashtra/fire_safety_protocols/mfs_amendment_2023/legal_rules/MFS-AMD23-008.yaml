@@ -1,0 +1,19 @@
+rule_id: MFS-AMD23-008
+
+title: Fire Audit Frequency Every Two Years
+
+category: Audit
+
+applies_to:
+  - Buildings specified under Section 45
+
+requirement:
+  Fire and Life Safety Audit shall be conducted within one year of commencement and thereafter once every two years.
+
+compliance_check:
+  Verify audit date.
+
+source_document:
+  Maharashtra Fire Prevention and Life Safety Measures (Amendment) Act, 2023
+
+page: 11

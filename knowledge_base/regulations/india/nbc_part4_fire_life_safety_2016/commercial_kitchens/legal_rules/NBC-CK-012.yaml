@@ -1,0 +1,24 @@
+rule_id: NBC-CK-012
+
+title: Emergency Fuel Isolation Requirement
+
+category: Fuel Safety
+
+applies_to:
+  - Commercial Kitchens
+
+requirement:
+  Emergency shutoff controls shall be provided for cooking fuel systems.
+
+compliance_check:
+  Verify accessibility and operation of shutoff controls.
+
+evidence_required:
+  - Functional testing records
+  - Site inspection
+
+risk_if_non_compliant:
+  Inability to isolate fuel source during emergency.
+
+source_document:
+  National Building Code of India 2016 Part 4 Annex G

@@ -1,0 +1,34 @@
+source_id: INSIGHT-SRC-001
+
+source_name: Incident Insights Knowledge Base
+
+source_type: Incident Intelligence Layer
+
+purpose: >
+  Capture recurring patterns, failures,
+  behaviors, and lessons observed across
+  multiple fire incidents.
+
+knowledge_sources:
+  - Case Studies Layer
+  - Risk Patterns Layer
+  - Recommendations Layer
+  - Occupancy Layer
+
+supported_domains:
+  - Fatality Analysis
+  - Evacuation Behavior
+  - Fire Spread Analysis
+  - Maintenance Failures
+  - Emergency Response
+
+retrieval_priority: High
+
+intended_ai_usage:
+  - Risk Assessment
+  - Recommendation Generation
+  - Fire Safety Education
+  - Incident Investigation
+
+maintained_for:
+  - SafeSpace_AI

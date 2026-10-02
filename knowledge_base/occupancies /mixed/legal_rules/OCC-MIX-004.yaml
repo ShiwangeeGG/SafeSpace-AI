@@ -1,0 +1,37 @@
+rule_id: OCC-MIX-004
+
+occupancy_group: Mixed
+
+rule_category: Means of Escape Considerations
+
+occupancy_definition: >
+  Mixed occupancies may require evacuation
+  strategies that address the needs of
+  multiple occupant groups.
+
+applies_to:
+  - Mixed Use Towers
+  - Integrated Developments
+  - Commercial Complexes
+
+occupancy_characteristics:
+  - Shared exits
+  - Multiple occupant types
+  - Variable occupant loads
+
+primary_fire_safety_concern:
+  Coordinated evacuation during emergencies.
+
+related_nbc_domains:
+  - Means of Escape
+  - Life Safety
+  - Emergency Communication
+
+retrieval_keywords:
+  - mixed occupancy evacuation
+  - escape routes
+  - shared exits
+
+source:
+  document: NBC Part 4 Fire and Life Safety
+  occupancy_group: Mixed

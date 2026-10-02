@@ -1,0 +1,24 @@
+rule_id: CFO-OFS-006
+
+title: Emergency Contact Information Requirement
+
+category: Emergency Preparedness
+
+applies_to:
+  - Occupied Buildings
+
+requirement:
+  Emergency contact information shall be maintained and readily available.
+
+compliance_check:
+  Verify emergency contact records.
+
+evidence_required:
+  - Emergency contact list
+  - Site inspection
+
+risk_if_non_compliant:
+  Delayed emergency coordination.
+
+source_document:
+  Mumbai CFO Fire NOC Guideliness

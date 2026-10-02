@@ -1,0 +1,45 @@
+rule_id: OCC-EDU-004
+
+occupancy_group: Educational
+
+rule_category: Coaching and Training Occupancies
+
+occupancy_definition: >
+Buildings or portions of buildings used for
+coaching, tutoring, vocational education,
+and skill development activities.
+
+applies_to:
+
+- Coaching Institutes
+- Tuition Centres
+- Vocational Training Centres
+- Competitive Exam Academies
+
+occupancy_characteristics:
+
+- High student density
+- Multi-floor occupancy
+- Limited open spaces
+- Extended occupancy periods
+
+primary_fire_safety_concern:
+Managing evacuation in densely occupied
+educational environments.
+
+related_nbc_domains:
+
+- Means of Escape
+- Occupancy Classification
+- Life Safety
+
+retrieval_keywords:
+
+- coaching centre
+- tuition class
+- training centre
+- academy
+
+source:
+document: NBC Part 4 Fire and Life Safety
+occupancy_group: Educational

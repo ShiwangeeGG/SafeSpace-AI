@@ -1,0 +1,49 @@
+gap_id: GAP-003
+
+gap_name: Missing Fire Alarm System
+
+category: Detection and Warning
+
+affected_occupancies:
+  - Educational
+  - Hospital
+  - Mercantile
+  - Assembly
+  - Residential
+
+risk_level: Critical
+
+compliance_issue: >
+  Building lacks fire detection and alarm systems.
+
+why_it_is_dangerous:
+  - Delayed fire discovery
+  - Delayed evacuation
+  - Increased casualty risk
+
+related_regulations:
+  - Fire Detection
+  - Fire Alarm Systems
+
+related_risk_patterns:
+  - evacuation_failures
+  - smoke_spread_risks
+
+immediate_actions:
+  - Implement temporary fire watch
+
+short_term_actions:
+  - Install manual call points
+  - Install detectors
+
+long_term_actions:
+  - Commission complete fire alarm system
+
+priority_level: Critical
+
+retrieval_keywords:
+  - no fire alarm
+  - missing fire alarm
+
+source:
+  document: NBC Part 4 Fire and Life Safety

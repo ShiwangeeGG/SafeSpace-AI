@@ -1,0 +1,44 @@
+domain: Recommendation Intelligence
+
+description: >
+  The Recommendation Layer converts fire safety
+  knowledge into actionable guidance by combining
+  occupancy information, risk patterns,
+  compliance gaps, fire protection systems,
+  and regulatory requirements.
+
+recommendation_sources:
+  - Occupancy Layer
+  - Risk Patterns Layer
+  - Compliance Gap Layer
+  - Fire Protection Layer
+  - High Rise Buildings Layer
+  - Case Studies Layer
+
+recommendation_objectives:
+  - Improve Life Safety
+  - Reduce Fire Risk
+  - Improve Compliance
+  - Support Emergency Planning
+  - Support Fire Safety Assessments
+
+recommendation_categories:
+  - Occupancy Based Recommendations
+  - Risk Based Recommendations
+  - System Based Recommendations
+  - Compliance Gap Recommendations
+
+guiding_principles:
+  - Life Safety First
+  - Early Detection Before Suppression
+  - Evacuation Before Property Protection
+  - Risk Reduction Before Documentation
+
+ai_usage:
+  - Recommendation Generation
+  - Compliance Guidance
+  - Risk Mitigation Planning
+  - Fire Safety Consulting
+
+source:
+  knowledge_base: SafeSpace_AI

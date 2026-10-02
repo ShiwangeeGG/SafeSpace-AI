@@ -1,0 +1,24 @@
+rule_id: CFO-FCR-007
+
+title: Fire Safety Documentation Requirement
+
+category: Documentation
+
+applies_to:
+  - Fire Control Rooms
+
+requirement:
+  Fire safety manuals, emergency procedures, and system documentation shall be available within the Fire Control Room.
+
+compliance_check:
+  Verify documentation availability.
+
+evidence_required:
+  - Site inspection
+  - Document review
+
+risk_if_non_compliant:
+  Delayed emergency decision-making and response.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

@@ -1,0 +1,37 @@
+rule_id: OCC-STO-004
+
+occupancy_group: Storage
+
+rule_category: Storage Operations
+
+occupancy_definition: >
+  Storage occupancies often include loading,
+  unloading, inventory handling, forklift
+  movement, and material transfer activities.
+
+applies_to:
+  - Warehouses
+  - Distribution Centres
+  - Logistics Facilities
+
+occupancy_characteristics:
+  - Material handling equipment
+  - Vehicle movement
+  - Operational storage activities
+
+primary_fire_safety_concern:
+  Preventing ignition during storage operations.
+
+related_nbc_domains:
+  - Operational Fire Safety
+  - Fire Prevention
+
+retrieval_keywords:
+  - forklift
+  - logistics
+  - loading dock
+  - warehouse operations
+
+source:
+  document: NBC Part 4 Fire and Life Safety
+  occupancy_group: Storage

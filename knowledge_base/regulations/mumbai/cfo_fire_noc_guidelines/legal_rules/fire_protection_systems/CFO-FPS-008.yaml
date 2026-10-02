@@ -1,0 +1,24 @@
+rule_id: CFO-FPS-008
+
+title: Standby Fire Pump Requirement
+
+category: Fire Pumps
+
+applies_to:
+  - Buildings requiring fire pumps
+
+requirement:
+  Standby fire pumps shall be provided to ensure reliability of firefighting water supply.
+
+compliance_check:
+  Verify standby pump availability and operation.
+
+evidence_required:
+  - Pump testing reports
+  - Maintenance records
+
+risk_if_non_compliant:
+  Loss of firefighting water supply due to pump failure.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

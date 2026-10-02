@@ -1,0 +1,23 @@
+rule_id: NBC-PR-005
+
+title: Landing Valve Requirement
+
+category: Hydrant System
+
+applies_to:
+  - Buildings with wet risers
+
+requirement:
+  Landing valves shall be installed at designated levels for fire brigade use.
+
+compliance_check:
+  Verify valve installation and accessibility.
+
+evidence_required:
+  - Firefighting drawings
+
+risk_if_non_compliant:
+  Delayed firefighting operations.
+
+source_document:
+  National Building Code of India 2016 Part 4

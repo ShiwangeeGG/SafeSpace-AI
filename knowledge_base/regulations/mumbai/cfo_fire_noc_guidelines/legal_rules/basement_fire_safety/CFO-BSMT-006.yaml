@@ -1,0 +1,24 @@
+rule_id: CFO-BSMT-006
+
+title: Automatic Sprinkler Protection Requirement
+
+category: Fire Suppression
+
+applies_to:
+  - Basements
+
+requirement:
+  Basements shall be protected by automatic sprinkler systems.
+
+compliance_check:
+  Verify sprinkler coverage and operation.
+
+evidence_required:
+  - Sprinkler drawings
+  - Inspection reports
+
+risk_if_non_compliant:
+  Uncontrolled fire growth.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

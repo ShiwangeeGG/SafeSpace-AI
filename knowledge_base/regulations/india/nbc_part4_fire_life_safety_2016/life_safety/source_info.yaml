@@ -1,0 +1,32 @@
+document_name: National Building Code of India 2016
+
+part: Part 4
+
+chapter: Life Safety
+
+authority: Bureau of Indian Standards
+
+jurisdiction: India
+
+document_type: National Standard
+
+scope:
+  - Means of Egress
+  - Staircases
+  - Exit Widths
+  - Travel Distance
+  - Refuge Areas
+  - Fire Lifts
+  - Occupant Load
+  - Emergency Lighting
+  - Exit Signage
+
+primary_focus:
+  - Safe evacuation
+  - Occupant protection
+  - Smoke-free escape routes
+  - Emergency movement
+
+related_documents:
+  - Maharashtra Fire Prevention and Life Safety Measures Act 2006
+  - Maharashtra Fire Prevention and Life Safety Measures Amendment Act 2023

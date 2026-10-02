@@ -1,0 +1,25 @@
+rule_id: MFS-AUDIT-001
+
+title: Mandatory 360 Degree Fire Risk Assessment
+
+category: Fire Audit
+
+applies_to:
+  - Buildings undergoing fire audit
+
+requirement:
+  Fire and Life Safety Auditor shall conduct a complete 360-degree fire hazard risk assessment.
+
+compliance_check:
+  Verify audit report includes full building assessment.
+
+evidence_required:
+  - Fire Audit Report
+
+risk_if_non_compliant:
+  Critical fire risks may remain unidentified.
+
+source_document:
+  Maharashtra Fire Prevention and Life Safety Measures (Amendment) Rules 2025
+
+page: 5

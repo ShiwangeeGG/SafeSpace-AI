@@ -1,0 +1,24 @@
+rule_id: CFO-FPS-007
+
+title: Fire Pump Requirement
+
+category: Fire Pumps
+
+applies_to:
+  - Buildings with fire protection systems
+
+requirement:
+  Dedicated fire pumps shall be provided to maintain required water pressure.
+
+compliance_check:
+  Verify pump capacity and operation.
+
+evidence_required:
+  - Pump specifications
+  - Testing reports
+
+risk_if_non_compliant:
+  Inadequate water pressure during firefighting operations.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

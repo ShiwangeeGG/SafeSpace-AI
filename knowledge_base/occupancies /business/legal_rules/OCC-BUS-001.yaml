@@ -1,0 +1,47 @@
+rule_id: OCC-BUS-001
+
+occupancy_group: Business
+
+rule_category: Occupancy Definition
+
+occupancy_definition: >
+Buildings used for transaction of business,
+keeping accounts and records, professional
+services, administration, and similar activities.
+
+applies_to:
+
+- Corporate Offices
+- Administrative Buildings
+- Government Offices
+- Banks
+- Professional Service Offices
+
+occupancy_characteristics:
+
+- Moderate occupant density
+- Daytime occupancy
+- Large office floors
+- Extensive electrical equipment
+
+primary_fire_safety_concern:
+Safe evacuation of occupants and protection
+of business operations.
+
+related_nbc_domains:
+
+- Means of Escape
+- Fire Protection
+- Occupancy Classification
+
+retrieval_keywords:
+
+- office
+- corporate office
+- bank
+- administration
+- business occupancy
+
+source:
+document: NBC Part 4 Fire and Life Safety
+occupancy_group: Business

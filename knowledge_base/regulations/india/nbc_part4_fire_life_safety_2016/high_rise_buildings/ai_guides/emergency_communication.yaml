@@ -1,0 +1,30 @@
+system_component: Emergency Communication
+
+description:
+  Communication systems used to deliver emergency instructions and coordinate response activities during high-rise incidents.
+
+purpose:
+  Ensure occupants and responders receive timely and accurate information.
+
+why_it_matters:
+  Effective communication reduces confusion and improves evacuation outcomes.
+
+common_fire_risks:
+  - Occupant confusion
+  - Delayed evacuation
+  - Communication breakdown
+  - Misinformation during emergencies
+
+common_compliance_checks:
+  - Public address systems operational
+  - Communication coverage verified
+  - Backup power available
+  - Emergency messaging tested
+
+related_rules:
+  - NBC-HR-011
+
+related_systems:
+  - Fire Command Centre
+  - Fire Alarm Systems
+  - Evacuation Strategy

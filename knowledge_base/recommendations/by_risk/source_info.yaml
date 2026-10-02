@@ -1,0 +1,48 @@
+source_id: REC-RISK-SRC-001
+
+source_name: Risk Based Recommendation Knowledge Base
+
+source_type: Recommendation Layer
+
+purpose: >
+  Provide recommendation guidance
+  for recurring fire safety risks
+  identified through risk assessment,
+  inspections, and incident analysis.
+
+knowledge_sources:
+  - Risk Patterns Layer
+  - NBC 2016 Part 4 Fire and Life Safety
+  - Mumbai CFO Fire NOC Guidelines
+  - Occupancy Classification Layer
+  - Fire Incident Case Studies
+
+supported_risks:
+  - Blocked Exits
+  - Combustible Materials
+  - Electrical Risks
+  - Evacuation Failures
+  - Hazardous Material Risks
+  - High Rise Risks
+  - Kitchen Fire Risks
+  - Maintenance Failures
+  - Occupancy Overload
+  - Smoke Spread Risks
+
+retrieval_priority: Critical
+
+intended_ai_usage:
+  - Risk Assessment
+  - Recommendation Generation
+  - Fire Safety Planning
+  - Compliance Guidance
+  - Hazard Identification
+
+recommendation_principles:
+  - Life Safety First
+  - Early Detection Before Suppression
+  - Evacuation Before Property Protection
+  - Risk Reduction Before Documentation
+
+maintained_for:
+  - SafeSpace_AI

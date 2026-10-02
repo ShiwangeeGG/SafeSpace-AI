@@ -1,0 +1,29 @@
+system_component: Fireman's Lift
+
+description:
+  A specially designed lift intended for use by firefighters and emergency responders during fire incidents.
+
+purpose:
+  Improve emergency response speed and access to upper floors.
+
+why_it_matters:
+  High-rise firefighting operations become difficult when upper floors are accessible only through staircases.
+
+common_fire_risks:
+  - Delayed emergency access
+  - Extended response times
+  - Limited firefighter mobility
+
+common_compliance_checks:
+  - Lift operational
+  - Emergency controls functional
+  - Backup power available
+  - Fire-rated lift lobby provided
+
+related_rules:
+  - NBC-HR-004
+
+related_systems:
+  - Fire Fighting Shaft
+  - Fire Command Centre
+  - Emergency Communication

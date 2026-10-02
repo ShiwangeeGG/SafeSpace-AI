@@ -1,0 +1,24 @@
+rule_id: CFO-BSMT-004
+
+title: Pressurized Staircase Requirement
+
+category: Life Safety
+
+applies_to:
+  - Basements connected to occupied floors
+
+requirement:
+  Staircases serving basement areas shall be pressurized to prevent smoke entry.
+
+compliance_check:
+  Verify staircase pressurization operation.
+
+evidence_required:
+  - HVAC testing reports
+  - Inspection records
+
+risk_if_non_compliant:
+  Smoke contamination of escape routes.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

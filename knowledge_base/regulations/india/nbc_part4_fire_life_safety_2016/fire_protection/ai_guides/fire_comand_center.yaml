@@ -1,0 +1,29 @@
+system_component: Fire Command Centre
+
+description:
+  A centralized facility used to monitor, coordinate, and manage fire emergencies within a building.
+
+purpose:
+  Provide emergency responders with real-time information and system controls.
+
+why_it_matters:
+  Effective emergency coordination significantly improves response efficiency and decision-making.
+
+common_fire_risks:
+  - Delayed emergency coordination
+  - Lack of situational awareness
+  - Communication breakdowns
+
+common_compliance_checks:
+  - Command centre available
+  - Monitoring systems operational
+  - Emergency plans accessible
+  - Communication systems functional
+
+related_rules:
+  - NBC-PR-015
+
+related_systems:
+  - Fire Alarm Systems
+  - Emergency Communication
+  - Smoke Management

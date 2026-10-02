@@ -1,0 +1,20 @@
+rule_id: MFS-AMD23-004
+
+title: Fire Safety Systems Must Be Maintained At All Times
+
+category: Maintenance
+
+applies_to:
+  - Building owners
+  - Occupiers
+
+requirement:
+  Fire prevention and life safety measures shall be maintained in good repair and efficient condition at all times.
+
+compliance_check:
+  Verify maintenance and operational status.
+
+source_document:
+  Maharashtra Fire Prevention and Life Safety Measures (Amendment) Act, 2023
+
+page: 3

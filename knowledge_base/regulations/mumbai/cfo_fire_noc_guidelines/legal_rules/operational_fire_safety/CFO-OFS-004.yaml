@@ -1,0 +1,24 @@
+rule_id: CFO-OFS-004
+
+title: Fire Protection System Inspection Requirement
+
+category: Inspection
+
+applies_to:
+  - Buildings with fire protection systems
+
+requirement:
+  Fire protection systems shall be periodically inspected to verify operational readiness.
+
+compliance_check:
+  Verify inspection schedules and findings.
+
+evidence_required:
+  - Inspection reports
+  - Maintenance records
+
+risk_if_non_compliant:
+  Undetected system failures.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

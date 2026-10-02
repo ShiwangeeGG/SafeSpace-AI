@@ -1,0 +1,15 @@
+source_id: LOC-IND-SRC-001
+
+source_name: India Fire Context Knowledge Base
+
+region: India
+
+knowledge_sources:
+  - NBC 2016 Part 4
+  - National Fire Safety Guidance
+
+retrieval_priority: Medium
+
+intended_ai_usage:
+  - National Fire Safety Context
+  - Regulatory Guidance

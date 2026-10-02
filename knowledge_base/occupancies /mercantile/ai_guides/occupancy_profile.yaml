@@ -1,0 +1,59 @@
+occupancy_name: Mercantile
+
+occupancy_category: Mercantile Occupancy
+
+description: >
+  Buildings used for displaying, selling,
+  and distributing merchandise to the public.
+  These occupancies experience varying occupant
+  loads and often contain large quantities of
+  combustible stock.
+
+examples:
+  - Shopping Malls
+  - Retail Stores
+  - Department Stores
+  - Supermarkets
+  - Hypermarkets
+
+occupancy_characteristics:
+  - Public access
+  - Customer circulation
+  - Merchandise displays
+  - Storage areas
+
+primary_fire_safety_concerns:
+  - Crowd evacuation
+  - Smoke management
+  - Fire spread through merchandise
+  - Occupancy control
+
+common_fire_risks:
+  - Electrical faults
+  - Combustible merchandise
+  - Occupancy overload
+  - Maintenance failures
+
+evacuation_complexity: High
+
+risk_level: High
+
+related_risk_patterns:
+  - occupancy_overload_risks
+  - combustible_materials
+  - smoke_spread_risks
+  - maintenance_failures
+
+recommended_focus_areas:
+  - Fire detection systems
+  - Exit management
+  - Smoke control
+  - Occupancy monitoring
+
+retrieval_keywords:
+  - mercantile occupancy
+  - shopping mall
+  - retail store
+
+source:
+  document: NBC Part 4 Fire and Life Safety

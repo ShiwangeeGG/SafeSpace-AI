@@ -1,0 +1,23 @@
+rule_id: NBC-LS-008
+
+title: Staircases Shall Be Kept Free Of Obstructions
+
+category: Staircases
+
+applies_to:
+  - All buildings
+
+requirement:
+  Staircases used for evacuation shall not be used for storage.
+
+compliance_check:
+  Verify staircase is unobstructed.
+
+evidence_required:
+  - Inspection report
+
+risk_if_non_compliant:
+  Reduced evacuation capability.
+
+source_document:
+  National Building Code of India 2016 Part 4

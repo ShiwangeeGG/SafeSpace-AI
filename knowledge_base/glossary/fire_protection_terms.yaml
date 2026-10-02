@@ -1,0 +1,41 @@
+terms:
+
+  - term_id: FP-001
+    term_name: Sprinkler System
+    definition: Automatic water-based fire suppression system.
+
+  - term_id: FP-002
+    term_name: Hydrant System
+    definition: Fixed piping network supplying water for firefighting.
+
+  - term_id: FP-003
+    term_name: Wet Riser
+    definition: Vertical water-filled firefighting pipe.
+
+  - term_id: FP-004
+    term_name: Fire Pump
+    definition: Pump providing pressure to firefighting systems.
+
+  - term_id: FP-005
+    term_name: Fire Alarm System
+    definition: Detection and warning system for fire emergencies.
+
+  - term_id: FP-006
+    term_name: Smoke Management System
+    definition: System controlling smoke movement during fire.
+
+  - term_id: FP-007
+    term_name: Fire Command Centre
+    definition: Central control room for emergency response.
+
+  - term_id: FP-008
+    term_name: Hose Reel
+    definition: First-aid firefighting equipment connected to hydrant supply.
+
+  - term_id: FP-009
+    term_name: Landing Valve
+    definition: Hydrant outlet provided on building floors.
+
+  - term_id: FP-010
+    term_name: Fire Extinguisher
+    definition: Portable device used to extinguish small fires.

@@ -1,0 +1,30 @@
+rule_id: MFS-SENSOR-001
+
+title: Hydrant Pump Status Monitoring
+
+category: IoT Monitoring
+
+applies_to:
+  - Buildings with hydrant systems
+
+requirement:
+  ACMS shall monitor:
+    - Main hydrant pump run status
+    - Standby pump run status
+    - Jockey pump run status
+    - Booster pump run status
+
+compliance_check:
+  Verify real-time telemetry available.
+
+evidence_required:
+  - Dashboard logs
+  - Sensor records
+
+risk_if_non_compliant:
+  Pump failure may remain undetected.
+
+source_document:
+  Maharashtra Fire Prevention and Life Safety Measures (Amendment) Rules 2025
+
+page: 12

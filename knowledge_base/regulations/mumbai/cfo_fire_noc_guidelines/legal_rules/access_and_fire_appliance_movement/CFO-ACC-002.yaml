@@ -1,0 +1,27 @@
+rule_id: CFO-ACC-002
+
+title: Entrance Gate Minimum Width Requirement
+
+category: Fire Appliance Access
+
+applies_to:
+  - Buildings requiring fire brigade access
+
+requirement:
+  Entrance gates used for fire appliance movement shall have a minimum clear width of 6 metres.
+
+threshold:
+  minimum_width: 6 m
+
+compliance_check:
+  Measure gate width.
+
+evidence_required:
+  - Site measurements
+  - Approved plans
+
+risk_if_non_compliant:
+  Fire appliances may be unable to enter the premises.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

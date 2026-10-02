@@ -1,0 +1,66 @@
+system_id: SYS-009
+
+system_name: Fire Command Centre
+
+category: Emergency Control Infrastructure
+
+criticality_level: High
+
+system_purpose: >
+  Serve as the central location for
+  monitoring, coordination, and management
+  of fire emergencies.
+
+why_it_is_important:
+  - Centralizes emergency response
+  - Improves decision making
+  - Supports firefighter coordination
+
+affected_occupancies:
+  - High Rise Buildings
+  - Large Mercantile Buildings
+  - Hospitals
+  - Mixed Occupancy Buildings
+
+common_failure_modes:
+  - Incomplete monitoring systems
+  - Equipment malfunction
+  - Communication failures
+  - Lack of trained personnel
+
+related_compliance_gaps:
+  - GAP-009-missing_fire_command_centre
+
+immediate_actions:
+  - Verify monitoring systems
+  - Confirm communication functionality
+
+short_term_actions:
+  - Train operating personnel
+  - Review emergency procedures
+
+long_term_actions:
+  - Upgrade monitoring capabilities
+  - Improve emergency integration
+
+inspection_focus:
+  - Fire Alarm Monitoring
+  - Communication Systems
+  - Building Management Interface
+  - Emergency Documentation
+
+related_case_studies:
+  - High Rise Fire Incidents
+  - Hospital Fire Incidents
+
+ai_reasoning_hints:
+  - Critical coordination hub during emergencies
+  - Most important in complex buildings
+
+retrieval_keywords:
+  - fire command centre
+  - fire control room
+  - emergency control room
+
+source:
+  document: NBC Part 4 Fire and Life Safety

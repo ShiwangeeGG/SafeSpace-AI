@@ -1,0 +1,16 @@
+source_id: LOC-MAH-SRC-001
+
+source_name: Maharashtra Fire Context Knowledge Base
+
+region: Maharashtra
+
+knowledge_sources:
+  - Maharashtra Fire Services
+  - NBC 2016
+  - Maharashtra Case Studies
+
+retrieval_priority: High
+
+intended_ai_usage:
+  - State Risk Assessment
+  - Compliance Guidance

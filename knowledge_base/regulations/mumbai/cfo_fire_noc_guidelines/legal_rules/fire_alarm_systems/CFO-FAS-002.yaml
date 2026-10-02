@@ -1,0 +1,24 @@
+rule_id: CFO-FAS-002
+
+title: Fire Alarm Control Panel Requirement
+
+category: Fire Alarm Monitoring
+
+applies_to:
+  - Buildings with fire alarm systems
+
+requirement:
+  Fire alarm control panels shall continuously monitor alarm, fault, and supervisory conditions.
+
+compliance_check:
+  Verify control panel functionality.
+
+evidence_required:
+  - Testing records
+  - Inspection reports
+
+risk_if_non_compliant:
+  Fire alarm faults may remain undetected.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

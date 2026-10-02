@@ -1,0 +1,25 @@
+life_safety_component: Means of Egress
+
+description:
+  A continuous and unobstructed path that allows occupants to travel safely from any point within a building to a place of safety.
+
+purpose:
+  Provide a reliable evacuation route during fire or emergency situations.
+
+why_it_matters:
+  Occupants must be able to evacuate quickly without encountering blocked paths or dead ends.
+
+common_compliance_checks:
+  - Escape route continuity
+  - Route accessibility
+  - Route obstruction checks
+  - Travel distance compliance
+
+related_rules:
+  - NBC-LS-002
+
+related_systems:
+  - Exits
+  - Staircases
+  - Exit Signage
+  - Emergency Lighting

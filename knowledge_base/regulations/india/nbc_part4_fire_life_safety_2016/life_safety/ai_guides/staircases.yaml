@@ -1,0 +1,25 @@
+life_safety_component: Staircases
+
+description:
+  Protected vertical evacuation routes used to move occupants safely between floors during emergencies.
+
+purpose:
+  Provide safe evacuation when lifts cannot be used.
+
+why_it_matters:
+  Staircases often become the primary evacuation route in multi-storey buildings.
+
+common_compliance_checks:
+  - Stair enclosure
+  - Obstruction-free access
+  - Width compliance
+  - Smoke protection
+
+related_rules:
+  - NBC-LS-007
+  - NBC-LS-008
+
+related_systems:
+  - Means of Egress
+  - Firefighting Shaft
+  - Emergency Lighting

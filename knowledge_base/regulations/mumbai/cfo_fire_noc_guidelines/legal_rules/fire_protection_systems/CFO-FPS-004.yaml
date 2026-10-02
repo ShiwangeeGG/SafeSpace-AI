@@ -1,0 +1,24 @@
+rule_id: CFO-FPS-004
+
+title: Fire Service Inlet Requirement
+
+category: Water Supply
+
+applies_to:
+  - Buildings with wet risers or hydrant systems
+
+requirement:
+  Fire service inlets shall be provided for external fire brigade water supply connections.
+
+compliance_check:
+  Verify inlet accessibility and identification.
+
+evidence_required:
+  - Site inspection
+  - Fire protection drawings
+
+risk_if_non_compliant:
+  Fire brigade may be unable to supplement firefighting water supply.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

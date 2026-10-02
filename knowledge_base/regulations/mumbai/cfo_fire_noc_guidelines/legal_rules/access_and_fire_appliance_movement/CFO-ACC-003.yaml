@@ -1,0 +1,27 @@
+rule_id: CFO-ACC-003
+
+title: Archway Vertical Clearance Requirement
+
+category: Fire Appliance Access
+
+applies_to:
+  - Buildings with archways or overhead structures
+
+requirement:
+  Archways and overhead structures on fire appliance routes shall provide a minimum vertical clearance of 4.5 metres.
+
+threshold:
+  minimum_clearance: 4.5 m
+
+compliance_check:
+  Verify available clearance.
+
+evidence_required:
+  - Site measurements
+  - Architectural drawings
+
+risk_if_non_compliant:
+  Fire appliances may be unable to access the site.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

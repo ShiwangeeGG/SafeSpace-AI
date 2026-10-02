@@ -1,0 +1,24 @@
+rule_id: CFO-REF-004
+
+title: Emergency Lighting Requirement for Refuge Areas
+
+category: Emergency Lighting
+
+applies_to:
+  - Refuge Areas
+
+requirement:
+  Refuge areas shall be provided with emergency lighting connected to emergency power systems.
+
+compliance_check:
+  Verify emergency lighting functionality.
+
+evidence_required:
+  - Lighting test reports
+  - Site inspection
+
+risk_if_non_compliant:
+  Reduced visibility during emergencies.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

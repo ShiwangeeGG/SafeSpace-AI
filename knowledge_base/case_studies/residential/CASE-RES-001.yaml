@@ -1,0 +1,90 @@
+case_id: CASE-RES-001
+
+incident_name: Crystal Tower Residential Fire
+
+incident_date: 2018-08-11
+
+location:
+city: Mumbai
+state: Maharashtra
+country: India
+
+occupancy_type: Residential
+
+building_type:
+
+- High Rise Residential Tower
+
+incident_type:
+
+- Fire
+
+severity: Catastrophic
+
+fatalities: 4
+
+injuries: 16+
+
+summary: >
+A major fire occurred in a residential high-rise
+building. The fire spread rapidly through common
+areas and escape routes. Investigations highlighted
+blocked staircases, poor maintenance of fire safety
+systems, and challenges in occupant evacuation.
+
+root_causes:
+
+- Electrical ignition source
+- Combustible materials in common areas
+
+fire_safety_failures:
+
+- Blocked staircases
+- Inaccessible refuge areas
+- Poor maintenance of fire systems
+- Obstructed evacuation routes
+
+affected_systems:
+
+- Staircase Safety
+- Escape Routes
+- Refuge Areas
+- Operational Fire Safety
+
+risk_patterns:
+
+- Staircase obstruction
+- High-rise evacuation challenges
+- Delayed emergency response
+
+occupancy_risks:
+
+- Elderly residents
+- Children
+- High-rise evacuation dependency
+
+fatality_mechanism:
+
+- Smoke Inhalation
+- Entrapment
+
+related_nbc_domains:
+
+- Residential Occupancy
+- Means of Escape
+- Life Safety
+- Fire Protection
+
+lessons_learned:
+
+- Maintain unobstructed staircases
+- Keep refuge areas accessible
+- Conduct periodic inspections
+- Improve resident awareness
+
+prevention_recommendations:
+
+- Staircase audits
+- Fire drills
+- Fire alarm maintenance
+- Refuge area inspections

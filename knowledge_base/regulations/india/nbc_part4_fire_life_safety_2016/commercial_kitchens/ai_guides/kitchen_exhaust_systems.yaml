@@ -1,0 +1,31 @@
+system_component: Kitchen Exhaust System
+
+description:
+  A ventilation system designed to capture and remove heat, smoke, grease vapours, combustion products, and cooking odours generated during commercial cooking operations.
+
+purpose:
+  Prevent accumulation of grease-laden vapours and reduce fire hazards within the kitchen environment.
+
+why_it_matters:
+  Cooking equipment generates combustible grease vapours that can ignite and spread rapidly if not properly exhausted.
+
+common_fire_risks:
+  - Grease accumulation
+  - Overheated cooking appliances
+  - Hood contamination
+  - Smoke buildup
+
+common_compliance_checks:
+  - Exhaust hood installed
+  - Hood coverage adequate
+  - Exhaust airflow operational
+  - Hood free from grease buildup
+
+related_rules:
+  - NBC-CK-001
+  - NBC-CK-002
+
+related_systems:
+  - Grease Ducts
+  - Fire Suppression Systems
+  - Maintenance and Cleaning

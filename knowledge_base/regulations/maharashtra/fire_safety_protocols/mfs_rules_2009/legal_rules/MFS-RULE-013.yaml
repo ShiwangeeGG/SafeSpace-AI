@@ -1,0 +1,25 @@
+rule_id: MFS-RULE-013
+
+title: Licensed Agency Licence Is Non-Transferable
+
+category: Licensing
+
+applies_to:
+  - Licensed Agencies
+
+requirement:
+  Licences issued to Licensed Agencies shall be non-transferable.
+
+compliance_check:
+  Verify licence ownership.
+
+evidence_required:
+  - Licence records
+
+risk_if_non_compliant:
+  Licence cancellation.
+
+source_document:
+  Maharashtra Fire Prevention and Life Safety Measures Rules, 2009
+
+page: 9

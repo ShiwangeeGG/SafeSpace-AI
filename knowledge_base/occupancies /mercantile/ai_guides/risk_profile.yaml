@@ -1,0 +1,52 @@
+occupancy_name: Mercantile
+
+occupancy_category: Mercantile Occupancy
+
+description: >
+  Mercantile occupancies face elevated risk due
+  to public access, combustible merchandise,
+  storage areas, and high occupant loads.
+
+examples:
+  - Shopping Malls
+  - Retail Complexes
+  - Supermarkets
+  - Department Stores
+
+occupancy_characteristics:
+  - High footfall
+  - Merchandise storage
+  - Public access
+  - Shared circulation areas
+
+primary_fire_safety_concerns:
+  - Smoke spread
+  - Occupancy overload
+  - Fire growth through merchandise
+  - Delayed evacuation
+
+common_fire_risks:
+  - Electrical faults
+  - Combustible materials
+  - Blocked exits
+  - Poor maintenance
+
+evacuation_complexity: High
+
+risk_level: High
+
+related_risk_patterns:
+  - occupancy_overload_risks
+  - combustible_materials
+  - blocked_exits_risks
+  - smoke_spread_risks
+  - maintenance_failures
+
+recommended_focus_areas:
+  - Fire protection systems
+  - Exit inspections
+  - Smoke control systems
+  - Occupancy management
+
+retrieval_keywords:
+  - merc

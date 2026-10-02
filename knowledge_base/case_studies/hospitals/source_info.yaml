@@ -1,0 +1,27 @@
+domain: Hospital Fire Incident Case Studies
+
+occupancies_covered:
+
+- Hospitals
+- Nursing Homes
+- Healthcare Facilities
+- Intensive Care Units
+- COVID Care Facilities
+
+analysis_focus:
+
+- Root Cause Analysis
+- Compliance Failures
+- Fire Safety Lessons
+- Risk Patterns
+- Patient Evacuation
+- Smoke Management
+
+intended_ai_usage:
+
+- Training
+- Risk Assessment
+- Compliance Education
+- Incident Investigation Support
+
+retrieval_priority: High

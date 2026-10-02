@@ -1,0 +1,244 @@
+source_map_id: KB-MAP-001
+
+source_name: SafeSpace_AI Knowledge Base Map
+
+description: >
+  Master navigation and retrieval map
+  defining relationships between all
+  knowledge base layers.
+
+knowledge_layers:
+
+  regulations:
+
+    purpose: >
+      Regulatory requirements and legal
+      compliance obligations.
+
+    contains:
+      - India Regulations
+      - Maharashtra Regulations
+      - Mumbai Regulations
+
+    used_for:
+      - Compliance Validation
+      - Legal Guidance
+
+  occupancies:
+
+    purpose: >
+      Occupancy classification and
+      occupancy-specific fire safety
+      requirements.
+
+    contains:
+      - Assembly
+      - Business
+      - Educational
+      - Hazardous
+      - Hospital
+      - Industrial
+      - Institutional
+      - Mercantile
+      - Mixed
+      - Residential
+      - Storage
+
+    used_for:
+      - Occupancy Classification
+      - Occupancy Risk Assessment
+
+  risk_patterns:
+
+    purpose: >
+      Common fire hazards and recurring
+      fire safety risks.
+
+    contains:
+      - Electrical Risks
+      - Smoke Spread Risks
+      - Blocked Exit Risks
+      - Occupancy Overload
+      - Maintenance Failures
+      - Hazardous Material Risks
+
+    used_for:
+      - Risk Assessment
+      - Hazard Identification
+
+  case_studies:
+
+    purpose: >
+      Historical fire incidents and
+      lessons learned.
+
+    contains:
+      - Commercial Fires
+      - Hospital Fires
+      - Educational Fires
+      - Residential Fires
+      - Industrial Fires
+
+    used_for:
+      - Incident Analysis
+      - Pattern Recognition
+
+  incident_insights:
+
+    purpose: >
+      Aggregated lessons and recurring
+      failures extracted from multiple
+      fire incidents.
+
+    used_for:
+      - Recommendation Support
+      - Root Cause Analysis
+
+  recommendations:
+
+    purpose: >
+      Actionable fire safety guidance.
+
+    contains:
+      - By Occupancy
+      - By Risk
+      - By System
+      - By Compliance Gap
+
+    used_for:
+      - Recommendation Generation
+      - Corrective Actions
+
+  glossary:
+
+    purpose: >
+      Fire safety terminology and
+      standardized definitions.
+
+    used_for:
+      - Definitions
+      - User Education
+
+  local_context:
+
+    purpose: >
+      Location-specific fire safety
+      intelligence.
+
+    contains:
+      - India
+      - Maharashtra
+      - Mumbai
+
+    used_for:
+      - Local Compliance Guidance
+      - Regional Risk Assessment
+
+retrieval_workflows:
+
+  compliance_query:
+
+    search_order:
+      - regulations
+      - occupancies
+      - recommendations
+
+  risk_query:
+
+    search_order:
+      - risk_patterns
+      - incident_insights
+      - recommendations
+
+  occupancy_query:
+
+    search_order:
+      - occupancies
+      - regulations
+      - recommendations
+
+  incident_query:
+
+    search_order:
+      - case_studies
+      - incident_insights
+      - risk_patterns
+
+  definition_query:
+
+    search_order:
+      - glossary
+
+  local_query:
+
+    search_order:
+      - local_context
+      - regulations
+      - recommendations
+
+cross_layer_relationships:
+
+  occupancies:
+    connects_to:
+      - regulations
+      - risk_patterns
+      - recommendations
+
+  risk_patterns:
+    connects_to:
+      - incident_insights
+      - recommendations
+
+  case_studies:
+    connects_to:
+      - incident_insights
+      - risk_patterns
+
+  local_context:
+    connects_to:
+      - regulations
+      - occupancies
+      - recommendations
+
+  glossary:
+    connects_to:
+      - all_layers
+
+ai_reasoning_flow:
+
+  step_1:
+    Identify User Intent
+
+  step_2:
+    Identify Occupancy
+
+  step_3:
+    Identify Location
+
+  step_4:
+    Identify Risks
+
+  step_5:
+    Retrieve Relevant Regulations
+
+  step_6:
+    Retrieve Recommendations
+
+  step_7:
+    Generate Final Response
+
+retrieval_priority:
+
+  critical_layers:
+    - regulations
+    - occupancies
+    - risk_patterns
+    - recommendations
+
+  support_layers:
+    - incident_insights
+    - local_context
+    - glossary
+
+maintained_for:
+  - SafeSpace_AI

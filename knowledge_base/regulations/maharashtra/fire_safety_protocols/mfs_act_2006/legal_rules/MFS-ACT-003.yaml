@@ -1,0 +1,27 @@
+rule_id: MFS-ACT-003
+
+title: Completion Certificate Requires Fire Safety Compliance
+
+category: Construction Compliance
+
+applies_to:
+  - New building construction
+
+requirement:
+  Completion or part-completion certificates shall not be issued unless fire safety requirements have been complied with.
+
+compliance_check:
+  Verify fire compliance before issuance of completion certificate.
+
+evidence_required:
+  - Fire NOC
+  - Compliance certificate
+  - Approved drawings
+
+risk_if_non_compliant:
+  Occupancy approval may be denied.
+
+source_document:
+  Maharashtra Fire Prevention and Life Safety Measures Act, 2006
+
+page: 5

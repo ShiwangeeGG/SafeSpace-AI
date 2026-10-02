@@ -1,0 +1,24 @@
+rule_id: CFO-REF-006
+
+title: Refuge Area Maintenance Requirement
+
+category: Maintenance
+
+applies_to:
+  - Refuge Areas
+
+requirement:
+  Refuge area facilities and safety features shall be regularly inspected and maintained.
+
+compliance_check:
+  Verify maintenance records.
+
+evidence_required:
+  - Inspection reports
+  - Maintenance logs
+
+risk_if_non_compliant:
+  Refuge areas may not function as intended during emergencies.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

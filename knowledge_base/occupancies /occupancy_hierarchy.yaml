@@ -1,0 +1,52 @@
+occupancy_risk_hierarchy:
+
+critical_risk:
+- Hazardous
+- Hospital
+
+high_risk:
+- Industrial
+- Assembly
+- Mercantile
+- Institutional
+- Storage
+
+moderate_risk:
+- Educational
+- Mixed
+
+standard_risk:
+- Residential
+- Business
+
+risk_drivers:
+
+hazardous:
+- Explosion Risk
+- Toxic Release
+
+hospital:
+- Vulnerable Occupants
+- Assisted Evacuation
+
+industrial:
+- Machinery Hazards
+- Process Failures
+
+assembly:
+- Crowd Density
+- Evacuation Complexity
+
+mercantile:
+- Public Occupancy
+- Combustible Merchandise
+
+storage:
+- High Fire Load
+- Large Property Loss Potential
+
+residential:
+- Sleeping Occupants
+
+business:
+- Electrical Risks

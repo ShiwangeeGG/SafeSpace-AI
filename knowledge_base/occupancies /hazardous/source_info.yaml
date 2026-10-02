@@ -1,0 +1,53 @@
+source_id: OCC-HAZ-SRC-001
+
+source_name: Hazardous Occupancy Knowledge Base
+
+occupancy_group: Hazardous
+
+regulatory_source:
+
+- NBC 2016 Part 4 Fire and Life Safety
+
+purpose: >
+Define hazardous occupancies involving the
+storage, processing, handling, or manufacture
+of flammable, explosive, toxic, corrosive,
+or otherwise hazardous materials.
+
+applies_to:
+
+- Chemical Plants
+- Petroleum Facilities
+- LPG Storage Installations
+- Explosive Manufacturing Units
+- Gas Processing Facilities
+- Hazardous Material Warehouses
+
+primary_fire_safety_focus:
+
+- Explosion Prevention
+- Hazardous Material Control
+- Fire Containment
+- Emergency Response
+
+related_risk_patterns:
+
+- hazardous_material_risks
+- combustible_materials
+- maintenance_failures
+- electrical_risks
+
+related_case_studies:
+
+- Maharashtra Chemical Factory Fire
+- Ankleshwar Chemical Plant Fire
+
+retrieval_priority: Critical
+
+intended_ai_usage:
+
+- Occupancy Classification
+- Hazard Identification
+- Explosion Risk Assessment
+- Compliance Analysis
+- Emergency Planning Support

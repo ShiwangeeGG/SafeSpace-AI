@@ -1,0 +1,24 @@
+rule_id: CFO-ER-003
+
+title: Emergency Ventilation Requirement
+
+category: Smoke Control
+
+applies_to:
+  - Protected Escape Routes
+
+requirement:
+  Emergency ventilation systems shall be provided where required to maintain tenable evacuation conditions.
+
+compliance_check:
+  Verify ventilation system operation.
+
+evidence_required:
+  - HVAC drawings
+  - Testing reports
+
+risk_if_non_compliant:
+  Smoke accumulation may compromise evacuation.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

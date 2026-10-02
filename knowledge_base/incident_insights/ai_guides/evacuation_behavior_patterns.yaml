@@ -1,0 +1,24 @@
+behavior_patterns:
+
+  follow_the_crowd:
+    observation: Occupants tend to follow others.
+
+  exit_familiarity:
+    observation: Occupants choose known exits.
+
+  panic_response:
+    observation: Panic increases evacuation delays.
+
+  dead_end_retreat:
+    observation: Occupants may move into enclosed spaces.
+
+recommended_controls:
+  - Clear Exit Signage
+  - Emergency Communication
+  - Fire Drills
+  - Occupant Awareness Programs
+
+ai_reasoning_goal: >
+  Improve evacuation planning by
+  understanding human behavior
+  during emergencies.

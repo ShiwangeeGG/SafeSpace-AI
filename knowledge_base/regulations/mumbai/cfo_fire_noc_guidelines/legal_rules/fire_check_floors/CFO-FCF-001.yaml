@@ -1,0 +1,24 @@
+rule_id: CFO-FCF-001
+
+title: Fire Check Floor Requirement
+
+category: High Rise Fire Safety
+
+applies_to:
+  - High Rise Buildings requiring fire check floors
+
+requirement:
+  Fire check floors shall be provided at prescribed intervals within high-rise buildings.
+
+compliance_check:
+  Verify fire check floors are provided at required locations.
+
+evidence_required:
+  - Approved plans
+  - Building section drawings
+
+risk_if_non_compliant:
+  Reduced firefighting effectiveness and limited emergency staging capability.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

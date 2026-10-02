@@ -1,0 +1,48 @@
+rule_id: OCC-HAZ-001
+
+occupancy_group: Hazardous
+
+rule_category: Occupancy Definition
+
+occupancy_definition: >
+Buildings or portions of buildings used for the
+manufacture, processing, handling, storage, or use
+of materials that are highly combustible, explosive,
+toxic, corrosive, or otherwise hazardous.
+
+applies_to:
+
+- Chemical Plants
+- Explosive Manufacturing Units
+- Petroleum Facilities
+- Gas Storage Facilities
+- Hazardous Material Processing Plants
+
+occupancy_characteristics:
+
+- High fire load
+- Explosion potential
+- Toxic release potential
+- Specialized safety controls
+
+primary_fire_safety_concern:
+Prevention of fire, explosion, and hazardous
+material release.
+
+related_nbc_domains:
+
+- Hazardous Occupancy
+- Fire Prevention
+- Fire Protection
+
+retrieval_keywords:
+
+- hazardous occupancy
+- chemical plant
+- explosive materials
+- gas storage
+- toxic materials
+
+source:
+document: NBC Part 4 Fire and Life Safety
+occupancy_group: Hazardous

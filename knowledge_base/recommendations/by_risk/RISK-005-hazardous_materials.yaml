@@ -1,0 +1,58 @@
+risk_id: RISK-005
+
+risk_name: Hazardous Material Risks
+
+category: Hazardous Occupancy
+
+risk_level: Critical
+
+risk_description: >
+  Risks arising from storage, handling,
+  transportation, or processing of hazardous
+  materials.
+
+why_it_is_dangerous:
+  - Explosions
+  - Toxic releases
+  - Chemical reactions
+  - Rapid fire escalation
+
+affected_occupancies:
+  - Hazardous
+  - Industrial
+  - Storage
+
+related_compliance_gaps:
+  - Improper hazardous storage
+  - Inadequate ventilation
+
+immediate_actions:
+  - Isolate hazardous materials
+  - Verify containment measures
+
+short_term_actions:
+  - Conduct hazard assessment
+  - Review material compatibility
+
+long_term_actions:
+  - Improve storage systems
+  - Upgrade monitoring systems
+
+high_priority_systems:
+  - Gas Detection
+  - Emergency Ventilation
+  - Fire Suppression Systems
+
+related_case_studies:
+  - Chemical Plant Fire Incidents
+
+ai_reasoning_hints:
+  - Assume worst-case escalation potential
+
+retrieval_keywords:
+  - hazardous material
+  - chemical fire
+  - explosion risk
+
+source:
+  document: Risk Patterns Layer

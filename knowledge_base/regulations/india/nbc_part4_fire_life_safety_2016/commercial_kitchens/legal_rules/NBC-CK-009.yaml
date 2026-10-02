@@ -1,0 +1,24 @@
+rule_id: NBC-CK-009
+
+title: Fuel Supply Shutoff During Fire Suppression Activation
+
+category: Fire Suppression
+
+applies_to:
+  - Commercial Kitchens
+
+requirement:
+  Activation of fire suppression systems shall automatically shut down fuel and electrical supply to protected cooking equipment.
+
+compliance_check:
+  Verify interlock functionality.
+
+evidence_required:
+  - Functional testing records
+  - Commissioning report
+
+risk_if_non_compliant:
+  Fire may continue despite suppression discharge.
+
+source_document:
+  National Building Code of India 2016 Part 4 Annex G

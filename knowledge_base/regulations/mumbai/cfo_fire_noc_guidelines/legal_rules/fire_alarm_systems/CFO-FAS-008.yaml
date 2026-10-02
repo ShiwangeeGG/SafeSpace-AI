@@ -1,0 +1,24 @@
+rule_id: CFO-FAS-008
+
+title: Firefighter Interface Requirement
+
+category: Emergency Response
+
+applies_to:
+  - High Rise Buildings
+
+requirement:
+  Fire alarm systems shall provide information and controls necessary for firefighter operations.
+
+compliance_check:
+  Verify firefighter interface functionality.
+
+evidence_required:
+  - System documentation
+  - Testing records
+
+risk_if_non_compliant:
+  Reduced situational awareness during emergency response.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

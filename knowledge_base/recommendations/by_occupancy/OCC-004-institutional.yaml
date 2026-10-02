@@ -1,0 +1,49 @@
+occupancy_id: OCC-004
+
+occupancy_name: Institutional
+
+category: Occupancy Recommendations
+
+risk_level: High
+
+primary_fire_safety_concerns:
+  - Vulnerable occupants
+  - Assisted evacuation
+  - Smoke inhalation
+
+common_compliance_gaps:
+  - Poor evacuation planning
+  - Inadequate emergency communication
+
+related_risk_patterns:
+  - evacuation_failures
+  - smoke_spread_risks
+
+immediate_actions:
+  - Verify emergency exits
+  - Review evacuation procedures
+
+short_term_actions:
+  - Train staff
+  - Conduct evacuation exercises
+
+long_term_actions:
+  - Improve smoke control systems
+  - Enhance emergency communication
+
+high_priority_systems:
+  - Fire Alarm System
+  - Emergency Communication
+  - Smoke Management
+
+related_case_studies:
+  - Care Facility Fire Incidents
+
+ai_reasoning_hints:
+  - Assume assisted evacuation
+
+retrieval_keywords:
+  - institutional fire safety
+
+source:
+  document: NBC Part 4 Fire and Life Safety

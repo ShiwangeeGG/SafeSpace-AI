@@ -1,0 +1,38 @@
+rule_id: OCC-INS-004
+
+occupancy_group: Institutional
+
+rule_category: Custodial Facilities
+
+occupancy_definition: >
+  Buildings used for custody,
+  detention, supervision,
+  or controlled occupancy.
+
+applies_to:
+  - Correctional Facilities
+  - Detention Centres
+  - Juvenile Facilities
+
+occupancy_characteristics:
+  - Restricted movement
+  - Controlled access
+  - Security-dependent evacuation
+
+primary_fire_safety_concern:
+  Balancing security requirements
+  with emergency evacuation needs.
+
+related_nbc_domains:
+  - Life Safety
+  - Means of Escape
+  - Emergency Planning
+
+retrieval_keywords:
+  - prison
+  - detention centre
+  - custodial facility
+
+source:
+  document: NBC Part 4 Fire and Life Safety
+  occupancy_group: Institutional

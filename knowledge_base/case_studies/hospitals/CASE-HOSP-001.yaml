@@ -1,0 +1,93 @@
+case_id: CASE-HOSP-001
+
+incident_name: AMRI Hospital Fire
+
+incident_date: 2011-12-09
+
+location:
+city: Kolkata
+state: West Bengal
+country: India
+
+occupancy_type: Institutional
+
+building_type:
+
+- Hospital
+- Multi-Speciality Healthcare Facility
+
+incident_type:
+
+- Fire
+
+severity: Catastrophic
+
+fatalities: 90
+
+injuries: 50+
+
+summary: >
+A major fire originated in the basement of AMRI Hospital
+and spread toxic smoke throughout the building. Most
+fatalities resulted from smoke inhalation among patients
+who were unable to self-evacuate.
+
+root_causes:
+
+- Electrical fault
+- Combustible material storage in basement
+- Smoke spread through building services
+
+fire_safety_failures:
+
+- Poor smoke management
+- Inadequate emergency evacuation
+- Basement storage violations
+- Delayed emergency response
+- Lack of staff preparedness
+
+affected_systems:
+
+- Smoke Management
+- Basement Fire Safety
+- Emergency Communication
+- Operational Fire Safety
+
+risk_patterns:
+
+- Smoke migration
+- Vulnerable occupants
+- Basement ignition
+- Delayed patient evacuation
+
+occupancy_risks:
+
+- ICU patients
+- Bedridden patients
+- Oxygen-supported patients
+
+fatality_mechanism:
+
+- Smoke Inhalation
+- Asphyxiation
+
+related_nbc_domains:
+
+- Institutional Occupancy
+- Smoke Management
+- Fire Protection
+- Life Safety
+
+lessons_learned:
+
+- Eliminate combustible basement storage
+- Improve smoke compartmentation
+- Train hospital staff
+- Develop patient evacuation procedures
+
+prevention_recommendations:
+
+- Smoke extraction systems
+- Fire drills
+- Fire-rated compartmentation
+- Basement inspections

@@ -1,0 +1,60 @@
+system_component: Operational Fire Safety
+
+description:
+  Operational fire safety consists of the procedures, inspections, training activities, drills, documentation, and maintenance practices necessary to ensure continued fire safety compliance throughout a building's lifecycle.
+
+purpose:
+  Maintain readiness of occupants, staff, and fire safety systems during normal operations and emergencies.
+
+why_it_matters:
+  Fire safety is not achieved solely through design and construction. Ongoing inspections, testing, training, and emergency preparedness are required to ensure systems function effectively when needed.
+
+common_fire_risks:
+  - Inadequate emergency preparedness
+  - Poor occupant response
+  - Undetected equipment failures
+  - Missing compliance documentation
+  - Obstructed fire safety equipment
+  - Lack of staff training
+
+common_compliance_checks:
+  - Fire drills conducted
+  - Evacuation drills completed
+  - Fire safety logbooks maintained
+  - Fire protection systems inspected
+  - Fire protection systems tested
+  - Emergency contacts updated
+  - Staff training records available
+  - Fire equipment accessible
+  - Safety signage maintained
+  - Compliance documentation available
+
+critical_safety_features:
+  - Fire Drills
+  - Evacuation Drills
+  - Fire Safety Logbooks
+  - Inspection Programs
+  - Testing Programs
+  - Staff Training
+  - Emergency Contact Management
+  - Compliance Documentation
+
+related_rules:
+  - CFO-OFS-001
+  - CFO-OFS-002
+  - CFO-OFS-003
+  - CFO-OFS-004
+  - CFO-OFS-005
+  - CFO-OFS-006
+  - CFO-OFS-007
+  - CFO-OFS-008
+  - CFO-OFS-009
+  - CFO-OFS-010
+
+related_systems:
+  - Fire Alarm Systems
+  - Fire Protection Systems
+  - Emergency Communication
+  - Fire Control Room
+  - Escape Routes
+  - Fire Brigade Operations

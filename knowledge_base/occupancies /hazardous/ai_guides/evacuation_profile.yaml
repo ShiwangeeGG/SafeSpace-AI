@@ -1,0 +1,72 @@
+occupancy_name: Hazardous
+
+occupancy_category: Hazardous Occupancy
+
+description: >
+Hazardous occupancies present complex evacuation
+challenges because occupants may be exposed to fire,
+explosions, toxic gases, chemical releases, or
+rapidly escalating emergency conditions.
+
+examples:
+
+- Chemical Manufacturing Facilities
+- Gas Storage Plants
+- Petroleum Installations
+- Fireworks Factories
+
+occupancy_characteristics:
+
+- Rapid incident escalation
+- Specialized operating areas
+- Hazardous process equipment
+- Restricted access zones
+
+primary_fire_safety_concerns:
+
+- Explosion hazards
+- Toxic exposure
+- Emergency shutdown failures
+- Limited evacuation time
+
+common_fire_risks:
+
+- Chemical explosions
+- Gas cloud ignition
+- Toxic smoke release
+- Secondary fire events
+
+evacuation_complexity: Critical
+
+risk_level: Critical
+
+related_case_studies:
+
+- Maharashtra Chemical Factory Fire
+- Ankleshwar Chemical Plant Fire
+
+related_risk_patterns:
+
+- hazardous_material_risks
+- evacuation_failures
+- maintenance_failures
+
+recommended_focus_areas:
+
+- Emergency response procedures
+- Hazard communication systems
+- Emergency shutdown systems
+- Evacuation drills
+- Incident command planning
+
+retrieval_keywords:
+
+- hazardous evacuation
+- chemical emergency
+- explosion evacuation
+- toxic release
+- emergency response
+
+source:
+document: NBC Part 4 Fire and Life Safety
+occupancy_group: Hazardous

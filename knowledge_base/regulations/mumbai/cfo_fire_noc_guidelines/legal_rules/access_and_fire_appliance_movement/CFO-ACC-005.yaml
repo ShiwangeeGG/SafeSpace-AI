@@ -1,0 +1,28 @@
+rule_id: CFO-ACC-005
+
+title: Fire Appliance Ramp Gradient Requirement
+
+category: Fire Appliance Access
+
+applies_to:
+  - Buildings with fire appliance ramps
+
+requirement:
+  Ramp gradients used by fire appliances shall be between 1:10 and 1:12.
+
+threshold:
+  minimum_gradient: 1:12
+  maximum_gradient: 1:10
+
+compliance_check:
+  Verify ramp slope.
+
+evidence_required:
+  - Engineering drawings
+  - Site measurements
+
+risk_if_non_compliant:
+  Fire appliances may lose maneuverability or safe access.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

@@ -1,0 +1,59 @@
+domain: Risk Recommendation Intelligence
+
+critical_risks:
+  - blocked_exits
+  - evacuation_failures
+  - smoke_spread_risks
+  - hazardous_material_risks
+  - high_rise_risks
+
+high_risks:
+  - electrical_risks
+  - combustible_materials
+  - kitchen_fire_risks
+  - occupancy_overload
+  - maintenance_failures
+
+common_risk_relationships:
+
+  blocked_exits:
+    leads_to:
+      - evacuation_failures
+
+  evacuation_failures:
+    leads_to:
+      - occupant_entrapment
+
+  electrical_risks:
+    leads_to:
+      - ignition
+
+  combustible_materials:
+    leads_to:
+      - rapid_fire_growth
+
+  smoke_spread_risks:
+    leads_to:
+      - fatalities
+
+  maintenance_failures:
+    leads_to:
+      - system_failures
+
+  occupancy_overload:
+    leads_to:
+      - crowd_congestion
+
+recommendation_priority_order:
+  - Life Safety
+  - Evacuation
+  - Detection
+  - Suppression
+  - Fire Fighting Support
+  - Recovery
+
+ai_reasoning_goal: >
+  Generate recommendations based on
+  identified fire risks, prioritize life
+  safety impacts, and provide actionable
+  mitigation measures.

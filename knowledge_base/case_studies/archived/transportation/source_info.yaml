@@ -1,0 +1,24 @@
+domain: Transportation Fire Incident Case Studies
+
+occupancies_covered:
+
+- Rail Transport
+- School Transportation
+- Metro Systems
+- Public Transportation Facilities
+
+analysis_focus:
+
+- Root Cause Analysis
+- Fire Safety Lessons
+- Evacuation Challenges
+- Transportation Risk Patterns
+
+intended_ai_usage:
+
+- Training
+- Risk Assessment
+- Incident Investigation Support
+- Safety Awareness
+
+retrieval_priority: Medium

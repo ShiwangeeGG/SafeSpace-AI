@@ -1,0 +1,32 @@
+evacuation_patterns:
+
+  exit_familiarity:
+    observation: >
+      Occupants tend to move toward
+      familiar entrances rather than
+      nearest exits.
+
+  crowd_congestion:
+    observation: >
+      Narrow exits and staircases
+      create evacuation bottlenecks.
+
+  dead_end_retreat:
+    observation: >
+      Occupants frequently retreat into
+      washrooms or enclosed spaces.
+
+  delayed_decision_making:
+    observation: >
+      Many occupants underestimate
+      the seriousness of early fire signs.
+
+observed_incidents:
+  - Kamala Mills Fire
+  - Rajkot Gaming Zone Fire
+  - Kumbakonam School Fire
+
+ai_usage:
+  - Evacuation Planning
+  - Crowd Management Analysis
+  - Occupancy Risk Assessment

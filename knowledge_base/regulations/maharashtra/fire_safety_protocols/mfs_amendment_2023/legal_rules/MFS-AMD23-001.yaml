@@ -1,0 +1,22 @@
+rule_id: MFS-AMD23-001
+
+title: Temporary Structures Are Covered By Fire Safety Law
+
+category: Scope
+
+applies_to:
+  - Tents
+  - Shamiyanas
+  - Tarpaulin shelters
+  - Temporary ceremonial structures
+
+requirement:
+  Temporary structures erected for ceremonial or temporary purposes shall be treated as buildings under the Act.
+
+compliance_check:
+  Verify temporary structure complies with applicable fire safety requirements.
+
+source_document:
+  Maharashtra Fire Prevention and Life Safety Measures (Amendment) Act, 2023
+
+page: 2

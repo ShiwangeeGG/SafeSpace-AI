@@ -1,0 +1,27 @@
+rule_id: NBC-OCC-012
+
+title: Mixed Occupancy Classification
+
+category: Occupancy Classification
+
+applies_to:
+  - Buildings containing more than one occupancy group
+
+requirement:
+  Buildings containing multiple occupancy types shall be classified as Mixed Occupancy and each occupancy shall satisfy applicable fire safety requirements.
+
+compliance_check:
+  Identify all occupancy groups present within the building.
+
+evidence_required:
+  - Floor plans
+  - Tenant allocation records
+  - Occupancy analysis
+
+risk_if_non_compliant:
+  Certain occupancies may remain unprotected by required fire safety provisions.
+
+source_document:
+  National Building Code of India 2016 Part 4
+
+page: Occupancy Classification Chapter

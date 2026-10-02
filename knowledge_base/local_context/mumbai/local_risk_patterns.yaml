@@ -1,0 +1,24 @@
+city: Mumbai
+
+high_frequency_risks:
+  - occupancy_overload
+  - blocked_exits_risks
+  - electrical_risks
+  - smoke_spread_risks
+  - maintenance_failures
+
+high_rise_risks:
+  - missing_fire_lifts
+  - missing_refuge_areas
+  - smoke_spread_risks
+
+commercial_risks:
+  - overcrowding
+  - combustible_decorations
+
+industrial_risks:
+  - hazardous_material_risks
+
+ai_reasoning_goal: >
+  Prioritize fire risks commonly
+  observed within Mumbai.

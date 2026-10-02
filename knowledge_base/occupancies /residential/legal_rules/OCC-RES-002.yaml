@@ -1,0 +1,38 @@
+rule_id: OCC-RES-002
+
+occupancy_group: Residential
+
+rule_category: Multi-Family Residential Occupancies
+
+occupancy_definition: >
+  Residential occupancies containing
+  multiple dwelling units within a
+  common building or development.
+
+applies_to:
+  - Apartment Buildings
+  - Residential Towers
+  - Housing Complexes
+
+occupancy_characteristics:
+  - Shared circulation areas
+  - Common staircases
+  - Multiple families
+
+primary_fire_safety_concern:
+  Safe evacuation of occupants from
+  multi-storey residential structures.
+
+related_nbc_domains:
+  - Means of Escape
+  - Fire Protection
+  - High Rise Buildings
+
+retrieval_keywords:
+  - apartment building
+  - residential tower
+  - housing complex
+
+source:
+  document: NBC Part 4 Fire and Life Safety
+  occupancy_group: Residential

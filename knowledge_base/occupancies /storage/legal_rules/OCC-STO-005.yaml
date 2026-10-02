@@ -1,0 +1,36 @@
+rule_id: OCC-STO-005
+
+occupancy_group: Storage
+
+rule_category: Occupancy Risk Characteristics
+
+occupancy_definition: >
+  Storage occupancies present elevated
+  fire risk due to large fuel loads,
+  combustible stock, and delayed fire
+  discovery in low-occupancy environments.
+
+applies_to:
+  - All Storage Occupancies
+
+occupancy_characteristics:
+  - Large fire loads
+  - Limited occupants
+  - Extensive storage arrangements
+
+primary_fire_safety_concern:
+  Early fire detection and fire containment.
+
+related_nbc_domains:
+  - Fire Protection
+  - Fire Detection
+  - Fire Prevention
+
+retrieval_keywords:
+  - storage risk
+  - warehouse risk
+  - fire load
+
+source:
+  document: NBC Part 4 Fire and Life Safety
+  occupancy_group: Storage

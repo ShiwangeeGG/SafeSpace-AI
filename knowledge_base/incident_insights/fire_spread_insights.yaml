@@ -1,0 +1,31 @@
+fire_spread_patterns:
+
+  combustible_decorations:
+    impact: Rapid fire growth
+
+    observed_in:
+      - Kamala Mills Fire
+      - Rajkot Gaming Zone Fire
+
+  vertical_shaft_spread:
+    impact: Multi-floor fire spread
+
+    observed_in:
+      - Times Tower Fire
+
+  facade_fire_spread:
+    impact: External fire propagation
+
+    observed_in:
+      - Times Tower Fire
+
+  poor_compartmentation:
+    impact: Smoke and fire spread beyond origin
+
+    observed_in:
+      - AMRI Hospital Fire
+
+key_insight: >
+  Combustible materials and inadequate
+  compartmentation significantly increase
+  fire spread severity.

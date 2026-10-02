@@ -1,0 +1,37 @@
+categories:
+
+  fire_safety_terms:
+    description: Basic fire engineering concepts
+
+  fire_protection_terms:
+    description: Fire fighting and suppression systems
+
+  occupancy_terms:
+    description: Building occupancy classifications
+
+  high_rise_terms:
+    description: High-rise building fire safety concepts
+
+  risk_assessment_terms:
+    description: Risk identification and evaluation concepts
+
+  regulatory_terms:
+    description: NBC and CFO compliance terminology
+
+retrieval_strategy:
+
+  definition_queries:
+    retrieve_category_first
+
+  unknown_term_queries:
+    search_all_categories
+
+  compliance_queries:
+    prioritize_regulatory_terms
+
+ai_usage:
+  - Navigation
+  - Retrieval Routing
+  - Knowledge Classification
+
+total_categories: 6

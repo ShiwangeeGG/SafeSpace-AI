@@ -1,0 +1,26 @@
+rule_id: MFS-ACT-007
+
+title: Mandatory Fire Risk Precautions for Hazardous Premises
+
+category: Risk Prevention
+
+applies_to:
+  - Premises identified by Government as fire-risk premises
+
+requirement:
+  Owners or occupiers shall implement fire precautions specified through Government notifications.
+
+compliance_check:
+  Verify implementation of notified precautions.
+
+evidence_required:
+  - Notification compliance report
+  - Site inspection
+
+risk_if_non_compliant:
+  Elevated fire hazard and enforcement action.
+
+source_document:
+  Maharashtra Fire Prevention and Life Safety Measures Act, 2006
+
+page: 6

@@ -1,0 +1,25 @@
+life_safety_component: Exits
+
+description:
+  Designated escape routes that allow occupants to leave a building safely during emergencies.
+
+purpose:
+  Provide safe and rapid evacuation.
+
+why_it_matters:
+  Inadequate exits can cause crowding, panic, and delayed evacuation.
+
+common_compliance_checks:
+  - Number of exits
+  - Exit width
+  - Exit accessibility
+  - Exit obstruction checks
+
+related_rules:
+  - NBC-LS-003
+  - NBC-LS-004
+
+related_systems:
+  - Exit Doors
+  - Exit Signage
+  - Emergency Lightings

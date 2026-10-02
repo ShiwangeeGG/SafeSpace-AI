@@ -1,0 +1,24 @@
+rule_id: CFO-ER-006
+
+title: Floor Layout Map Requirement
+
+category: Occupant Information
+
+applies_to:
+  - Buildings requiring emergency evacuation plans
+
+requirement:
+  Floor layout and evacuation information shall be displayed at designated locations.
+
+compliance_check:
+  Verify evacuation maps are installed and updated.
+
+evidence_required:
+  - Site inspection
+  - Photographs
+
+risk_if_non_compliant:
+  Occupants may lack evacuation guidance during emergencies.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

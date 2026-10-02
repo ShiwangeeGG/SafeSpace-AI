@@ -1,0 +1,24 @@
+rule_id: CFO-FCR-008
+
+title: Fire Control Room Maintenance Requirement
+
+category: Maintenance
+
+applies_to:
+  - Fire Control Rooms
+
+requirement:
+  Fire Control Room systems and equipment shall be regularly inspected, tested, and maintained.
+
+compliance_check:
+  Verify maintenance records and testing schedules.
+
+evidence_required:
+  - Maintenance logs
+  - Inspection reports
+
+risk_if_non_compliant:
+  Critical emergency systems may fail during incidents.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

@@ -1,0 +1,25 @@
+domain: Residential Fire Incident Case Studies
+
+occupancies_covered:
+
+- Apartments
+- Residential Towers
+- Housing Societies
+- High Rise Residential Buildings
+
+analysis_focus:
+
+- Root Cause Analysis
+- Compliance Failures
+- Fire Safety Lessons
+- Evacuation Challenges
+- High Rise Fire Risks
+
+intended_ai_usage:
+
+- Training
+- Risk Assessment
+- Compliance Education
+- Incident Investigation Support
+
+retrieval_priority: High

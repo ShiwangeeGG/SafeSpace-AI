@@ -1,0 +1,26 @@
+rule_id: CFO-ACC-008
+
+title: Anti-Crash Barrier Requirement
+
+category: Fire Appliance Access
+
+applies_to:
+  - Elevated access routes
+  - Podiums
+  - Ramps
+
+requirement:
+  Anti-crash barriers shall be installed where required to protect fire appliance movement routes.
+
+compliance_check:
+  Verify barrier installation and condition.
+
+evidence_required:
+  - Site inspection
+  - Structural drawings
+
+risk_if_non_compliant:
+  Increased vehicle accident risk during emergency operations.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

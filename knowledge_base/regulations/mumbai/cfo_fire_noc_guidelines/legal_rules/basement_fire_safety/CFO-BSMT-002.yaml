@@ -1,0 +1,24 @@
+rule_id: CFO-BSMT-002
+
+title: Minimum Air Changes Requirement
+
+category: Ventilation
+
+applies_to:
+  - Basement Parking Areas
+
+requirement:
+  Mechanical ventilation systems shall provide the prescribed air change rates.
+
+compliance_check:
+  Verify air change calculations and testing.
+
+evidence_required:
+  - HVAC calculations
+  - Commissioning reports
+
+risk_if_non_compliant:
+  Poor smoke removal and reduced occupant safety.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

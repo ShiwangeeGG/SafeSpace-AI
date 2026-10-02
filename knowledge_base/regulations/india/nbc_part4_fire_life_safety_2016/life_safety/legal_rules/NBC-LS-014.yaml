@@ -1,0 +1,23 @@
+rule_id: NBC-LS-014
+
+title: Exit Signage Shall Be Visible During Emergencies
+
+category: Exit Signage
+
+applies_to:
+  - All occupied buildings
+
+requirement:
+  Exit signs shall remain visible during normal and emergency conditions.
+
+compliance_check:
+  Verify signage visibility and backup power.
+
+evidence_required:
+  - Site inspection
+
+risk_if_non_compliant:
+  Occupants may fail to locate exits.
+
+source_document:
+  National Building Code of India 2016 Part 4

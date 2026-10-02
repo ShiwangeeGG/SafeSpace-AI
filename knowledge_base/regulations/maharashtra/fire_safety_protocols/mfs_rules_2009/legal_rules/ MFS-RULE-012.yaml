@@ -1,0 +1,26 @@
+rule_id: MFS-RULE-012
+
+title: Blacklisted Organizations Cannot Become Licensed Agencies
+
+category: Licensing
+
+applies_to:
+  - Licensed Agencies
+
+requirement:
+  Applicants shall not be blacklisted by any Government Department, Organization, or State.
+
+compliance_check:
+  Verify blacklist status.
+
+evidence_required:
+  - Affidavit
+  - Background verification
+
+risk_if_non_compliant:
+  Licence rejection.
+
+source_document:
+  Maharashtra Fire Prevention and Life Safety Measures Rules, 2009
+
+page: 7

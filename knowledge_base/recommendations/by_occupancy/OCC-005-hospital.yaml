@@ -1,0 +1,51 @@
+occupancy_id: OCC-005
+
+occupancy_name: Hospital
+
+category: Occupancy Recommendations
+
+risk_level: Critical
+
+primary_fire_safety_concerns:
+  - Patient evacuation
+  - ICU protection
+  - Oxygen-rich environments
+
+common_compliance_gaps:
+  - Poor compartmentation
+  - Missing smoke control
+  - Inadequate evacuation plans
+
+related_risk_patterns:
+  - smoke_spread_risks
+  - evacuation_failures
+
+immediate_actions:
+  - Verify alarm systems
+  - Inspect emergency exits
+
+short_term_actions:
+  - Conduct staff drills
+  - Review patient evacuation plans
+
+long_term_actions:
+  - Upgrade smoke management
+  - Improve compartmentation
+
+high_priority_systems:
+  - Fire Alarm System
+  - Smoke Management
+  - Fire Command Centre
+
+related_case_studies:
+  - AMRI Hospital Fire
+  - ESIC Hospital Fire
+
+ai_reasoning_hints:
+  - Life safety overrides all other considerations
+
+retrieval_keywords:
+  - hospital fire safety
+
+source:
+  document: NBC Part 4 Fire and Life Safety

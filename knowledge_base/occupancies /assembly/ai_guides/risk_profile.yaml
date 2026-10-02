@@ -1,0 +1,75 @@
+occupancy_name: Assembly
+
+occupancy_category: Public Gathering Occupancy
+
+description: >
+Assembly occupancies consistently show elevated fire
+risk because a single incident can affect large
+numbers of occupants simultaneously.
+
+examples:
+
+- Restaurants
+- Banquet Halls
+- Cinemas
+- Convention Centres
+- Stadiums
+
+occupancy_characteristics:
+
+- Large occupant load
+- High evacuation demand
+- Public access
+- Variable occupancy patterns
+
+primary_fire_safety_concerns:
+
+- Occupancy overload
+- Blocked exits
+- Smoke spread
+- Crowd panic
+
+common_fire_risks:
+
+- Electrical faults
+- Kitchen fires
+- Combustible decorations
+- Unauthorized construction
+- Inadequate maintenance
+
+evacuation_complexity: Very High
+
+risk_level: High
+
+related_case_studies:
+
+- Kamala Mills Fire
+- Rajkot Gaming Zone Fire
+- Times Tower Fire
+
+related_risk_patterns:
+- blocked_exits_risks
+- combustible_materials
+- occupancy_overload_risks
+- kitchen_fire_risks
+- maintenance_failures
+
+recommended_focus_areas:
+
+- Fire protection systems
+- Occupancy control
+- Kitchen safety
+- Exit inspections
+- Emergency preparedness
+
+retrieval_keywords:
+
+- assembly fire risks
+- public occupancy
+- crowd safety
+- banquet fire risk
+- cinema fire risk
+
+source:
+document: NBC Part 4 Fire and Life Safety
+occupancy_group: Assembly

@@ -1,0 +1,38 @@
+rule_id: OCC-MER-003
+
+occupancy_group: Mercantile
+
+rule_category: Shopping Mall Occupancies
+
+occupancy_definition: >
+  Large mercantile occupancies containing
+  multiple retail units and shared public
+  circulation spaces.
+
+applies_to:
+  - Shopping Malls
+  - Retail Complexes
+  - Commercial Centres
+
+occupancy_characteristics:
+  - High occupant density
+  - Multiple tenants
+  - Large floor areas
+  - Common circulation zones
+
+primary_fire_safety_concern:
+  Crowd evacuation and smoke management.
+
+related_nbc_domains:
+  - Fire Protection
+  - Means of Escape
+  - Smoke Management
+
+retrieval_keywords:
+  - mall
+  - shopping centre
+  - retail complex
+
+source:
+  document: NBC Part 4 Fire and Life Safety
+  occupancy_group: Mercantile

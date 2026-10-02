@@ -1,0 +1,19 @@
+rule_id: MFS-AMD23-010
+
+title: Only Licensed Fire And Life Safety Auditors May Conduct Audits
+
+category: Licensing
+
+applies_to:
+  - Fire Auditors
+
+requirement:
+  No person other than a licensed Fire and Life Safety Auditor shall carry out fire audits.
+
+compliance_check:
+  Verify auditor licence.
+
+source_document:
+  Maharashtra Fire Prevention and Life Safety Measures (Amendment) Act, 2023
+
+page: 11

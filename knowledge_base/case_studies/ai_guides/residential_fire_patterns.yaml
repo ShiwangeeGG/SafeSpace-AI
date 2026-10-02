@@ -1,0 +1,45 @@
+domain: Residential Fire Incidents
+
+most_common_root_causes:
+  - Electrical faults
+  - LPG leaks
+  - Kitchen fires
+  - AC unit failures
+  - Balcony fires
+
+common_failures:
+  - Blocked staircases
+  - Inaccessible refuge areas
+  - Poor maintenance
+  - Lack of fire drills
+
+common_occupancies:
+  - Apartments
+  - Housing Societies
+  - Residential Towers
+
+high_risk_indicators:
+  - High-rise buildings
+  - Electrical overloading
+  - Combustible facades
+  - Poor housekeeping
+
+most_affected_systems:
+  - Escape Routes
+  - Staircase Safety
+  - Refuge Areas
+  - Fire Protection Systems
+  - Electrical Fire Safety
+
+recommended_controls:
+  - Smoke Alarms
+  - Fire Drills
+  - Staircase Inspections
+  - Refuge Area Audits
+  - Electrical Safety Audits
+
+common_regulatory_domains:
+  - Residential Occupancy
+  - Means of Escape
+  - Fire Protection
+  - High Rise Buildings

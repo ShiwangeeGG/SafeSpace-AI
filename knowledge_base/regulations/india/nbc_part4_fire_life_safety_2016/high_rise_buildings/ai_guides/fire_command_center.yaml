@@ -1,0 +1,32 @@
+system_component: Fire Command Centre
+
+description:
+  A centralized control room used to monitor, coordinate, and manage fire emergencies within a high-rise building.
+
+purpose:
+  Provide incident commanders and emergency responders with access to critical fire safety systems and building information.
+
+why_it_matters:
+  High-rise emergencies require centralized coordination due to building complexity and large occupant populations.
+
+common_fire_risks:
+  - Delayed emergency response
+  - Lack of situational awareness
+  - Communication failures
+  - Ineffective incident management
+
+common_compliance_checks:
+  - Command centre available
+  - Fire alarm monitoring operational
+  - Emergency communication systems functional
+  - Building plans accessible
+  - System status displays operational
+
+related_rules:
+  - NBC-HR-002
+
+related_systems:
+  - Emergency Communication
+  - Fire Detection
+  - Fire Alarm Systems
+  - Smoke Management

@@ -1,0 +1,60 @@
+occupancy_name: Institutional
+
+occupancy_category: Institutional Occupancy
+
+description: >
+  Buildings providing accommodation,
+  care, supervision, rehabilitation,
+  or custody for occupants who may
+  require assistance during emergencies.
+
+examples:
+  - Hostels
+  - Dormitories
+  - Old Age Homes
+  - Orphanages
+  - Rehabilitation Centres
+  - Care Homes
+
+occupancy_characteristics:
+  - Vulnerable occupants
+  - Sleeping accommodation
+  - Continuous occupancy
+  - Staff supervision
+
+primary_fire_safety_concerns:
+  - Occupant protection
+  - Night-time evacuation
+  - Assisted evacuation
+  - Smoke management
+
+common_fire_risks:
+  - Electrical faults
+  - Smoke spread
+  - Delayed evacuation
+  - Maintenance failures
+
+evacuation_complexity: High
+
+risk_level: High
+
+related_risk_patterns:
+  - evacuation_failures
+  - smoke_spread_risks
+  - maintenance_failures
+  - electrical_risks
+
+recommended_focus_areas:
+  - Fire detection
+  - Emergency communication
+  - Evacuation planning
+  - Staff training
+
+retrieval_keywords:
+  - institutional occupancy
+  - hostel
+  - dormitory
+  - care facility
+
+source:
+  document: NBC Part 4 Fire and Life Safety

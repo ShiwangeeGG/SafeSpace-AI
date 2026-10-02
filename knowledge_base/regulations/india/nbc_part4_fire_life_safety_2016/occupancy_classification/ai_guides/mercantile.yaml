@@ -1,0 +1,35 @@
+occupancy_type: Mercantile
+
+description:
+  Buildings used for display, sale, and retail trade of goods.
+
+examples:
+  - Shopping Malls
+  - Retail Stores
+  - Supermarkets
+  - Department Stores
+
+primary_fire_risks:
+  - High combustible load
+  - Electrical equipment
+  - Decorative materials
+  - Storage within sales areas
+
+typical_occupants:
+  - Customers
+  - Shop Staff
+  - Visitors
+
+critical_life_safety_focus:
+  - Occupant evacuation
+  - Smoke control
+  - Exit accessibility
+
+commonly_required_systems:
+  - Fire alarms
+  - Sprinklers
+  - Hydrant systems
+  - Emergency lighting
+
+related_nbc_rules:
+  - NBC-OCC-008

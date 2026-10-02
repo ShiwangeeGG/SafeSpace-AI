@@ -1,0 +1,19 @@
+rule_id: MFS-AMD23-006
+
+title: Fire Fighting Systems Must Be Certified Through Monitoring Framework
+
+category: Certification
+
+applies_to:
+  - Buildings covered under Section 45
+
+requirement:
+  Fire fighting systems shall be certified by a Licensed Agency through prescribed monitoring procedures.
+
+compliance_check:
+  Verify certification records.
+
+source_document:
+  Maharashtra Fire Prevention and Life Safety Measures (Amendment) Act, 2023
+
+page: 5

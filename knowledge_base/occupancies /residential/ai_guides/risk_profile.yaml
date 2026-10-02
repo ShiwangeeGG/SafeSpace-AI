@@ -1,0 +1,61 @@
+occupancy_name: Residential
+
+occupancy_category: Residential Occupancy
+
+description: >
+  Residential occupancies experience frequent
+  fire incidents due to domestic activities,
+  electrical systems, cooking operations,
+  and occupant behaviour.
+
+examples:
+  - Apartments
+  - Residential Towers
+  - Housing Societies
+
+occupancy_characteristics:
+  - Continuous occupancy
+  - Domestic ignition sources
+  - Shared infrastructure
+
+primary_fire_safety_concerns:
+  - Smoke inhalation
+  - Electrical fires
+  - Kitchen fires
+  - Delayed evacuation
+
+common_fire_risks:
+  - Electrical faults
+  - LPG leaks
+  - Kitchen fires
+  - Maintenance failures
+  - Smoke spread
+
+evacuation_complexity: Medium to High
+
+risk_level: Medium
+
+related_case_studies:
+  - Crystal Tower Fire
+  - Mumbai Residential High-Rise Fires
+
+related_risk_patterns:
+  - smoke_spread_risks
+  - electrical_risks
+  - maintenance_failures
+  - blocked_exits_risks
+  - evacuation_failures
+
+recommended_focus_areas:
+  - Smoke management
+  - Fire detection
+  - Electrical inspections
+  - Staircase maintenance
+
+retrieval_keywords:
+  - residential fire risk
+  - apartment fire
+  - housing society fire
+
+source:
+  document: NBC Part 4 Fire and Life Safety

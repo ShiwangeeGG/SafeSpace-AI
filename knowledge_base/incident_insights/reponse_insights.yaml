@@ -1,0 +1,28 @@
+response_patterns:
+
+  access_obstruction:
+    impact: Delayed Fire Brigade Response
+
+  missing_fire_lifts:
+    impact: Slower Rescue Operations
+
+  inadequate_water_supply:
+    impact: Reduced Fire Suppression Capability
+
+  delayed_emergency_notification:
+    impact: Increased Incident Severity
+
+observed_incidents:
+  - Crystal Tower Fire
+  - Times Tower Fire
+  - AMRI Hospital Fire
+
+key_insight: >
+  Effective emergency response depends
+  heavily on building preparedness and
+  firefighter accessibility.
+
+ai_usage:
+  - Emergency Planning
+  - Fire Brigade Access Assessment
+  - High Rise Risk Evaluation

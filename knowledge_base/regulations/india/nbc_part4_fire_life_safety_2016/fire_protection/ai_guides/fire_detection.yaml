@@ -1,0 +1,30 @@
+system_component: Fire Detection
+
+description:
+  A system designed to identify the presence of fire at the earliest possible stage through automatic sensing devices such as smoke, heat, flame, or multi-sensor detectors.
+
+purpose:
+  Provide early warning of fire conditions before fire growth threatens occupants or property.
+
+why_it_matters:
+  Early detection significantly reduces evacuation time, property damage, and fire spread.
+
+common_fire_risks:
+  - Delayed fire discovery
+  - Hidden fire development
+  - Occupant exposure to smoke
+  - Increased fire growth before response
+
+common_compliance_checks:
+  - Detector coverage adequate
+  - Detector placement compliant
+  - Detector functionality verified
+  - Inspection and testing completed
+
+related_rules:
+  - NBC-PR-001
+
+related_systems:
+  - Fire Alarm Systems
+  - Emergency Communication
+  - Smoke Management

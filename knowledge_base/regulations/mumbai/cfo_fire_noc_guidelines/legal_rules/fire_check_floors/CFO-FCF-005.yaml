@@ -1,0 +1,24 @@
+rule_id: CFO-FCF-005
+
+title: Fire Check Floor Open Area Requirement
+
+category: Smoke Ventilation
+
+applies_to:
+  - Fire Check Floors
+
+requirement:
+  Fire check floors shall provide open areas as specified for ventilation and emergency operations.
+
+compliance_check:
+  Verify openness and ventilation provisions.
+
+evidence_required:
+  - Architectural drawings
+  - Site inspection
+
+risk_if_non_compliant:
+  Reduced smoke dissipation and emergency effectiveness.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

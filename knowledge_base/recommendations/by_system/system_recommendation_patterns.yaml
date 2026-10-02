@@ -1,0 +1,79 @@
+domain: System Recommendation Intelligence
+
+critical_systems:
+  - Fire Alarm System
+  - Fire Pump
+  - Sprinkler System
+  - Smoke Management System
+
+high_priority_systems:
+  - Hydrant System
+  - Fire Lift
+  - Emergency Communication System
+
+support_systems:
+  - Refuge Area
+  - Fire Command Centre
+
+system_relationships:
+
+  fire_alarm_system:
+    supports:
+      - early_detection
+      - occupant_notification
+
+  sprinkler_system:
+    supports:
+      - fire_suppression
+      - smoke_reduction
+
+  fire_pump:
+    supports:
+      - sprinkler_system
+      - hydrant_system
+
+  smoke_management_system:
+    supports:
+      - evacuation
+      - firefighter_operations
+
+  emergency_communication_system:
+    supports:
+      - evacuation
+      - emergency_coordination
+
+  fire_command_centre:
+    supports:
+      - incident_management
+      - emergency_response
+
+recommendation_priority_order:
+  - Detection
+  - Notification
+  - Evacuation
+  - Suppression
+  - Fire Fighting Support
+  - Emergency Coordination
+  - Recovery
+
+system_failure_impacts:
+
+  fire_alarm_system:
+    impact: Delayed detection and evacuation
+
+  sprinkler_system:
+    impact: Rapid fire growth
+
+  fire_pump:
+    impact: Failure of suppression systems
+
+  smoke_management_system:
+    impact: Increased smoke fatalities
+
+  fire_lift:
+    impact: Delayed rescue operations
+
+ai_reasoning_goal: >
+  Generate recommendations based on
+  system criticality, failure consequences,
+  and contribution to life safety.

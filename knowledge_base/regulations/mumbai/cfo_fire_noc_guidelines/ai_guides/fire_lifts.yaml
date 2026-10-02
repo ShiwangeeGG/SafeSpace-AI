@@ -1,0 +1,53 @@
+system_component: Fire Lifts
+
+description:
+  Fire lifts are specially protected elevators designed for use by firefighters and emergency responders during fire incidents in high-rise buildings.
+
+purpose:
+  Provide rapid vertical access for firefighters, rescue teams, and emergency equipment during emergencies.
+
+why_it_matters:
+  High-rise firefighting operations become significantly more difficult without protected lift access. Fire lifts reduce response times and improve firefighting effectiveness.
+
+common_fire_risks:
+  - Delayed firefighter access
+  - Extended emergency response time
+  - Lift failure during emergencies
+  - Smoke infiltration into lift lobbies
+  - Loss of emergency power
+
+common_compliance_checks:
+  - Fire lift installed
+  - Fire lift accessible
+  - Emergency power supply available
+  - Fire lift lobby protected
+  - Fireman control switch operational
+  - Emergency operation mode functional
+  - Identification signage installed
+  - Maintenance records available
+
+critical_safety_features:
+  - Dedicated Fire Lift
+  - Emergency Power Supply
+  - Fire Lift Lobby
+  - Fireman Control Switch
+  - Emergency Operation Mode
+  - Firefighter Access Controls
+
+related_rules:
+  - CFO-FL-001
+  - CFO-FL-002
+  - CFO-FL-003
+  - CFO-FL-004
+  - CFO-FL-005
+  - CFO-FL-006
+  - CFO-FL-007
+  - CFO-FL-008
+
+related_systems:
+  - Fire Fighting Shaft
+  - Fire Control Room
+  - Emergency Communication
+  - Fire Check Floors
+  - Refuge Areas
+  - Smoke Management

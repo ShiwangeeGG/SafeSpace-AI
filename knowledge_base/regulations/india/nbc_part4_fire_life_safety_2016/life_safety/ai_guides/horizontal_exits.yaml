@@ -1,0 +1,22 @@
+life_safety_component: Horizontal Exits
+
+description:
+  Protected routes allowing occupants to move into another fire-safe compartment on the same floor.
+
+purpose:
+  Provide alternative evacuation paths without requiring vertical movement.
+
+why_it_matters:
+  Particularly important in hospitals and large buildings.
+
+common_compliance_checks:
+  - Fire compartment separation
+  - Fire door ratings
+  - Accessibility
+
+related_rules:
+  - NBC-LS-011
+
+related_systems:
+  - Fire Compartments
+  - Fire Doors

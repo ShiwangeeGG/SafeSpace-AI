@@ -1,0 +1,24 @@
+rule_id: CFO-FAS-007
+
+title: Voice Evacuation Integration Requirement
+
+category: Emergency Notification
+
+applies_to:
+  - Buildings with voice evacuation systems
+
+requirement:
+  Fire alarm systems shall interface with voice evacuation systems where required.
+
+compliance_check:
+  Verify alarm-to-voice system integration.
+
+evidence_required:
+  - System integration testing
+  - Commissioning records
+
+risk_if_non_compliant:
+  Occupants may not receive emergency instructions.
+
+source_document:
+  Mumbai CFO Fire NOC Guideliness

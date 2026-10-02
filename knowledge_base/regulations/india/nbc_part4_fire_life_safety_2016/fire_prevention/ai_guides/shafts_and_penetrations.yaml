@@ -1,0 +1,31 @@
+system_component: Shafts and Penetrations
+
+description:
+  Fire protection measures applied to vertical shafts, service openings, cable routes, piping penetrations, and utility pathways within a building.
+
+purpose:
+  Prevent fire and smoke from spreading through concealed routes.
+
+why_it_matters:
+  Vertical shafts and service penetrations are common pathways for rapid fire and smoke spread.
+
+common_fire_risks:
+  - Vertical smoke spread
+  - Fire migration between floors
+  - Unsealed penetrations
+  - Service shaft fire spread
+
+common_compliance_checks:
+  - Shaft enclosures provided
+  - Fire stopping installed
+  - Penetrations sealed
+  - Fire-rated access doors installed
+
+related_rules:
+  - NBC-FP-006
+  - NBC-FP-007
+
+related_systems:
+  - Compartmentation
+  - Fire Resistance
+  - Electrical Fire Safety

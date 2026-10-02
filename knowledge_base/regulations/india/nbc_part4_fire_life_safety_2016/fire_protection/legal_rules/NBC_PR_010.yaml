@@ -1,0 +1,23 @@
+rule_id: NBC-PR-010
+
+title: Standby Fire Pump Requirement
+
+category: Fire Pumps
+
+applies_to:
+  - Buildings requiring fire pumps
+
+requirement:
+  Standby fire pumps shall be provided to ensure system reliability.
+
+compliance_check:
+  Verify standby pump functionality.
+
+evidence_required:
+  - Pump testing reports
+
+risk_if_non_compliant:
+  Single point failure of fire water supply.
+
+source_document:
+  National Building Code of India 2016 Part 4

@@ -1,0 +1,43 @@
+rule_id: OCC-MER-001
+
+occupancy_group: Mercantile
+
+rule_category: Occupancy Definition
+
+occupancy_definition: >
+  Buildings or portions of buildings used
+  for displaying, selling, or trading
+  merchandise and goods.
+
+applies_to:
+  - Retail Stores
+  - Shopping Malls
+  - Department Stores
+  - Supermarkets
+  - Hypermarkets
+  - Wholesale Markets
+
+occupancy_characteristics:
+  - Public access
+  - Customer occupancy
+  - Merchandise storage
+  - Variable occupant density
+
+primary_fire_safety_concern:
+  Protection of occupants and prevention
+  of fire spread through merchandise areas.
+
+related_nbc_domains:
+  - Occupancy Classification
+  - Fire Protection
+  - Means of Escape
+
+retrieval_keywords:
+  - shopping mall
+  - retail store
+  - supermarket
+  - mercantile occupancy
+
+source:
+  document: NBC Part 4 Fire and Life Safety
+  occupancy_group: Mercantile

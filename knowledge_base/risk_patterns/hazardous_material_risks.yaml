@@ -1,0 +1,53 @@
+risk_name: Hazardous Material Risks
+
+severity: Critical
+
+description:
+  Risks associated with storage, handling,
+  processing, or transportation of hazardous,
+  flammable, explosive, or toxic materials.
+
+common_causes:
+  - Chemical reactions
+  - Improper storage
+  - Leakage of hazardous substances
+  - Incompatible material mixing
+  - Process failures
+
+warning_signs:
+  - Chemical odors
+  - Leaking containers
+  - Corroded storage tanks
+  - Improper labeling
+  - Excessive storage quantities
+
+potential_consequences:
+  - Explosions
+  - Toxic releases
+  - Rapid fire spread
+  - Mass casualties
+
+high_risk_occupancies:
+  - Industrial
+  - Chemical Plants
+  - Hazardous Occupancies
+  - Warehouses
+
+related_case_studies:
+  - Maharashtra Chemical Factory Fire
+  - Ankleshwar Chemical Plant Fire
+
+related_regulatory_domains:
+  - Hazardous Occupancy
+  - Fire Prevention
+  - Fire Protection
+  - Hazardous Material Control
+
+recommended_controls:
+  - Hazard audits
+  - Proper storage segregation
+  - Leak detection systems
+  - Explosion protection measures
+  - Process safety management
+
+risk_score_impact: Critical

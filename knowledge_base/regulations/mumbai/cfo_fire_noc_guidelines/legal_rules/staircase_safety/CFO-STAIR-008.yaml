@@ -1,0 +1,24 @@
+rule_id: CFO-STAIR-008
+
+title: Terrace Access Door Requirement
+
+category: Evacuation
+
+applies_to:
+  - Buildings with terrace evacuation provisions
+
+requirement:
+  Terrace access doors used for emergency evacuation shall remain accessible and operational.
+
+compliance_check:
+  Verify access door functionality.
+
+evidence_required:
+  - Site inspection
+  - Maintenance records
+
+risk_if_non_compliant:
+  Reduced emergency evacuation options.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

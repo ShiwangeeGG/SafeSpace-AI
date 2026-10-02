@@ -1,0 +1,88 @@
+case_id: CASE-IND-003
+
+incident_name: Bhiwandi Warehouse Fire
+
+incident_date: 2020
+
+location:
+city: Bhiwandi
+state: Maharashtra
+country: India
+
+occupancy_type: Storage
+
+building_type:
+
+- Warehouse
+- Storage Facility
+
+incident_type:
+
+- Fire
+
+severity: High
+
+fatalities: Low
+
+injuries: Multiple
+
+summary: >
+A large warehouse fire resulted in extensive property
+damage. The incident demonstrated the importance of
+storage management, compartmentation, and early fire
+detection in large storage occupancies.
+
+root_causes:
+
+- Electrical fault
+- Stored combustible materials
+- Delayed fire detection
+
+fire_safety_failures:
+
+- Inadequate compartmentation
+- Insufficient fire protection coverage
+- Poor storage practices
+
+affected_systems:
+
+- Fire Protection Systems
+- Fire Prevention
+- Operational Fire Safety
+
+risk_patterns:
+
+- High fire load
+- Rapid fire spread
+- Large property losses
+- Detection delays
+
+occupancy_risks:
+
+- Warehouse workers
+- High-value inventory
+- Large storage volumes
+
+fatality_mechanism:
+
+- Smoke Inhalation
+- Burns
+
+related_nbc_domains:
+
+- Storage Occupancy
+- Fire Protection
+- Fire Prevention
+
+lessons_learned:
+
+- Improve compartmentation
+- Install sprinkler systems
+- Maintain storage clearances
+
+prevention_recommendations:
+
+- Warehouse sprinklers
+- Fire alarms
+- Storage audits
+- Electrical inspections

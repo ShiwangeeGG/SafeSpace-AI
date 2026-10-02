@@ -1,0 +1,23 @@
+rule_id: NBC-FP-009
+
+title: False Ceilings Shall Not Increase Fire Risk
+
+category: Interior Finish
+
+applies_to:
+  - Buildings with suspended ceilings
+
+requirement:
+  False ceiling materials shall comply with applicable fire performance requirements.
+
+compliance_check:
+  Verify ceiling material specifications.
+
+evidence_required:
+  - Material certifications
+
+risk_if_non_compliant:
+  Concealed fire spread.
+
+source_document:
+  National Building Code of India 2016 Part 4

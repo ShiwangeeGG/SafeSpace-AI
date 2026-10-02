@@ -1,0 +1,26 @@
+rule_id: MFS-MAINT-001
+
+title: Biannual Fire Safety Maintenance Certification
+
+category: Maintenance
+
+applies_to:
+  - Buildings requiring fire safety systems
+
+requirement:
+  Fire prevention and life safety systems shall be certified twice annually in January and July.
+
+compliance_check:
+  Verify existence of certificates for both periods.
+
+evidence_required:
+  - Form B-1
+  - Maintenance records
+
+risk_if_non_compliant:
+  Fire systems may remain defective without detection.
+
+source_document:
+  Maharashtra Fire Prevention and Life Safety Measures (Amendment) Rules 2025
+
+page: 2

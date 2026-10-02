@@ -1,0 +1,25 @@
+life_safety_component: Refuge Areas
+
+description:
+  Protected spaces intended for temporary shelter during emergency evacuation.
+
+purpose:
+  Provide a safe waiting area for occupants unable to immediately evacuate.
+
+why_it_matters:
+  Refuge areas are critical in high-rise evacuations.
+
+common_compliance_checks:
+  - Accessibility
+  - Encroachment checks
+  - Signage availability
+  - Smoke-free environment
+
+related_rules:
+  - NBC-LS-009
+  - NBC-LS-010
+
+related_systems:
+  - Staircases
+  - Fire Lifts
+  - Emergency Communication

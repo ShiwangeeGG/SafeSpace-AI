@@ -1,0 +1,51 @@
+occupancy_name: Mixed
+
+occupancy_category: Mixed Occupancy
+
+description: >
+  Mixed occupancies present complex evacuation
+  challenges because different occupant groups
+  may require different evacuation strategies.
+
+examples:
+  - Mall + Multiplex
+  - Retail + Residential
+  - Office + Retail
+
+occupancy_characteristics:
+  - Shared circulation areas
+  - Different occupant behaviours
+  - Variable occupancy loads
+
+primary_fire_safety_concerns:
+  - Exit congestion
+  - Crowd interaction
+  - Smoke exposure
+
+common_fire_risks:
+  - Blocked exits
+  - Occupancy overload
+  - Delayed evacuation
+
+evacuation_complexity: Critical
+
+risk_level: High
+
+related_risk_patterns:
+  - evacuation_failures
+  - blocked_exits_risks
+  - occupancy_overload_risks
+
+recommended_focus_areas:
+  - Evacuation planning
+  - Emergency communication
+  - Occupancy management
+  - Exit monitoring
+
+retrieval_keywords:
+  - mixed occupancy evacuation
+  - multi occupancy building
+  - evacuation planning
+
+source:
+  document: NBC Part 4 Fire and Life Safety

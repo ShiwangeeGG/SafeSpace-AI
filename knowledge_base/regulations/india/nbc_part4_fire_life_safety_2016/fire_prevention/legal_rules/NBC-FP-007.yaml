@@ -1,0 +1,24 @@
+rule_id: NBC-FP-007
+
+title: Service Penetrations Shall Be Fire Stopped
+
+category: Fire Stopping
+
+applies_to:
+  - Buildings with utility penetrations
+
+requirement:
+  Openings created for services passing through fire barriers shall be fire stopped.
+
+compliance_check:
+  Verify fire stopping installations.
+
+evidence_required:
+  - Fire stop certification
+  - Site inspection
+
+risk_if_non_compliant:
+  Compartment failure during fire.
+
+source_document:
+  National Building Code of India 2016 Part 4

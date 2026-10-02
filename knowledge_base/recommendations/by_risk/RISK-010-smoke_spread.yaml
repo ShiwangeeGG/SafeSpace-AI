@@ -1,0 +1,59 @@
+risk_id: RISK-010
+
+risk_name: Smoke Spread Risks
+
+category: Smoke Management
+
+risk_level: Critical
+
+risk_description: >
+  Smoke spreads beyond the fire area,
+  reducing visibility and causing
+  life-threatening conditions.
+
+why_it_is_dangerous:
+  - Smoke inhalation
+  - Loss of visibility
+  - Evacuation failure
+
+affected_occupancies:
+  - High Rise Buildings
+  - Hospital
+  - Residential
+  - Mercantile
+
+related_compliance_gaps:
+  - GAP-008-no_smoke_management
+  - GAP-011-poor_compartmentation
+
+immediate_actions:
+  - Verify smoke control systems
+  - Ensure fire doors remain closed
+
+short_term_actions:
+  - Review compartmentation
+  - Conduct smoke management assessment
+
+long_term_actions:
+  - Upgrade smoke extraction systems
+  - Improve compartmentation measures
+
+high_priority_systems:
+  - Smoke Management
+  - Fire Doors
+  - Compartmentation
+
+related_case_studies:
+  - AMRI Hospital Fire
+  - Crystal Tower Fire
+  - Kamala Mills Fire
+
+ai_reasoning_hints:
+  - Smoke is often the primary cause of fatalities
+
+retrieval_keywords:
+  - smoke spread
+  - smoke inhalation
+
+source:
+  document: Risk Patterns Layer

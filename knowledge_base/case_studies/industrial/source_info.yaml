@@ -1,0 +1,26 @@
+domain: Industrial Fire Incident Case Studies
+
+occupancies_covered:
+
+- Factories
+- Chemical Plants
+- Manufacturing Facilities
+- Warehouses
+- Storage Facilities
+
+analysis_focus:
+
+- Root Cause Analysis
+- Compliance Failures
+- Fire Safety Lessons
+- Hazardous Material Risks
+- Explosion Risks
+
+intended_ai_usage:
+
+- Training
+- Risk Assessment
+- Compliance Education
+- Incident Investigation Support
+
+retrieval_priority: High

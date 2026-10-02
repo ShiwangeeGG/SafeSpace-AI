@@ -1,0 +1,41 @@
+rule_id: OCC-IND-004
+
+occupancy_group: Industrial
+
+rule_category: Worker Safety and Emergency Response
+
+occupancy_definition: >
+Industrial occupancies require emergency
+preparedness and worker protection due to
+operational hazards and machinery-related risks.
+
+applies_to:
+
+- Factories
+- Manufacturing Facilities
+- Industrial Plants
+
+occupancy_characteristics:
+
+- Workforce concentration
+- Shift-based operations
+- Emergency response requirements
+
+primary_fire_safety_concern:
+Worker evacuation and incident containment.
+
+related_nbc_domains:
+
+- Means of Escape
+- Operational Fire Safety
+- Emergency Communication
+
+retrieval_keywords:
+
+- worker safety
+- industrial evacuation
+- factory emergency
+
+source:
+document: NBC Part 4 Fire and Life Safety
+occupancy_group: Industrial

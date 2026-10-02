@@ -1,0 +1,42 @@
+rule_id: OCC-BUS-004
+
+occupancy_group: Business
+
+rule_category: High-Rise Business Occupancies
+
+occupancy_definition: >
+Business occupancies located within high-rise
+office towers and multi-storey office complexes.
+
+applies_to:
+
+- Office Towers
+- Business Parks
+- Commercial Office Complexes
+
+occupancy_characteristics:
+
+- Large occupant population
+- Multiple floors
+- Dependence on fire lifts
+- Complex evacuation requirements
+
+primary_fire_safety_concern:
+Smoke management and high-rise evacuation.
+
+related_nbc_domains:
+
+- High Rise Buildings
+- Fire Lifts
+- Smoke Management
+- Fire Command Centre
+
+retrieval_keywords:
+
+- office tower
+- business park
+- high rise office
+
+source:
+document: NBC Part 4 Fire and Life Safety
+occupancy_group: Business

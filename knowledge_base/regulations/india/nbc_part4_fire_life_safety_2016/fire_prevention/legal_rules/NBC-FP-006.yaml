@@ -1,0 +1,26 @@
+rule_id: NBC-FP-006
+
+title: Vertical Shafts Shall Be Fire Protected
+
+category: Shafts
+
+applies_to:
+  - Lift Shafts
+  - Service Shafts
+  - Utility Shafts
+
+requirement:
+  Vertical shafts shall be enclosed using fire-resistant construction.
+
+compliance_check:
+  Verify shaft enclosure integrity.
+
+evidence_required:
+  - Shaft drawings
+  - Inspection records
+
+risk_if_non_compliant:
+  Vertical fire and smoke spread.
+
+source_document:
+  National Building Code of India 2016 Part 4

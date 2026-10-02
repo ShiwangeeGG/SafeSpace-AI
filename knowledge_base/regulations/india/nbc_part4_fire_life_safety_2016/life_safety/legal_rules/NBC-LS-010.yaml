@@ -1,0 +1,23 @@
+rule_id: NBC-LS-010
+
+title: Refuge Areas Shall Not Be Used For Storage
+
+category: Refuge Area
+
+applies_to:
+  - Buildings with refuge areas
+
+requirement:
+  Refuge areas shall remain free from storage and unauthorized occupancy.
+
+compliance_check:
+  Verify refuge area usage.
+
+evidence_required:
+  - Site inspection
+
+risk_if_non_compliant:
+  Refuge functionality compromised.
+
+source_document:
+  National Building Code of India 2016 Part 4

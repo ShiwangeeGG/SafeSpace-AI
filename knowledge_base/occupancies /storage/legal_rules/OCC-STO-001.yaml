@@ -1,0 +1,43 @@
+rule_id: OCC-STO-001
+
+occupancy_group: Storage
+
+rule_category: Occupancy Definition
+
+occupancy_definition: >
+  Buildings or portions of buildings
+  primarily used for storage, warehousing,
+  preservation, or safeguarding of goods,
+  materials, products, or commodities.
+
+applies_to:
+  - Warehouses
+  - Godowns
+  - Distribution Centres
+  - Storage Depots
+  - Logistics Facilities
+
+occupancy_characteristics:
+  - Large storage areas
+  - High fuel load
+  - Limited occupant density
+  - Long-duration storage
+
+primary_fire_safety_concern:
+  Prevention of large-scale fire spread
+  through stored materials.
+
+related_nbc_domains:
+  - Occupancy Classification
+  - Fire Protection
+  - Fire Prevention
+
+retrieval_keywords:
+  - warehouse
+  - godown
+  - storage occupancy
+  - distribution centre
+
+source:
+  document: NBC Part 4 Fire and Life Safety
+  occupancy_group: Storage

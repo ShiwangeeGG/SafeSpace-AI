@@ -1,0 +1,24 @@
+rule_id: CFO-ELEC-004
+
+title: Low Smoke Cable Requirement
+
+category: Electrical Wiring
+
+applies_to:
+  - Fire Safety Critical Electrical Installations
+
+requirement:
+  Low smoke generating cables shall be used where specified.
+
+compliance_check:
+  Verify cable specifications.
+
+evidence_required:
+  - Manufacturer certification
+  - Electrical installation records
+
+risk_if_non_compliant:
+  Excessive smoke generation during fire incidents.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

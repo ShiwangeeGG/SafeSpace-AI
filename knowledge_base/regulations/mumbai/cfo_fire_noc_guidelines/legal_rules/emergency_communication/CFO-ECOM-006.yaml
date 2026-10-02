@@ -1,0 +1,24 @@
+rule_id: CFO-ECOM-006
+
+title: Emergency Communication System Maintenance Requirement
+
+category: Maintenance
+
+applies_to:
+  - Emergency Communication Systems
+
+requirement:
+  Emergency communication systems shall be regularly inspected, tested, and maintained.
+
+compliance_check:
+  Verify maintenance records and testing schedules.
+
+evidence_required:
+  - Maintenance logs
+  - Inspection reports
+
+risk_if_non_compliant:
+  Communication system failure during emergencies.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

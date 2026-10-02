@@ -1,0 +1,24 @@
+rule_id: NBC-LS-005
+
+title: Exit Doors Shall Open In Direction Of Escape
+
+category: Exit Doors
+
+applies_to:
+  - Buildings with significant occupant load
+
+requirement:
+  Exit doors shall open in the direction of travel towards evacuation.
+
+compliance_check:
+  Verify door swing direction.
+
+evidence_required:
+  - Architectural drawings
+  - Site inspection
+
+risk_if_non_compliant:
+  Congestion during emergency evacuation.
+
+source_document:
+  National Building Code of India 2016 Part 4

@@ -1,0 +1,36 @@
+risk_name: Electrical Fire Risks
+
+severity: High
+
+common_causes:
+  - Short circuits
+  - Overloaded circuits
+  - Faulty wiring
+  - Poor maintenance
+
+warning_signs:
+  - Burning smell
+  - Sparking
+  - Frequent breaker trips
+  - Overheating panels
+
+potential_consequences:
+  - Electrical fires
+  - Smoke spread
+  - Equipment failure
+
+high_risk_occupancies:
+  - Residential
+  - Commercial
+  - Industrial
+  - Hospitals
+
+related_case_studies:
+  - Times Tower Fire
+  - Bhandara Hospital Fire
+  - Delhi Apartment Fire Pattern
+
+recommended_controls:
+  - Thermal inspections
+  - Electrical audits
+  - Load balancing

@@ -1,0 +1,24 @@
+rule_id: NBC-HR-003
+
+title: Fire Fighting Shaft Requirement
+
+category: Fire Fighting Infrastructure
+
+applies_to:
+  - High Rise Buildings
+
+requirement:
+  Fire fighting shafts shall be provided to support firefighting operations.
+
+compliance_check:
+  Verify shaft construction and accessibility.
+
+evidence_required:
+  - Fire safety drawings
+  - Site inspection
+
+risk_if_non_compliant:
+  Reduced firefighter access.
+
+source_document:
+  National Building Code of India 2016 Part 4 Annex E

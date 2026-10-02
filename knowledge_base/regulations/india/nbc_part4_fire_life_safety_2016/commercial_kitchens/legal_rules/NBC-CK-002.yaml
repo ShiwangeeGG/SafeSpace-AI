@@ -1,0 +1,24 @@
+rule_id: NBC-CK-002
+
+title: Exhaust Hood Shall Cover Cooking Equipment
+
+category: Kitchen Exhaust System
+
+applies_to:
+  - Commercial Kitchens
+
+requirement:
+  Exhaust hoods shall fully cover cooking equipment generating grease vapours.
+
+compliance_check:
+  Verify hood dimensions and coverage.
+
+evidence_required:
+  - Hood specifications
+  - Kitchen layout drawings
+
+risk_if_non_compliant:
+  Grease and smoke may escape into occupied spaces.
+
+source_document:
+  National Building Code of India 2016 Part 4 Annex G

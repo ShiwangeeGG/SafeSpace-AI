@@ -1,0 +1,25 @@
+rule_id: CFO-ACC-009
+
+title: Anti-Skid Surface Requirement
+
+category: Fire Appliance Access
+
+applies_to:
+  - Fire appliance ramps
+  - Fire appliance movement routes
+
+requirement:
+  Access routes and ramps shall be provided with anti-skid surface treatment.
+
+compliance_check:
+  Verify anti-skid finish exists.
+
+evidence_required:
+  - Site inspection
+  - Material specifications
+
+risk_if_non_compliant:
+  Reduced vehicle traction during emergency response.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

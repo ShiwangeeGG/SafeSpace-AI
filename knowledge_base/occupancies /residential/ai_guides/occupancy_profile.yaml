@@ -1,0 +1,65 @@
+occupancy_name: Residential
+
+occupancy_category: Residential Occupancy
+
+description: >
+  Buildings used primarily for living,
+  sleeping, and domestic activities.
+  Residential occupancies represent the
+  most common building type encountered
+  in urban environments.
+
+examples:
+  - Apartments
+  - Residential Towers
+  - Housing Societies
+  - Individual Houses
+  - Row Houses
+
+occupancy_characteristics:
+  - Sleeping occupants
+  - Continuous occupancy
+  - Domestic activities
+  - Family-based occupancy
+
+primary_fire_safety_concerns:
+  - Early fire detection
+  - Smoke inhalation
+  - Staircase safety
+  - Occupant awareness
+
+common_fire_risks:
+  - Electrical faults
+  - Kitchen fires
+  - LPG leaks
+  - Smoke spread
+  - Maintenance failures
+
+evacuation_complexity: Medium
+
+risk_level: Medium
+
+related_case_studies:
+  - Crystal Tower Fire
+  - Mumbai Residential High-Rise Fires
+
+related_risk_patterns:
+  - smoke_spread_risks
+  - electrical_risks
+  - maintenance_failures
+  - blocked_exits_risks
+
+recommended_focus_areas:
+  - Fire detection
+  - Staircase safety
+  - Smoke management
+  - Occupant awareness
+
+retrieval_keywords:
+  - residential occupancy
+  - apartment
+  - housing society
+  - residential tower
+
+source:
+  document: NBC Part 4 Fire and Life Safety

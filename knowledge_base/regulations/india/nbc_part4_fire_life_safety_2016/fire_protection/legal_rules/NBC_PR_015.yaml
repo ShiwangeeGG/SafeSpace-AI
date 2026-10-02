@@ -1,0 +1,24 @@
+rule_id: NBC-PR-015
+
+title: Fire Command Centre Requirement
+
+category: Fire Command Centre
+
+applies_to:
+  - High-rise buildings and specified occupancies
+
+requirement:
+  A Fire Command Centre shall be provided for monitoring and managing fire emergencies.
+
+compliance_check:
+  Verify command centre availability and equipment.
+
+evidence_required:
+  - Building plans
+  - Inspection records
+
+risk_if_non_compliant:
+  Reduced emergency coordination capability.
+
+source_document:
+  National Building Code of India 2016 Part 4

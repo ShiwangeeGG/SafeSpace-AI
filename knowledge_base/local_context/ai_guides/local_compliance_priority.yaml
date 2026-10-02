@@ -1,0 +1,30 @@
+domain: Local Compliance Priority
+
+mumbai:
+
+  priority_requirements:
+    - Means of Escape
+    - Fire Alarm Systems
+    - Fire Protection Systems
+    - Fire Lifts
+    - Refuge Areas
+    - Fire Command Centre
+
+maharashtra:
+
+  priority_requirements:
+    - Fire Detection
+    - Fire Suppression
+    - Fire Fighting Access
+
+india:
+
+  priority_requirements:
+    - Occupant Life Safety
+    - Fire Detection
+    - Fire Protection
+
+ai_goal: >
+  Focus compliance recommendations
+  on the most critical regulatory
+  requirements.

@@ -1,0 +1,31 @@
+system_component: Electrical Fire Safety
+
+description:
+  Fire prevention measures associated with electrical systems, equipment, installations, wiring, and power distribution infrastructure.
+
+purpose:
+  Reduce the risk of electrical ignition and fire incidents.
+
+why_it_matters:
+  Electrical faults remain one of the leading causes of building fires.
+
+common_fire_risks:
+  - Short circuits
+  - Overloaded circuits
+  - Loose connections
+  - Equipment overheating
+  - Arc faults
+
+common_compliance_checks:
+  - Electrical inspections completed
+  - Protective devices installed
+  - Wiring condition verified
+  - Maintenance records available
+
+related_rules:
+  - NBC-FP-010
+
+related_systems:
+  - Fire Detection Systems
+  - Emergency Power Systems
+  - Fire Alarm Systems

@@ -1,0 +1,27 @@
+rule_id: MFS-ACT-008
+
+title: Access for Fire Safety Inspections
+
+category: Inspection
+
+applies_to:
+  - Owners
+  - Occupiers
+
+requirement:
+  Owners and occupiers shall provide all possible assistance during fire safety inspections.
+
+compliance_check:
+  Verify inspection access was granted.
+
+evidence_required:
+  - Inspection records
+  - Officer reports
+
+risk_if_non_compliant:
+  Enforcement action and obstruction violations.
+
+source_document:
+  Maharashtra Fire Prevention and Life Safety Measures Act, 2006
+
+page: 6

@@ -1,0 +1,47 @@
+system_component: Emergency Communication
+
+description:
+  Emergency communication systems provide real-time instructions, warnings, and coordination capabilities during fire and life safety emergencies.
+
+purpose:
+  Deliver clear information to occupants and emergency responders to support evacuation and incident management.
+
+why_it_matters:
+  Effective communication reduces panic, improves evacuation efficiency, and enhances coordination between occupants, building management, and firefighters.
+
+common_fire_risks:
+  - Occupant confusion
+  - Delayed evacuation
+  - Panic during emergencies
+  - Communication breakdowns
+  - Poor responder coordination
+
+common_compliance_checks:
+  - Emergency communication system operational
+  - Public address system functional
+  - Voice evacuation capability available
+  - Firefighter communication facilities operational
+  - Emergency messaging tested
+  - Maintenance records available
+
+critical_safety_features:
+  - Public Address System
+  - Voice Evacuation System
+  - Firefighter Communication Network
+  - Emergency Messaging Platform
+  - Communication Backup Systems
+
+related_rules:
+  - CFO-ECOM-001
+  - CFO-ECOM-002
+  - CFO-ECOM-003
+  - CFO-ECOM-004
+  - CFO-ECOM-005
+  - CFO-ECOM-006
+
+related_systems:
+  - Fire Alarm Systems
+  - Fire Control Room
+  - Fire Command Centre
+  - Evacuation Strategy
+  - Refuge Areas

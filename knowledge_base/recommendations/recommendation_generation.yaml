@@ -1,0 +1,50 @@
+generation_inputs:
+
+  occupancy:
+    weight: High
+
+  risk_pattern:
+    weight: Critical
+
+  compliance_gap:
+    weight: Critical
+
+  system_status:
+    weight: High
+
+generation_process:
+
+  step_1:
+    identify_occupancy
+
+  step_2:
+    identify_risks
+
+  step_3:
+    identify_gaps
+
+  step_4:
+    identify_system_failures
+
+  step_5:
+    rank_recommendations
+
+recommendation_outputs:
+
+  immediate_actions
+
+  short_term_actions
+
+  long_term_actions
+
+recommendation_constraints:
+
+  - Must prioritize life safety
+  - Must address critical risks first
+  - Must address compliance gaps
+  - Must be actionable
+
+ai_reasoning_goal: >
+  Combine occupancy, risk,
+  compliance, and system information
+  into prioritized recommendations.

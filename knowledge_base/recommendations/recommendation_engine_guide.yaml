@@ -1,0 +1,58 @@
+engine_name: SafeSpace Recommendation Engine
+
+recommendation_workflow:
+
+  step_1:
+    action: Identify Occupancy
+
+  step_2:
+    action: Identify Risks
+
+  step_3:
+    action: Detect Compliance Gaps
+
+  step_4:
+    action: Evaluate System Readiness
+
+  step_5:
+    action: Generate Recommendations
+
+reasoning_priority:
+
+  1:
+    category: Life Safety
+
+  2:
+    category: Evacuation
+
+  3:
+    category: Fire Detection
+
+  4:
+    category: Fire Suppression
+
+  5:
+    category: Fire Fighting Support
+
+  6:
+    category: Property Protection
+
+recommendation_strategy:
+
+  critical_risk:
+    action: Immediate Intervention
+
+  high_risk:
+    action: Urgent Corrective Action
+
+  moderate_risk:
+    action: Planned Improvement
+
+  low_risk:
+    action: Monitoring
+
+ai_reasoning_goal: >
+  Always prioritize recommendations
+  that reduce life safety risk before
+  recommendations focused on compliance
+  documentation or property protection.

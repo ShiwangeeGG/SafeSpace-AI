@@ -1,0 +1,66 @@
+occupancy_id: OCC-008
+
+occupancy_name: Mercantile
+
+category: Occupancy Recommendations
+
+risk_level: High
+
+primary_fire_safety_concerns:
+
+- Occupancy overload
+- Combustible merchandise
+- Smoke spread
+- Public evacuation
+
+common_compliance_gaps:
+
+- Missing sprinklers
+- Blocked exits
+- Poor smoke management
+
+related_risk_patterns:
+
+- occupancy_overload
+- combustible_materials
+- smoke_spread_risks
+
+immediate_actions:
+
+- Verify exits
+- Check sprinkler functionality
+- Review occupancy levels
+
+short_term_actions:
+
+- Conduct evacuation drills
+- Improve emergency communication
+
+long_term_actions:
+
+- Upgrade smoke control systems
+- Improve fire protection coverage
+
+high_priority_systems:
+
+- Sprinkler Systems
+- Fire Alarm Systems
+- Smoke Management
+
+related_case_studies:
+
+- Dreams Mall Fire
+- Kamala Mills Fire
+
+ai_reasoning_hints:
+
+- Assume public unfamiliarity with exits
+- Prioritize crowd safety
+
+retrieval_keywords:
+
+- mall fire safety
+- retail fire safety
+
+source:
+document: NBC Part 4 Fire and Life Safety

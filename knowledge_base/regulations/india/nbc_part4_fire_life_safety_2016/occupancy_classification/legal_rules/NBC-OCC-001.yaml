@@ -1,0 +1,27 @@
+rule_id: NBC-OCC-001
+
+title: Residential Occupancy Classification
+
+category: Occupancy Classification
+
+applies_to:
+  - Buildings used for residential purposes
+
+requirement:
+  Buildings in which sleeping accommodation is provided for normal residential purposes shall be classified as Residential Occupancy.
+
+compliance_check:
+  Verify primary use of building is residential habitation.
+
+evidence_required:
+  - Building plans
+  - Occupancy certificate
+  - Site inspection
+
+risk_if_non_compliant:
+  Incorrect occupancy classification may result in application of wrong fire safety requirements.
+
+source_document:
+  National Building Code of India 2016 Part 4
+
+page: Occupancy Classification Chapter

@@ -1,0 +1,56 @@
+system_id: SYS-003
+
+system_name: Hydrant System
+
+category: Fire Fighting Infrastructure
+
+criticality_level: High
+
+system_purpose: >
+  Provide water supply for firefighting
+  operations.
+
+why_it_is_important:
+  - Supports fire brigade operations
+  - Controls large fires
+
+affected_occupancies:
+  - High Rise Buildings
+  - Industrial
+  - Mercantile
+
+common_failure_modes:
+  - Dry hydrants
+  - Damaged hoses
+  - Low pressure
+
+related_compliance_gaps:
+  - GAP-002-missing_hydrant_system
+
+immediate_actions:
+  - Verify water availability
+  - Inspect hose reels
+
+short_term_actions:
+  - Conduct pressure testing
+
+long_term_actions:
+  - Upgrade hydrant network
+
+inspection_focus:
+  - Hydrants
+  - Hose reels
+  - Landing valves
+
+related_case_studies:
+  - Industrial Fire Incidents
+
+ai_reasoning_hints:
+  - Critical for firefighting support
+
+retrieval_keywords:
+  - hydrant
+  - hose reel
+
+source:
+  document: NBC Part 4 Fire and Life Safety

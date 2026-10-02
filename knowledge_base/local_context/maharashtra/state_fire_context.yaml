@@ -1,0 +1,27 @@
+state: Maharashtra
+
+fire_authority:
+  - Maharashtra Fire Services
+
+major_fire_concerns:
+  - High Rise Buildings
+  - Industrial Zones
+  - Dense Urban Development
+
+notable_incidents:
+  - Kamala Mills Fire
+  - Dreams Mall Fire
+  - Times Tower Fire
+
+common_risk_patterns:
+  - Smoke Spread
+  - Occupancy Overload
+  - Electrical Fires
+
+compliance_focus:
+  - Means of Escape
+  - Fire Detection
+  - Fire Protection Systems
+
+ai_usage:
+  - State Specific Guidance

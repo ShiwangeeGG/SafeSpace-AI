@@ -1,0 +1,28 @@
+rule_id: CFO-ACC-001
+
+title: Access Road Shall Remain Unobstructed
+
+category: Fire Appliance Access
+
+applies_to:
+  - Buildings requiring fire brigade access
+
+requirement:
+  Access roads intended for fire brigade vehicles shall remain unobstructed at all times.
+
+compliance_check:
+  Verify no parking, storage, barriers, or encroachments obstruct access roads.
+
+evidence_required:
+  - Site inspection
+  - Photographs
+  - Access route plans
+
+risk_if_non_compliant:
+  Delayed fire brigade response and restricted emergency operations.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines
+
+section:
+  Fire Appliance Access

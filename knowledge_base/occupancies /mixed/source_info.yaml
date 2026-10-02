@@ -1,0 +1,39 @@
+source_id: OCC-MIX-SRC-001
+
+source_name: Mixed Occupancy Knowledge Base
+
+occupancy_group: Mixed
+
+regulatory_source:
+  - NBC 2016 Part 4 Fire and Life Safety
+
+purpose: >
+  Define mixed occupancies and provide
+  fire safety intelligence for buildings
+  containing multiple occupancy groups.
+
+applies_to:
+  - Mixed Use Towers
+  - Retail Residential Buildings
+  - Office Retail Developments
+  - Integrated Commercial Complexes
+
+primary_fire_safety_focus:
+  - Occupancy Separation
+  - Compartmentation
+  - Shared Evacuation
+  - Fire Protection Coordination
+
+related_risk_patterns:
+  - smoke_spread_risks
+  - evacuation_failures
+  - occupancy_overload_risks
+  - maintenance_failures
+
+retrieval_priority: High
+
+intended_ai_usage:
+  - Occupancy Classification
+  - Mixed Use Analysis
+  - Risk Assessment
+  - Compliance Analysis

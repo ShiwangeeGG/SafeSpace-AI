@@ -1,0 +1,34 @@
+occupancy_type: Storage
+
+description:
+  Buildings primarily used for storing goods, products, materials, or commodities.
+
+examples:
+  - Warehouses
+  - Logistics Hubs
+  - Cold Storage Facilities
+  - Distribution Centres
+
+primary_fire_risks:
+  - High fire load
+  - Stacked materials
+  - Packaging materials
+  - Limited occupancy detection
+
+typical_occupants:
+  - Warehouse Staff
+  - Logistics Personnel
+
+critical_life_safety_focus:
+  - Fire containment
+  - Early detection
+  - Access for firefighting
+
+commonly_required_systems:
+  - Sprinklers
+  - Hydrants
+  - Fire alarms
+  - Smoke detection
+
+related_nbc_rules:
+  - NBC-OCC-010

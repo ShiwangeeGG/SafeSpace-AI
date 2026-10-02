@@ -1,0 +1,63 @@
+occupancy_id: OCC-007
+
+occupancy_name: Business
+
+category: Occupancy Recommendations
+
+risk_level: Medium
+
+primary_fire_safety_concerns:
+
+- Electrical failures
+- Occupant awareness
+- Smoke spread
+- Office evacuation
+
+common_compliance_gaps:
+
+- Electrical hazards
+- Poor maintenance
+- Inadequate fire drills
+
+related_risk_patterns:
+
+- electrical_risks
+- maintenance_failures
+- smoke_spread_risks
+
+immediate_actions:
+
+- Inspect electrical panels
+- Verify alarm functionality
+
+short_term_actions:
+
+- Conduct employee fire training
+- Review evacuation plans
+
+long_term_actions:
+
+- Improve maintenance programs
+- Upgrade fire detection coverage
+
+high_priority_systems:
+
+- Fire Alarm System
+- Emergency Lighting
+- Electrical Safety Systems
+
+related_case_studies:
+
+- Times Tower Fire
+ai_reasoning_hints:
+
+- Focus on electrical ignition sources
+- Consider office-hour occupancy
+
+retrieval_keywords:
+
+- office fire safety
+- business occupancy
+
+source:
+document: NBC Part 4 Fire and Life Safety

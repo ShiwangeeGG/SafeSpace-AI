@@ -1,0 +1,24 @@
+rule_id: CFO-ELEC-006
+
+title: Separate Fire Pump Power Supply Requirement
+
+category: Emergency Power
+
+applies_to:
+  - Buildings with Fire Pumps
+
+requirement:
+  Fire pumps shall be supplied through dedicated electrical circuits.
+
+compliance_check:
+  Verify dedicated power supply arrangement.
+
+evidence_required:
+  - Electrical single-line diagram
+  - Site inspection
+
+risk_if_non_compliant:
+  Fire pumps may fail during electrical faults.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

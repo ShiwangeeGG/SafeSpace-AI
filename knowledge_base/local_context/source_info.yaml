@@ -1,0 +1,28 @@
+source_id: LOCAL-SRC-001
+
+source_name: Local Context Intelligence Knowledge Base
+
+source_type: Geographic Intelligence Layer
+
+purpose: >
+  Provide location-specific fire safety
+  intelligence and jurisdiction-aware
+  compliance guidance.
+
+knowledge_sources:
+  - India Regulations
+  - Maharashtra Regulations
+  - Mumbai Regulations
+  - Risk Patterns Layer
+  - Case Studies Layer
+
+retrieval_priority: High
+
+intended_ai_usage:
+  - Location Classification
+  - Compliance Guidance
+  - Risk Assessment
+  - Recommendation Generation
+
+maintained_for:
+  - SafeSpace_AI

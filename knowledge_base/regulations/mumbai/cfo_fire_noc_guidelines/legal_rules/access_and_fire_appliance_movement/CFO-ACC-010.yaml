@@ -1,0 +1,24 @@
+rule_id: CFO-ACC-010
+
+title: Podium Load Bearing Requirement
+
+category: Structural Support
+
+applies_to:
+  - Podiums used for fire appliance movement
+
+requirement:
+  Podium structures intended for fire appliance access shall be capable of supporting fire appliance loads.
+
+compliance_check:
+  Verify structural load-bearing certification.
+
+evidence_required:
+  - Structural design calculations
+  - Structural engineer certification
+
+risk_if_non_compliant:
+  Structural failure during firefighting operations.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

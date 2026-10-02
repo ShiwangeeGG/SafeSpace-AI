@@ -1,0 +1,27 @@
+rule_id: MFS-RULE-004
+
+title: Owners Must Respond to Fire Hazard Notices
+
+category: Enforcement
+
+applies_to:
+  - Building Owners
+  - Occupiers
+
+requirement:
+  Owners or occupiers receiving fire hazard notices shall respond before further enforcement action is taken.
+
+compliance_check:
+  Verify notice response submitted.
+
+evidence_required:
+  - Response submission
+  - Notice records
+
+risk_if_non_compliant:
+  Seizure, detention, or removal of hazardous goods.
+
+source_document:
+  Maharashtra Fire Prevention and Life Safety Measures Rules, 2009
+
+page: 4

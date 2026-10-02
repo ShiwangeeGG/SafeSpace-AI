@@ -1,0 +1,68 @@
+occupancy_id: OCC-006
+
+occupancy_name: Assembly
+
+category: Occupancy Recommendations
+
+risk_level: Critical
+
+primary_fire_safety_concerns:
+
+- High occupant density
+- Crowd panic
+- Occupancy overload
+- Evacuation bottlenecks
+
+common_compliance_gaps:
+
+- Blocked exits
+- Occupancy overload
+- Inadequate exit width
+- Poor emergency communication
+
+related_risk_patterns:
+
+- occupancy_overload
+- blocked_exits_risks
+- evacuation_failures
+
+immediate_actions:
+
+- Verify exit accessibility
+- Check occupancy limits
+- Test emergency communication systems
+
+short_term_actions:
+
+- Conduct crowd management training
+- Review evacuation plans
+
+long_term_actions:
+
+- Improve evacuation capacity
+- Upgrade fire detection systems
+
+high_priority_systems:
+
+- Fire Alarm System
+- Emergency Communication
+- Exit Signage
+
+related_case_studies:
+
+- Rajkot Gaming Zone Fire
+- Kamala Mills Fire
+
+ai_reasoning_hints:
+
+- Prioritize evacuation speed
+- Assume high panic potential
+
+retrieval_keywords:
+
+- assembly fire safety
+- auditorium fire safety
+- cinema fire safety
+
+source:
+document: NBC Part 4 Fire and Life Safety

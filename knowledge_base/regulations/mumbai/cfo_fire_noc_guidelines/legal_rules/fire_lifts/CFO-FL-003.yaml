@@ -1,0 +1,24 @@
+rule_id: CFO-FL-003
+
+title: Dedicated Power Supply Requirement
+
+category: Emergency Power
+
+applies_to:
+  - Fire Lifts
+
+requirement:
+  Fire lifts shall be connected to a reliable emergency power source.
+
+compliance_check:
+  Verify emergency power connection and backup operation.
+
+evidence_required:
+  - Electrical single-line diagram
+  - Generator test records
+
+risk_if_non_compliant:
+  Fire lift may become unavailable during power failure.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

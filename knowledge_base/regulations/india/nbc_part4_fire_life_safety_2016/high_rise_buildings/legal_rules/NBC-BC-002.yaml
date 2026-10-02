@@ -1,0 +1,24 @@
+rule_id: NBC-HR-002
+
+title: Fire Command Centre Requirement
+
+category: Emergency Management
+
+applies_to:
+  - High Rise Buildings
+
+requirement:
+  A Fire Command Centre shall be provided to monitor and manage fire emergencies.
+
+compliance_check:
+  Verify command centre availability and functionality.
+
+evidence_required:
+  - Building layout
+  - Inspection records
+
+risk_if_non_compliant:
+  Delayed emergency response coordination.
+
+source_document:
+  National Building Code of India 2016 Part 4 Annex E

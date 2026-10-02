@@ -1,0 +1,26 @@
+rule_id: CFO-OFS-010
+
+title: Fire Safety Compliance Documentation Requirement
+
+category: Compliance Management
+
+applies_to:
+  - Buildings requiring Fire NOC compliance
+
+requirement:
+  Fire safety approvals, inspection reports, certificates, and maintenance records shall be maintained and available for review.
+
+compliance_check:
+  Verify documentation availability and validity.
+
+evidence_required:
+  - Fire NOC
+  - Inspection reports
+  - Maintenance records
+  - Compliance certificates
+
+risk_if_non_compliant:
+  Regulatory non-compliance and audit failure.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

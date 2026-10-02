@@ -1,0 +1,77 @@
+case_id: CASE-TRANS-002
+
+incident_name: Gaisal Train Disaster
+
+incident_date: 1999-08-02
+
+location:
+city: Gaisal
+state: West Bengal
+country: India
+
+occupancy_type: Transportation
+
+building_type:
+
+- Railway Transport
+
+incident_type:
+
+- Collision
+- Fire
+
+severity: Catastrophic
+
+fatalities: 285+
+
+injuries: 300+
+
+summary: >
+A major train collision resulted in multiple coach
+fires and extensive casualties. The incident
+highlighted challenges in emergency response,
+passenger evacuation, and transportation safety.
+
+root_causes:
+
+- Operational failure
+- Train collision
+- Post-collision fire
+
+fire_safety_failures:
+
+- Delayed rescue access
+- Difficult passenger evacuation
+- Emergency response limitations
+
+affected_systems:
+
+- Emergency Communication
+- Operational Safety
+
+risk_patterns:
+
+- High occupant density
+- Limited evacuation options
+- Delayed emergency response
+
+occupancy_risks:
+
+- Passengers
+- Train staff
+
+fatality_mechanism:
+
+- Impact Trauma
+- Burns
+- Smoke Inhalation
+
+related_nbc_domains:
+
+- Life Safety
+
+lessons_learned:
+
+- Improve emergency communication
+- Enhance rescue planning
+- Strengthen transportation safety systems

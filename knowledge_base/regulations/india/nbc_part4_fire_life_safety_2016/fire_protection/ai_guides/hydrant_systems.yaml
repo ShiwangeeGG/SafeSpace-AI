@@ -1,0 +1,31 @@
+system_component: Hydrant Systems
+
+description:
+  Fixed firefighting infrastructure providing water outlets throughout a building for use by trained personnel and fire services.
+
+purpose:
+  Supply water for firefighting operations during fire emergencies.
+
+why_it_matters:
+  Firefighters require reliable water access to control and extinguish fires.
+
+common_fire_risks:
+  - Insufficient firefighting water
+  - Poor hydrant coverage
+  - Low water pressure
+  - Inaccessible hydrants
+
+common_compliance_checks:
+  - Hydrant coverage verified
+  - Landing valves accessible
+  - Water pressure adequate
+  - Hydrant testing completed
+
+related_rules:
+  - NBC-PR-004
+  - NBC-PR-005
+
+related_systems:
+  - Wet Risers
+  - Fire Pumps
+  - Fire Water Storage

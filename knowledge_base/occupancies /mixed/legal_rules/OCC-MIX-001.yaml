@@ -1,0 +1,40 @@
+rule_id: OCC-MIX-001
+
+occupancy_group: Mixed
+
+rule_category: Occupancy Definition
+
+occupancy_definition: >
+  Buildings containing two or more occupancy
+  classifications within the same structure
+  or development.
+
+applies_to:
+  - Mixed Use Towers
+  - Retail-Residential Buildings
+  - Office-Retail Complexes
+  - Mall-Hotel Developments
+
+occupancy_characteristics:
+  - Multiple occupancies
+  - Shared infrastructure
+  - Different risk profiles
+  - Complex fire safety requirements
+
+primary_fire_safety_concern:
+  Managing fire safety across multiple
+  occupancy types.
+
+related_nbc_domains:
+  - Occupancy Classification
+  - Fire Protection
+  - Means of Escape
+
+retrieval_keywords:
+  - mixed occupancy
+  - mixed use building
+  - multi occupancy
+
+source:
+  document: NBC Part 4 Fire and Life Safety
+  occupancy_group: Mixed

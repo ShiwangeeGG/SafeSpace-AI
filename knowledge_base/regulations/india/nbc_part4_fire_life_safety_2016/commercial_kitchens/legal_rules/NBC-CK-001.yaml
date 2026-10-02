@@ -1,0 +1,25 @@
+rule_id: NBC-CK-001
+
+title: Commercial Kitchen Exhaust Hood Requirement
+
+category: Kitchen Exhaust System
+
+applies_to:
+  - Commercial Kitchens
+
+requirement:
+  Commercial cooking equipment producing grease-laden vapours shall be provided with an exhaust hood.
+
+compliance_check:
+  Verify hood installation above cooking appliances.
+
+evidence_required:
+  - Kitchen drawings
+  - Site inspection
+  - Equipment layout
+
+risk_if_non_compliant:
+  Grease vapours may accumulate and increase fire risk.
+
+source_document:
+  National Building Code of India 2016 Part 4 Annex G

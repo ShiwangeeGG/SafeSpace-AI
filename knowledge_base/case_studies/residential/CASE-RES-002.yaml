@@ -1,0 +1,92 @@
+case_id: CASE-RES-002
+
+incident_name: Mumbai High Rise Residential Fire Pattern
+
+incident_date: Multiple Incidents
+
+location:
+city: Mumbai
+state: Maharashtra
+country: India
+
+occupancy_type: Residential
+
+building_type:
+
+- High Rise Residential Buildings
+
+incident_type:
+
+- Fire
+
+severity: High
+
+fatalities: Variable
+
+injuries: Variable
+
+summary: >
+Multiple residential tower fires in Mumbai have
+demonstrated recurring challenges involving facade
+fire spread, electrical faults, smoke migration,
+and difficulties associated with high-rise evacuation.
+
+root_causes:
+
+- Electrical faults
+- AC unit failures
+- Balcony fires
+- External facade ignition
+
+fire_safety_failures:
+
+- Poor compartmentation
+- Inadequate maintenance
+- Smoke spread through shafts
+- Deficient evacuation planning
+
+affected_systems:
+
+- Electrical Fire Safety
+- Smoke Management
+- Fire Protection Systems
+- Fire Lifts
+
+risk_patterns:
+
+- Vertical fire spread
+- Facade involvement
+- High-rise evacuation delays
+- Smoke migration
+
+occupancy_risks:
+
+- Large residential populations
+- Elderly occupants
+- Night-time incidents
+
+fatality_mechanism:
+
+- Smoke Inhalation
+- Entrapment
+
+related_nbc_domains:
+
+- Residential Occupancy
+- High Rise Buildings
+- Fire Protection
+- Smoke Management
+
+lessons_learned:
+
+- Improve facade safety
+- Conduct electrical inspections
+- Maintain fire lifts
+- Improve smoke control systems
+
+prevention_recommendations:
+
+- Facade audits
+- Electrical safety inspections
+- Fire lift testing
+- Smoke management verification

@@ -1,0 +1,45 @@
+source_id: OCC-RES-SRC-001
+
+source_name: Residential Occupancy Knowledge Base
+
+occupancy_group: Residential
+
+regulatory_source:
+  - NBC 2016 Part 4 Fire and Life Safety
+
+purpose: >
+  Define residential occupancies and provide
+  fire safety intelligence related to domestic
+  living environments, occupant safety,
+  evacuation challenges, and residential fire risks.
+
+applies_to:
+  - Apartments
+  - Residential Towers
+  - Housing Societies
+  - Individual Houses
+  - Row Houses
+
+primary_fire_safety_focus:
+  - Life Safety
+  - Smoke Management
+  - Early Detection
+  - Evacuation
+
+related_risk_patterns:
+  - smoke_spread_risks
+  - electrical_risks
+  - maintenance_failures
+  - blocked_exits_risks
+
+related_case_studies:
+  - Crystal Tower Fire
+  - Mumbai Residential High-Rise Fires
+
+retrieval_priority: High
+
+intended_ai_usage:
+  - Occupancy Classification
+  - Risk Assessment
+  - Compliance Analysis
+  - Fire Safety Recommendations

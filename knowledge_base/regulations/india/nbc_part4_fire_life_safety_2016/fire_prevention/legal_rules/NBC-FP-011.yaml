@@ -1,0 +1,24 @@
+rule_id: NBC-FP-011
+
+title: Hazardous Storage Areas Shall Be Separated
+
+category: Hazard Control
+
+applies_to:
+  - Buildings storing hazardous materials
+
+requirement:
+  Hazardous materials shall be stored in designated protected areas.
+
+compliance_check:
+  Verify storage separation measures.
+
+evidence_required:
+  - Storage layout
+  - Hazard inventory
+
+risk_if_non_compliant:
+  Increased fire severity and explosion risk.
+
+source_document:
+  National Building Code of India 2016 Part 4

@@ -1,0 +1,32 @@
+system_component: LPG Safety
+
+description:
+  Safety measures associated with the storage, distribution, control, and emergency isolation of liquefied petroleum gas used for cooking operations.
+
+purpose:
+  Prevent gas leaks, explosions, and fuel-fed fires.
+
+why_it_matters:
+  LPG leaks can create highly explosive atmospheres and significantly increase fire severity.
+
+common_fire_risks:
+  - Gas leakage
+  - Improper cylinder storage
+  - Faulty regulators
+  - Damaged piping
+  - Delayed fuel isolation
+
+common_compliance_checks:
+  - LPG installation condition
+  - Leak detection measures
+  - Emergency shutoff accessibility
+  - Fuel isolation functionality
+  - Cylinder protection measures
+
+related_rules:
+  - NBC-CK-011
+  - NBC-CK-012
+
+related_systems:
+  - Kitchen Fire Suppression System
+  - Portable Fire Extinguishers

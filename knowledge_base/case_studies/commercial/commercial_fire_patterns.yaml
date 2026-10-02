@@ -1,0 +1,62 @@
+domain: Commercial Fire Incidents
+
+common_causes:
+
+- Electrical faults
+- Kitchen fires
+- Combustible decorations
+- Unauthorized construction
+- Short circuits
+- Open flame sources
+
+common_failures:
+
+- Blocked exits
+- Missing sprinkler systems
+- Inadequate fire detection
+- Poor maintenance
+- Overcrowding
+- Delayed emergency response
+
+common_occupancies:
+
+- Restaurants
+- Rooftop Dining Venues
+- Shopping Malls
+- Office Buildings
+- Gaming Zones
+- Entertainment Venues
+
+high_risk_indicators:
+
+- Temporary structures
+- Bamboo construction
+- Plastic roofing
+- High occupant density
+- Locked exits
+- Poor ventilation
+
+most_affected_systems:
+
+- Escape Routes
+- Fire Protection Systems
+- Operational Fire Safety
+- Emergency Communication
+- Staircase Safety
+
+recommended_controls:
+
+- Automatic Sprinklers
+- Fire Alarms
+- Occupancy Management
+- Exit Route Inspections
+- Electrical Safety Audits
+- Fire Drills
+
+common_regulatory_domains:
+
+- Means of Escape
+- Fire Protection
+- Fire Prevention
+- Operational Fire Safety
+- Occupancy Safety

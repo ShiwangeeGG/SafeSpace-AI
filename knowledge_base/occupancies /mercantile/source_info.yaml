@@ -1,0 +1,57 @@
+source_id: OCC-MER-SRC-001
+
+source_name: Mercantile Occupancy Knowledge Base
+
+occupancy_group: Mercantile
+
+regulatory_source:
+
+- NBC 2016 Part 4 Fire and Life Safety
+
+purpose: >
+Define mercantile occupancies and provide
+fire safety intelligence for retail stores,
+shopping malls, supermarkets, commercial
+complexes, and merchandise sales environments.
+
+applies_to:
+
+- Shopping Malls
+- Retail Stores
+- Department Stores
+- Supermarkets
+- Hypermarkets
+- Commercial Retail Complexes
+- Wholesale Markets
+
+primary_fire_safety_focus:
+
+- Crowd Safety
+- Occupancy Management
+- Fire Detection
+- Smoke Management
+- Emergency Evacuation
+
+related_risk_patterns:
+
+- occupancy_overload_risks
+- blocked_exits_risks
+- combustible_materials
+- smoke_spread_risks
+- maintenance_failures
+
+related_case_studies:
+
+- Dreams Mall Fire
+- Kamala Mills Fire
+- Rajkot Gaming Zone Fire
+
+retrieval_priority: High
+
+intended_ai_usage:
+
+- Occupancy Classification
+- Retail Risk Assessment
+- Compliance Analysis
+- Fire Safety Recommendations
+- Crowd Safety Evaluation

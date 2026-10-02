@@ -1,0 +1,41 @@
+source_name: Occupancy Classification Knowledge Base
+
+regulatory_source:
+
+- NBC 2016 Part 4 Fire and Life Safety
+
+purpose: >
+Provide occupancy classification intelligence
+for fire safety analysis, compliance assessment,
+risk identification, and emergency planning.
+
+covered_occupancies:
+
+- Residential
+- Educational
+- Institutional
+- Hospital
+- Assembly
+- Business
+- Mercantile
+- Industrial
+- Storage
+- Hazardous
+- Mixed
+
+primary_fire_safety_focus:
+
+- Occupancy Classification
+- Life Safety
+- Fire Risk Assessment
+- Evacuation Planning
+
+retrieval_priority: Critical
+
+intended_ai_usage:
+
+- Occupancy Identification
+- Building Classification
+- Compliance Analysis
+- Fire Risk Assessment
+- Recommendation Generation

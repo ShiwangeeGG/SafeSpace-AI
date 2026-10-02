@@ -1,0 +1,30 @@
+domain: Jurisdiction Mapping
+
+jurisdictions:
+
+  india:
+    governing_authority:
+      - NBC 2016
+
+  maharashtra:
+    governing_authority:
+      - Maharashtra Fire Services
+
+  mumbai:
+    governing_authority:
+      - Mumbai Fire Brigade
+      - Chief Fire Officer Mumbai
+
+mapping_priority:
+  - City
+  - State
+  - National
+
+compliance_resolution_order:
+  - Local Rules
+  - State Rules
+  - National Rules
+
+ai_goal: >
+  Determine the correct regulatory
+  authority based on location.

@@ -1,0 +1,51 @@
+risk_name: Maintenance Failures
+
+severity: High
+
+description:
+  Failure to inspect, test, repair,
+  and maintain fire safety systems,
+  building services, and emergency equipment.
+
+common_causes:
+  - Neglected inspections
+  - Budget constraints
+  - Lack of trained personnel
+  - Poor record keeping
+
+warning_signs:
+  - Expired extinguishers
+  - Non-functional alarms
+  - Defective pumps
+  - Damaged fire doors
+  - Inoperative emergency lighting
+
+potential_consequences:
+  - System failure during emergencies
+  - Delayed detection
+  - Delayed suppression
+  - Increased fire spread
+
+high_risk_occupancies:
+  - All Occupancies
+
+related_case_studies:
+  - Crystal Tower Fire
+  - AMRI Hospital Fire
+  - Times Tower Fire
+  - Rajkot Gaming Zone Fire
+
+related_regulatory_domains:
+  - Operational Fire Safety
+  - Fire Protection Systems
+  - Fire Detection
+  - Fire Prevention
+
+recommended_controls:
+  - Scheduled inspections
+  - Preventive maintenance programs
+  - Maintenance logs
+  - Third-party audits
+  - Staff competency training
+
+risk_score_impact: High

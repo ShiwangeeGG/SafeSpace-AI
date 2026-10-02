@@ -1,0 +1,54 @@
+occupancy_id: OCC-002
+
+occupancy_name: Residential
+
+category: Occupancy Recommendations
+
+risk_level: Medium
+
+primary_fire_safety_concerns:
+  - Sleeping occupants
+  - Smoke inhalation
+  - Electrical fires
+  - Kitchen fires
+
+common_compliance_gaps:
+  - Blocked staircases
+  - Missing smoke management
+  - Electrical hazards
+
+related_risk_patterns:
+  - electrical_risks
+  - smoke_spread_risks
+  - blocked_exits_risks
+
+immediate_actions:
+  - Ensure staircase accessibility
+  - Test fire alarm systems
+
+short_term_actions:
+  - Conduct resident awareness training
+  - Inspect electrical systems
+
+long_term_actions:
+  - Improve smoke management
+  - Upgrade fire protection systems
+
+high_priority_systems:
+  - Fire Alarm System
+  - Emergency Lighting
+  - Staircase Safety
+
+related_case_studies:
+  - Crystal Tower Fire
+
+ai_reasoning_hints:
+  - Prioritize life safety
+  - Consider sleeping occupants
+
+retrieval_keywords:
+  - apartment fire safety
+  - residential building
+
+source:
+  document: NBC Part 4 Fire and Life Safety

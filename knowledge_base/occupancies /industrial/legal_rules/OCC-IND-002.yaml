@@ -1,0 +1,41 @@
+rule_id: OCC-IND-002
+
+occupancy_group: Industrial
+
+rule_category: Manufacturing Operations
+
+occupancy_definition: >
+Facilities where raw materials are converted
+into finished or semi-finished products using
+industrial processes and machinery.
+
+applies_to:
+
+- Manufacturing Units
+- Production Facilities
+- Fabrication Plants
+
+occupancy_characteristics:
+
+- Mechanical operations
+- Heat-generating equipment
+- Continuous production processes
+
+primary_fire_safety_concern:
+Control of ignition sources and process-related fires.
+
+related_nbc_domains:
+
+- Fire Prevention
+- Operational Fire Safety
+
+retrieval_keywords:
+
+- manufacturing
+- fabrication
+- production line
+- industrial process
+
+source:
+document: NBC Part 4 Fire and Life Safety
+occupancy_group: Industrial

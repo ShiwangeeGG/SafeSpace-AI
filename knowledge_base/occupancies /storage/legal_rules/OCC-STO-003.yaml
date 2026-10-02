@@ -1,0 +1,39 @@
+rule_id: OCC-STO-003
+
+occupancy_group: Storage
+
+rule_category: Combustible Storage Risks
+
+occupancy_definition: >
+  Storage occupancies may contain large
+  quantities of combustible materials,
+  packaging, pallets, cartons, and
+  merchandise capable of sustaining
+  significant fire growth.
+
+applies_to:
+  - Warehouses
+  - Distribution Centres
+  - Retail Storage Areas
+
+occupancy_characteristics:
+  - High fire load
+  - Vertical storage
+  - Dense stock arrangements
+
+primary_fire_safety_concern:
+  Limiting fire spread through stored contents.
+
+related_nbc_domains:
+  - Fire Prevention
+  - Fire Protection
+
+retrieval_keywords:
+  - combustible storage
+  - pallets
+  - cartons
+  - warehouse fire
+
+source:
+  document: NBC Part 4 Fire and Life Safety
+  occupancy_group: Storage

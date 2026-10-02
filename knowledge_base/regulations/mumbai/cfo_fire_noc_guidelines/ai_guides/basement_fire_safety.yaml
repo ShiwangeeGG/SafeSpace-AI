@@ -1,0 +1,52 @@
+system_component: Basement Fire Safety
+
+description:
+  Basement fire safety consists of fire prevention, smoke management, ventilation, detection, suppression, and compartmentation measures designed to protect occupants and firefighters in below-ground building areas.
+
+purpose:
+  Reduce fire risk and maintain safe evacuation and firefighting conditions within basement spaces.
+
+why_it_matters:
+  Basements are among the most challenging environments during fire incidents because smoke, heat, and toxic gases accumulate rapidly while evacuation routes are limited.
+
+common_fire_risks:
+  - Vehicle fires
+  - Smoke accumulation
+  - Carbon monoxide buildup
+  - Limited escape routes
+  - Delayed firefighter access
+  - Fire spread through large open areas
+
+common_compliance_checks:
+  - Mechanical ventilation operational
+  - Air change rates verified
+  - Smoke extraction systems functional
+  - Pressurized staircases available
+  - Carbon monoxide detectors installed
+  - Automatic sprinkler systems operational
+  - Fire-retardant protection applied
+  - Basement compartmentation maintained
+
+critical_safety_features:
+  - Mechanical Ventilation
+  - Smoke Extraction Systems
+  - Pressurized Staircases
+  - Carbon Monoxide Detection
+  - Automatic Sprinklers
+  - Fire Compartmentation
+
+related_rules:
+  - CFO-BSMT-001
+  - CFO-BSMT-002
+  - CFO-BSMT-003
+  - CFO-BSMT-004
+  - CFO-BSMT-005
+  - CFO-BSMT-006
+  - CFO-BSMT-007
+  - CFO-BSMT-008
+
+related_systems:
+  - Smoke Management
+  - Fire Protection Systems
+  - Life Safety Systems
+  - Emergency Ventilation

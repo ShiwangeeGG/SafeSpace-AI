@@ -1,0 +1,25 @@
+rule_id: CFO-STAIR-002
+
+title: Staircase Pressurization Requirement
+
+category: Smoke Control
+
+applies_to:
+  - Protected Staircases
+  - High Rise Buildings
+
+requirement:
+  Staircases shall be provided with pressurization systems where required to prevent smoke entry.
+
+compliance_check:
+  Verify staircase pressurization operation.
+
+evidence_required:
+  - HVAC testing reports
+  - Commissioning records
+
+risk_if_non_compliant:
+  Smoke contamination of escape routes.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

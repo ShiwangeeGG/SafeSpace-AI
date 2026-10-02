@@ -1,0 +1,48 @@
+gap_id: GAP-008
+
+gap_name: Missing Smoke Management System
+
+category: Smoke Control
+
+affected_occupancies:
+  - High Rise Buildings
+  - Mercantile
+  - Assembly
+  - Hospital
+
+risk_level: Critical
+
+compliance_issue: >
+  Building lacks required smoke extraction
+  or smoke control systems.
+
+why_it_is_dangerous:
+  - Smoke inhalation
+  - Loss of visibility
+  - Evacuation failure
+
+related_regulations:
+  - Smoke Management
+  - High Rise Buildings
+
+related_risk_patterns:
+  - smoke_spread_risks
+  - evacuation_failures
+
+immediate_actions:
+  - Review emergency procedures
+
+short_term_actions:
+  - Assess ventilation strategy
+
+long_term_actions:
+  - Install smoke management system
+
+priority_level: Critical
+
+retrieval_keywords:
+  - no smoke management
+  - no smoke exhaust
+
+source:
+  document: NBC Part 4 Fire and Life Safety

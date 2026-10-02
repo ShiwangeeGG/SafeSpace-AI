@@ -1,0 +1,67 @@
+system_id: SYS-008
+
+system_name: Emergency Communication System
+
+category: Emergency Management
+
+criticality_level: High
+
+system_purpose: >
+  Provide emergency instructions,
+  alerts, and coordination support
+  during fire incidents.
+
+why_it_is_important:
+  - Supports evacuation
+  - Reduces panic
+  - Improves emergency coordination
+
+affected_occupancies:
+  - Assembly
+  - Hospital
+  - Educational
+  - Mercantile
+  - High Rise Buildings
+
+common_failure_modes:
+  - PA system failure
+  - Power loss
+  - Equipment malfunction
+  - Poor audibility
+
+related_compliance_gaps:
+  - Inadequate emergency communication
+
+immediate_actions:
+  - Verify PA system operation
+  - Test emergency announcements
+
+short_term_actions:
+  - Inspect communication equipment
+  - Conduct communication drills
+
+long_term_actions:
+  - Upgrade communication systems
+  - Improve redundancy measures
+
+inspection_focus:
+  - Public Address System
+  - Emergency Phones
+  - Control Panels
+  - Backup Power
+
+related_case_studies:
+  - Kamala Mills Fire
+  - Rajkot Gaming Zone Fire
+
+ai_reasoning_hints:
+  - Effective communication improves evacuation outcomes
+  - Particularly important in large public occupancies
+
+retrieval_keywords:
+  - emergency communication
+  - PA system
+  - emergency announcement
+
+source:
+  document: NBC Part 4 Fire and Life Safety

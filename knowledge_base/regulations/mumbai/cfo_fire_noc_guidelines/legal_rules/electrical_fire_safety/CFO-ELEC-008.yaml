@@ -1,0 +1,24 @@
+rule_id: CFO-ELEC-008
+
+title: Electrical Installations Shall Be Maintained
+
+category: Maintenance
+
+applies_to:
+  - All Electrical Fire Safety Installations
+
+requirement:
+  Electrical installations associated with fire safety systems shall be regularly inspected and maintained.
+
+compliance_check:
+  Verify maintenance records.
+
+evidence_required:
+  - Maintenance logs
+  - Inspection reports
+
+risk_if_non_compliant:
+  Increased probability of electrical fire incidents and system failure.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

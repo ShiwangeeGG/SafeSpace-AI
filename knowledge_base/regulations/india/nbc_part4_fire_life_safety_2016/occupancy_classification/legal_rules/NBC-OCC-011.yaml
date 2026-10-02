@@ -1,0 +1,30 @@
+rule_id: NBC-OCC-011
+
+title: Hazardous Occupancy Classification
+
+category: Occupancy Classification
+
+applies_to:
+  - Buildings handling explosive materials
+  - Buildings handling flammable liquids
+  - Buildings handling combustible gases
+  - Buildings handling toxic materials
+
+requirement:
+  Buildings used for manufacture, processing, storage, or handling of highly combustible, explosive, toxic, or hazardous materials shall be classified as Hazardous Occupancy.
+
+compliance_check:
+  Verify hazardous material inventory and processes.
+
+evidence_required:
+  - Chemical inventory
+  - Hazard assessment
+  - Regulatory licences
+
+risk_if_non_compliant:
+  Severe fire, explosion, or life safety risks.
+
+source_document:
+  National Building Code of India 2016 Part 4
+
+page: Occupancy Classification Chapter

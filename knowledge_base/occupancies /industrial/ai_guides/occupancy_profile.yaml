@@ -1,0 +1,74 @@
+occupancy_name: Industrial
+
+occupancy_category: Industrial Occupancy
+
+description: >
+  Buildings used for manufacturing, fabrication,
+  assembly, repair, packaging, processing, and
+  industrial production activities. Industrial
+  occupancies typically contain machinery,
+  electrical equipment, production lines,
+  and operational processes.
+
+examples:
+  - Factories
+  - Manufacturing Plants
+  - Assembly Units
+  - Processing Facilities
+  - Production Workshops
+  - Packaging Facilities
+  - Engineering Workshops
+
+occupancy_characteristics:
+  - Machinery-intensive operations
+  - Process-driven activities
+  - Industrial equipment usage
+  - Continuous or shift-based operations
+  - Moderate to high fire loads
+
+primary_fire_safety_concerns:
+  - Machinery fires
+  - Electrical failures
+  - Process-related fires
+  - Worker safety
+  - Operational continuity
+
+common_fire_risks:
+  - Electrical faults
+  - Equipment overheating
+  - Combustible material accumulation
+  - Process failures
+  - Poor maintenance
+
+evacuation_complexity: High
+
+risk_level: High
+
+related_case_studies:
+  - Maharashtra Chemical Factory Fire
+  - Ankleshwar Chemical Plant Fire
+  - Bhiwandi Warehouse Fire
+
+related_risk_patterns:
+  - electrical_risks
+  - maintenance_failures
+  - combustible_materials
+  - hazardous_material_risks
+
+recommended_focus_areas:
+  - Electrical safety
+  - Equipment maintenance
+  - Process safety
+  - Worker training
+  - Fire protection systems
+
+retrieval_keywords:
+  - industrial occupancy
+  - factory
+  - manufacturing plant
+  - production facility
+  - workshop
+
+source:
+  document: NBC Part 4 Fire and Life Safety
+  occupancy_group: Industrial

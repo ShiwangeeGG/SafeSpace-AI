@@ -1,0 +1,33 @@
+system_component: High Rise Evacuation Strategy
+
+description:
+  A planned approach for safely moving occupants from a high-rise building during fire or emergency situations.
+
+purpose:
+  Ensure orderly evacuation while minimizing congestion and panic.
+
+why_it_matters:
+  High-rise buildings often require phased evacuation and coordinated emergency management.
+
+common_fire_risks:
+  - Occupant panic
+  - Staircase congestion
+  - Delayed evacuation
+  - Conflicting evacuation instructions
+
+common_compliance_checks:
+  - Evacuation procedures documented
+  - Emergency drills conducted
+  - Occupant awareness programs implemented
+  - Refuge area procedures defined
+
+related_rules:
+  - NBC-HR-005
+  - NBC-HR-007
+  - NBC-HR-011
+
+related_systems:
+  - Refuge Areas
+  - Emergency Communication
+  - Staircases
+  - Fire Command Centre

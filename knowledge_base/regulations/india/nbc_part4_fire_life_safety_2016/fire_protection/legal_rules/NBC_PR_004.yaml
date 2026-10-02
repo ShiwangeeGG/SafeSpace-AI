@@ -1,0 +1,24 @@
+rule_id: NBC-PR-004
+
+title: Internal Hydrant System Requirement
+
+category: Hydrant System
+
+applies_to:
+  - Buildings requiring hydrant protection
+
+requirement:
+  Internal hydrant systems shall be installed to support firefighting operations.
+
+compliance_check:
+  Verify hydrant coverage and pressure.
+
+evidence_required:
+  - Hydrant layout
+  - Hydraulic calculations
+
+risk_if_non_compliant:
+  Insufficient firefighting capability.
+
+source_document:
+  National Building Code of India 2016 Part 4

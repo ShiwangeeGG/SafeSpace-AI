@@ -1,0 +1,26 @@
+rule_id: CFO-ECOM-001
+
+title: Emergency Communication System Requirement
+
+category: Emergency Communication
+
+applies_to:
+  - High Rise Buildings
+  - Buildings requiring emergency communication systems
+
+requirement:
+  Buildings shall be provided with emergency communication systems to support occupant evacuation and emergency response operations.
+
+compliance_check:
+  Verify emergency communication infrastructure is installed and operational.
+
+evidence_required:
+  - System drawings
+  - Testing records
+  - Commissioning reports
+
+risk_if_non_compliant:
+  Delayed emergency response and evacuation confusion.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

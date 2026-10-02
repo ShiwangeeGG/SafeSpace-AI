@@ -1,0 +1,24 @@
+rule_id: NBC-HR-011
+
+title: Emergency Communication System Requirement
+
+category: Emergency Communication
+
+applies_to:
+  - High Rise Buildings
+
+requirement:
+  Emergency communication systems shall support occupant notification and firefighter coordination.
+
+compliance_check:
+  Verify communication system functionality.
+
+evidence_required:
+  - Testing records
+  - Commissioning reports
+
+risk_if_non_compliant:
+  Delayed evacuation and emergency response.
+
+source_document:
+  National Building Code of India 2016 Part 4 Annex E

@@ -1,0 +1,54 @@
+system_component: Electrical Fire Safety
+
+description:
+  Electrical fire safety consists of design, installation, protection, isolation, and maintenance measures intended to prevent fires caused by electrical systems and ensure the reliability of critical fire safety infrastructure.
+
+purpose:
+  Reduce the likelihood of electrical fires while maintaining operation of life safety and fire protection systems during emergencies.
+
+why_it_matters:
+  Electrical faults are one of the leading causes of building fires. Failure of electrical infrastructure can also disable fire alarms, pumps, communication systems, and emergency response equipment.
+
+common_fire_risks:
+  - Short circuits
+  - Electrical overloads
+  - Arc faults
+  - Cable overheating
+  - Smoke generation from burning cables
+  - Failure of fire protection systems
+
+common_compliance_checks:
+  - Dedicated electrical shafts provided
+  - Fire-rated shaft doors installed
+  - Floor penetrations fire stopped
+  - Low smoke cables used
+  - Copper core cables installed
+  - Dedicated fire pump circuits available
+  - Fire control room master switches accessible
+  - Maintenance records available
+
+critical_safety_features:
+  - Electrical Shafts
+  - Fire Rated Shaft Doors
+  - Fire Stopping Systems
+  - Low Smoke Cabling
+  - Emergency Power Circuits
+  - Fire Pump Power Supply
+  - Emergency Isolation Controls
+
+related_rules:
+  - CFO-ELEC-001
+  - CFO-ELEC-002
+  - CFO-ELEC-003
+  - CFO-ELEC-004
+  - CFO-ELEC-005
+  - CFO-ELEC-006
+  - CFO-ELEC-007
+  - CFO-ELEC-008
+
+related_systems:
+  - Fire Alarm Systems
+  - Fire Pumps
+  - Fire Control Room
+  - Emergency Communication
+  - Smoke Management

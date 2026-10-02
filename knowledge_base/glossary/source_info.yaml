@@ -1,0 +1,37 @@
+source_id: GLOSSARY-SRC-001
+
+source_name: Fire Safety Glossary Knowledge Base
+
+source_type: Reference Layer
+
+purpose: >
+  Provide standardized definitions
+  and terminology used throughout
+  SafeSpace_AI.
+
+knowledge_sources:
+  - NBC 2016 Part 4 Fire and Life Safety
+  - Mumbai CFO Fire NOC Guidelines
+  - Fire Protection Layer
+  - Occupancy Layer
+  - High Rise Buildings Layer
+  - Risk Patterns Layer
+
+supported_domains:
+  - Fire Safety
+  - Fire Protection
+  - Occupancies
+  - High Rise Buildings
+  - Risk Assessment
+  - Regulatory Compliance
+
+retrieval_priority: High
+
+intended_ai_usage:
+  - Definition Retrieval
+  - Terminology Clarification
+  - User Education
+  - Cross Layer Understanding
+
+maintained_for:
+  - SafeSpace_AI

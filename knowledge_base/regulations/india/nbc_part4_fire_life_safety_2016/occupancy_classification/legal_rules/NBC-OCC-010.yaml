@@ -1,0 +1,29 @@
+rule_id: NBC-OCC-010
+
+title: Storage Occupancy Classification
+
+category: Occupancy Classification
+
+applies_to:
+  - Warehouses
+  - Storage buildings
+  - Freight depots
+  - Cold storage facilities
+
+requirement:
+  Buildings primarily used for storage of goods, merchandise, or materials shall be classified as Storage Occupancy.
+
+compliance_check:
+  Verify primary use is storage.
+
+evidence_required:
+  - Building plans
+  - Warehouse licence
+
+risk_if_non_compliant:
+  Fire load and suppression requirements may be incorrectly determined.
+
+source_document:
+  National Building Code of India 2016 Part 4
+
+page: Occupancy Classification Chapter

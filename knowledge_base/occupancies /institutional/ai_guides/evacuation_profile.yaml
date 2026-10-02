@@ -1,0 +1,52 @@
+occupancy_name: Institutional
+
+occupancy_category: Institutional Occupancy
+
+description: >
+  Institutional occupancies require
+  assisted evacuation because many
+  occupants may be sleeping,
+  elderly, disabled, or otherwise
+  dependent on staff support.
+
+examples:
+  - Hostels
+  - Old Age Homes
+  - Rehabilitation Centres
+
+occupancy_characteristics:
+  - Assisted movement
+  - Sleeping occupants
+  - Staff-dependent evacuation
+
+primary_fire_safety_concerns:
+  - Delayed evacuation
+  - Smoke exposure
+  - Night-time incidents
+
+common_fire_risks:
+  - Blocked exits
+  - Communication failures
+  - Staff shortages
+
+evacuation_complexity: Very High
+
+risk_level: High
+
+related_risk_patterns:
+  - evacuation_failures
+  - smoke_spread_risks
+
+recommended_focus_areas:
+  - Staff training
+  - Evacuation drills
+  - Emergency lighting
+  - Exit management
+
+retrieval_keywords:
+  - institutional evacuation
+  - hostel evacuation
+  - elderly evacuation
+
+source:
+  document: NBC Part 4 Fire and Life Safety

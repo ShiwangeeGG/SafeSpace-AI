@@ -1,0 +1,24 @@
+rule_id: NBC-HR-004
+
+title: Fireman's Lift Requirement
+
+category: Fire Fighting Infrastructure
+
+applies_to:
+  - High Rise Buildings
+
+requirement:
+  Fireman's lifts shall be provided for emergency response operations.
+
+compliance_check:
+  Verify fire lift availability and operation.
+
+evidence_required:
+  - Lift specifications
+  - Functional testing records
+
+risk_if_non_compliant:
+  Delayed emergency access to upper floors.
+
+source_document:
+  National Building Code of India 2016 Part 4 Annex E

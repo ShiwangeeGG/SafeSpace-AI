@@ -1,0 +1,56 @@
+source_id: OCC-ASM-SRC-001
+
+source_name: Assembly Occupancy Knowledge Base
+
+occupancy_group: Assembly
+
+regulatory_source:
+
+- NBC 2016 Part 4 Fire and Life Safety
+
+purpose: >
+Define assembly occupancies, their characteristics,
+fire safety concerns, evacuation challenges, and
+associated risks. Supports identification and
+assessment of public gathering buildings.
+
+applies_to:
+
+- Auditoriums
+- Cinemas
+- Theatres
+- Stadiums
+- Convention Centres
+- Banquet Halls
+- Restaurants
+- Religious Buildings
+- Exhibition Halls
+- Transport Terminals
+
+primary_fire_safety_focus:
+
+- Mass Evacuation
+- Occupancy Control
+- Exit Management
+- Emergency Communication
+
+related_risk_patterns:
+
+- blocked_exits_risks
+- occupancy_overload_risks
+- combustible_materials
+- evacuation_failures
+
+related_case_studies:
+
+- Kamala Mills Fire
+- Rajkot Gaming Zone Fire
+
+retrieval_priority: High
+
+intended_ai_usage:
+
+- Occupancy Classification
+- Risk Assessment
+- Compliance Analysis
+- Recommendation Generation

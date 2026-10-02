@@ -1,0 +1,50 @@
+occupancy_id: OCC-003
+
+occupancy_name: Educational
+
+category: Occupancy Recommendations
+
+risk_level: High
+
+primary_fire_safety_concerns:
+  - Child safety
+  - Occupancy overload
+  - Evacuation management
+
+common_compliance_gaps:
+  - Locked exits
+  - Inadequate drills
+  - Poor emergency planning
+
+related_risk_patterns:
+  - occupancy_overload
+  - evacuation_failures
+
+immediate_actions:
+  - Verify exit accessibility
+  - Check alarm systems
+
+short_term_actions:
+  - Conduct evacuation drills
+  - Train staff
+
+long_term_actions:
+  - Improve fire detection coverage
+  - Establish annual safety audits
+
+high_priority_systems:
+  - Fire Alarm System
+  - Emergency Communication
+  - Means of Escape
+
+related_case_studies:
+  - Kumbakonam School Fire
+
+ai_reasoning_hints:
+  - Prioritize student evacuation
+
+retrieval_keywords:
+  - school fire safety
+
+source:
+  document: NBC Part 4 Fire and Life Safety

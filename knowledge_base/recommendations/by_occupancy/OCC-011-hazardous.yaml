@@ -1,0 +1,66 @@
+occupancy_id: OCC-011
+
+occupancy_name: Hazardous
+
+category: Occupancy Recommendations
+
+risk_level: Critical
+
+primary_fire_safety_concerns:
+
+- Explosions
+- Toxic releases
+- Chemical reactions
+- Rapid fire escalation
+
+common_compliance_gaps:
+
+- Improper storage
+- Inadequate ventilation
+- Poor hazardous material segregation
+
+related_risk_patterns:
+
+- hazardous_material_risks
+- combustible_materials
+- maintenance_failures
+
+immediate_actions:
+
+- Verify hazardous material storage
+- Inspect emergency shutdown systems
+
+short_term_actions:
+
+- Conduct hazard assessment
+- Review chemical compatibility
+
+long_term_actions:
+
+- Improve containment systems
+- Upgrade monitoring and detection systems
+
+high_priority_systems:
+
+- Gas Detection Systems
+- Fire Suppression Systems
+- Emergency Ventilation Systems
+
+related_case_studies:
+
+- Chemical Factory Fire Incidents
+- Industrial Explosion Incidents
+
+ai_reasoning_hints:
+
+- Assume worst-case escalation potential
+- Prioritize explosion prevention
+
+retrieval_keywords:
+
+- hazardous occupancy
+- chemical fire safety
+- explosion prevention
+
+source:
+document: NBC Part 4 Fire and Life Safety

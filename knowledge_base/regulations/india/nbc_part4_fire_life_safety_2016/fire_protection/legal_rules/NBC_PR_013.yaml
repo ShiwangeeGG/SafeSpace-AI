@@ -1,0 +1,24 @@
+rule_id: NBC-PR-013
+
+title: Smoke Management Requirement
+
+category: Smoke Management
+
+applies_to:
+  - Buildings requiring smoke control
+
+requirement:
+  Smoke management systems shall be provided to limit smoke accumulation and assist evacuation.
+
+compliance_check:
+  Verify smoke control system operation.
+
+evidence_required:
+  - HVAC design
+  - Functional testing reports
+
+risk_if_non_compliant:
+  Reduced visibility and increased life safety risk.
+
+source_document:
+  National Building Code of India 2016 Part 4

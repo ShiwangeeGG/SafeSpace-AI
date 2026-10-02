@@ -1,0 +1,24 @@
+rule_id: CFO-STAIR-009
+
+title: Staircase Safety Maintenance Requirement
+
+category: Maintenance
+
+applies_to:
+  - Protected Staircases
+
+requirement:
+  Staircase safety systems and protective features shall be regularly inspected and maintained.
+
+compliance_check:
+  Verify inspection and maintenance records.
+
+evidence_required:
+  - Maintenance logs
+  - Inspection reports
+
+risk_if_non_compliant:
+  Staircase safety features may fail during emergencies.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

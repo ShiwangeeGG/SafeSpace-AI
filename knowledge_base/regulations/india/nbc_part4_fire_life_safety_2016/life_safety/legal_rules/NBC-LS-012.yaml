@@ -1,0 +1,24 @@
+rule_id: NBC-LS-012
+
+title: Fire Lift Shall Be Reserved For Emergency Operations
+
+category: Fire Lift
+
+applies_to:
+  - Buildings requiring fire lifts
+
+requirement:
+  Fire lifts shall be available for fire brigade and emergency operations.
+
+compliance_check:
+  Verify fire lift designation.
+
+evidence_required:
+  - Lift specifications
+  - Fire lift signage
+
+risk_if_non_compliant:
+  Reduced emergency response capability.
+
+source_document:
+  National Building Code of India 2016 Part 4

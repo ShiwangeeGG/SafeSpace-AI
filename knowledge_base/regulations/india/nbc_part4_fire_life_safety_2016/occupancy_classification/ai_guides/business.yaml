@@ -1,0 +1,36 @@
+occupancy_type: Business
+
+description:
+  Buildings used for administration, professional services, and office operations.
+
+examples:
+  - Corporate Offices
+  - IT Parks
+  - Banks
+  - Government Offices
+  - Consultancy Firms
+
+primary_fire_risks:
+  - Electrical equipment
+  - Server rooms
+  - Paper records
+  - Air conditioning systems
+
+typical_occupants:
+  - Employees
+  - Clients
+  - Visitors
+
+critical_life_safety_focus:
+  - Safe evacuation
+  - Electrical safety
+  - Fire detection
+
+commonly_required_systems:
+  - Fire alarms
+  - Hydrants
+  - Emergency lighting
+  - Fire extinguishers
+
+related_nbc_rules:
+  - NBC-OCC-007

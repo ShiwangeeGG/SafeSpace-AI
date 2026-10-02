@@ -1,0 +1,27 @@
+rule_id: MFS-RULE-007
+
+title: Fire Deficiency Rectification Timeline Shall Not Exceed 120 Days
+
+category: Compliance Timeline
+
+applies_to:
+  - Building Owners
+  - Occupiers
+
+requirement:
+  The compliance period specified in notices shall not exceed 120 days.
+
+compliance_check:
+  Verify corrective action completed within approved timeline.
+
+evidence_required:
+  - Compliance notice
+  - Closure report
+
+risk_if_non_compliant:
+  Escalation of enforcement action.
+
+source_document:
+  Maharashtra Fire Prevention and Life Safety Measures Rules, 2009
+
+page: 5

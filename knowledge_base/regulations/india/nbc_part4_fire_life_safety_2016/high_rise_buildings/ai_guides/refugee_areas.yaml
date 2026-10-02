@@ -1,0 +1,31 @@
+system_component: Refuge Areas
+
+description:
+  Protected spaces provided within high-rise buildings where occupants can temporarily gather during emergency evacuation.
+
+purpose:
+  Provide a safe waiting area until evacuation or rescue can be completed.
+
+why_it_matters:
+  Full evacuation from very tall buildings may require staging areas for occupants.
+
+common_fire_risks:
+  - Refuge area encroachment
+  - Smoke infiltration
+  - Inaccessible refuge spaces
+  - Unauthorized occupancy
+
+common_compliance_checks:
+  - Refuge area available
+  - Access routes maintained
+  - Area free from storage
+  - Proper signage installed
+
+related_rules:
+  - NBC-HR-005
+  - NBC-HR-006
+
+related_systems:
+  - Staircases
+  - Fireman's Lift
+  - Emergency Communication

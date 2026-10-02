@@ -1,0 +1,25 @@
+rule_id: CFO-FPS-001
+
+title: Fire Protection System Requirement
+
+category: Fire Protection
+
+applies_to:
+  - Buildings requiring fire protection systems
+
+requirement:
+  Buildings shall be provided with fire protection systems appropriate to occupancy, building height, and fire risk.
+
+compliance_check:
+  Verify required fire protection systems are installed.
+
+evidence_required:
+  - Fire NOC drawings
+  - System layouts
+  - Inspection reports
+
+risk_if_non_compliant:
+  Increased fire spread and reduced firefighting capability.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

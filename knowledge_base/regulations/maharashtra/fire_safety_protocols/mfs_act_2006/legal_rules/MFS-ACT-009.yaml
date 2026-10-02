@@ -1,0 +1,26 @@
+rule_id: MFS-ACT-009
+
+title: Prohibition on Obstructing Fire Safety Inspections
+
+category: Inspection
+
+applies_to:
+  - All persons
+
+requirement:
+  No person shall obstruct authorized fire officers during inspection activities.
+
+compliance_check:
+  Verify inspection activities were completed without obstruction.
+
+evidence_required:
+  - Inspection reports
+  - Officer statements
+
+risk_if_non_compliant:
+  Legal penalties and enforcement action.
+
+source_document:
+  Maharashtra Fire Prevention and Life Safety Measures Act, 2006
+
+page: 6

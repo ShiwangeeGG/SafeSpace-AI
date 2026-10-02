@@ -1,0 +1,48 @@
+source_id: OCC-IND-SRC-001
+
+source_name: Industrial Occupancy Knowledge Base
+
+occupancy_group: Industrial
+
+regulatory_source:
+  - NBC 2016 Part 4 Fire and Life Safety
+
+purpose: >
+  Define industrial occupancies and provide
+  fire safety intelligence related to manufacturing,
+  production processes, machinery operations,
+  worker safety, and industrial fire risks.
+
+applies_to:
+  - Factories
+  - Manufacturing Plants
+  - Assembly Units
+  - Processing Facilities
+  - Production Workshops
+
+primary_fire_safety_focus:
+  - Machinery Safety
+  - Electrical Safety
+  - Worker Protection
+  - Process Safety
+  - Fire Protection
+
+related_risk_patterns:
+  - electrical_risks
+  - maintenance_failures
+  - combustible_materials
+  - hazardous_material_risks
+
+related_case_studies:
+  - Maharashtra Chemical Factory Fire
+  - Ankleshwar Chemical Plant Fire
+  - Bhiwandi Warehouse Fire
+
+retrieval_priority: Critical
+
+intended_ai_usage:
+  - Occupancy Classification
+  - Industrial Risk Assessment
+  - Compliance Analysis
+  - Fire Safety Review
+  - Process Safety Evaluation

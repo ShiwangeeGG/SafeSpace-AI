@@ -1,0 +1,44 @@
+rule_id: OCC-EDU-003
+
+occupancy_group: Educational
+
+rule_category: Higher Education Occupancies
+
+occupancy_definition: >
+Educational buildings used for advanced
+learning, research, and professional education.
+
+applies_to:
+
+- Colleges
+- Universities
+- Research Institutions
+- Professional Training Centres
+
+occupancy_characteristics:
+
+- Adult occupants
+- Laboratories
+- Libraries
+- Large academic blocks
+
+primary_fire_safety_concern:
+Evacuation of large academic populations and
+protection of specialized facilities.
+
+related_nbc_domains:
+
+- Fire Protection
+- Means of Escape
+- Occupancy Classification
+
+retrieval_keywords:
+
+- college
+- university
+- research centre
+- laboratory
+
+source:
+document: NBC Part 4 Fire and Life Safety
+occupancy_group: Educational

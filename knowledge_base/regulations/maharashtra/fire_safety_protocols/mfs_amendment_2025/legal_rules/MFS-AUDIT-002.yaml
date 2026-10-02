@@ -1,0 +1,25 @@
+rule_id: MFS-AUDIT-002
+
+title: Verification of Building Fire Safety Compliance
+
+category: Fire Audit
+
+applies_to:
+  - Buildings undergoing fire audit
+
+requirement:
+  Auditor shall verify compliance with applicable fire safety regulations.
+
+compliance_check:
+  Verify audit includes compliance verification section.
+
+evidence_required:
+  - Fire Audit Report
+
+risk_if_non_compliant:
+  Regulatory violations may remain undetected.
+
+source_document:
+  Maharashtra Fire Prevention and Life Safety Measures (Amendment) Rules 2025
+
+page: 5

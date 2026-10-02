@@ -1,0 +1,64 @@
+system_id: SYS-007
+
+system_name: Refuge Area
+
+category: Life Safety Infrastructure
+
+criticality_level: High
+
+system_purpose: >
+  Provide a temporary safe location
+  for occupants unable to immediately
+  evacuate during a fire emergency.
+
+why_it_is_important:
+  - Supports phased evacuation
+  - Protects vulnerable occupants
+  - Assists rescue operations
+
+affected_occupancies:
+  - High Rise Residential
+  - High Rise Mercantile
+  - High Rise Mixed Occupancy
+  - High Rise Hospital
+
+common_failure_modes:
+  - Improper use as storage
+  - Obstructed access
+  - Inadequate signage
+
+related_compliance_gaps:
+  - GAP-006-missing_refuge_area
+
+immediate_actions:
+  - Verify accessibility
+  - Remove stored materials
+
+short_term_actions:
+  - Improve signage
+  - Conduct occupant awareness training
+
+long_term_actions:
+  - Upgrade refuge facilities
+  - Integrate with evacuation planning
+
+inspection_focus:
+  - Access Routes
+  - Signage
+  - Occupant Capacity
+  - Emergency Lighting
+
+related_case_studies:
+  - Crystal Tower Fire
+
+ai_reasoning_hints:
+  - Refuge areas are temporary safety zones
+  - Critical for high-rise evacuation strategies
+
+retrieval_keywords:
+  - refuge area
+  - refuge floor
+  - safe refuge
+
+source:
+  document: NBC Part 4 Fire and Life Safety

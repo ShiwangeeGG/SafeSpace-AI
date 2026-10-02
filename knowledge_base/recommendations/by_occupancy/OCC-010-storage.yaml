@@ -1,0 +1,64 @@
+occupancy_id: OCC-010
+
+occupancy_name: Storage
+
+category: Occupancy Recommendations
+
+risk_level: High
+
+primary_fire_safety_concerns:
+
+- High fire load
+- Combustible stock
+- Smoke accumulation
+- Property loss
+
+common_compliance_gaps:
+
+- Poor housekeeping
+- Missing sprinklers
+- Storage arrangement violations
+
+related_risk_patterns:
+
+- combustible_materials
+- maintenance_failures
+- smoke_spread_risks
+
+immediate_actions:
+
+- Remove combustible waste
+- Verify sprinkler coverage
+
+short_term_actions:
+
+- Inspect storage arrangements
+- Improve housekeeping practices
+
+long_term_actions:
+
+- Upgrade fire suppression systems
+- Establish storage management procedures
+
+high_priority_systems:
+
+- Sprinkler Systems
+- Fire Detection Systems
+- Hydrant Systems
+
+related_case_studies:
+
+- Bhiwandi Warehouse Fire
+
+ai_reasoning_hints:
+
+- Prioritize fire load reduction
+- Focus on early detection
+
+retrieval_keywords:
+
+- warehouse fire safety
+- storage fire safety
+
+source:
+document: NBC Part 4 Fire and Life Safety

@@ -1,0 +1,24 @@
+rule_id: CFO-ECOM-004
+
+title: Firefighter Communication Requirement
+
+category: Emergency Response Communication
+
+applies_to:
+  - High Rise Buildings
+
+requirement:
+  Communication facilities shall support coordination between firefighters and emergency management personnel.
+
+compliance_check:
+  Verify communication equipment availability and operation.
+
+evidence_required:
+  - Equipment inventory
+  - Functional testing reports
+
+risk_if_non_compliant:
+  Reduced coordination during emergency response.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

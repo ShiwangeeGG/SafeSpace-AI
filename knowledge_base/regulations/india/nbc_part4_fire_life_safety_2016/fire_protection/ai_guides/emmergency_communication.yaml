@@ -1,0 +1,30 @@
+system_component: Emergency Communication
+
+description:
+  Communication systems used to distribute emergency instructions and facilitate coordination during fire incidents.
+
+purpose:
+  Support occupant evacuation and emergency response operations.
+
+why_it_matters:
+  Accurate and timely communication reduces panic and improves evacuation effectiveness.
+
+common_fire_risks:
+  - Evacuation confusion
+  - Delayed response
+  - Communication failure
+  - Occupant misinformation
+
+common_compliance_checks:
+  - Public address system operational
+  - Emergency communication tested
+  - Backup power available
+  - Communication coverage verified
+
+related_rules:
+  - NBC-PR-016
+
+related_systems:
+  - Fire Alarm Systems
+  - Fire Command Centre
+  - Fire Detection

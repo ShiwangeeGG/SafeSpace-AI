@@ -1,0 +1,41 @@
+rule_id: OCC-IND-003
+
+occupancy_group: Industrial
+
+rule_category: Industrial Equipment and Machinery
+
+occupancy_definition: >
+Industrial occupancies typically contain
+machinery, electrical systems, production
+equipment, and utilities essential to operations.
+
+applies_to:
+
+- Production Plants
+- Workshops
+- Industrial Facilities
+
+occupancy_characteristics:
+
+- High electrical demand
+- Mechanical equipment
+- Equipment maintenance requirements
+
+primary_fire_safety_concern:
+Prevention of equipment-related fires.
+
+related_nbc_domains:
+
+- Electrical Fire Safety
+- Operational Fire Safety
+
+retrieval_keywords:
+
+- industrial equipment
+- machinery
+- electrical systems
+- production equipment
+
+source:
+document: NBC Part 4 Fire and Life Safety
+occupancy_group: Industrial

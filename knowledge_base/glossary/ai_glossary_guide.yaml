@@ -1,0 +1,44 @@
+domain: Glossary Intelligence
+
+usage_rules:
+
+  definition_requests:
+    action: Retrieve glossary entry first
+
+  unknown_fire_term:
+    action: Search glossary before regulations
+
+  compliance_term:
+    action: Search regulatory_terms
+
+  fire_system_term:
+    action: Search fire_protection_terms
+
+  occupancy_term:
+    action: Search occupancy_terms
+
+reasoning_rules:
+
+  refuge_area:
+    domain: High Rise Buildings
+
+  hydrant:
+    domain: Fire Protection
+
+  occupant_load:
+    domain: Occupancies
+
+  fire_load:
+    domain: Risk Assessment
+
+retrieval_priority:
+
+  direct_definition:
+    glossary_first
+
+  compliance_analysis:
+    regulations_first
+
+ai_goal: >
+  Improve terminology understanding,
+  retrieval accuracy, and user explanations.

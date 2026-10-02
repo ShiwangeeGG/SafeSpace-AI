@@ -1,0 +1,73 @@
+occupancy_name: Hospital
+
+occupancy_category: Institutional Occupancy
+
+description: >
+Hospitals present some of the most complex evacuation
+challenges because many occupants cannot evacuate
+independently and may require medical support during
+relocation.
+
+examples:
+
+- Hospitals
+- ICUs
+- Nursing Homes
+- Critical Care Facilities
+
+occupancy_characteristics:
+
+- Assisted evacuation
+- Horizontal relocation requirements
+- Staff-dependent evacuation
+- Medical equipment transport
+
+primary_fire_safety_concerns:
+
+- Patient relocation
+- Smoke exposure
+- Medical equipment continuity
+- Staff coordination
+
+common_fire_risks:
+
+- Delayed evacuation
+- Smoke migration
+- Communication failures
+- Equipment dependency
+
+evacuation_complexity: Critical
+
+risk_level: Critical
+
+related_case_studies:
+
+- AMRI Hospital Fire
+- Bhandara Hospital Fire
+- Sunrise Hospital Fire
+
+related_risk_patterns:
+
+- evacuation_failures
+- smoke_spread_risks
+- maintenance_failures
+
+recommended_focus_areas:
+
+- Horizontal evacuation planning
+- Smoke compartmentation
+- Staff training
+- Emergency communication
+- Patient relocation procedures
+
+retrieval_keywords:
+
+- hospital evacuation
+- patient evacuation
+- ICU evacuation
+- healthcare emergency
+- smoke management
+
+source:
+document: NBC Part 4 Fire and Life Safety
+occupancy_group: Institutional

@@ -1,0 +1,24 @@
+rule_id: NBC-CK-006
+
+title: Grease Duct Cleaning Requirement
+
+category: Maintenance
+
+applies_to:
+  - Commercial Kitchens
+
+requirement:
+  Grease exhaust systems shall be periodically inspected and cleaned.
+
+compliance_check:
+  Verify maintenance schedule and cleaning records.
+
+evidence_required:
+  - Cleaning logs
+  - Maintenance records
+
+risk_if_non_compliant:
+  Increased grease fire probability.
+
+source_document:
+  National Building Code of India 2016 Part 4 Annex G

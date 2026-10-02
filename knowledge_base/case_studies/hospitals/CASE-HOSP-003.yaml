@@ -1,0 +1,87 @@
+case_id: CASE-HOSP-003
+
+incident_name: Sunrise Hospital Fire
+
+incident_date: 2021-03-26
+
+location:
+city: Mumbai
+state: Maharashtra
+country: India
+
+occupancy_type: Institutional
+
+building_type:
+
+- COVID Care Hospital
+- Healthcare Facility
+
+incident_type:
+
+- Fire
+
+severity: Critical
+
+fatalities: 11
+
+injuries: 70+
+
+summary: >
+A fire originating within the Dreams Mall complex
+spread smoke into Sunrise Hospital. The incident
+demonstrated how fires in mixed-use buildings can
+threaten healthcare facilities through smoke migration.
+
+root_causes:
+
+- Fire in commercial occupancy
+- Smoke migration into hospital floors
+
+fire_safety_failures:
+
+- Inadequate smoke control
+- Complex evacuation challenges
+- Mixed occupancy fire exposure
+
+affected_systems:
+
+- Smoke Management
+- Emergency Communication
+- Operational Fire Safety
+
+risk_patterns:
+
+- Mixed-use occupancy risk
+- Smoke migration
+- Vulnerable patient population
+
+occupancy_risks:
+
+- COVID patients
+- ICU patients
+- Oxygen-supported patients
+
+fatality_mechanism:
+
+- Smoke Inhalation
+- Respiratory Distress
+
+related_nbc_domains:
+
+- Institutional Occupancy
+- Smoke Management
+- Fire Protection
+
+lessons_learned:
+
+- Separate healthcare occupancies from commercial risks
+- Improve compartmentation
+- Enhance smoke extraction
+- Strengthen evacuation planning
+
+prevention_recommendations:
+
+- Smoke control systems
+- Fire-rated barriers
+- Emergency evacuation plans
+- Continuous monitoring

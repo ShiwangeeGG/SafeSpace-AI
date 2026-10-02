@@ -1,0 +1,78 @@
+occupancy_name: Hospital
+
+occupancy_category: Institutional Occupancy
+
+description: >
+Hospitals represent one of the highest life-safety
+priority occupancies because fire incidents can affect
+vulnerable patients who depend on medical equipment,
+oxygen systems, and staff assistance.
+
+examples:
+
+- General Hospitals
+- Specialty Hospitals
+- ICUs
+- Nursing Homes
+- Healthcare Facilities
+
+occupancy_characteristics:
+
+- Vulnerable occupants
+- Continuous operation
+- Critical infrastructure
+- Oxygen-rich environments
+- High dependency on electrical systems
+
+primary_fire_safety_concerns:
+
+- Smoke inhalation
+- Electrical failures
+- Oxygen-related fire growth
+- Delayed evacuation
+- Operational continuity
+
+common_fire_risks:
+
+- Electrical faults
+- Medical equipment failures
+- Oxygen leaks
+- Maintenance deficiencies
+- Basement fires
+
+evacuation_complexity: Critical
+
+risk_level: Critical
+
+related_case_studies:
+
+- AMRI Hospital Fire
+- Bhandara Hospital Fire
+- Sunrise Hospital Fire
+
+related_risk_patterns:
+
+- smoke_spread_risks
+- electrical_risks
+- maintenance_failures
+- evacuation_failures
+
+recommended_focus_areas:
+
+- Smoke control systems
+- Fire detection systems
+- Electrical safety audits
+- Patient evacuation planning
+- Emergency response readiness
+
+retrieval_keywords:
+
+- hospital fire risk
+- healthcare fire safety
+- patient safety
+- oxygen fire risk
+- ICU fire safety
+
+source:
+document: NBC Part 4 Fire and Life Safety
+occupancy_group: Institutional

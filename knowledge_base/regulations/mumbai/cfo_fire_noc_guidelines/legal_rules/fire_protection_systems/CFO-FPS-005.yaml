@@ -1,0 +1,25 @@
+rule_id: CFO-FPS-005
+
+title: Automatic Sprinkler System Requirement
+
+category: Fire Suppression
+
+applies_to:
+  - Buildings requiring sprinkler protection
+
+requirement:
+  Automatic sprinkler systems shall be installed in designated areas.
+
+compliance_check:
+  Verify sprinkler coverage and operation.
+
+evidence_required:
+  - Sprinkler layout
+  - Hydraulic calculations
+  - Testing reports
+
+risk_if_non_compliant:
+  Uncontrolled fire growth.
+
+source_document:
+  Mumbai CFO Fire NOC Guidelines

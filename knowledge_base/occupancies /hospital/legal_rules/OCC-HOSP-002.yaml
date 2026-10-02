@@ -1,0 +1,44 @@
+rule_id: OCC-HOSP-002
+
+occupancy_group: Hospital
+
+rule_category: Patient Care Occupancies
+
+occupancy_definition: >
+Areas where patients receive treatment,
+monitoring, surgery, intensive care, or
+long-term medical support.
+
+applies_to:
+
+- ICUs
+- Operation Theatres
+- Patient Wards
+- Emergency Departments
+
+occupancy_characteristics:
+
+- Bedridden patients
+- Life-support dependency
+- Continuous supervision
+
+primary_fire_safety_concern:
+Safe evacuation or relocation of patients
+during emergencies.
+
+related_nbc_domains:
+
+- Life Safety
+- Means of Escape
+- Smoke Management
+
+retrieval_keywords:
+
+- ICU
+- ward
+- patient care
+- operation theatre
+
+source:
+document: NBC Part 4 Fire and Life Safety
+occupancy_group: Institutional

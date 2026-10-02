@@ -1,0 +1,19 @@
+rule_id: MFS-AMD23-011
+
+title: False Fire Audit Certification Is Prohibited
+
+category: Certification Integrity
+
+applies_to:
+  - Fire and Life Safety Auditors
+
+requirement:
+  No certificate shall be issued claiming systems are in good condition unless such systems actually exist and function.
+
+compliance_check:
+  Compare audit certificate with field inspection.
+
+source_document:
+  Maharashtra Fire Prevention and Life Safety Measures (Amendment) Act, 2023
+
+page: 12

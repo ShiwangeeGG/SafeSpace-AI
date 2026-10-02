@@ -1,0 +1,24 @@
+rule_id: NBC-HR-009
+
+title: Automatic Fire Detection Requirement
+
+category: Fire Detection
+
+applies_to:
+  - High Rise Buildings
+
+requirement:
+  Automatic fire detection systems shall be installed throughout protected areas.
+
+compliance_check:
+  Verify detector coverage and functionality.
+
+evidence_required:
+  - Detection system drawings
+  - Testing reports
+
+risk_if_non_compliant:
+  Delayed fire discovery.
+
+source_document:
+  National Building Code of India 2016 Part 4 Annex E

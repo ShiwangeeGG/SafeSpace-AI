@@ -1,0 +1,10 @@
+hotel: Residential
+apartment: Residential
+school: Educational
+college: Educational
+hospital: Institutional
+mall: Mercantile
+office: Business
+factory: Industrial
+warehouse: Storage
+chemical_plant: Hazardous
