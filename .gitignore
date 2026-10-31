@@ -33,4 +33,4 @@ vector_db/
 .env
 *.pem
 *.key
-secrets/
+secrets/data/source_pdfs/
