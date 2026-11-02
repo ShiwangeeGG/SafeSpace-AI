@@ -4,12 +4,13 @@ import json
 
 
 # Path to knowledge base
-KB_PATH = Path("../knowledge_base")
+BASE_DIR = Path(__file__).resolve().parent
+
+KB_PATH = BASE_DIR.parent / "knowledge_base"
+CHUNK_PATH = BASE_DIR / "chunks"
 
 # Output folder
-CHUNK_PATH = Path("./chunks")
-CHUNK_PATH.mkdir(exist_ok=True)
-
+CHUNK_PATH.mkdir(parents=True, exist_ok=True)
 
 def yaml_to_text(data, indent=0):
     """
@@ -60,10 +61,10 @@ chunks = []
 SKIP_FILES = {
     "knowledge_graph.yaml",
     "source_map.yaml",
-    "overview.yaml"
+    "source_info.yaml",
 }
 
-for file in KB_PATH.rglob("*.yaml"):
+for file in sorted(KB_PATH.rglob("*.yaml")):
     if file.name in SKIP_FILES:
      continue
 
@@ -73,15 +74,33 @@ for file in KB_PATH.rglob("*.yaml"):
 
             data = yaml.safe_load(f)
 
-        text = "\n".join(
-            yaml_to_text(data)
+            if not data:
+               print(f"Skipped empty: {file}")
+               continue
+
+        text = yaml.safe_dump(
+            data,
+            sort_keys=False,
+            allow_unicode=True,
+            default_flow_style=False
         )
 
+        relative = file.relative_to(KB_PATH)
+        layer = relative.parts[0] if len(relative.parts) > 1 else "root"
+        if "legal_rules" in relative.parts:
+            doc_type = "legal_rules"
+        elif "ai_guides" in relative.parts:
+            doc_type = "ai_guides"
+        else:
+            doc_type = "other"
+
         chunk = {
-            "source": str(file),
-            "layer": file.parts[-3] if len(file.parts) >= 3 else "unknown",
+            "source": relative.as_posix(),
+            "layer": layer,
+            "category": relative.parts[1] if len(relative.parts) > 1 else "root",
+            "doc_type": doc_type,
             "content": text
-        }
+            }
 
         chunks.append(chunk)
 
