@@ -33,4 +33,7 @@ vector_db/
 .env
 *.pem
 *.key
-secrets/data/source_pdfs/
+secrets/
+
+# Source PDFs (kept locally, not tracked by Git)
+data/source_pdfs/
